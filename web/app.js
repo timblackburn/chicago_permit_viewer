@@ -1702,12 +1702,15 @@ function initViewerControls() {
   });
 
   // Card -> Ledger handoff mode switcher (Book & Page vs Permit Date)
-  qsa('.handoff-mode-btn').forEach((btn) => {
+  qsa('.handoff-switch-link').forEach((btn) => {
     btn.addEventListener('click', () => {
       const m = btn.dataset.hmode;
-      qsa('.handoff-mode-btn').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
-      qsa('[data-hpanel]').forEach((f) => { f.hidden = f.dataset.hpanel !== m; });
+      qsa('[data-hpanel]').forEach((panel) => { panel.hidden = panel.dataset.hpanel !== m; });
+      qs('#handoffToDateBtn')?.setAttribute('aria-expanded', String(m === 'date'));
+      qs('#handoffToBookPageBtn')?.setAttribute('aria-expanded', String(m === 'bookpage'));
       qs('#handoffDateMatches').hidden = true;
+      if (m === 'date') qs('#handoffDate')?.focus();
+      else qs('#handoffBookSelect')?.focus();
     });
   });
 

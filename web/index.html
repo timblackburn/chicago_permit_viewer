@@ -336,35 +336,43 @@
         <div id="cardHandoffBar" class="card-handoff-bar" hidden>
           <div class="handoff-top">
             <span class="handoff-label">Found your card? Open the Permit Ledger:</span>
-            <div class="handoff-mode-switch" role="group" aria-label="Ledger jump method">
-              <button type="button" class="pill handoff-mode-btn" data-hmode="bookpage" aria-pressed="true">By Book &amp; Page</button>
-              <button type="button" class="pill handoff-mode-btn" data-hmode="date" aria-pressed="false">By Permit Date</button>
-            </div>
           </div>
 
-          <form id="viewerLedgerHandoff" class="handoff-form" data-hpanel="bookpage">
-            <select id="handoffBookSelect" aria-label="Ledger book (number or letter and direction)"></select>
-            <input type="number" id="handoffPageNum" min="1" max="800" placeholder="Page #" aria-label="Ledger page number from card">
-            <button type="submit" class="btn btn-sm btn-open">Open Ledger ↗</button>
-          </form>
+          <div id="handoffBookPagePanel" data-hpanel="bookpage">
+            <form id="viewerLedgerHandoff" class="handoff-form" aria-label="Open Permit Ledger by book and page">
+              <select id="handoffBookSelect" name="book" aria-label="Ledger book (number or letter and direction)"></select>
+              <input type="number" id="handoffPageNum" name="page" min="1" max="800" placeholder="Page #" aria-label="Ledger page number from card" inputmode="numeric">
+              <button type="submit" class="btn btn-sm btn-open">Open Ledger ↗</button>
+            </form>
+            <p class="handoff-alt-prompt">
+              Is the book or page illegible, but the date is legible?
+              <button type="button" id="handoffToDateBtn" class="handoff-switch-link" data-hmode="date" aria-controls="handoffDatePanel" aria-expanded="false">Search by date instead</button>
+            </p>
+          </div>
 
-          <form id="viewerDateHandoff" class="handoff-form" data-hpanel="date" hidden>
-            <input type="date" id="handoffDate" min="1872-02-21" max="1954-06-30" aria-label="Permit date from index card" required>
-            <select id="handoffSide" aria-label="Side of Chicago">
-              <option value="ALL">Any side of Chicago</option>
-              <option value="South">South</option>
-              <option value="Southwest">Southwest</option>
-              <option value="West">West</option>
-              <option value="Northwest">Northwest</option>
-              <option value="North">North</option>
-              <option value="Central">Central / Loop</option>
-              <option value="Hyde Park">Hyde Park</option>
-              <option value="Lake">Town of Lake</option>
-              <option value="Lake View">Lake View</option>
-            </select>
-            <button type="submit" class="btn btn-sm btn-open">Find &amp; Open Ledger ↗</button>
-          </form>
-          <div id="handoffDateMatches" class="handoff-matches" hidden></div>
+          <div id="handoffDatePanel" data-hpanel="date" hidden>
+            <form id="viewerDateHandoff" class="handoff-form" aria-label="Open Permit Ledger by permit date">
+              <input type="date" id="handoffDate" name="permit_date" min="1872-02-21" max="1954-06-30" aria-label="Permit date from index card" required>
+              <select id="handoffSide" name="side" aria-label="Side of Chicago">
+                <option value="ALL">Any side of Chicago</option>
+                <option value="South">South</option>
+                <option value="Southwest">Southwest</option>
+                <option value="West">West</option>
+                <option value="Northwest">Northwest</option>
+                <option value="North">North</option>
+                <option value="Central">Central / Loop</option>
+                <option value="Hyde Park">Hyde Park</option>
+                <option value="Lake">Town of Lake</option>
+                <option value="Lake View">Lake View</option>
+              </select>
+              <button type="submit" class="btn btn-sm btn-open">Find &amp; Open Ledger ↗</button>
+            </form>
+            <p class="handoff-alt-prompt">
+              Have the book &amp; page number?
+              <button type="button" id="handoffToBookPageBtn" class="handoff-switch-link" data-hmode="bookpage" aria-controls="handoffBookPagePanel" aria-expanded="true">← Back to search by book &amp; page</button>
+            </p>
+          </div>
+          <div id="handoffDateMatches" class="handoff-matches" role="status" aria-live="polite" hidden></div>
         </div>
 
         <div id="anchorStripWrap" class="anchor-strip-wrap" hidden>
