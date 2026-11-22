@@ -1,0 +1,812 @@
+[
+  {
+    "page_num": 1,
+    "page_pos": 2,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3br8mr38",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3br8mr38",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3br8mr38",
+    "title": "Chicago Building Permits, Book 46, West: May 6, 1929 - Jul 12, 1939"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 3,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3707wx8b",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3707wx8b",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3707wx8b",
+    "title": "Chicago Building Permits, Book 45, South:Mar 9, 1928 - Apr 19, 1929"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 22,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3j38ks81",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3j38ks81",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3j38ks81",
+    "title": "Chicago Building Permits, Book A, Chicago: Feb 21, 1872 - July 20, 1875"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 23,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3db7w049",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3db7w049",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3db7w049",
+    "title": "Chicago Building Permits, Book B, Chicago: July 20 1875 - Dec 31 1878"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 24,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d35t3g842",
+    "ark_permalink": "https://n2t.net/ark:/81984/d35t3g842",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35t3g842",
+    "title": "Chicago Building Permits, Book C, Chicago: Jan 1 1879 - Dec 31 1881"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 25,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3222rg07",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3222rg07",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3222rg07",
+    "title": "Chicago Building Permits, Book D, Chicago: Jan 1 1882 - Sep 17 1885"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 26,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3x921t63",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3x921t63",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x921t63",
+    "title": "Chicago Building Permits, Book E, Chicago: Sep 17 1885 - Sep 30 1888"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 27,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3sn01d3q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3sn01d3q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sn01d3q",
+    "title": "Chicago Building Permits, Book F, Northwest and Southwest: Oct 1,1888 - Jul 21,1891"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 28,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3nv99m0h",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3nv99m0h",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nv99m0h",
+    "title": "Chicago Building Permits, Book G, Hyde Park and Lakeview: Mar 1890 - Dec 3 1891"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 29,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d39k4629p",
+    "ark_permalink": "https://n2t.net/ark:/81984/d39k4629p",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39k4629p",
+    "title": "Chicago Building Permits, Book H, Northwest and Southwest: Jul 1891 - Apr 1894"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 30,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3fb4ww3n",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3fb4ww3n",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3fb4ww3n",
+    "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 31,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3k35mp69",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3k35mp69",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3k35mp69",
+    "title": "Chicago Building Permits, Book J, North and South: Jul 1893-Dec 1894"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 32,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3pv6bg9n",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3pv6bg9n",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pv6bg9n",
+    "title": "Chicago Building Permits, Book Q, Northwest and Southwest: Aug 1901-July 1904"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 33,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d31n7xw9g",
+    "ark_permalink": "https://n2t.net/ark:/81984/d31n7xw9g",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31n7xw9g",
+    "title": "Chicago Building Permits, South and North: Jan 2, 1909 - Dec 31, 1910"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 34,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3dv1cx7j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3dv1cx7j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3dv1cx7j",
+    "title": "Chicago Building Permits, Southwest & Northwest: Jan 2, 1909 - Dec 31, 1910"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 35,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3930p44m",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3930p44m",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3930p44m",
+    "title": "Chicago Building Permits, Southwest & Northwest: Jan 5, 1911 - Dec 31, 1912"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 36,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3zw1924c",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3zw1924c",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zw1924c",
+    "title": "Chicago Building Permits, Book 1, North: Nov 25, 1911 - Mar 13, 1913"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 37,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3b27q13t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3b27q13t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3b27q13t",
+    "title": "Chicago Building Permits, Book 6, South: Jan 2, 1913 - Nov 5, 1913"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 38,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3697070j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3697070j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3697070j",
+    "title": "Chicago Building Permits, Book 7, West: Oct 9, 1913 - Feb 2, 1916"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 39,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3rb6wb6g",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3rb6wb6g",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rb6wb6g",
+    "title": "Chicago Building Permits, Book 12, North: Jul 23, 1915 - Aug 8, 1916"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 40,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3mk65j2q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3mk65j2q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mk65j2q",
+    "title": "Chicago Building Permits, Book 14, South: Oct 26, 1914 - Nov 3, 1915"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 41,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3gt5fq8z",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3gt5fq8z",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gt5fq8z",
+    "title": "Chicago Building Permits, Book 15, North: Aug 8, 1916 - Dec 23, 1919"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 42,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d31r6n91b",
+    "ark_permalink": "https://n2t.net/ark:/81984/d31r6n91b",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31r6n91b",
+    "title": "Chicago Building Permits, Book 32, West: Jul 3, 1924 - Jun 12, 1925"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 43,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3x05xn74",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3x05xn74",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x05xn74",
+    "title": "Chicago Building Permits, Book 33, North: Jan 13, 1925 - May 12, 1926 and South: Apr 15, 1925 - Apr 21, 1925"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 44,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3t727r24",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3t727r24",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3t727r24",
+    "title": "Chicago Building Permits, Book 34, South: Sep 18, 1924 - Apr 14, 1925"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 45,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3pk07b1q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3pk07b1q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pk07b1q",
+    "title": "Chicago Building Permits, Book 35, West: Jun 12, 1925 - Jun 14, 1926"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 46,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3gx45419",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3gx45419",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gx45419",
+    "title": "Chicago Building Permits, Book 51, Citywide: Nov 8, 1940 - Jul 23, 1941"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 47,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3c824q0s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3c824q0s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3c824q0s",
+    "title": "Chicago Building Permits, Book 52, Citywide: Jul 23, 1941 - Apr 6, 1942"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 48,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3sf2mm91",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3sf2mm91",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sf2mm91",
+    "title": "Chicago Building Permits, Book 53, Citywide: Apr 7, 1942 - Jan 13,1944"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 49,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3gb1xs1x",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3gb1xs1x",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gb1xs1x",
+    "title": "Chicago Building Permits, Book K, Northwest and Southwest: May 1894-Dec 1897"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 50,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3bk16z9h",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3bk16z9h",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bk16z9h",
+    "title": "Chicago Building Permits, Book L, North and South: Jan 1895-Dec 1897"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 51,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d36t0h55s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d36t0h55s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36t0h55s",
+    "title": "Chicago Building Permits, Book M, Northwest and Southwest: Jan 1895-Dec 1897"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 52,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3319sc0x",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3319sc0x",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3319sc0x",
+    "title": "Chicago Building Permits, Book N, North and South: Jan 1898-Jul 1901"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 53,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3z892q59",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3z892q59",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z892q59",
+    "title": "Chicago Building Permits, Book O, Northwest: Jan 1898-Jul 1901"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 54,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3th8bx2n",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3th8bx2n",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3th8bx2n",
+    "title": "Chicago Building Permits, Book P, North and South: Aug 1901-Jun 1904"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 55,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3m03z656",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3m03z656",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3m03z656",
+    "title": "Chicago Building Permits, Book R, North and South: Jul 1904-Dec 1906"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 56,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d35d8nq2r",
+    "ark_permalink": "https://n2t.net/ark:/81984/d35d8nq2r",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35d8nq2r",
+    "title": "Chicago Building Permits, South and North: Jan 2, 1907 - Dec 31, 1908"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 57,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3t43jc1s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3t43jc1s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3t43jc1s",
+    "title": "Chicago Building Permits, South and North: Jan 3, 1911 - Dec 31, 1912"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 58,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3pc2tj71",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3pc2tj71",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pc2tj71",
+    "title": "Chicago Building Permits, Southwest & Northwest: Jan 3, 1911 - Dec 31, 1912"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 59,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3jm23r2s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3jm23r2s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jm23r2s",
+    "title": "Chicago Building Permits, Southwest & Northwest Jan 2, 1907 - Dec 31, 1908"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 60,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3v40k811",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3v40k811",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3v40k811",
+    "title": "Chicago Building Permits, Book 2, West: Nov 25, 1911 - Oct 9, 1913"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 61,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3qb9vf7q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3qb9vf7q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qb9vf7q",
+    "title": "Chicago Building Permits, Book 3, South: Nov 25, 1911 - Oct 25, 1912"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 62,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3kk94n3z",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3kk94n3z",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kk94n3z",
+    "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 63,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3ft8dt8q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3ft8dt8q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ft8dt8q",
+    "title": "Chicago Building Permits, Book 5, North: March 14, 1913 - May 11, 1914"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 64,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d32n4zs9q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d32n4zs9q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32n4zs9q",
+    "title": "Chicago Building Permits, Book 9, North: May 11, 1914 - Jul 22, 1915"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 65,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3xw4855m",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3xw4855m",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xw4855m",
+    "title": "Chicago Building Permits, Book 10, West: Feb 2, 1916 - Nov 6, 1919"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 66,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3w37m494",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3w37m494",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3w37m494",
+    "title": "Chicago Building Permits, Book 11, South: Nov 5, 1913 - Oct 24, 1914"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 67,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3c24qx3n",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3c24qx3n",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3c24qx3n",
+    "title": "Chicago Building Permits, Book 16, South: Nov 4, 1915 - Oct 27, 1916"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 68,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d37941386",
+    "ark_permalink": "https://n2t.net/ark:/81984/d37941386",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37941386",
+    "title": "Chicago Building Permits, Book 19, South: Oct 27, 1916 - Mar 6, 1919"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 69,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d33j3995j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d33j3995j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33j3995j",
+    "title": "Chicago Building Permits, Book 20, South: Mar 6, 1919 - Feb 15, 1921"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 70,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3sb3x757",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3sb3x757",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sb3x757",
+    "title": "Chicago Building Permits, Book 21, West: Nov 12, 1919 - Apr 17, 1922"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 71,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3nk36f2z",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3nk36f2z",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nk36f2z",
+    "title": "Chicago Building Permits, Book 22, North: Dec 26, 1919 - Apr 17, 1922 and South: Apr 4, 1922 - Apr 17, 1922"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 72,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3ht2gm9p",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3ht2gm9p",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ht2gm9p",
+    "title": "Chicago Building Permits, Book 23, South: Feb 16, 1921 - Apr 4, 1922"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 73,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3d21rt5v",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3d21rt5v",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3d21rt5v",
+    "title": "Chicago Building Permits, Book 24, West: Apr 18, 1922 - Jun 19, 1923"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 74,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d38912101",
+    "ark_permalink": "https://n2t.net/ark:/81984/d38912101",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38912101",
+    "title": "Chicago Building Permits, Book 25, North: Apr 18, 1922 -  Sep 26, 1923"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 75,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d34j0b65s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d34j0b65s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34j0b65s",
+    "title": "Chicago Building Permits, Book 26, South: Apr 18, 1922 - Jan 12, 1923"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 76,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d30r9md2k",
+    "ark_permalink": "https://n2t.net/ark:/81984/d30r9md2k",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30r9md2k",
+    "title": "Chicago Building Permits, Book 27, Central: Apr 18, 1922 - Aug 13, 1926 and South: Jan 13, 1922 - Jul 30, 1923"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 77,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d35h7c36z",
+    "ark_permalink": "https://n2t.net/ark:/81984/d35h7c36z",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35h7c36z",
+    "title": "Chicago Building Permits, Book 31, South: Mar 19, 1924 - Sep 18, 1924"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 78,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3kp7v15t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3kp7v15t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kp7v15t",
+    "title": "Chicago Building Permits, Book 36, South: Apr 21, 1925 - Oct 29, 1925"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 79,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3g15tm3t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3g15tm3t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3g15tm3t",
+    "title": "Chicago Building Permits, Book 37, South: Oct 29, 1926 - Jun 14, 1926"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 80,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3b853t0j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3b853t0j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3b853t0j",
+    "title": "Chicago Building Permits, Book 38, North: May 12, 1926 - Jan 2, 1928"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 81,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d36h4d066",
+    "ark_permalink": "https://n2t.net/ark:/81984/d36h4d066",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36h4d066",
+    "title": "Chicago Building Permits, Book 39, West: Jun 16, 1926 - Aug 5, 1927"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 82,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d32r3p61k",
+    "ark_permalink": "https://n2t.net/ark:/81984/d32r3p61k",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32r3p61k",
+    "title": "Chicago Building Permits, Book 40, Central: Aug 20, 1926 - Dec 29, 1939"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 83,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3z02zj5d",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3z02zj5d",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z02zj5d",
+    "title": "Chicago Building Permits, Book 41, South: Jul 14, 1926 - Apr 8, 1927"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 84,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3qf8jt82",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3qf8jt82",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qf8jt82",
+    "title": "Chicago Building Permits, Book 42, West: Aug 4, 1927 - May 6, 1929"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 85,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d37h1dw7h",
+    "ark_permalink": "https://n2t.net/ark:/81984/d37h1dw7h",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37h1dw7h",
+    "title": "Chicago Building Permits, Book 43, South: Apr 8, 1927 - Mar 8, 1928"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 86,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d33r0q33s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d33r0q33s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33r0q33s",
+    "title": "Chicago Building Permits, Book 44, North: Jan 4, 1928 - Feb 1, 1933"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 87,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3000087r",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3000087r",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3000087r",
+    "title": "Chicago Building Permits, Book 47, South: Apr 19, 1929 - Jul 31, 1933"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 88,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3v698n1b",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3v698n1b",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3v698n1b",
+    "title": "Chicago Building Permits, Book 48, North: Mar 3, 1933 - Apr 7, 1939"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 89,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3rf5kq89",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3rf5kq89",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rf5kq89",
+    "title": "Chicago Building Permits, Book 49, South: Jul 5, 1933 - Jan 20, 1939"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 90,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3mp4vx45",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3mp4vx45",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mp4vx45",
+    "title": "Chicago Building Permits, Book 50, Citywide: Jan 2, 1940 - Nov 8, 1940"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 91,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3np1wt4d",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3np1wt4d",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3np1wt4d",
+    "title": "Chicago Building Permits, Book 54, Citywide: Jan 13, 1944 - Jul 18, 1945"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 92,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3hx1609z",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3hx1609z",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3hx1609z",
+    "title": "Chicago Building Permits, Book 55, Citywide:Jul 18, 1945 - Mar 15, 1946"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 93,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3d50g66m",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3d50g66m",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3d50g66m",
+    "title": "Chicago Building Permits, Book 56, Citywide: Mar 15, 946 - Feb 19, 1947"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 94,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3js9hh8w",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3js9hh8w",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3js9hh8w",
+    "title": "Chicago Building Permits, Book 28, West: Jun 19, 1923 - Jul 3, 1924"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 95,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3f18sq5j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3f18sq5j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3f18sq5j",
+    "title": "Chicago Building Permits, Book 29, North: Sep 27, 1923 - Jan 12, 1925"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 96,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d39882x1s",
+    "ark_permalink": "https://n2t.net/ark:/81984/d39882x1s",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39882x1s",
+    "title": "Chicago Building Permits, Book 30, South: Jul 31, 1923 - Mar 19, 1924"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 97,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d38g8fs6q",
+    "ark_permalink": "https://n2t.net/ark:/81984/d38g8fs6q",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38g8fs6q",
+    "title": "Chicago Building Permits, Book 57, Citywide: Feb 19, 1947 - Oct 16, 1947"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 98,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d34q7r03g",
+    "ark_permalink": "https://n2t.net/ark:/81984/d34q7r03g",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34q7r03g",
+    "title": "Chicago Building Permits, Book 58, Citywide: Oct 16, 1947 - Jul 19, 1948"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 99,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d30z71593",
+    "ark_permalink": "https://n2t.net/ark:/81984/d30z71593",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30z71593",
+    "title": "Chicago Building Permits, Book 59, Citywide: Jul 19, 1948 - May 16, 1949"
+  },
+  {
+    "page_num": 1,
+    "page_pos": 100,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3w669j3j",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3w669j3j",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3w669j3j",
+    "title": "Chicago Building Permits, Book 60, Citywide: May 16, 1949 - Dec 28, 1949"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 1,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d35q4rw2t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d35q4rw2t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35q4rw2t",
+    "title": "Chicago Building Permits, Book 61, Citywide: Dec 29, 1949 - Jun 30, 1950"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 2,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d31z4230f",
+    "ark_permalink": "https://n2t.net/ark:/81984/d31z4230f",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31z4230f",
+    "title": "Chicago Building Permits, Book 62, Citywide: Jun 30, 1950 - Dec 5, 1950"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 3,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3x63bf5r",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3x63bf5r",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x63bf5r",
+    "title": "Chicago Building Permits, Book 63, Citywide: Dec 6, 1950 - Jul 11, 1951"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 4,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3td9nj0t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3td9nj0t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3td9nj0t",
+    "title": "Chicago Building Permits, Book 64, Citywide: Jul 11, 1951 -Mar 10, 1952"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 5,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3pn8xq62",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3pn8xq62",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pn8xq62",
+    "title": "Chicago Building Permits, Book 65, Citywide: Mar 10, 1952 - Sep 19, 1952"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 6,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3jw86x1t",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3jw86x1t",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jw86x1t",
+    "title": "Chicago Building Permits, Book 66, Citywide: Sep 19, 1952 - Apr 24, 1953"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 7,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3f47h369",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3f47h369",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3f47h369",
+    "title": "Chicago Building Permits, Book 67, Citywide: Apr 24, 1953 - Sep 22, 1953"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 8,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d39c6s93n",
+    "ark_permalink": "https://n2t.net/ark:/81984/d39c6s93n",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39c6s93n",
+    "title": "Chicago Building Permits, Book 68, Citywide: Sep 22, 1953 - Apr 9, 1954"
+  },
+  {
+    "page_num": 2,
+    "page_pos": 9,
+    "kind": "ledger_book",
+    "ark_id": "ark:/81984/d3z60cb4h",
+    "ark_permalink": "https://n2t.net/ark:/81984/d3z60cb4h",
+    "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z60cb4h",
+    "title": "Chicago Building Permits, Book 69, Citywide: Apr 9, 1954 - Jun 30, 1954"
+  }
+]

@@ -1,0 +1,16 @@
+HTTP/2 200 
+date: Sat, 21 Nov 2026 15:15:42 GMT
+content-type: text/xml;charset=UTF-8
+server: cloudflare
+access-control-allow-origin: *
+access-control-allow-methods: GET, POST, OPTIONS
+access-control-allow-headers: Content-Type, Authorization
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+referrer-policy: strict-origin-when-cross-origin
+vary: X-Forwarded-Proto,Accept-Encoding
+set-cookie: oa_site_lang=%7B%22iso%22%3A%22en%22%2C%22language%22%3A%22English%22%2C%22idLang%22%3A%2211%22%2C%22direction%22%3A%22LTR%22%7D; expires=Sun, 21 Nov 2027 15:15:42 GMT; Max-Age=31536000; path=/; secure; HttpOnly; SameSite=Lax
+cf-cache-status: DYNAMIC
+cf-ray: a5e0a6c0694f6523-BOS
+

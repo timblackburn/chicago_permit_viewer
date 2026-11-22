@@ -1,0 +1,546 @@
+{
+  "rolls_total": 90,
+  "pending_slides_remaining": 3,
+  "out_of_order_breaks_count": 49,
+  "out_of_order_breaks": [
+    {
+      "manifest_id": "806195",
+      "title": "Chicago Building Permits, Book B, Chicago: July 20 1875 - Dec 31 1878",
+      "slide_a": 2,
+      "date_a": "1875-07-28",
+      "slide_b": 3,
+      "date_b": "1875-07-20",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "807462",
+      "title": "Chicago Building Permits, Book G, Hyde Park and Lakeview: Mar 1890 - Dec 3 1891",
+      "slide_a": 92,
+      "date_a": "1891-12-28",
+      "slide_b": 95,
+      "date_b": "1890-03-08",
+      "midpoint": 93
+    },
+    {
+      "manifest_id": "807462",
+      "title": "Chicago Building Permits, Book G, Hyde Park and Lakeview: Mar 1890 - Dec 3 1891",
+      "slide_a": 211,
+      "date_a": "1891-12-11",
+      "slide_b": 212,
+      "date_b": "1890-05-01",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "807462",
+      "title": "Chicago Building Permits, Book G, Hyde Park and Lakeview: Mar 1890 - Dec 3 1891",
+      "slide_a": 213,
+      "date_a": "1891-05-16",
+      "slide_b": 214,
+      "date_b": "1890-05-31",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "808010",
+      "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893",
+      "slide_a": 103,
+      "date_a": "1893-06-01",
+      "slide_b": 105,
+      "date_b": "1892-01-14",
+      "midpoint": 104
+    },
+    {
+      "manifest_id": "808010",
+      "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893",
+      "slide_a": 168,
+      "date_a": "1893-02-23",
+      "slide_b": 208,
+      "date_b": "1892-04-09",
+      "midpoint": 188
+    },
+    {
+      "manifest_id": "808260",
+      "title": "Chicago Building Permits, Book J, North and South: Jul 1893-Dec 1894",
+      "slide_a": 66,
+      "date_a": "1894-09-07",
+      "slide_b": 87,
+      "date_b": "1893-10-02",
+      "midpoint": 76
+    },
+    {
+      "manifest_id": "808260",
+      "title": "Chicago Building Permits, Book J, North and South: Jul 1893-Dec 1894",
+      "slide_a": 140,
+      "date_a": "1894-10-20",
+      "slide_b": 151,
+      "date_b": "1893-09-13",
+      "midpoint": 145
+    },
+    {
+      "manifest_id": "808473",
+      "title": "Chicago Building Permits, Book Q, Northwest and Southwest: Aug 1901-July 1904",
+      "slide_a": 105,
+      "date_a": "1904-07-01",
+      "slide_b": 107,
+      "date_b": "1901-08-01",
+      "midpoint": 106
+    },
+    {
+      "manifest_id": "808674",
+      "title": "Chicago Building Permits, South and North: Jan 2, 1909 - Dec 31, 1910",
+      "slide_a": 195,
+      "date_a": "1910-12-20",
+      "slide_b": 196,
+      "date_b": "1909-12-30",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "808674",
+      "title": "Chicago Building Permits, South and North: Jan 2, 1909 - Dec 31, 1910",
+      "slide_a": 196,
+      "date_a": "1909-12-30",
+      "slide_b": 199,
+      "date_b": "1909-01-01",
+      "midpoint": 197
+    },
+    {
+      "manifest_id": "808970",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 2, 1909 - Dec 31, 1910",
+      "slide_a": 166,
+      "date_a": "1910-12-23",
+      "slide_b": 168,
+      "date_b": "1909-01-02",
+      "midpoint": 167
+    },
+    {
+      "manifest_id": "809234",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 5, 1911 - Dec 31, 1912",
+      "slide_a": 162,
+      "date_a": "1912-12-01",
+      "slide_b": 167,
+      "date_b": "1911-02-01",
+      "midpoint": 164
+    },
+    {
+      "manifest_id": "811682",
+      "title": "Chicago Building Permits, Book 33, North: Jan 13, 1925 - May 12, 1926 and South: Apr 15, 1925 - Apr 21, 1925",
+      "slide_a": 294,
+      "date_a": "1926-05-10",
+      "slide_b": 295,
+      "date_b": "1925-04-15",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "811682",
+      "title": "Chicago Building Permits, Book 33, North: Jan 13, 1925 - May 12, 1926 and South: Apr 15, 1925 - Apr 21, 1925",
+      "slide_a": 305,
+      "date_a": "1926-06-08",
+      "slide_b": 310,
+      "date_b": "1925-03-09",
+      "midpoint": 307
+    },
+    {
+      "manifest_id": "811993",
+      "title": "Chicago Building Permits, Book 34, South: Sep 18, 1924 - Apr 14, 1925",
+      "slide_a": 309,
+      "date_a": "1925-04-15",
+      "slide_b": 310,
+      "date_b": "1924-11-03",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "813933",
+      "title": "Chicago Building Permits, Book M, Northwest and Southwest: Jan 1895-Dec 1897",
+      "slide_a": 121,
+      "date_a": "1897-12-29",
+      "slide_b": 123,
+      "date_b": "1895-01-02",
+      "midpoint": 122
+    },
+    {
+      "manifest_id": "814157",
+      "title": "Chicago Building Permits, Book N, North and South: Jan 1898-Jul 1901",
+      "slide_a": 129,
+      "date_a": "1901-07-26",
+      "slide_b": 130,
+      "date_b": "1898-01-03",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "814371",
+      "title": "Chicago Building Permits, Book O, Northwest: Jan 1898-Jul 1901",
+      "slide_a": 100,
+      "date_a": "1901-07-01",
+      "slide_b": 106,
+      "date_b": "1898-03-01",
+      "midpoint": 103
+    },
+    {
+      "manifest_id": "814558",
+      "title": "Chicago Building Permits, Book P, North and South: Aug 1901-Jun 1904",
+      "slide_a": 151,
+      "date_a": "1904-06-08",
+      "slide_b": 152,
+      "date_b": "1901-08-02",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "814795",
+      "title": "Chicago Building Permits, Book R, North and South: Jul 1904-Dec 1906",
+      "slide_a": 204,
+      "date_a": "1906-11-22",
+      "slide_b": 205,
+      "date_b": "1904-07-01",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "815100",
+      "title": "Chicago Building Permits, South and North: Jan 2, 1907 - Dec 31, 1908",
+      "slide_a": 175,
+      "date_a": "1908-12-10",
+      "slide_b": 186,
+      "date_b": "1907-03-12",
+      "midpoint": 180
+    },
+    {
+      "manifest_id": "815371",
+      "title": "Chicago Building Permits, South and North: Jan 3, 1911 - Dec 31, 1912",
+      "slide_a": 200,
+      "date_a": "1912-12-26",
+      "slide_b": 202,
+      "date_b": "1911-01-03",
+      "midpoint": 201
+    },
+    {
+      "manifest_id": "815371",
+      "title": "Chicago Building Permits, South and North: Jan 3, 1911 - Dec 31, 1912",
+      "slide_a": 281,
+      "date_a": "1912-11-25",
+      "slide_b": 283,
+      "date_b": "1911-12-11",
+      "midpoint": 282
+    },
+    {
+      "manifest_id": "815659",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 3, 1911 - Dec 31, 1912",
+      "slide_a": 134,
+      "date_a": "1911-11-19",
+      "slide_b": 135,
+      "date_b": "1877-11-23",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "815659",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 3, 1911 - Dec 31, 1912",
+      "slide_a": 139,
+      "date_a": "1906-12-31",
+      "slide_b": 141,
+      "date_b": "1904-07-08",
+      "midpoint": 140
+    },
+    {
+      "manifest_id": "815905",
+      "title": "Chicago Building Permits, Southwest & Northwest Jan 2, 1907 - Dec 31, 1908",
+      "slide_a": 126,
+      "date_a": "1908-12-07",
+      "slide_b": 131,
+      "date_b": "1907-02-01",
+      "midpoint": 128
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 298,
+      "date_a": "1920-04-22",
+      "slide_b": 299,
+      "date_b": "1916-02-02",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 300,
+      "date_a": "1916-10-19",
+      "slide_b": 301,
+      "date_b": "1912-12-30",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 305,
+      "date_a": "1912-12-19",
+      "slide_b": 315,
+      "date_b": "1912-12-04",
+      "midpoint": 310
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 315,
+      "date_a": "1912-12-04",
+      "slide_b": 325,
+      "date_b": "1912-11-22",
+      "midpoint": 320
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 325,
+      "date_a": "1912-11-22",
+      "slide_b": 335,
+      "date_b": "1912-11-13",
+      "midpoint": 330
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 335,
+      "date_a": "1912-11-13",
+      "slide_b": 344,
+      "date_b": "1912-11-04",
+      "midpoint": 339
+    },
+    {
+      "manifest_id": "816751",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912",
+      "slide_a": 344,
+      "date_a": "1912-11-04",
+      "slide_b": 353,
+      "date_b": "1912-10-24",
+      "midpoint": 348
+    },
+    {
+      "manifest_id": "820271",
+      "title": "Chicago Building Permits, Book 24, West: Apr 18, 1922 - Jun 19, 1923",
+      "slide_a": 291,
+      "date_a": "1923-04-30",
+      "slide_b": 292,
+      "date_b": "1923-02-20",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "820271",
+      "title": "Chicago Building Permits, Book 24, West: Apr 18, 1922 - Jun 19, 1923",
+      "slide_a": 330,
+      "date_a": "1923-06-18",
+      "slide_b": 331,
+      "date_b": "1922-05-16",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "821246",
+      "title": "Chicago Building Permits, Book 27, Central: Apr 18, 1922 - Aug 13, 1926 and South: Jan 13, 1922 - Jul 30, 1923",
+      "slide_a": 1,
+      "date_a": "1925-07-10",
+      "slide_b": 5,
+      "date_b": "1922-04-18",
+      "midpoint": 3
+    },
+    {
+      "manifest_id": "821246",
+      "title": "Chicago Building Permits, Book 27, Central: Apr 18, 1922 - Aug 13, 1926 and South: Jan 13, 1922 - Jul 30, 1923",
+      "slide_a": 108,
+      "date_a": "1926-08-13",
+      "slide_b": 109,
+      "date_b": "1923-01-13",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "821246",
+      "title": "Chicago Building Permits, Book 27, Central: Apr 18, 1922 - Aug 13, 1926 and South: Jan 13, 1922 - Jul 30, 1923",
+      "slide_a": 373,
+      "date_a": "1923-07-29",
+      "slide_b": 374,
+      "date_b": "1923-05-07",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "821625",
+      "title": "Chicago Building Permits, Book 31, South: Mar 19, 1924 - Sep 18, 1924",
+      "slide_a": 316,
+      "date_a": "1924-09-17",
+      "slide_b": 317,
+      "date_b": "1924-04-09",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "822868",
+      "title": "Chicago Building Permits, Book 39, West: Jun 16, 1926 - Aug 5, 1927",
+      "slide_a": 308,
+      "date_a": "1927-08-01",
+      "slide_b": 309,
+      "date_b": "1926-11-11",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "823178",
+      "title": "Chicago Building Permits, Book 40, Central: Aug 20, 1926 - Dec 29, 1939",
+      "slide_a": 308,
+      "date_a": "1939-12-29",
+      "slide_b": 313,
+      "date_b": "1930-03-14",
+      "midpoint": 310
+    },
+    {
+      "manifest_id": "824425",
+      "title": "Chicago Building Permits, Book 44, North: Jan 4, 1928 - Feb 1, 1933",
+      "slide_a": 325,
+      "date_a": "1932-11-18",
+      "slide_b": 326,
+      "date_b": "1930-07-23",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "825378",
+      "title": "Chicago Building Permits, Book 47, South: Apr 19, 1929 - Jul 31, 1933",
+      "slide_a": 309,
+      "date_a": "1933-07-01",
+      "slide_b": 312,
+      "date_b": "1930-04-04",
+      "midpoint": 310
+    },
+    {
+      "manifest_id": "827564",
+      "title": "Chicago Building Permits, Book 28, West: Jun 19, 1923 - Jul 3, 1924",
+      "slide_a": 312,
+      "date_a": "1924-07-02",
+      "slide_b": 313,
+      "date_b": "1924-05-11",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "828191",
+      "title": "Chicago Building Permits, Book 30, South: Jul 31, 1923 - Mar 19, 1924",
+      "slide_a": 101,
+      "date_a": "1923-10-03",
+      "slide_b": 102,
+      "date_b": "1923-09-14",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "828191",
+      "title": "Chicago Building Permits, Book 30, South: Jul 31, 1923 - Mar 19, 1924",
+      "slide_a": 320,
+      "date_a": "1924-03-19",
+      "slide_b": 321,
+      "date_b": "1923-11-13",
+      "midpoint": null
+    },
+    {
+      "manifest_id": "828723",
+      "title": "Chicago Building Permits, Book 58, Citywide: Oct 16, 1947 - Jul 19, 1948",
+      "slide_a": 306,
+      "date_a": "1948-07-16",
+      "slide_b": 309,
+      "date_b": "1947-10-31",
+      "midpoint": 307
+    },
+    {
+      "manifest_id": "831200",
+      "title": "Chicago Building Permits, Book 66, Citywide: Sep 19, 1952 - Apr 24, 1953",
+      "slide_a": 305,
+      "date_a": "1953-04-23",
+      "slide_b": 311,
+      "date_b": "1952-05-08",
+      "midpoint": 308
+    }
+  ],
+  "edge_issues_count": 8,
+  "edge_issues": [
+    {
+      "manifest_id": "745698",
+      "edge": "start",
+      "slides": [
+        2,
+        3
+      ],
+      "title": "Chicago Building Permits, Book 45, South:Mar 9, 1928 - Apr 19, 1929"
+    },
+    {
+      "manifest_id": "808260",
+      "edge": "end",
+      "slides": [
+        193,
+        194
+      ],
+      "title": "Chicago Building Permits, Book J, North and South: Jul 1893-Dec 1894"
+    },
+    {
+      "manifest_id": "808970",
+      "edge": "end",
+      "slides": [
+        262,
+        263
+      ],
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 2, 1909 - Dec 31, 1910"
+    },
+    {
+      "manifest_id": "812624",
+      "edge": "end",
+      "slides": [
+        317,
+        318
+      ],
+      "title": "Chicago Building Permits, Book 51, Citywide: Nov 8, 1940 - Jul 23, 1941"
+    },
+    {
+      "manifest_id": "812944",
+      "edge": "end",
+      "slides": [
+        303,
+        304
+      ],
+      "title": "Chicago Building Permits, Book 52, Citywide: Jul 23, 1941 - Apr 6, 1942"
+    },
+    {
+      "manifest_id": "815100",
+      "edge": "end",
+      "slides": [
+        267,
+        268
+      ],
+      "title": "Chicago Building Permits, South and North: Jan 2, 1907 - Dec 31, 1908"
+    },
+    {
+      "manifest_id": "815371",
+      "edge": "end",
+      "slides": [
+        285,
+        286
+      ],
+      "title": "Chicago Building Permits, South and North: Jan 3, 1911 - Dec 31, 1912"
+    },
+    {
+      "manifest_id": "832133",
+      "edge": "start",
+      "slides": [
+        2,
+        3
+      ],
+      "title": "Chicago Building Permits, Book 69, Citywide: Apr 9, 1954 - Jun 30, 1954"
+    }
+  ],
+  "illegible_anchors_count": 4,
+  "illegible_anchors": [
+    {
+      "manifest_id": "806293",
+      "slide_index": 2,
+      "title": "Chicago Building Permits, Book C, Chicago: Jan 1 1879 - Dec 31 1881"
+    },
+    {
+      "manifest_id": "808010",
+      "slide_index": 104,
+      "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893"
+    },
+    {
+      "manifest_id": "808010",
+      "slide_index": 127,
+      "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893"
+    },
+    {
+      "manifest_id": "808970",
+      "slide_index": 64,
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 2, 1909 - Dec 31, 1910"
+    }
+  ]
+}

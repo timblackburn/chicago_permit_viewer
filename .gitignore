@@ -1,0 +1,6 @@
+# Downloaded IIIF image caches & raw bulk CSVs (not needed at runtime by the web viewer)
+data/
+street_index/data/
+__pycache__/
+*.pyc
+.DS_Store

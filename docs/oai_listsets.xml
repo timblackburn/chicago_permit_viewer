@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://digital.library.uic.edu/templates/openaccess-admin/assets/css/oai2.xsl"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-11-21T15:15:42Z</responseDate>
+  <request verb="ListSets">https://digital.library.uic.edu/oai</request>
+  <ListSets>
+    <set>
+      <setSpec>1</setSpec>
+      <setName>Chicago Area Pharmacy Photographs</setName>
+      <setDescription>This collection of 35 mm color slides of Chicago and suburban drugstores was created by an unidentified photographer in 1955. It depicts pharmacies in various Chicago neighborhoods and suburbs. This collection was donated by Dr. Richard J. Anzalone, an alumnus of the College of Pharmacy, and retired Clinical Assistant Professor, Department of Pharmacy Practice.</setDescription>
+    </set>
+    <set>
+      <setSpec>2</setSpec>
+      <setName>H.D. Carberry Collection of Caribbean Studies</setName>
+      <setDescription>This digital collection consists of scanned book jackets from the H.D. Carberry Collection of Caribbean Studies rare book collection.  This collection includes English language literature and non-fiction by Caribbean authors. The works in this collection are generally first editions, many published in Britain during the second half of the twentieth century.</setDescription>
+    </set>
+    <set>
+      <setSpec>3</setSpec>
+      <setName>David Page Papers</setName>
+      <setDescription>The University of Illinois Arithmetic Project was created in the fall of 1958 and was directed by Professor David Page. Over a five year period the staff of this project created an entirely new elementary mathematics course including textbooks and suitable teaching aids. This collection includes titled worksheets that progressively increase in difficulty.</setDescription>
+    </set>
+    <set>
+      <setSpec>5</setSpec>
+      <setName>László Kondor Photograph Collection</setName>
+      <setDescription>László Kondor was the official photographer for Chicago Mayor Richard J. Daley from 1972 to 1976. The collection includes Kondor's photographic prints, negatives, and contact sheets of people, places, and events connected with the mayor. The collection also includes a small number of images of Mayor Michael Bilandic and Mayor Richard M. Daley.</setDescription>
+    </set>
+    <set>
+      <setSpec>6</setSpec>
+      <setName>Charles Harrison papers</setName>
+      <setDescription>Charles Harrison was a product designer and executive who worked for Sears, Roebuck and Co. for nearly 30 years, from 1961 to 1993. He was the first African-American executive to work at that company. The collection includes examples of Charles Harrison's work from his time at Sears.</setDescription>
+    </set>
+    <set>
+      <setSpec>7</setSpec>
+      <setName>Marcy-Newberry Association records</setName>
+      <setDescription>The Marcy-Newberry Association is a Methodist-supported social service center that has a long history of providing services to residents of the Near West and West Side of Chicago.</setDescription>
+    </set>
+    <set>
+      <setSpec>8</setSpec>
+      <setName>Bethlehem Howell Neighborhood Center collection</setName>
+      <setDescription>Bethlehem Center and Howell House were church-related neighborhood houses serving the Pilsen area on the Near West Side. They provided religious, social services, and personal welfare assistance to an immigrant community composed predominantly of Bohemians, Poles, and Czechs. The two centers cooperated throughout their history, merging in 1961 as the Neighborhood Service Organization. The Neighborhood Service Organization, popularly known as Casa Aztlan, continues to serve the Pilsen area.</setDescription>
+    </set>
+    <set>
+      <setSpec>14</setSpec>
+      <setName>Queer Asian American collection</setName>
+      <setDescription>The Queer Asian American collection is a compilation of correspondence, reports, student papers, zines, fliers, programs, scripts, photographs, press releases, new articles and posters of four Chicago based Asian American Lesbian, Gay, Bisexual, Transgender, Queer (LGBTQ) organizations: Invisible-to-Invincible: Asian Pacific Islander Pride of Chicago (i2i), Mango Tribe, the National Queer Asian Pacific Islander Alliance (NQAPIA) and Trikone Chicago. It also contains collected poems by Narinda Heng and Sarwat Rumi and materials regarding the Gay Asian and Pacific Islanders of Chicago (G.A.P.I.C.) and the National Gay and Lesbian Task Force.</setDescription>
+    </set>
+    <set>
+      <setSpec>19</setSpec>
+      <setName>Architecture and Arts Oral History Project</setName>
+      <setDescription>This collection contains sound files and transcripts of oral history interviews conducted with former Art and Architecture faculty members. The collection was created by Eileen Broido, working on a celebration of the history of the College in 2007. It also contains some biographical information compiled by Broido.</setDescription>
+    </set>
+    <set>
+      <setSpec>20</setSpec>
+      <setName>Back of the Yards Neighborhood Council records</setName>
+      <setDescription>The Back of the Yards Neighborhood Council (BYNC) was located on Chicago's Southwest side near the former Union Stockyards that housed Chicago's meatpacking plants. Saul Alinsky and Joseph Meegan founded the BYNC in 1939 making it the oldest community organization in the United States. This Collection consists of annual reports for the BYNC, pamphlets, brochures, and clippings.</setDescription>
+    </set>
+    <set>
+      <setSpec>22</setSpec>
+      <setName>Beverly Area Planning Association records</setName>
+      <setDescription>The Beverly Area Planning Association (BAPA) was founded in 1947 as an umbrella agency of residential and business associations in the Beverly Hills/Morgan Park neighborhood in Southwest Chicago. The collection includes materials reflecting the administration, programming and advocacy efforts of the Beverly Area Planning Association between 1967 and 1972.</setDescription>
+    </set>
+    <set>
+      <setSpec>23</setSpec>
+      <setName>Black History Collection</setName>
+      <setDescription>This collection offers a variety of materials pertaining to African American experiences, mostly from 20th century black freedom movement groups, including the Civil Rights Movement, Black Panthers, the Student Nonviolent Coordinating Committee (SNCC), black cultural figures, and other Chicago-based activists. Materials include periodicals, audio reels, letters, transcripts, brochures, and clippings.</setDescription>
+    </set>
+    <set>
+      <setSpec>24</setSpec>
+      <setName>Bob Crawford audio archive</setName>
+      <setDescription>Use of the Bob Crawford collection is limited to UIC students, faculty and staff, and to on-campus visitors. This collection includes Bob Crawford's recordings of Chicago mayors and political figures from the 1970s to the 1990s. Recordings include Harold Washington, Jane Byrne, Richard J. Daley and Richard M. Daley as well as Illinois politicians and Chicago City Council members.</setDescription>
+    </set>
+    <set>
+      <setSpec>25</setSpec>
+      <setName>C. William Brubaker Collection</setName>
+      <setDescription>During the 1960s through 1990s, architect and photographer Charles William “Bill” Brubaker (1926-2002) photographically documented examples of significant architecture and design of the urban environment in the Chicago area and in other cities that he lived in or visited. This collection consists of slides taken by Brubaker.</setDescription>
+    </set>
+    <set>
+      <setSpec>26</setSpec>
+      <setName>A Century of Progress records</setName>
+      <setDescription>A Century of Progress International Exposition was held in Chicago during the summers of 1933 and 1934 to commemorate the incorporation of the city in 1833. This collection consists of the extant operating records of A Century Progress World's Fair.</setDescription>
+    </set>
+    <set>
+      <setSpec>27</setSpec>
+      <setName>A Century of Progress memorabilia collection</setName>
+      <setDescription>A Century of Progress International Exposition was held in Chicago during the summers of 1933 and 1934 to commemorate the 100th year anniversary of the incorporation of the city of Chicago in 1833. The A Century of Progress Memorabilia collection includes printed materials such as pamphlets, brochures, maps, photographs and souvenirs.</setDescription>
+    </set>
+    <set>
+      <setSpec>29</setSpec>
+      <setName>Chicago Aerial Photographic Services collection</setName>
+      <setDescription>The Chicago Aerial Photographic Services company conducted aerial surveys of the Chicago region from the 1930s to the early 2000s. This collection provides thousands of high resolution aerial photographs of the region over several decades.</setDescription>
+    </set>
+    <set>
+      <setSpec>31</setSpec>
+      <setName>Chicago Building Permit Collection</setName>
+      <setDescription>Chicago Building Permits from 1872-1954.</setDescription>
+    </set>
+    <set>
+      <setSpec>32</setSpec>
+      <setName>Chicago Photographic Collection</setName>
+      <setDescription>The Chicago Photographic Collection is comprised of photographic archives of several well-known photographic firms operating in Chicago in the late nineteenth and throughout the twentieth centuries.</setDescription>
+    </set>
+    <set>
+      <setSpec>33</setSpec>
+      <setName>Chicago Urban League Records</setName>
+      <setDescription>Founded in 1910, the National Urban League is one of the oldest African American social service, research, and advocacy organizations in the United States. This collection primarily contains materials generated or collected by the Chicago Urban League. It documents the history, leadership, activities, social services provided by and the mission of the Chicago Urban League.</setDescription>
+    </set>
+    <set>
+      <setSpec>34</setSpec>
+      <setName>Comer Archive of the City of Chicago in the Year 2000</setName>
+      <setDescription>The Chicago in the Year 2000, or CITY 2000 collection was conceived by Lands End founder Gary Comer as a way to capture the city and its citizens on the cusp of a new millennium. The collection represents the work of over 200 photographers, videographers, and journalists documenting the year across all of Chicago's 50 wards.</setDescription>
+    </set>
+    <set>
+      <setSpec>35</setSpec>
+      <setName>Cook County School of Nursing records</setName>
+      <setDescription>The Cook County School of Nursing Records digital collection includes imagery from the Illinois Training School for Nurses, the Cook County Hospital and Health Hospitals Governing Commission of Cook County.</setDescription>
+    </set>
+    <set>
+      <setSpec>37</setSpec>
+      <setName>Equal Rights Amendment (ERA) Reunion collection</setName>
+      <setDescription>The ERA Reunion collection contains items related to the commemorative event and programming held at UIC after the ratification of the ERA in Illinois. The collection includes interviews pertaining to the ERA efforts as well as other feminist organization spanning from 1975 to 2019.</setDescription>
+    </set>
+    <set>
+      <setSpec>39</setSpec>
+      <setName>Firman House records</setName>
+      <setDescription>The Firman House was founded as an outreach mission in 1872 and became a sturctured, self-identified social service agency in 1927. This collection includes flyers, pamphlets and photographs.</setDescription>
+    </set>
+    <set>
+      <setSpec>40</setSpec>
+      <setName>Forest Preserve District of Cook County records</setName>
+      <setDescription>The Forest Preserve District of Cook County was created in 1914 with a mandate to “protect and preserve” the forests of Cook County. By 2004, the district had acquired more than 67,000 acres of forest lands. This collection contains the records of the district and other records and photographs that are relevant for the district’s history.</setDescription>
+    </set>
+    <set>
+      <setSpec>41</setSpec>
+      <setName>Henry Booth House records</setName>
+      <setDescription>The Henry Booth House was established in Chicago in May 1898 by the Ethical Humanist Society and named for the Society's first president, Judge Henry Booth. The Henry Booth House's founders sought to improve living conditions in the surrounding neighborhood, promote good citizenship, strengthen family life and the sense of community. The digital collection includes photographs from the collection.</setDescription>
+    </set>
+    <set>
+      <setSpec>42</setSpec>
+      <setName>Hull-House Photograph collection</setName>
+      <setDescription>This collection contains thousands of photographs and artworks that pertain to Jane Addams, the Hull-House settlement house, Chicago's Near West Side, and other topics related to the history of Hull-House.</setDescription>
+    </set>
+    <set>
+      <setSpec>44</setSpec>
+      <setName>Hyde Park Neighborhood Club records</setName>
+      <setDescription>The Hyde Park Neighborhood Club (HPNC) was founded in 1909 as part of the settlement house movement, to serve neglected or abandoned youth in Chicago's south side neighborhood of Hyde Park. The digital collection includes photographs pertaining to the programs and administration of the Hyde Park Neighborhood Club.</setDescription>
+    </set>
+    <set>
+      <setSpec>47</setSpec>
+      <setName>Illinois Department of Transportation Traffic Photograph Collection</setName>
+      <setDescription>The collection includes negatives and photographs generated by the Department of Public Works and Buildings from 1930 to 1960, which preceded the Illinois Department of Transportation. The records include negatives and photographs of traffic intersections along some of Chicago’s major roadways, surveys of Chicago Transit Authority bus stations, bridges and viaducts throughout Chicago, and various projects conducted by Illinois’ leading transportation agency in 1930s to 1950s.</setDescription>
+    </set>
+    <set>
+      <setSpec>50</setSpec>
+      <setName>Illinois Training School for Nurses records</setName>
+      <setDescription>The Illinois Training School for Nurses (ITSN) was established September 21, 1880 by a group of prominent Chicago women dedicated to the prospect of training young women to care scientifically for the sick. Twenty-five directors, all female, headed the project. The records of the Illinois Training School for Nurses (ITSN) document the history of the school from its inception until well after it ceased operation.</setDescription>
+    </set>
+    <set>
+      <setSpec>66</setSpec>
+      <setName>Immigrants' Protective League Records, 1919-1967</setName>
+      <setDescription>The Immigrants' Protective League was founded in 1908 as a resource for all new immigrants arriving in Chicago. The Immigrants' Protective League records contain reports, memoranda, case histories, affidavits, legislative bills, dissertations, press releases, resolutions, photographs, maps, addresses, statements, clippings, and articles.</setDescription>
+    </set>
+    <set>
+      <setSpec>77</setSpec>
+      <setName>Italian American Collection Records</setName>
+      <setDescription>The Italian-American Collection was compiled as part of the "Italians in Chicago" project by the Department of History at the University of Illinois at Chicago Circle. The project was funded by the National Endowment for the Humanities and interviews were largely conducted during 1979 and 1980. Donations included photographs, booklets and pamphlets, as well as various other family memorabilia.</setDescription>
+    </set>
+    <set>
+      <setSpec>89</setSpec>
+      <setName>James Parker collection</setName>
+      <setDescription>James S. Parker owned the firm Copelin Commercial Photographs that operated continuously in Chicago beginning in 1856. The collection's photographic negatives and prints extensively record Chicago's built environment.</setDescription>
+    </set>
+    <set>
+      <setSpec>136</setSpec>
+      <setName>Lea Demarest Taylor Papers</setName>
+      <setDescription>Lea Demarest Taylor (1883-1975) was active in Chicago's social settlement movement. The collection contains correspondence, memos, articles, speeches, annual reports, minutes of meetings, and photographs. pertaining to operation and activities of Chicago Commons settlement house, the Chicago Federation of Settlements and the National Federation of Settlements. The collection also includes writing and publications by Graham Taylor, founder of Chicago Commons.</setDescription>
+    </set>
+    <set>
+      <setSpec>157</setSpec>
+      <setName>Navy Pier Negatives and Prints, 1946-1948</setName>
+      <setDescription>This collection of photographs by Thomas Fehr contains images of the University of Illinois Chicago Undergraduate Division located at Navy Pier, including images of students and faculty activities, athletics, and events.</setDescription>
+    </set>
+    <set>
+      <setSpec>158</setSpec>
+      <setName>Off-The-Street Club records</setName>
+      <setDescription>The Off-The-Street Club (OTSC), Chicago's oldest boys and girls club, is a club for children and young adults located on Chicago's west side. The collection pertains to OTSC programs and activities.</setDescription>
+    </set>
+    <set>
+      <setSpec>221</setSpec>
+      <setName>Paul Peck Collection of Medical Art</setName>
+      <setDescription>Paul Norman Peck, PhD. (1907-1982) was an influential medical illustrator who compiled numerous anatomy, pathology, and surgery atlases during his career. This collection includes least two medical atlases published by Merck &amp; Co. The illustrations depict various body structures, functions, and ailments.</setDescription>
+    </set>
+    <set>
+      <setSpec>244</setSpec>
+      <setName>Political and Social Activism Pamphlet Collection</setName>
+      <setDescription>The Political and Social Activism Pamphlet Collection is a collection of around 11,000 pamphlets ranging from the mid 19th and late 20th centuries. Topics covered in these materials include trade unionism, race relations, and left and right-wing political movements</setDescription>
+    </set>
+    <set>
+      <setSpec>255</setSpec>
+      <setName>Puerto Rican Cultural Center collection</setName>
+      <setDescription>Members of the Puerto Rican and Latinx community in Chicago established the non-proft Juan Antonio Corretjer Puerto Rican Cultural Center (PRCC) in 1973 to address the social and cultural needs of the West Town and Humboldt Park community. The collection contains printed documents produced and published by the Puerto Rican Cultural Center including newspapers, flyers, programs, and books. Photographs, ephemera, and memorabilia from the center are also included.</setDescription>
+    </set>
+    <set>
+      <setSpec>263</setSpec>
+      <setName>Richard J. Daley collection</setName>
+      <setDescription>The Richard J. Daley Collection documents the public offices, political career, and personal life of Daley and contains documents, publications, ephemera, memorabilia, artifacts, and photographs dating from 1870-2010. The bulk of the collection dates from Richard J. Daley’s six terms as mayor of the city of Chicago, and as Chairman of the Cook County Democratic Central Committee.</setDescription>
+    </set>
+    <set>
+      <setSpec>284</setSpec>
+      <setName>Richard J. Daley Oral History Collection</setName>
+      <setDescription>This collection contains oral histories and transcripts from over 50 interviews of people who knew Richard J. Daley, who served as Chicago's mayor from 1955-1976, and as Chairman of the Democratic Party of Cook County from 1953-1976.</setDescription>
+    </set>
+    <set>
+      <setSpec>332</setSpec>
+      <setName>Sheet Music collection</setName>
+      <setDescription>The Sheet Music collection consists of popular song sheets with illustrated covers dating from circa 1890 to 1928, with some titles dating back to and before the Civil War. Music from a wide variety of composers is represented, including some examples of early ragtime and blues.</setDescription>
+    </set>
+    <set>
+      <setSpec>333</setSpec>
+      <setName>Sierra Leone Collection</setName>
+      <setDescription>The Sierra Leone collection consists of material related to the British administration of Sierra Leone, including public and private papers of British officials in the colony, 1792-1825.</setDescription>
+    </set>
+    <set>
+      <setSpec>334</setSpec>
+      <setName>Society of Typographic Arts records</setName>
+      <setDescription>This collection consists of the organizational records and design examples from the Society of Typographic Arts (STA), a Chicago-based organization of graphic design professionals. It includes STA publications, especially exhibition catalogs, and other materials.</setDescription>
+    </set>
+    <set>
+      <setSpec>364</setSpec>
+      <setName>UIC Facility Information Management Collection</setName>
+      <setDescription>A collection of photographs documenting the construction of the University of Illinois at Chicago Circle during the 1960s and early 1970s, and removal of the elevated walkways in the early 1990s, as well as documents relating to the planning, growth and development of the University of Illinois Chicago.</setDescription>
+    </set>
+    <set>
+      <setSpec>373</setSpec>
+      <setName>UIC Photograph Subject Files, 1960-1990</setName>
+      <setDescription>The Photograph Subject Files contain photographs of the University of Illinois Chicago beginning with the construction of the Chicago Circle campus in the mid 1960s until the late 1980s, including images of the construction of the campus, campus buildings, university events and ceremonies including graduation and commencement, classroom scenes, student activities, and athletics.</setDescription>
+    </set>
+    <set>
+      <setSpec>389</setSpec>
+      <setName>Works Progress Administration broadcast recordings collection</setName>
+      <setDescription>This collection consists of audio works, recorded as part of the Work Projects Administration (WPA) and intended for radio broadcast.</setDescription>
+    </set>
+    <set>
+      <setSpec>390</setSpec>
+      <setName>Yuri Nakata Lectures</setName>
+      <setDescription>The Nakata lecture series, co-sponsored by the University Library for over 25 years, was named in honor of Yuri Nakata (1919-2015), a library faculty member from 1966 to 1979. This collection consists of recordings of lectures delivered in 2005 and 2006.</setDescription>
+    </set>
+    <set>
+      <setSpec>391</setSpec>
+      <setName>University of Illinois College of Medicine Graduating Class Composite Photographs</setName>
+      <setDescription>This is a collection of composite photographs of past graduating classes of the University of Illinois College of Medicine. The images date from 1913 through the early 1990s. All photographs are black and white and feature head shots of members of the class with their names. In some cases, members of the College faculty or administration are included in the composites.</setDescription>
+    </set>
+    <set>
+      <setSpec>156822</setSpec>
+      <setName>Mary Hastings Bradley Collection</setName>
+      <setDescription>Mary Hastings Bradley (1882-1976) was a Chicago writer, lecturer, clubwoman and philanthropist, traveler, Womans Army Auxiliary Corps (later known as WAC) war correspondent, wife, mother, and friend. She was known for her expeditions to Africa and Asia and her many published works, frequently inspired by her travels. She was a member of the Society of Women Geographers and one of the few female presidents of the Society of Midland Authors. The collection reflects the accumulated papers and materials of Mary Hastings Bradley and her immediate family, Herbert E. Bradley and Alice Hastings Bradley. The collection includes her writings, references and research, personal effects, club and association materials, media, and alphabetized files produced by Bradley herself.</setDescription>
+    </set>
+    <set>
+      <setSpec>316123</setSpec>
+      <setName>Rudy Lozano Papers</setName>
+      <setDescription>Rodolfo “Rudy” Lozano, (1951 to 1983) was an activist and a community organizer in Chicago. The digital collection includes a small selection of videos and posters from the Rudy Lozano papers.</setDescription>
+    </set>
+    <set>
+      <setSpec>316124</setSpec>
+      <setName>Emmett McBain design papers</setName>
+      <setDescription>Emmett McBain became a prominent African American advertising designer, working as a designer for Vince Cullers and Associates, an art supervisor for J. W. Thompson in Detroit, and a creative consultant for Soft Sheen Products. This collection consists of various visual advertisements designed by McBain, primarily print ads, transparencies of bill boards and record album covers.</setDescription>
+    </set>
+    <set>
+      <setSpec>462760</setSpec>
+      <setName>Richard F. Casper military research collection</setName>
+      <setDescription>The Richard F. Casper Military History Collection comprises artifacts and manuscripts about the military.  The digital collection is a small portion, consisting of several illustrated pamphlets showing military uniforms from several nations.</setDescription>
+    </set>
+    <set>
+      <setSpec>488841</setSpec>
+      <setName>Chicago Flame</setName>
+      <setDescription>The Chicago Flame was an independent student-run newspaper serving the University of Illinois at Chicago community from 1988-2011. It contains information about student activities, sports, and campus organizations and issues.</setDescription>
+    </set>
+    <set>
+      <setSpec>488843</setSpec>
+      <setName>Hull-House collection</setName>
+      <setDescription>The Hull-House collection consists of material documenting the history of Hull-House from its founding in 1889 until the mid 1960s when the settlement moved from its original location on Halsted Street.</setDescription>
+    </set>
+    <set>
+      <setSpec>488844</setSpec>
+      <setName>Rho Chi Book</setName>
+      <setDescription>Rho Chi roll call book from the College of Pharmacy</setDescription>
+    </set>
+    <set>
+      <setSpec>604386</setSpec>
+      <setName>The Circle Yearbook</setName>
+      <setDescription>Students at the Circle campus published an annual yearbook from 1966 through 1977.  The final yearbook included the senior classes for both 1980 and 1981.&#13;
+&#13;
+The yearbooks were titled “The Circle Yearbook” with the exception of the the 1973 and 1980-81 editions.  The 1973 edition was named “Circa: Chicago Circle Annual,” and the 1980-81 edition was “Concentric Circle.”</setDescription>
+    </set>
+    <set>
+      <setSpec>738319</setSpec>
+      <setName>Richard M. Daley Oral History collection</setName>
+      <setDescription>This digital collection holds oral history interviews with forty-five contemporaries of Mayor Daley. It has audio and video recordings and related transcripts. The interviews were conducted for the Richard M. Daley Oral History project undertaken by the University of Illinois Chicago Library between 2017 and 2019.</setDescription>
+    </set>
+    <set>
+      <setSpec>764967</setSpec>
+      <setName>Hull-House Association records</setName>
+      <setDescription>This collection primarily contains materials generated or collected by the central office of Hull House Association. It documents the history, leadership, activities, and mission of Hull House Association and its relationship to several of its affiliates.</setDescription>
+    </set>
+    <set>
+      <setSpec>765221</setSpec>
+      <setName>College of Physicians and Surgeons of Chicago – Class Photos</setName>
+      <setDescription>This is a collection of composite photographs of past graduating classes of the College of Physicians and Surgeons of Chicago. The images date from 1882 through 1912. All photographs are black and white and feature head shots of members of the class with their names. In some cases, members of the College faculty or administration are included in the composites.</setDescription>
+    </set>
+    <set>
+      <setSpec>783208</setSpec>
+      <setName>Dr. Chester Danehower collection</setName>
+      <setDescription>The Dr. Chester Danehower Collection is comprised of items related to the medical field of dermatology.  This content may not be appropriate for all audiences.</setDescription>
+    </set>
+    <set>
+      <setSpec>840031</setSpec>
+      <setName>College of Dentistry -- Class Composite Photographs</setName>
+      <setDescription>This collection includes photographs of graduating classes from the UIC College of Dentistry from 1899 to 2021.</setDescription>
+    </set>
+    <set>
+      <setSpec>840032</setSpec>
+      <setName>University of Illinois College of Medicine Peoria Historical Photographs</setName>
+      <setDescription>The University of Illinois College of Medicine Peoria (UICOMP) Historical Photographs collection consists of a variety of images related to the Peoria campus and surrounding areas.</setDescription>
+    </set>
+    <set>
+      <setSpec>869968</setSpec>
+      <setName>Gallery 400 records</setName>
+      <setDescription>Since its founding in 1983, Gallery 400, a not-for-profit arts exhibition space at the University of Illinois Chicago, has presented exhibitions and programs that address a broad range of recent developments and aesthetic concerns and have included more than 1,000 artists to date.</setDescription>
+    </set>
+    <set>
+      <setSpec>905349</setSpec>
+      <setName>Undergraduate Catalogs</setName>
+      <setDescription>University of Illinois, Chicago undergraduate course catalogs from 1946 through the 2023 academic year. Catalogs contain course and program descriptions.</setDescription>
+    </set>
+    <set>
+      <setSpec>910559</setSpec>
+      <setName>Tom Yanul Photograph Collection</setName>
+      <setDescription>Thomas Yanul was a photographer known around the world for panoramic shots of Chicago, especially its architecture and large social gatherings from 1970s to early 2000s. The collection includes black and white photographs and negatives as well as some color photographs and negatives) of the changing architectural landscape of many iconic downtown locations.</setDescription>
+    </set>
+    <set>
+      <setSpec>972267</setSpec>
+      <setName>Cardiss Collins papers</setName>
+      <setDescription>Cardiss Collins was the first Black woman elected in Illinois to the United States House of Representatives. She represented the state's seventh congressional district from 1973 to 1997, one of the longest terms held by an African American woman in Congress.</setDescription>
+    </set>
+    <set>
+      <setSpec>972268</setSpec>
+      <setName>Esther Saperstein papers</setName>
+      <setDescription>Esther Saperstein served in the Illinois House of Representatives from 1957-1967, in the Illinois Senate from 1967-1975 and as alderperson for Chicago's 49th ward from 1975-1979.</setDescription>
+    </set>
+    <set>
+      <setSpec>1012279</setSpec>
+      <setName>Dr. Thomas Golemon collection</setName>
+      <setDescription>The Dr. Thomas Golemon Collection is comprised of medical and scientific artifacts.</setDescription>
+    </set>
+    <set>
+      <setSpec>1823292</setSpec>
+      <setName>Adrian Scheltes collection</setName>
+      <setDescription>The Adrian Scheltes collection contains photographs either taken by or collected by Scheltes while he was the Supervisor of Counsel and Guidance for the Blind from the Illinois Division of Vocational Rehabilitation in the late 1940s and early 1950s.</setDescription>
+    </set>
+    <set>
+      <setSpec>1857793</setSpec>
+      <setName>United Service Employees Union records</setName>
+      <setDescription>The United Service Employees Union (USEU) began with a grass-roots revolt of a local against Max Caldwell, head of Retail Clerks International Protective Association, American Federation of Labor (RCIPA, AFL). The collection includes correspondence, handwritten and typed notes, constitutions and by-laws, contracts, minutes and more.</setDescription>
+    </set>
+    <set>
+      <setSpec>1857794</setSpec>
+      <setName>27th Evacuation Hospital -- James H. Cross collection</setName>
+      <setDescription>As a part of the war program of the University of Illinois, the Chicago Colleges of Medicine, Dentistry and Pharmacy organized an affiliated US Army Evacuation Hospital in April 1942 during World War II. This collection contains collected photographs from Dr. James H. Cross, a general surgeon for the hospital, from his time with the 27th Evacuation Hospital.</setDescription>
+    </set>
+    <set>
+      <setSpec>1867654</setSpec>
+      <setName>Philippine Nurses Association of Illinois records</setName>
+      <setDescription>The Philippine Nurses Association of Illinois is a professional organization that seeks to advance the interests of Filipino-American nurses in the state of Illinois. The organization was born in 1957 as the Filipino Nurses Association of Chicago and served to support participants in the Exchange Nurse Program. The organization was renamed the Philippine Nurses Association of Chicago in 1966. It assumed its current name in 1993 to reflect its statewide scope. The Philippine Nurses Association of Illinois has lobbied in its members interests, organized continuing education programs, been instrumental in the creation of a national Filipino nurses' organization, and offered benevolent support to its members and to the Filipino-American community.</setDescription>
+    </set>
+    <set>
+      <setSpec>1867655</setSpec>
+      <setName>Disability Cultural Center records</setName>
+      <setDescription>The Disability Cultural Center (DCC) was established as one of UIC’s seven Centers for Cultural Understanding and Social Change in the Spring of 2018. This collection consists of publications produced by the Disability Cultural Center at UIC. Most notable is the DCC's zine, Crip Wisdom.</setDescription>
+    </set>
+    <set>
+      <setSpec>1944544</setSpec>
+      <setName>Filipino American Historical Society of Chicago records</setName>
+      <setDescription>The Filipino American Historical Society of Chicago (FAHSC) collection features photographs, records, and ephemera from an exhibition hosted by the FAHSC titled “Foundations of a Community's Memory: Pundasyon para sa mga Alaala ng Komunidad.”</setDescription>
+    </set>
+    <set>
+      <setSpec>1944545</setSpec>
+      <setName>Annual announcement. College of Physicians and Surgeons of Chicago</setName>
+      <setDescription>This collection contains the annual announcements for the Chicago College of Physicians and Surgeons. These publications include program descriptions, course information, lists of faculty and students, and additional information about the school.</setDescription>
+    </set>
+    <set>
+      <setSpec>1957642</setSpec>
+      <setName>Bohemian Women's Publishing Company records</setName>
+    </set>
+    <set>
+      <setSpec>1964089</setSpec>
+      <setName>Dr. Abraham Low papers</setName>
+      <setDescription>Dr. Abraham A. Low was a practicing physician and a psychiatrist. He was appointed to multiple teaching positions at the University of Illinois Medical School. At the same time, he was also appointed as Assistant Director of the Psychiatric Institute (1931) and Acting Director of the institute (1940-1941). During Dr. Low’s time working at the University of Illinois Medical School, he was also hired as the Assistant to State Alienist of Illinois (1931-1941). With patients that he had met during his time at the Psychiatric Institute, he founded and became the Medical Director of Recovery International (1937-1954). This collection currently contains lectures by Dr. Low.</setDescription>
+    </set>
+    <set>
+      <setSpec>1975533</setSpec>
+      <setName>Helen Moser collection</setName>
+      <setDescription>The Helen Moser Collection includes primarily over-the-counter pharmaceutical items. Helen Moser was a resident of Peoria, IL.  Items were originally given to the University of Illinois College of Medicine at Peoria and subsequently deposited with the Library of the Health Sciences Peoria. Most but not all items in this collection have been digitized. Some of this collection is on display in the Library of the Health Sciences Peoria.</setDescription>
+    </set>
+    <set>
+      <setSpec>1975843</setSpec>
+      <setName>Robert Blackwood photograph collection</setName>
+      <setDescription>Robert Blackwood (1942-2024) was a professor of English and Communications Media at communications media at Wilbur Wright College, part of the Community Colleges of Chicago, from 1967 to 2000. This collection contains mostly photographic negatives and proof sheets.</setDescription>
+    </set>
+  </ListSets>
+</OAI-PMH>

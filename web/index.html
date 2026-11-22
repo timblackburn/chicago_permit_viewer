@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      document.querySelector('meta[name="color-scheme"]').content = localStorage.getItem("color-scheme") ?? "light dark";
+    } catch {}
+  </script>
+  <title>Chicago Building Permits (1872–1954)</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1.1/build/openseadragon/openseadragon.min.js" defer></script>
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <h1><a href="#find" class="brand-link" data-view="jump">Chicago Building Permits <span class="year-span">1872–1954</span></a></h1>
+        <p class="subtitle" id="globalStats">3rd-party viewer for Chicago Building Permit microfilm</p>
+      </div>
+      <nav class="header-nav" aria-label="Secondary views">
+        <button type="button" class="nav-link" id="nav-jump" data-view="jump" aria-current="page">Find a Permit</button>
+        <button type="button" class="nav-link" id="nav-saved" data-view="saved" hidden>Saved Cards <span id="savedCountBadge" class="nav-badge" hidden>0</span></button>
+        <span class="nav-sep" aria-hidden="true">·</span>
+        <button type="button" class="nav-link" id="nav-streets" data-view="streets">Street Index Cards</button>
+        <button type="button" class="nav-link" id="nav-ledgers" data-view="ledgers">Permit Ledgers</button>
+        <button type="button" id="themeToggle" class="btn btn-ghost btn-sm" aria-label="Toggle color theme">
+          <span aria-hidden="true">◐</span>
+          <span id="themeLabel">Theme</span>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main-wrap">
+    <!-- VIEW 1: PRIMARY HOME — ADDRESS SEARCH -->
+    <section id="view-jump" class="app-view">
+      <div class="home-shell">
+        <div class="intro-guide">
+          <p><strong>Look up a Chicago building permit in two steps:</strong></p>
+          <ol class="intro-steps">
+            <li><strong>Search your street address below</strong> to open the 3×5 Street Index Card microfilm for your block (corner lots show both intersecting streets).</li>
+            <li><strong>Read the permit date or stamped Book &amp; Page</strong> on the card (e.g. <code>S. 47 Page 2</code>), then use the <em>Jump to Permit Ledger</em> bar at the bottom of the viewer to open the original ledger entry.</li>
+          </ol>
+        </div>
+
+        <div class="search-hero">
+          <form id="addressJumpForm" class="hero-form">
+            <div class="hero-input-row">
+              <input type="text" id="jumpAddress" list="streetSuggestions" autocomplete="off" placeholder="Enter a Chicago street address" aria-label="Chicago street address" required>
+              <datalist id="streetSuggestions"></datalist>
+              <button type="submit" class="btn btn-primary">Find Index Card</button>
+            </div>
+          </form>
+        </div>
+
+        <div id="heroResults" class="results-list" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- VIEW 1B: SAVED INDEX CARDS & LEDGER REVIEW QUEUE -->
+    <section id="view-saved" class="app-view" hidden>
+      <div class="view-heading saved-heading">
+        <div>
+          <h2>Saved Index Cards</h2>
+          <p>Tag index cards as <strong>Yes</strong>, <strong>Maybe</strong>, or <strong>No</strong> while browsing, add notes, then step through your Yes &amp; Maybe cards to look each one up in the permit ledgers.</p>
+        </div>
+        <div class="saved-header-actions">
+          <button type="button" id="btnStartReview" class="btn btn-open" hidden>Review Yes &amp; Maybe Cards ↗</button>
+          <button type="button" id="btnClearSaved" class="btn btn-ghost btn-sm" hidden>Clear All</button>
+        </div>
+      </div>
+
+      <div class="saved-filter-bar" id="savedFilterBar" role="group" aria-label="Filter saved cards">
+        <button type="button" class="pill saved-filter-btn" data-sfilter="review" aria-pressed="true">Yes &amp; Maybe</button>
+        <button type="button" class="pill saved-filter-btn" data-sfilter="all" aria-pressed="false">All</button>
+        <button type="button" class="pill saved-filter-btn" data-sfilter="yes" aria-pressed="false">Yes</button>
+        <button type="button" class="pill saved-filter-btn" data-sfilter="maybe" aria-pressed="false">Maybe</button>
+        <button type="button" class="pill saved-filter-btn" data-sfilter="no" aria-pressed="false">No</button>
+      </div>
+
+      <div id="savedCardsList" class="results-list saved-list"></div>
+    </section>
+
+    <!-- VIEW 2 (2ND TIER): STREET INDEX CARDS (ALL 138 REELS) -->
+    <section id="view-streets" class="app-view" hidden>
+      <div class="view-heading">
+        <h2>Street Index Cards (138 Microfilm Reels)</h2>
+        <p>Browse all 3×5 address index reels alphabetically, or <button type="button" class="link-btn" data-view="jump">return to Address Search</button>.</p>
+      </div>
+      <div class="toolbar">
+        <input type="search" id="streetReelSearch" placeholder="Search street name (e.g. Western, Halsted, 107th)…" aria-label="Search street index reels">
+        <span id="streetReelCount" class="count-badge"></span>
+      </div>
+      <div id="letterBar" class="letter-bar" aria-label="Filter street reels by letter"></div>
+      <div tabindex="0" role="region" aria-labelledby="streets-table-caption" class="table-wrapper">
+        <table class="data-table" id="streetsTable">
+          <caption id="streets-table-caption" class="sr-only">Chicago Building Permit Street Index Reels</caption>
+          <thead>
+            <tr>
+              <th scope="col">Reel</th>
+              <th scope="col">Starts At</th>
+              <th scope="col">Ends At</th>
+              <th scope="col">Cards</th>
+              <th scope="col">Open</th>
+            </tr>
+          </thead>
+          <tbody id="streetsTbody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- VIEW 3 (2ND TIER): PERMIT LEDGERS (UNIFIED TIMELINE + BOOKS LIST) -->
+    <section id="view-ledgers" class="app-view" hidden>
+      <div class="view-heading">
+        <h2>Permit Ledgers (90 Microfilm Books, 1872–1954)</h2>
+        <p>Filter by Chicago community area and decade to see which ledger books cover your neighborhood, or <button type="button" class="link-btn" data-view="jump">return to Address Search</button>.</p>
+      </div>
+
+      <div class="ledger-filter-bar">
+        <div class="toolbar">
+          <select id="ledgerCommunityFilter" aria-label="Filter by Chicago community area or division"></select>
+          <label class="inline-field">
+            <span>From</span>
+            <input type="number" id="ledgerYearFrom" min="1872" max="1954" value="1872">
+          </label>
+          <label class="inline-field">
+            <span>To</span>
+            <input type="number" id="ledgerYearTo" min="1872" max="1954" value="1954">
+          </label>
+          <input type="search" id="ledgerSearch" placeholder="Search book, street, or manifest ID…" aria-label="Filter ledger books">
+          <label class="inline-field">
+            <input type="checkbox" id="ledgerMultiOnly">
+            <span>Multi-section</span>
+          </label>
+          <span id="ledgerCount" class="count-badge"></span>
+        </div>
+        <div class="decade-bar" id="decadeBar" role="group" aria-label="Quick decade filter">
+          <span class="pill-label">Decade:</span>
+          <button type="button" class="pill decade-btn" data-from="1872" data-to="1954" aria-pressed="true">All (1872–1954)</button>
+          <button type="button" class="pill decade-btn" data-from="1872" data-to="1879" aria-pressed="false">1870s</button>
+          <button type="button" class="pill decade-btn" data-from="1880" data-to="1889" aria-pressed="false">1880s</button>
+          <button type="button" class="pill decade-btn" data-from="1890" data-to="1899" aria-pressed="false">1890s</button>
+          <button type="button" class="pill decade-btn" data-from="1900" data-to="1909" aria-pressed="false">1900s</button>
+          <button type="button" class="pill decade-btn" data-from="1910" data-to="1919" aria-pressed="false">1910s</button>
+          <button type="button" class="pill decade-btn" data-from="1920" data-to="1929" aria-pressed="false">1920s</button>
+          <button type="button" class="pill decade-btn" data-from="1930" data-to="1939" aria-pressed="false">1930s</button>
+          <button type="button" class="pill decade-btn" data-from="1940" data-to="1949" aria-pressed="false">1940s</button>
+          <button type="button" class="pill decade-btn" data-from="1950" data-to="1954" aria-pressed="false">1950s</button>
+        </div>
+        <p id="communityCoverageNote" class="community-note" hidden></p>
+      </div>
+
+      <!-- INTEGRATED VISUAL TIMELINE -->
+      <div class="timeline-block">
+        <div class="timeline-header">
+          <div id="timelineReadout" class="timeline-readout">Hover any book bar to preview its date, then click to open that exact page.</div>
+          <div class="timeline-controls">
+            <label class="inline-field">
+              <span>Zoom</span>
+              <input type="range" id="timelineZoom" min="1" max="3.5" step="0.25" value="1.5">
+            </label>
+          </div>
+        </div>
+        <div id="timelineViewport" class="timeline-viewport" tabindex="0" role="region" aria-label="Building permit ledgers timeline">
+          <div id="timelineCanvas" class="timeline-canvas"></div>
+        </div>
+        <details class="legend-disclosure">
+          <summary>Timeline color key &amp; historical milestones</summary>
+          <div class="timeline-legend">
+            <span class="leg-item"><i class="swatch era-pre"></i> Pre-1912 (Handwritten rows)</span>
+            <span class="leg-item"><i class="swatch era-trans"></i> 1912–1913 Transition</span>
+            <span class="leg-item"><i class="swatch era-post"></i> Post-1912 (6 forms/page)</span>
+            <span class="leg-item"><i class="swatch multi-ring"></i> Multi-section microfilm reel</span>
+          </div>
+        </details>
+      </div>
+
+      <!-- MATCHING LEDGER BOOKS TABLE -->
+      <div tabindex="0" role="region" aria-labelledby="ledgers-table-caption" class="table-wrapper">
+        <table class="data-table" id="ledgersTable">
+          <caption id="ledgers-table-caption" class="sr-only">Chicago Building Permits Ledger Books</caption>
+          <thead>
+            <tr>
+              <th scope="col">Book</th>
+              <th scope="col">Dates</th>
+              <th scope="col">Area Covered</th>
+              <th scope="col">Pages</th>
+              <th scope="col">Open</th>
+            </tr>
+          </thead>
+          <tbody id="ledgersTbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Created by <strong>Tim Blackburn</strong>, Historian, Ridge Historical Society · Thank you to the <a href="https://digital.library.uic.edu/" target="_blank" rel="noopener">University of Illinois at Chicago Library</a> for digitizing and making this microfilm available.</p>
+  </footer>
+
+  <div id="timelineTooltip" class="timeline-tooltip" role="tooltip" hidden></div>
+
+  <!-- BUILT-IN IIIF MICROFILM VIEWER DIALOG -->
+  <dialog id="viewerDialog" closedby="any" aria-labelledby="viewerTitle" class="viewer-dialog">
+    <div class="viewer-shell">
+      <header class="viewer-topbar">
+        <div class="viewer-title-block">
+          <h2 id="viewerTitle">Microfilm Viewer</h2>
+          <p id="viewerSub" class="viewer-sub"></p>
+        </div>
+        <div class="viewer-top-actions">
+          <a id="viewerUicLink" href="#" target="_blank" rel="noopener" class="btn btn-sm btn-ghost">UIC Page ↗</a>
+          <button type="button" id="viewerCloseBtn" class="btn btn-sm btn-primary" aria-label="Close microfilm viewer">✕ Close</button>
+        </div>
+      </header>
+
+      <div class="viewer-controls">
+        <div class="nav-group">
+          <button type="button" class="btn btn-sm" id="btnPrev10" title="Back 10 slides">« 10</button>
+          <button type="button" class="btn btn-sm" id="btnPrev1" title="Previous slide (Left Arrow)">‹ Prev</button>
+          <form id="slideJumpForm" class="slide-jump-inline">
+            <label>
+              <span class="sr-only">Slide number</span>
+              <input type="number" id="slideNumberInput" min="1" value="1">
+            </label>
+            <span id="slideTotalLabel" class="slide-total">/ —</span>
+            <button type="submit" class="btn btn-sm btn-primary">Go</button>
+          </form>
+          <button type="button" class="btn btn-sm" id="btnNext1" title="Next slide (Right Arrow)">Next ›</button>
+          <button type="button" class="btn btn-sm" id="btnNext10" title="Forward 10 slides">10 »</button>
+        </div>
+
+        <div class="viewer-right-tools">
+          <button type="button" class="btn btn-sm" id="btnSaveFullSlide" title="Download full microfilm slide as PNG">Save Slide</button>
+          <button type="button" class="btn btn-sm" id="btnToggleCrop" aria-pressed="false" title="Select a permit square or highlight a ledger row">Crop / Highlight</button>
+          <details class="darkroom-disclosure">
+          <summary class="btn btn-sm btn-ghost">Image Controls</summary>
+          <div class="darkroom-panel">
+            <div class="darkroom-presets" role="group" aria-label="Legibility presets">
+              <span class="preset-label">Presets:</span>
+              <button type="button" class="pill preset-btn" data-preset="normal">Normal</button>
+              <button type="button" class="pill preset-btn" data-preset="faded">Faded Ink</button>
+              <button type="button" class="pill preset-btn" data-preset="dark">Dark Scan</button>
+              <button type="button" class="pill preset-btn" data-preset="negative">Negative</button>
+              <button type="button" class="pill preset-btn" data-preset="bw">Crisp B&amp;W</button>
+            </div>
+            <div class="darkroom-group">
+              <button type="button" class="btn btn-sm" id="btnInvert" aria-pressed="false" title="Invert (I)">Invert</button>
+              <button type="button" class="btn btn-sm" id="btnGrayscale" aria-pressed="false" title="Grayscale (G)">B&amp;W</button>
+              <button type="button" class="btn btn-sm" id="btnRotate" title="Rotate 90° (R)">Rotate 90°</button>
+              <label class="slider-mini">
+                <span>Sharpen</span>
+                <input type="range" id="sharpenSlider" min="0" max="3" step="0.25" value="0">
+              </label>
+              <label class="slider-mini">
+                <span>Gamma</span>
+                <input type="range" id="gammaSlider" min="0.4" max="2.2" step="0.05" value="1">
+              </label>
+              <label class="slider-mini">
+                <span>Contrast</span>
+                <input type="range" id="contrastSlider" min="80" max="300" value="105">
+              </label>
+              <label class="slider-mini">
+                <span>Bright</span>
+                <input type="range" id="brightnessSlider" min="50" max="180" value="100">
+              </label>
+              <button type="button" class="btn btn-sm btn-ghost" id="btnResetImage">Reset</button>
+            </div>
+          </div>
+        </details>
+        </div>
+      </div>
+
+      <!-- CROP & HIGHLIGHT TOOLBAR (SHOWN WHEN CROP / HIGHLIGHT MODE IS ACTIVE) -->
+      <div id="cropToolbar" class="crop-toolbar" hidden>
+        <div class="crop-toolbar-left">
+          <span class="crop-label">Shape:</span>
+          <button type="button" class="pill crop-shape-btn" data-shape="box" aria-pressed="true">Permit Box (Post-1912 / Card)</button>
+          <button type="button" class="pill crop-shape-btn" data-shape="strip" aria-pressed="false">Row Strip (Pre-1912)</button>
+          <label class="inline-field">
+            <input type="checkbox" id="cropHighlightCheck">
+            <span>Highlight selection</span>
+          </label>
+        </div>
+        <div class="crop-toolbar-right">
+          <button type="button" class="btn btn-sm btn-open" id="btnDownloadCrop">Save Crop</button>
+          <button type="button" class="btn btn-sm btn-primary" id="btnDownloadHighlighted">Save Full Slide + Highlight</button>
+          <button type="button" class="btn btn-sm btn-ghost" id="btnCancelCrop">Done</button>
+        </div>
+      </div>
+
+      <!-- REVIEW QUEUE BAR (VISIBLE WHENEVER YOU HAVE YES/MAYBE SAVED CARDS — STAYS VISIBLE IN LEDGER VIEW TOO!) -->
+      <div id="reviewQueueBar" class="review-queue-bar" hidden>
+        <div class="review-queue-left">
+          <button type="button" class="btn btn-sm" id="btnQueuePrev" title="Previous Yes/Maybe card">‹ Prev Card</button>
+          <span id="reviewQueueStatus" class="review-queue-status"></span>
+          <button type="button" class="btn btn-sm" id="btnQueueNext" title="Next Yes/Maybe card">Next Card ›</button>
+        </div>
+        <div id="reviewQueueNotePreview" class="review-queue-note"></div>
+      </div>
+
+      <div class="viewer-stage-wrap" id="viewerStageWrap">
+        <div id="osdStage" class="osd-stage" aria-label="Zoomable microfilm image"></div>
+        <div id="cropOverlay" class="crop-overlay" hidden>
+          <div id="cropBox" class="crop-box" tabindex="0" aria-label="Selection box (drag to move, drag corners to resize)">
+            <span class="crop-handle nw" data-handle="nw"></span>
+            <span class="crop-handle ne" data-handle="ne"></span>
+            <span class="crop-handle sw" data-handle="sw"></span>
+            <span class="crop-handle se" data-handle="se"></span>
+          </div>
+        </div>
+        <div id="viewerStatus" class="viewer-status" hidden></div>
+      </div>
+
+      <footer class="viewer-footer">
+        <div class="scrubber-row">
+          <input type="range" id="slideScrubber" min="1" max="100" value="1" aria-label="Scrub through microfilm roll">
+        </div>
+
+        <!-- TAG & NOTE BAR FOR STREET INDEX CARDS -->
+        <div id="cardTagBar" class="card-tag-bar" hidden>
+          <div class="tag-btn-group" role="group" aria-label="Tag this index card">
+            <span class="tag-label">Save card:</span>
+            <button type="button" class="pill tag-btn tag-yes" data-tag="yes" aria-pressed="false" title="Mark Yes (Y)">✓ Yes</button>
+            <button type="button" class="pill tag-btn tag-maybe" data-tag="maybe" aria-pressed="false" title="Mark Maybe (M)">? Maybe</button>
+            <button type="button" class="pill tag-btn tag-no" data-tag="no" aria-pressed="false" title="Mark No (N)">✕ No</button>
+          </div>
+          <input type="text" id="cardNoteInput" class="card-note-input" placeholder="Add note for this card (e.g. 1929 house, S. 47 p. 2)…" aria-label="Notes for this index card">
+        </div>
+
+        <!-- SMART CARD -> LEDGER HANDOFF BAR (SUPPORTS BOTH BOOK+PAGE AND PERMIT DATE!) -->
+        <div id="cardHandoffBar" class="card-handoff-bar" hidden>
+          <div class="handoff-top">
+            <span class="handoff-label">Found your card? Open the Permit Ledger:</span>
+            <div class="handoff-mode-switch" role="group" aria-label="Ledger jump method">
+              <button type="button" class="pill handoff-mode-btn" data-hmode="bookpage" aria-pressed="true">By Book &amp; Page</button>
+              <button type="button" class="pill handoff-mode-btn" data-hmode="date" aria-pressed="false">By Permit Date</button>
+            </div>
+          </div>
+
+          <form id="viewerLedgerHandoff" class="handoff-form" data-hpanel="bookpage">
+            <select id="handoffBookSelect" aria-label="Ledger book (number or letter and direction)"></select>
+            <input type="number" id="handoffPageNum" min="1" max="800" placeholder="Page #" aria-label="Ledger page number from card">
+            <button type="submit" class="btn btn-sm btn-open">Open Ledger ↗</button>
+          </form>
+
+          <form id="viewerDateHandoff" class="handoff-form" data-hpanel="date" hidden>
+            <input type="date" id="handoffDate" min="1872-02-21" max="1954-06-30" aria-label="Permit date from index card" required>
+            <select id="handoffSide" aria-label="Side of Chicago">
+              <option value="ALL">Any side of Chicago</option>
+              <option value="South">South</option>
+              <option value="Southwest">Southwest</option>
+              <option value="West">West</option>
+              <option value="Northwest">Northwest</option>
+              <option value="North">North</option>
+              <option value="Central">Central / Loop</option>
+              <option value="Hyde Park">Hyde Park</option>
+              <option value="Lake">Town of Lake</option>
+              <option value="Lake View">Lake View</option>
+            </select>
+            <button type="submit" class="btn btn-sm btn-open">Find &amp; Open Ledger ↗</button>
+          </form>
+          <div id="handoffDateMatches" class="handoff-matches" hidden></div>
+        </div>
+
+        <div id="anchorStripWrap" class="anchor-strip-wrap" hidden>
+          <span class="anchor-strip-label">Known Dates:</span>
+          <div id="viewerAnchors" class="anchor-strip"></div>
+        </div>
+        <div class="attribution-row">
+          <span>Source: <a href="https://digital.library.uic.edu/" target="_blank" rel="noopener">UIC Library Digital Collections</a> · Keys: <code>←</code>/<code>→</code> (±1), <code>Shift+←/→</code> (±10), <code>I</code> invert, <code>G</code> B&amp;W, <code>R</code> rotate</span>
+          <span><code id="viewerMetaCode"></code> · <a id="viewerArkLink" href="#" target="_blank" rel="noopener">Archival Permalink</a></span>
+        </div>
+      </footer>
+    </div>
+  </dialog>
+
+  <!-- Inline SVG filter for GPU-accelerated microfilm gamma & unsharp-mask sharpening -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <defs>
+      <filter id="microfilmEnhance" color-interpolation-filters="sRGB">
+        <feComponentTransfer>
+          <feFuncR id="gammaR" type="gamma" amplitude="1" exponent="1" offset="0"/>
+          <feFuncG id="gammaG" type="gamma" amplitude="1" exponent="1" offset="0"/>
+          <feFuncB id="gammaB" type="gamma" amplitude="1" exponent="1" offset="0"/>
+        </feComponentTransfer>
+        <feConvolveMatrix id="sharpenKernel" order="3" kernelMatrix="0 0 0 0 1 0 0 0 0" preserveAlpha="true"/>
+      </filter>
+    </defs>
+  </svg>
+</body>
+</html>

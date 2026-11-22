@@ -1,0 +1,2225 @@
+{
+  "collection_id": "31",
+  "collection_url": "https://digital.library.uic.edu/iiif/collection/31",
+  "harvested_at": "2026-11-21T15:35:47.262581+00:00",
+  "total_items": 246,
+  "ledger_book_count": 90,
+  "street_index_count": 138,
+  "other_count": 18,
+  "items": [
+    {
+      "page_num": 1,
+      "page_pos": 1,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3794137q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3794137q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3794137q",
+      "title": "Chicago Building Permit collection street index, reel 45: Hermosa Avenue 11337 South to Honore Street 4945 South"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 2,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3br8mr38",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3br8mr38",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3br8mr38",
+      "title": "Chicago Building Permits, Book 46, West: May 6, 1929 - Jul 12, 1939"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 3,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3707wx8b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3707wx8b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3707wx8b",
+      "title": "Chicago Building Permits, Book 45, South:Mar 9, 1928 - Apr 19, 1929"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 4,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3vd6pf02",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3vd6pf02",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3vd6pf02",
+      "title": "Chicago Building Construction Data, Book 1. 1917-1918 and July 1919."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 5,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3qn5zm7s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qn5zm7s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qn5zm7s",
+      "title": "Chicago Building Construction Data, Book 2. August 1919 - October 1921."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 6,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3kw57t2j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kw57t2j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kw57t2j",
+      "title": "Chicago Building Construction Data, Book 3.  November 1921 - December, 1922."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 7,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3g44j071",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3g44j071",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3g44j071",
+      "title": "Chicago Building Construction Data, Book 4. 1923."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 8,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3bc3t62d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3bc3t62d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bc3t62d",
+      "title": "Chicago Building Construction Data, Book 5. 1924."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 9,
+      "kind": "other",
+      "ark_id": "ark:/81984/d36m33c9h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36m33c9h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36m33c9h",
+      "title": "Chicago Building Construction Data, Book 6. 1925."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 10,
+      "kind": "other",
+      "ark_id": "ark:/81984/d32z12z8p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32z12z8p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32z12z8p",
+      "title": "Chicago Fire Reports 1933-1945"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 11,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3rn30h6x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rn30h6x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rn30h6x",
+      "title": "Chicago Fire Reports 1945-1951"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 12,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3mw28q2s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mw28q2s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mw28q2s",
+      "title": "Chicago Fire Reports, September 1951-March 1956."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 13,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3h41jw8b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3h41jw8b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3h41jw8b",
+      "title": "Chicago Fire Reports, April 1956-February 1957. Book #3."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 14,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3cc0v334",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3cc0v334",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3cc0v334",
+      "title": "Chicago Fire Reports, February 1957-December 1957. Book #4."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 15,
+      "kind": "other",
+      "ark_id": "ark:/81984/d37m04888",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37m04888",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37m04888",
+      "title": "Chicago Fire Reports, January 1958-July 1958. Book #5."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 16,
+      "kind": "other",
+      "ark_id": "ark:/81984/d33t9dg52",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33t9dg52",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33t9dg52",
+      "title": "Chicago Fire Reports, July 1958-Jun 1959. Book #6."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 17,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3057d24z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3057d24z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3057d24z",
+      "title": "Chicago Building Dept Fire Reports, June 1959-July 1960. Book #7."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 18,
+      "kind": "other",
+      "ark_id": "ark:/81984/d34t6fc4t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34t6fc4t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34t6fc4t",
+      "title": "Chicago Building Dept Fire Reports, August 1960-Jan 1962. Book #8."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 19,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3125qk1g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3125qk1g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3125qk1g",
+      "title": "Chicago Building Dept Fire Reports, January 1962-May 1965. Book #9."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 20,
+      "kind": "other",
+      "ark_id": "ark:/81984/d3wd3q996",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3wd3q996",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3wd3q996",
+      "title": "Chicago Building Dept Fire Reports, May 1965-Nov 22, 1966. Book #10."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 21,
+      "kind": "other",
+      "ark_id": "ark:/81984/d38k7558z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d38k7558z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38k7558z",
+      "title": "Chicago Building Dept Fire Reports, Nov 22, 1966-Dec 4, 1968."
+    },
+    {
+      "page_num": 1,
+      "page_pos": 22,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3j38ks81",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3j38ks81",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3j38ks81",
+      "title": "Chicago Building Permits, Book A, Chicago: Feb 21, 1872 - July 20, 1875"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 23,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3db7w049",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3db7w049",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3db7w049",
+      "title": "Chicago Building Permits, Book B, Chicago: July 20 1875 - Dec 31 1878"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 24,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d35t3g842",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35t3g842",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35t3g842",
+      "title": "Chicago Building Permits, Book C, Chicago: Jan 1 1879 - Dec 31 1881"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 25,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3222rg07",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3222rg07",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3222rg07",
+      "title": "Chicago Building Permits, Book D, Chicago: Jan 1 1882 - Sep 17 1885"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 26,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3x921t63",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3x921t63",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x921t63",
+      "title": "Chicago Building Permits, Book E, Chicago: Sep 17 1885 - Sep 30 1888"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 27,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3sn01d3q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3sn01d3q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sn01d3q",
+      "title": "Chicago Building Permits, Book F, Northwest and Southwest: Oct 1,1888 - Jul 21,1891"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 28,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3nv99m0h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3nv99m0h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nv99m0h",
+      "title": "Chicago Building Permits, Book G, Hyde Park and Lakeview: Mar 1890 - Dec 3 1891"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 29,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d39k4629p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39k4629p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39k4629p",
+      "title": "Chicago Building Permits, Book H, Northwest and Southwest: Jul 1891 - Apr 1894"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 30,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3fb4ww3n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3fb4ww3n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3fb4ww3n",
+      "title": "Chicago Building Permits, Book I, Hyde Park, Lake View, Lake: Jan 1892-Jun 1893"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 31,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3k35mp69",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3k35mp69",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3k35mp69",
+      "title": "Chicago Building Permits, Book J, North and South: Jul 1893-Dec 1894"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 32,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3pv6bg9n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pv6bg9n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pv6bg9n",
+      "title": "Chicago Building Permits, Book Q, Northwest and Southwest: Aug 1901-July 1904"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 33,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d31n7xw9g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31n7xw9g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31n7xw9g",
+      "title": "Chicago Building Permits, South and North: Jan 2, 1909 - Dec 31, 1910"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 34,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3dv1cx7j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3dv1cx7j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3dv1cx7j",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 2, 1909 - Dec 31, 1910"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 35,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3930p44m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3930p44m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3930p44m",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 5, 1911 - Dec 31, 1912"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 36,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3zw1924c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3zw1924c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zw1924c",
+      "title": "Chicago Building Permits, Book 1, North: Nov 25, 1911 - Mar 13, 1913"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 37,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3b27q13t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3b27q13t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3b27q13t",
+      "title": "Chicago Building Permits, Book 6, South: Jan 2, 1913 - Nov 5, 1913"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 38,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3697070j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3697070j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3697070j",
+      "title": "Chicago Building Permits, Book 7, West: Oct 9, 1913 - Feb 2, 1916"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 39,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3rb6wb6g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rb6wb6g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rb6wb6g",
+      "title": "Chicago Building Permits, Book 12, North: Jul 23, 1915 - Aug 8, 1916"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 40,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3mk65j2q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mk65j2q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mk65j2q",
+      "title": "Chicago Building Permits, Book 14, South: Oct 26, 1914 - Nov 3, 1915"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 41,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3gt5fq8z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gt5fq8z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gt5fq8z",
+      "title": "Chicago Building Permits, Book 15, North: Aug 8, 1916 - Dec 23, 1919"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 42,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d31r6n91b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31r6n91b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31r6n91b",
+      "title": "Chicago Building Permits, Book 32, West: Jul 3, 1924 - Jun 12, 1925"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 43,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3x05xn74",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3x05xn74",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x05xn74",
+      "title": "Chicago Building Permits, Book 33, North: Jan 13, 1925 - May 12, 1926 and South: Apr 15, 1925 - Apr 21, 1925"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 44,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3t727r24",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3t727r24",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3t727r24",
+      "title": "Chicago Building Permits, Book 34, South: Sep 18, 1924 - Apr 14, 1925"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 45,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3pk07b1q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pk07b1q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pk07b1q",
+      "title": "Chicago Building Permits, Book 35, West: Jun 12, 1925 - Jun 14, 1926"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 46,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3gx45419",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gx45419",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gx45419",
+      "title": "Chicago Building Permits, Book 51, Citywide: Nov 8, 1940 - Jul 23, 1941"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 47,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3c824q0s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3c824q0s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3c824q0s",
+      "title": "Chicago Building Permits, Book 52, Citywide: Jul 23, 1941 - Apr 6, 1942"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 48,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3sf2mm91",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3sf2mm91",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sf2mm91",
+      "title": "Chicago Building Permits, Book 53, Citywide: Apr 7, 1942 - Jan 13,1944"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 49,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3gb1xs1x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gb1xs1x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gb1xs1x",
+      "title": "Chicago Building Permits, Book K, Northwest and Southwest: May 1894-Dec 1897"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 50,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3bk16z9h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3bk16z9h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bk16z9h",
+      "title": "Chicago Building Permits, Book L, North and South: Jan 1895-Dec 1897"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 51,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d36t0h55s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36t0h55s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36t0h55s",
+      "title": "Chicago Building Permits, Book M, Northwest and Southwest: Jan 1895-Dec 1897"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 52,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3319sc0x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3319sc0x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3319sc0x",
+      "title": "Chicago Building Permits, Book N, North and South: Jan 1898-Jul 1901"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 53,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3z892q59",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3z892q59",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z892q59",
+      "title": "Chicago Building Permits, Book O, Northwest: Jan 1898-Jul 1901"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 54,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3th8bx2n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3th8bx2n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3th8bx2n",
+      "title": "Chicago Building Permits, Book P, North and South: Aug 1901-Jun 1904"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 55,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3m03z656",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3m03z656",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3m03z656",
+      "title": "Chicago Building Permits, Book R, North and South: Jul 1904-Dec 1906"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 56,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d35d8nq2r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35d8nq2r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35d8nq2r",
+      "title": "Chicago Building Permits, South and North: Jan 2, 1907 - Dec 31, 1908"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 57,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3t43jc1s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3t43jc1s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3t43jc1s",
+      "title": "Chicago Building Permits, South and North: Jan 3, 1911 - Dec 31, 1912"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 58,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3pc2tj71",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pc2tj71",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pc2tj71",
+      "title": "Chicago Building Permits, Southwest & Northwest: Jan 3, 1911 - Dec 31, 1912"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 59,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3jm23r2s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3jm23r2s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jm23r2s",
+      "title": "Chicago Building Permits, Southwest & Northwest Jan 2, 1907 - Dec 31, 1908"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 60,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3v40k811",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3v40k811",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3v40k811",
+      "title": "Chicago Building Permits, Book 2, West: Nov 25, 1911 - Oct 9, 1913"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 61,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3qb9vf7q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qb9vf7q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qb9vf7q",
+      "title": "Chicago Building Permits, Book 3, South: Nov 25, 1911 - Oct 25, 1912"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 62,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3kk94n3z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kk94n3z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kk94n3z",
+      "title": "Chicago Building Permits, Book 4, Central:  Nov 28, 1911 - Apr 22, 1920 and South: Oct 24, 1912 - Dec 31 1912"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 63,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3ft8dt8q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3ft8dt8q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ft8dt8q",
+      "title": "Chicago Building Permits, Book 5, North: March 14, 1913 - May 11, 1914"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 64,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d32n4zs9q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32n4zs9q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32n4zs9q",
+      "title": "Chicago Building Permits, Book 9, North: May 11, 1914 - Jul 22, 1915"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 65,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3xw4855m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3xw4855m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xw4855m",
+      "title": "Chicago Building Permits, Book 10, West: Feb 2, 1916 - Nov 6, 1919"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 66,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3w37m494",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3w37m494",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3w37m494",
+      "title": "Chicago Building Permits, Book 11, South: Nov 5, 1913 - Oct 24, 1914"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 67,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3c24qx3n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3c24qx3n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3c24qx3n",
+      "title": "Chicago Building Permits, Book 16, South: Nov 4, 1915 - Oct 27, 1916"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 68,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d37941386",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37941386",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37941386",
+      "title": "Chicago Building Permits, Book 19, South: Oct 27, 1916 - Mar 6, 1919"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 69,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d33j3995j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33j3995j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33j3995j",
+      "title": "Chicago Building Permits, Book 20, South: Mar 6, 1919 - Feb 15, 1921"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 70,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3sb3x757",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3sb3x757",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sb3x757",
+      "title": "Chicago Building Permits, Book 21, West: Nov 12, 1919 - Apr 17, 1922"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 71,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3nk36f2z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3nk36f2z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nk36f2z",
+      "title": "Chicago Building Permits, Book 22, North: Dec 26, 1919 - Apr 17, 1922 and South: Apr 4, 1922 - Apr 17, 1922"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 72,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3ht2gm9p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3ht2gm9p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ht2gm9p",
+      "title": "Chicago Building Permits, Book 23, South: Feb 16, 1921 - Apr 4, 1922"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 73,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3d21rt5v",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3d21rt5v",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3d21rt5v",
+      "title": "Chicago Building Permits, Book 24, West: Apr 18, 1922 - Jun 19, 1923"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 74,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d38912101",
+      "ark_permalink": "https://n2t.net/ark:/81984/d38912101",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38912101",
+      "title": "Chicago Building Permits, Book 25, North: Apr 18, 1922 -  Sep 26, 1923"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 75,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d34j0b65s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34j0b65s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34j0b65s",
+      "title": "Chicago Building Permits, Book 26, South: Apr 18, 1922 - Jan 12, 1923"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 76,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d30r9md2k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d30r9md2k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30r9md2k",
+      "title": "Chicago Building Permits, Book 27, Central: Apr 18, 1922 - Aug 13, 1926 and South: Jan 13, 1922 - Jul 30, 1923"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 77,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d35h7c36z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35h7c36z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35h7c36z",
+      "title": "Chicago Building Permits, Book 31, South: Mar 19, 1924 - Sep 18, 1924"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 78,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3kp7v15t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kp7v15t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kp7v15t",
+      "title": "Chicago Building Permits, Book 36, South: Apr 21, 1925 - Oct 29, 1925"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 79,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3g15tm3t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3g15tm3t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3g15tm3t",
+      "title": "Chicago Building Permits, Book 37, South: Oct 29, 1926 - Jun 14, 1926"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 80,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3b853t0j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3b853t0j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3b853t0j",
+      "title": "Chicago Building Permits, Book 38, North: May 12, 1926 - Jan 2, 1928"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 81,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d36h4d066",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36h4d066",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36h4d066",
+      "title": "Chicago Building Permits, Book 39, West: Jun 16, 1926 - Aug 5, 1927"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 82,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d32r3p61k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32r3p61k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32r3p61k",
+      "title": "Chicago Building Permits, Book 40, Central: Aug 20, 1926 - Dec 29, 1939"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 83,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3z02zj5d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3z02zj5d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z02zj5d",
+      "title": "Chicago Building Permits, Book 41, South: Jul 14, 1926 - Apr 8, 1927"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 84,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3qf8jt82",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qf8jt82",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qf8jt82",
+      "title": "Chicago Building Permits, Book 42, West: Aug 4, 1927 - May 6, 1929"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 85,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d37h1dw7h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37h1dw7h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37h1dw7h",
+      "title": "Chicago Building Permits, Book 43, South: Apr 8, 1927 - Mar 8, 1928"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 86,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d33r0q33s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33r0q33s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33r0q33s",
+      "title": "Chicago Building Permits, Book 44, North: Jan 4, 1928 - Feb 1, 1933"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 87,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3000087r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3000087r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3000087r",
+      "title": "Chicago Building Permits, Book 47, South: Apr 19, 1929 - Jul 31, 1933"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 88,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3v698n1b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3v698n1b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3v698n1b",
+      "title": "Chicago Building Permits, Book 48, North: Mar 3, 1933 - Apr 7, 1939"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 89,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3rf5kq89",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rf5kq89",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rf5kq89",
+      "title": "Chicago Building Permits, Book 49, South: Jul 5, 1933 - Jan 20, 1939"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 90,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3mp4vx45",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mp4vx45",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mp4vx45",
+      "title": "Chicago Building Permits, Book 50, Citywide: Jan 2, 1940 - Nov 8, 1940"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 91,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3np1wt4d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3np1wt4d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3np1wt4d",
+      "title": "Chicago Building Permits, Book 54, Citywide: Jan 13, 1944 - Jul 18, 1945"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 92,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3hx1609z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3hx1609z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3hx1609z",
+      "title": "Chicago Building Permits, Book 55, Citywide:Jul 18, 1945 - Mar 15, 1946"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 93,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3d50g66m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3d50g66m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3d50g66m",
+      "title": "Chicago Building Permits, Book 56, Citywide: Mar 15, 946 - Feb 19, 1947"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 94,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3js9hh8w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3js9hh8w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3js9hh8w",
+      "title": "Chicago Building Permits, Book 28, West: Jun 19, 1923 - Jul 3, 1924"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 95,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3f18sq5j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3f18sq5j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3f18sq5j",
+      "title": "Chicago Building Permits, Book 29, North: Sep 27, 1923 - Jan 12, 1925"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 96,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d39882x1s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39882x1s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39882x1s",
+      "title": "Chicago Building Permits, Book 30, South: Jul 31, 1923 - Mar 19, 1924"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 97,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d38g8fs6q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d38g8fs6q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38g8fs6q",
+      "title": "Chicago Building Permits, Book 57, Citywide: Feb 19, 1947 - Oct 16, 1947"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 98,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d34q7r03g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34q7r03g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34q7r03g",
+      "title": "Chicago Building Permits, Book 58, Citywide: Oct 16, 1947 - Jul 19, 1948"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 99,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d30z71593",
+      "ark_permalink": "https://n2t.net/ark:/81984/d30z71593",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30z71593",
+      "title": "Chicago Building Permits, Book 59, Citywide: Jul 19, 1948 - May 16, 1949"
+    },
+    {
+      "page_num": 1,
+      "page_pos": 100,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3w669j3j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3w669j3j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3w669j3j",
+      "title": "Chicago Building Permits, Book 60, Citywide: May 16, 1949 - Dec 28, 1949"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 1,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d35q4rw2t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35q4rw2t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35q4rw2t",
+      "title": "Chicago Building Permits, Book 61, Citywide: Dec 29, 1949 - Jun 30, 1950"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 2,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d31z4230f",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31z4230f",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31z4230f",
+      "title": "Chicago Building Permits, Book 62, Citywide: Jun 30, 1950 - Dec 5, 1950"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 3,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3x63bf5r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3x63bf5r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3x63bf5r",
+      "title": "Chicago Building Permits, Book 63, Citywide: Dec 6, 1950 - Jul 11, 1951"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 4,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3td9nj0t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3td9nj0t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3td9nj0t",
+      "title": "Chicago Building Permits, Book 64, Citywide: Jul 11, 1951 -Mar 10, 1952"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 5,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3pn8xq62",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pn8xq62",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pn8xq62",
+      "title": "Chicago Building Permits, Book 65, Citywide: Mar 10, 1952 - Sep 19, 1952"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 6,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3jw86x1t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3jw86x1t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jw86x1t",
+      "title": "Chicago Building Permits, Book 66, Citywide: Sep 19, 1952 - Apr 24, 1953"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 7,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3f47h369",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3f47h369",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3f47h369",
+      "title": "Chicago Building Permits, Book 67, Citywide: Apr 24, 1953 - Sep 22, 1953"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 8,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d39c6s93n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39c6s93n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39c6s93n",
+      "title": "Chicago Building Permits, Book 68, Citywide: Sep 22, 1953 - Apr 9, 1954"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 9,
+      "kind": "ledger_book",
+      "ark_id": "ark:/81984/d3z60cb4h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3z60cb4h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z60cb4h",
+      "title": "Chicago Building Permits, Book 69, Citywide: Apr 9, 1954 - Jun 30, 1954"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 10,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3mg7g61t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mg7g61t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mg7g61t",
+      "title": "Chicago Building Permit collection street index, reel 55: Kildare Avenue 2805 South to Martin L. King Drive. 3357-65 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 11,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3gt5fr8d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gt5fr8d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gt5fr8d",
+      "title": "Chicago Building Permit collection street index, reel 54: Kennicott Avenue 4708 North to Kildare Avenue 2805 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 12,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3c24qz4k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3c24qz4k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3c24qz4k",
+      "title": "Chicago Building Permit collection street index, reel 53: Keeler Avenue 1917 North to Kennicott Avenue 4706 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 13,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d33j39b50",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33j39b50",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33j39b50",
+      "title": "Chicago Building Permit collection street index, reel 51: Karlov Avenue 1253 South to Kedvale Avenue 6755 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 14,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3zs2kq13",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3zs2kq13",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zs2kq13",
+      "title": "Chicago Building Permit collection street index, reel 50: Jackson Blvd. 4231 West to Karlov Avenue 1251 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 15,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3v11vw84",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3v11vw84",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3v11vw84",
+      "title": "Chicago Building Permit collection street index, reel 49: Iowa Street 2725 West to Jackson Blvd. 4230 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 16,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3qb9vg75",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qb9vg75",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qb9vg75",
+      "title": "Chicago Building Permit collection street index, reel 48: Independence Blvd. 1210 to Iowa Street 2723 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 17,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3kk94p4w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kk94p4w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kk94p4w",
+      "title": "Chicago Building Permit collection street index, reel 47: Hoyne Avenue 8417 South to Independence Blvd. 1208"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 18,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d37941494",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37941494",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37941494",
+      "title": "Chicago Building Permit collection street index, reel 52: Kedvale Avenue 6758 South to Keeler Avenue 1914 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 19,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3ft8dw0r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3ft8dw0r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ft8dw0r",
+      "title": "Chicago Building Permit collection street index, reel 46: Honore Street 4949 South to Hoyne Avenue 8416 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 20,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3b27q257",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3b27q257",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3b27q257",
+      "title": "Chicago Building Permit collection street index, reel 44: Haskins Avenue 7720-30 North to Hermosa Avenue 11336 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 21,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3697081g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3697081g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3697081g",
+      "title": "Chicago Building Permit collection street index, reel 43: Harding Avenue 3031 South to Harvard Avenue 12456 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 22,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d32j68f7q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32j68f7q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32j68f7q",
+      "title": "Chicago Building Permit collection street index, reel 42: Hamilton Avenue 3329 North to Harding Avenue 3030 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 23,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3xs5jt3t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3xs5jt3t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xs5jt3t",
+      "title": "Chicago Building Permit collection street index, reel 41: Halsted Street 1733 North to Hamilton Avenue 3328 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 24,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3t43jd17",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3t43jd17",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3t43jd17",
+      "title": "Chicago Building Permit collection street index, reel 40: Greenwood Avenue 6515 to Halsted Street 1730-32 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 25,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3pc2tk8z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pc2tk8z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pc2tk8z",
+      "title": "Chicago Building Permit collection street index, reel 39: Grand Avenue 5751 West to Greenwood Avenue 6513"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 26,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3jm23s46",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3jm23s46",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jm23s46",
+      "title": "Chicago Building Permit collection street index, reel 38: Gladys Avenue 5263 West to Grand Avenue 5750 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 27,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3dv1cz9z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3dv1cz9z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3dv1cz9z",
+      "title": "Chicago Building Permit collection street index, reel 37: Fullerton Avenue 5811 West to Gladys Avenue 5261 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 28,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3930p55j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3930p55j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3930p55j",
+      "title": "Chicago Building Permit collection street index, reel 36: Francisco Avenue 4330 South to Fullerton Avenue 5809 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 29,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3599zc2b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3599zc2b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3599zc2b",
+      "title": "Chicago Building Permit collection street index, reel 35: Fletcher Street 709 West to Francisco Avenue 4329 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 30,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3ww7795t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3ww7795t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3ww7795t",
+      "title": "Chicago Building Permit collection street index, reel 33: Evans Avenue 4629 South to Fairfield Avenue 7212 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 31,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3s46hh2g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3s46hh2g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3s46hh2g",
+      "title": "Chicago Building Permit collection street index, reel 32: Emerald Avenue 7800 South to Evans Avenue 4623 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 32,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3nc5sp77",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3nc5sp77",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nc5sp77",
+      "title": "Chicago Building Permit collection street index, reel 31: Ellis Avenue 4052 South to Emerald Avenue 7754-6 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 33,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3hm52w20",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3hm52w20",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3hm52w20",
+      "title": "Chicago Building Permit collection street index, reel 30: Edbrooke Avenue 9947 South to Ellis Avenue 4051-53 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 34,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3cv4c28n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3cv4c28n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3cv4c28n",
+      "title": "Chicago Building Permit collection street index, reel 29: Drake Avenue 3917 North to Eberhart Avenue 11127 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 35,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3833n84t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3833n84t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3833n84t",
+      "title": "Chicago Building Permit collection street index, reel 28: Division Street 1500 West to Drake Avenue 3915 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 36,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d34b2xg15",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34b2xg15",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34b2xg15",
+      "title": "Chicago Building Permit collection street index, reel 27: Denvir Avenue 512 South to Division Street 1456 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 37,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d30p0x217",
+      "ark_permalink": "https://n2t.net/ark:/81984/d30p0x217",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30p0x217",
+      "title": "Chicago Building Permit collection street index, reel 26: Dante Avenue 5456-8 South to Deming 6649 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 38,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d31j97j9f",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31j97j9f",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31j97j9f",
+      "title": "Chicago Building Permit collection street index, reel 34: Fairfield Avenue 7216 South to Fitch Avenue 7341 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 39,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3vx06d6m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3vx06d6m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3vx06d6m",
+      "title": "Chicago Building Permit collection street index, reel 25: Cumberland Road 3633 North to Damen Avenue 10057 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 40,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3r49gm1r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3r49gm1r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3r49gm1r",
+      "title": "Chicago Building Permit collection street index, reel 24: Cottage Grove Avenue 5559 South Cullom Avenue 5948 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 41,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3mc8rs6h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mc8rs6h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mc8rs6h",
+      "title": "Chicago Building Permit collection street index, reel 23: Congress 4731 West to Cottage Grove Avenue 5549 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 42,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3gm82025",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gm82025",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gm82025",
+      "title": "Chicago Building Permit collection street index, reel 22: Clybourn Avenue 1867 North to Congress 4733 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 43,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3bv7b59w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3bv7b59w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bv7b59w",
+      "title": "Chicago Building Permit collection street index, reel 21: Clark Street 1214 North to Clybourn Avenue 1865-71 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 44,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3736mc6j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3736mc6j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3736mc6j",
+      "title": "Chicago Building Permit collection street index, reel 20: Cicero Avenue 3622-24 North to Clark Street 1214 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 45,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d33f4kz66",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33f4kz66",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33f4kz66",
+      "title": "Chicago Building Permit collection street index, reel 19: Chicago Avenue 3635 West to Cicero Avenue 3622 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 46,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3tx35h5w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3tx35h5w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3tx35h5w",
+      "title": "Chicago Building Permit collection street index, reel 17: Central Avenue 4028-32 North to Cermak Road 4100 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 47,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3q52fq0k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3q52fq0k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3q52fq0k",
+      "title": "Chicago Building Permit collection street index, reel 16: Carmen Avenue 1626 West to Central Avenue 4024 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 48,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3kd1qw6t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kd1qw6t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kd1qw6t",
+      "title": "Chicago Building Permit collection street index reel 15: Calumet Avenue 9725 South to Carmen Avenue 1625 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 49,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3fn1132g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3fn1132g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3fn1132g",
+      "title": "Chicago Building Permit collection street index, reel 14: California Avenue 1323 South to Calumet Avenue 9725 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 50,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d36688v84",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36688v84",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36688v84",
+      "title": "Chicago Building Permit collection street index, reel 12: Bloomingdale Avenue 5234 West to Broadway 6138-40 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 51,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d32f7k24d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32f7k24d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32f7k24d",
+      "title": "Chicago Building Permit collection street index, reel 11: Bernard Street 5331 North to Bloomingdale Avenue 5231 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 52,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3xp6vd8x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3xp6vd8x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xp6vd8x",
+      "title": "Chicago Building Permit collection street index, reel 10: Belle Plaine Avenue 2132 West to Bernard Street 5329 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 53,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3sx64m45",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3sx64m45",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sx64m45",
+      "title": "Chicago Building Permit collection street index reel 9: Balmoral 7330 West to Belle Plaine Avenue 2131 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 54,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3p55dt0b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3p55dt0b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3p55dt0b",
+      "title": "Chicago Building Permit collection street index, reel 8: Avenue L 10239 South to Balmoral 7330 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 55,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3jd4q060",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3jd4q060",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3jd4q060",
+      "title": "Chicago Building Permit collection street index, reel 7: Ashland Avenue 9255 South to Avenue \"L\" 10238 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 56,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3dn40627",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3dn40627",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3dn40627",
+      "title": "Chicago Building Permit collection street index, reel 6: Ashland Avenue 2449 North to Ashland Avenue 9254 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 57,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3901zs39",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3901zs39",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3901zs39",
+      "title": "Chicago Building Permit collection street index, reel 5: Artesian Avenue 4254 South to Ashland Avenue 2449 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 58,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3zp3wb0r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3zp3wb0r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zp3wb0r",
+      "title": "Chicago Building Permit collection street index, reel 18: Cermak Road 4101 West to Chicago Avenue 3634-6 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 59,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d39w09896",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39w09896",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39w09896",
+      "title": "Chicago Building Permit collection street index, reel 13: Broadway 6140 North to California Avenue 1323 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 60,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d35717z8f",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35717z8f",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35717z8f",
+      "title": "Chicago Building Permit collection street index, reel 4: Archer Avenue 4332-4 South to Artesian Avenue 4252 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 61,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d31g0j537",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31g0j537",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31g0j537",
+      "title": "Chicago Building Permit collection street index, reel 3: Albany Avenue 2358 South to Archer Avenue 4330 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 62,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3wp9th8p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3wp9th8p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3wp9th8p",
+      "title": "Chicago Building Permit collection street index, reel 2: Adams Street 4213 West to Albany Avenue 2356 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 63,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3rx93q4x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rx93q4x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rx93q4x",
+      "title": "Chicago Building Permit collection street index, reel 1: Abbott 9041-51 South to Adams Street 4213 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 64,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3n58cx03",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3n58cx03",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3n58cx03",
+      "title": "Chicago Building Permit collection street index, reel 138: 114th Place 141 East to 138th Street 2701 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 65,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3hd7p377",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3hd7p377",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3hd7p377",
+      "title": "Chicago Building Permit collection street index, reel 137: 107th Street 2714 West to 114th Place 137 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 66,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3cr5np6d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3cr5np6d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3cr5np6d",
+      "title": "Chicago Building Permit collection street index, reel 136: 100th Street 51 East to 107th Street 2711 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 67,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3804xw2k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3804xw2k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3804xw2k",
+      "title": "Chicago Building Permit collection street index, reel 135: 88th Street 742 East to 100th Street 47 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 68,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d34747274",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34747274",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34747274",
+      "title": "Chicago Building Permit collection street index, reel 134: 79th Street 3002 East to 88th Street 740 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 69,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d30g3h830",
+      "ark_permalink": "https://n2t.net/ark:/81984/d30g3h830",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30g3h830",
+      "title": "Chicago Building Permit collection street index, reel 133: 72nd Place 1473 West to 79th Street 3000 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 70,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3qz22t5q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qz22t5q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qz22t5q",
+      "title": "Chicago Building Permit collection street index, reel 131: 63rd Street 2415 West to 68th Street 1442-8 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 71,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3m61c12s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3m61c12s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3m61c12s",
+      "title": "Chicago Building Permit collection street index, reel 130: 60th Street 3916 West to 63rd Street 2413 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 72,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3gh9bm0x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gh9bm0x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gh9bm0x",
+      "title": "Chicago Building Permit collection street index, reel 129: 55th Street 2655 West to 60th Srreet 3912 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 73,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3br8ms5p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3br8ms5p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3br8ms5p",
+      "title": "Chicago Building Permit collection street index, reel 128: 48th Place 440 East 55th Street 2653 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 74,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3707x00s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3707x00s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3707x00s",
+      "title": "Chicago Building Permit collection street index, reel 127: 43rd Street 643 West to 48th Place 438 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 75,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3zg6gj11",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3zg6gj11",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zg6gj11",
+      "title": "Chicago Building Permit collection street index, reel 125: 26th Place 4234 West to 35th Street 1856 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 76,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3tq5rq8r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3tq5rq8r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3tq5rq8r",
+      "title": "Chicago Building Permit collection street index, reel 124: 22nd Place 219 West to 26th Street 4232 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 77,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3vq2sm80",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3vq2sm80",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3vq2sm80",
+      "title": "Chicago Building Permit collection street index, reel 132: 68th Street 1444 East to 72nd Place 1470 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 78,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3377656d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3377656d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3377656d",
+      "title": "Chicago Building Permit collection street index, reel 126: 35th Street 1858 West to 43rd Street 643-45 East"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 79,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3pz51x5g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pz51x5g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pz51x5g",
+      "title": "Chicago Building Permit collection street index, reel 123: 17th Street 2033 West to 22nd Place 218-22 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 80,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3k931h4c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3k931h4c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3k931h4c",
+      "title": "Chicago Building Permit collection street index, reel 122: Yale Avenue 11610 South to 17th Street 2033"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 81,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3fj29q07",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3fj29q07",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3fj29q07",
+      "title": "Chicago Building Permit collection street index, reel 121: Wood Street 4742 South to Yale Avenue 11606 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 82,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d39s1kw50",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39s1kw50",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39s1kw50",
+      "title": "Chicago Building Permit collection street index, reel 120: Wolcott Avenue 1808 North to Wood Street 4738 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 83,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3610w31k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3610w31k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3610w31k",
+      "title": "Chicago Building Permit collection street index, reel 119: Winchester Avenue 5048-50 North to Wolcott Avenue 1801-59 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 84,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d32805876",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32805876",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32805876",
+      "title": "Chicago Building Permit collection street index, reel 118: Wilcox Street 2415-17 West to Winchester Avenue 5047 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 85,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3xg9fn3r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3xg9fn3r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xg9fn3r",
+      "title": "Chicago Building Permit collection street index, reel 117: Western Avenue 4956 North to Wilcox Street 2415 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 86,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3st7f72b",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3st7f72b",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3st7f72b",
+      "title": "Chicago Building Permit collection street index, reel 116: West End Avenue 4112 to Western Avenue 4955 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 87,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3p26qd9c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3p26qd9c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3p26qd9c",
+      "title": "Chicago Building Permit collection street index, reel 115: Wells Street 208 North to West End Avenue 4101-11 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 88,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3j960m5m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3j960m5m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3j960m5m",
+      "title": "Chicago Building Permit collection street index, reel 114: Washtenaw 7027 South to Wells Street 201-19 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 89,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d38s4k06n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d38s4k06n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38s4k06n",
+      "title": "Chicago Building Permit collection street index, reel 112: Wallace Avenue 8949-8955-7 South to Washburne Avenue 2011 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 90,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3513v62t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3513v62t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3513v62t",
+      "title": "Chicago Building Permit collection street index, reel 111: Wabash Avenue 3423-25 South to Wallace Avenue 8948 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 91,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d31834c9x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31834c9x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31834c9x",
+      "title": "Chicago Building Permit collection street index, reel 110: Victoria Street 1522 West to Wabash Avenue 3420 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 92,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3wm14459",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3wm14459",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3wm14459",
+      "title": "Chicago Building Permit collection street index, reel 109: Van Buren Street 1141 West to Victoria Street 1521 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 93,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3rv0db2n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rv0db2n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rv0db2n",
+      "title": "Chicago Building Permit collection street index, reel 108: Trumbull Avenue 2731 South to Van Buren Street 1135 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 94,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3n29ph8n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3n29ph8n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3n29ph8n",
+      "title": "Chicago Building Permit collection street index, reel 107: Tripp  Avenue 5439 South to Trumbull Avenue 2730 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 95,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3h98zq31",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3h98zq31",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3h98zq31",
+      "title": "Chicago Building Permit collection street index, reel 106: Thomas Street 3538 West to Tripp Avenue 5438 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 96,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3cj87w9n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3cj87w9n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3cj87w9n",
+      "title": "Chicago Building Permit collection street index, reel 105: Tahoma Avenue 6433 North to Thomas Street 3526 West"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 97,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3dj58t00",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3dj58t00",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3dj58t00",
+      "title": "Chicago Building Permit collection street index, reel 113: Washburne Avenue 2014-22 West to Washtenaw 7025 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 98,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d37s7j35x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37s7j35x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37s7j35x",
+      "title": "Chicago Building Permit collection street index, reel 104: State Street 10506 South to Tahoma Avenue 6429 North"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 99,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3416t92k",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3416t92k",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3416t92k",
+      "title": "Chicago Building Permit collection street index, reel 103: State Street 230 South to State Street 10503 South"
+    },
+    {
+      "page_num": 2,
+      "page_pos": 100,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d30c4sw1r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d30c4sw1r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d30c4sw1r",
+      "title": "Chicago Building Permit collection street index, reel 102: Spaulding Avenue 3110 North to State Street 228-30 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 1,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3vm4376j",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3vm4376j",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3vm4376j",
+      "title": "Chicago Building Permit collection street index, reel 101: Shields Avenue 2821 South to Spaulding Avenue 3106 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 2,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3qv3cf1x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qv3cf1x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qv3cf1x",
+      "title": "Chicago Building Permit collection street index, reel 100: Seeley Avenue 5036 South to Shields Avenue 2817 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 3,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3m32nm60",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3m32nm60",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3m32nm60",
+      "title": "Chicago Building Permit collection street index, reel 99: Sayre Avenue 1651 North to Seeley Avenue 5035 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 4,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3gb1xt2v",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3gb1xt2v",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3gb1xt2v",
+      "title": "Chicago Building Permit collection street index, reel 98: St. Louis Avenue 11229 South to Sayre Avenue 1649 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 5,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3bk1709c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3bk1709c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bk1709c",
+      "title": "Chicago Building Permit collection street index, reel 97: Saginaw Avenue 7819 South to St. Louis Avenue 11226 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 6,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d36t0h66q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36t0h66q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36t0h66q",
+      "title": "Chicago Building Permit collection street index, reel 96: Roscoe Street 3023 West to Saginaw Avenue 7815 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 7,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3348gs64",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3348gs64",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3348gs64",
+      "title": "Chicago Building Permit collection street index, reel 95: Rogers Avenue 7532 North to Roscoe Street 3021 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 8,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3zc7s515",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3zc7s515",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3zc7s515",
+      "title": "Chicago Building Permit collection street index, reel 94: Ridge Boulevard 7125-27 North to Rogers Avenue 7524 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 9,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3tm72b69",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3tm72b69",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3tm72b69",
+      "title": "Chicago Building Permit collection street index, reel 93: Rhodes Avenue 6524 South to Ridge Boulevard 7121-29 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 10,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3pv6bj1p",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pv6bj1p",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pv6bj1p",
+      "title": "Chicago Building Permit collection street index, reel 92: Racine Avenue 2226 North to Rhodes Avenue 6521 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 11,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3k35mq77",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3k35mq77",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3k35mq77",
+      "title": "Chicago Building Permit collection street index, reel 91: Pulaski Road 289-99 South to Racine Avenue 2225 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 12,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3fb4wx33",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3fb4wx33",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3fb4wx33",
+      "title": "Chicago Building Permit collection street index, reel 90: Prairie Avenue 2611, 2707 South to Pulaski Road 281 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 13,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d39k46407",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39k46407",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39k46407",
+      "title": "Chicago Building Permit collection street index, reel 89: Peterson Avenue 4541 West to Prairie Avenue 2607 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 14,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d35x25p9s",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35x25p9s",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35x25p9s",
+      "title": "Chicago Building Permit collection street index, reel 88: Pensacola Avenue 5530 West to Peterson Avenue 4537 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 15,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3251fw5z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3251fw5z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3251fw5z",
+      "title": "Chicago Building Permit collection street index, reel 87: Paulina Street 609-11 South to Pensacola Avenue 5529 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 16,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3xd0r79w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3xd0r79w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3xd0r79w",
+      "title": "Chicago Building Permit collection street index, reel 86: Pacific Avenue 3426 North to Paulina Street 608 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 17,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3sn01f54",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3sn01f54",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3sn01f54",
+      "title": "Chicago Building Permit collection street index, reel 85: Olcott Avenue 6830 North to Pacific Avenue 3435 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 18,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3nv99n1f",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3nv99n1f",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3nv99n1f",
+      "title": "Chicago Building Permit collection street index, reel 84: Octavia Avenue 3460 North to Olcott Avenue 6826 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 19,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3j38kt8g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3j38kt8g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3j38kt8g",
+      "title": "Chicago Building Permit collection street index, reel 83: Oakdale Avenue 5219 West to Octavia Avenue 3456 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 20,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3db7w157",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3db7w157",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3db7w157",
+      "title": "Chicago Building Permit collection street index, reel 82: North Avenue 3134 West to Oakdale Avenue 5218 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 21,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d34x54t0n",
+      "ark_permalink": "https://n2t.net/ark:/81984/d34x54t0n",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d34x54t0n",
+      "title": "Chicago Building Permit collection street index, reel 80: Neva Avenue 6222 North to Nordica Avenue 2606 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 22,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3154f054",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3154f054",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3154f054",
+      "title": "Chicago Building Permit collection street index, reel 79: Narragansett Avenue 3013-15-19-21-23 North to Neva Avenue 6221-3 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 23,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3wd3qc0r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3wd3qc0r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3wd3qc0r",
+      "title": "Chicago Building Permit collection street index, reel 78: Morse Avenue 1800 West to Narragansett Avenue 3012-16-18-22 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 24,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3rn30j6c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3rn30j6c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3rn30j6c",
+      "title": "Chicago Building Permit collection street index, reel 77: Montrose Avenue 1823 West to Morse Avenue 1775 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 25,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3mw28r27",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3mw28r27",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3mw28r27",
+      "title": "Chicago Building Permit collection street index, reel 76: Monroe Street 18 West, Montrose Street 1822-32 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 26,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3h41jx98",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3h41jx98",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3h41jx98",
+      "title": "Chicago Building Permit collection street index, reel 75: Milwaukee Avenue 2461 North to Monroe Street 18 East"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 27,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3cf9jh7t",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3cf9jh7t",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3cf9jh7t",
+      "title": "Chicago Building Permit collection street index, reel 74: Michgan Avenue 7150 South to Milwaukee Avenue 2459 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 28,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d38p5vm3x",
+      "ark_permalink": "https://n2t.net/ark:/81984/d38p5vm3x",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d38p5vm3x",
+      "title": "Chicago Building Permit collection street index, reel 81: Nordica Avenue 2612 North to North Avenue 3132 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 29,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d37p8tq45",
+      "ark_permalink": "https://n2t.net/ark:/81984/d37p8tq45",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d37p8tq45",
+      "title": "Chicago Building Permit collection street index, reel 73: Merrimac Avenue 6001-05-09-12-17 South to Michigan Avenue 7149 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 30,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d33x83w99",
+      "ark_permalink": "https://n2t.net/ark:/81984/d33x83w99",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d33x83w99",
+      "title": "Chicago Building Permit collection street index, reel 72: Medill Avenue 3136 West to Merrimac Avenue 5951 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 31,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3057d35w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3057d35w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3057d35w",
+      "title": "Chicago Building Permit collection street index, reel 71: May Street 8422 South to Medill Avenue 3135 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 32,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3vd6pg0h",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3vd6pg0h",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3vd6pg0h",
+      "title": "Chicago Building Permit collection street index, reel 70: Marshfield Avenue 8555 South to May Street 8420 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 33,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3qn5zn8q",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3qn5zn8q",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3qn5zn8q",
+      "title": "Chicago Building Permit collection street index, reel 69: Marmora Avenue 2910 North to Marshfield Avenue 8554 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 34,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3kw57v4z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3kw57v4z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3kw57v4z",
+      "title": "Chicago Building Permit collection street index, reel 68: Major Avenue 5730 North to Marmora Avenue 2907 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 35,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3g737f2c",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3g737f2c",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3g737f2c",
+      "title": "Chicago Building Permit collection street index, reel 67: Madison Street 1145 West to Major Avenue 5728 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 36,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3bg2hm8m",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3bg2hm8m",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3bg2hm8m",
+      "title": "Chicago Building Permit collection street index, reel 66: Lowell Avenue 2833 North to Madison Street 1143 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 37,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d36q1st30",
+      "ark_permalink": "https://n2t.net/ark:/81984/d36q1st30",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d36q1st30",
+      "title": "Chicago Building Permit collection street index, reel 65: Loomis Street 5514 South to Lowell Avenue 2832 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 38,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d32z13091",
+      "ark_permalink": "https://n2t.net/ark:/81984/d32z13091",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d32z13091",
+      "title": "Chicago Building Permit collection street index, reel 64: Lincoln Avenue 4754 North to Loomis Street 5514 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 39,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3z60cc4z",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3z60cc4z",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3z60cc4z",
+      "title": "Chicago Building Permit collection street index, reel 63: Leland Avenue 2210 West to Lincoln Avenue 4754 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 40,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3pn8xr8g",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3pn8xr8g",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3pn8xr8g",
+      "title": "Chicago Building Permit collection street index, reel 61: Latrobe 1542 North to Lawrence Avenue 3315 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 41,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3k06xb5d",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3k06xb5d",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3k06xb5d",
+      "title": "Chicago Building Permit collection street index, reel 60: Laramie Avenue 939 North to Latrobe Avenue 1541 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 42,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3f766j24",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3f766j24",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3f766j24",
+      "title": "Chicago Building Permit collection street index, reel 59: Lake Street 3947 West to Laramie Avenue 937 North"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 43,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d39g5gq7w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d39g5gq7w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d39g5gq7w",
+      "title": "Chicago Building Permit collection street index, reel 58: Lafayette Avenue 5610 South to Lake Street 3946 West"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 44,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d35q4rx3r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d35q4rx3r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d35q4rx3r",
+      "title": "Chicago Building Permit collection street index, reel 57: Kolin Avenue 5643 South to Lafayette Avenue 5609 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 45,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d31z4240w",
+      "ark_permalink": "https://n2t.net/ark:/81984/d31z4240w",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d31z4240w",
+      "title": "Chicago Building Permit collection street index, reel 56: Martin L. King Drive 3357-65 South to Kolin Avenue 5642 South"
+    },
+    {
+      "page_num": 3,
+      "page_pos": 46,
+      "kind": "street_index",
+      "ark_id": "ark:/81984/d3td9nk1r",
+      "ark_permalink": "https://n2t.net/ark:/81984/d3td9nk1r",
+      "object_collection_url": "https://digital.library.uic.edu/iiif/collection/object/ark:/81984/d3td9nk1r",
+      "title": "Chicago Building Permit collection street index, reel 62: Lawrence Avenue 3316-18-20 North to Leland Avenue 2209 West"
+    }
+  ]
+}
