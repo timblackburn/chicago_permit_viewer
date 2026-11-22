@@ -38,3 +38,7 @@ Then open **http://127.0.0.1:8765/web/** in your browser.
 
 - **Created by Tim Blackburn**, Historian, Ridge Historical Society.
 - **Thank you to the University of Illinois at Chicago Library** ([digital.library.uic.edu](https://digital.library.uic.edu/)) for digitizing the Chicago Building Permit Collection and making the microfilm openly available via IIIF.
+
+## Privacy
+
+This is an open-source static site hosted on GitHub Pages. Any user data — including tagged index cards (`Yes` / `Maybe` / `No`) and notes — is stored entirely in your local browser storage (`localStorage`) and is never collected, tracked, or transmitted to any server.

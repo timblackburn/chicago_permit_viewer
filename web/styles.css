@@ -896,6 +896,12 @@ select {
   margin: 0;
 }
 
+.privacy-note {
+  margin-block-start: 0.35rem !important;
+  font-size: 0.76rem;
+  color: var(--muted);
+}
+
 .site-footer a {
   color: var(--text);
 }
