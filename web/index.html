@@ -156,7 +156,7 @@
 
       <!-- INTEGRATED VISUAL TIMELINE -->
       <div class="timeline-block">
-        <div class="timeline-header">
+        <div class="timeline-top-bar">
           <div id="timelineReadout" class="timeline-readout">Hover any book bar to preview its date, then click to open that exact page.</div>
           <div class="timeline-controls">
             <label class="inline-field">
@@ -165,18 +165,17 @@
             </label>
           </div>
         </div>
+
+        <div class="timeline-legend" aria-label="Timeline color key">
+          <span class="leg-item"><i class="swatch era-pre"></i> Pre-1912 (Handwritten)</span>
+          <span class="leg-item"><i class="swatch era-trans"></i> 1912–1913 (Transition)</span>
+          <span class="leg-item"><i class="swatch era-post"></i> Post-1912 (6 forms/page)</span>
+          <span class="leg-item"><i class="swatch multi-ring"></i> Multi-section reel</span>
+        </div>
+
         <div id="timelineViewport" class="timeline-viewport" tabindex="0" role="region" aria-label="Building permit ledgers timeline">
           <div id="timelineCanvas" class="timeline-canvas"></div>
         </div>
-        <details class="legend-disclosure">
-          <summary>Timeline color key &amp; historical milestones</summary>
-          <div class="timeline-legend">
-            <span class="leg-item"><i class="swatch era-pre"></i> Pre-1912 (Handwritten rows)</span>
-            <span class="leg-item"><i class="swatch era-trans"></i> 1912–1913 Transition</span>
-            <span class="leg-item"><i class="swatch era-post"></i> Post-1912 (6 forms/page)</span>
-            <span class="leg-item"><i class="swatch multi-ring"></i> Multi-section microfilm reel</span>
-          </div>
-        </details>
       </div>
 
       <!-- MATCHING LEDGER BOOKS TABLE -->
