@@ -1,0 +1,1002 @@
+[
+  {
+    "reel_number": 52,
+    "manifest_id": "1083734",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 40,
+    "manifest_id": "1113780",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 38,
+    "manifest_id": "1123712",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 31,
+    "manifest_id": "1154630",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 26,
+    "manifest_id": "1178925",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 25,
+    "manifest_id": "1189574",
+    "slide_index": 5080,
+    "anchor_slide": 5085,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 22,
+    "manifest_id": "1205132",
+    "slide_index": 4916,
+    "anchor_slide": 4921,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 21,
+    "manifest_id": "1210054",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 10,
+    "manifest_id": "1260605",
+    "slide_index": 5014,
+    "anchor_slide": 5019,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 6,
+    "manifest_id": "1280826",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 137,
+    "manifest_id": "1328846",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 137,
+    "manifest_id": "1328846",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 137,
+    "manifest_id": "1328846",
+    "slide_index": 4823,
+    "anchor_slide": 4828,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 136,
+    "manifest_id": "1333675",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 135,
+    "manifest_id": "1338146",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 4005,
+    "anchor_slide": 4000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 134,
+    "manifest_id": "1342936",
+    "slide_index": 4525,
+    "anchor_slide": 4530,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 133,
+    "manifest_id": "1347469",
+    "slide_index": 4833,
+    "anchor_slide": 4838,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 130,
+    "manifest_id": "1361847",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 130,
+    "manifest_id": "1361847",
+    "slide_index": 4737,
+    "anchor_slide": 4742,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 129,
+    "manifest_id": "1366590",
+    "slide_index": 4835,
+    "anchor_slide": 4840,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 128,
+    "manifest_id": "1371433",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 128,
+    "manifest_id": "1371433",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 128,
+    "manifest_id": "1371433",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 128,
+    "manifest_id": "1371433",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 4005,
+    "anchor_slide": 4000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 125,
+    "manifest_id": "1381179",
+    "slide_index": 4832,
+    "anchor_slide": 4837,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 124,
+    "manifest_id": "1386017",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 124,
+    "manifest_id": "1386017",
+    "slide_index": 4832,
+    "anchor_slide": 4837,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 132,
+    "manifest_id": "1394007",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 132,
+    "manifest_id": "1394007",
+    "slide_index": 4005,
+    "anchor_slide": 4000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 123,
+    "manifest_id": "1403555",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 123,
+    "manifest_id": "1403555",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 123,
+    "manifest_id": "1403555",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 121,
+    "manifest_id": "1412843",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 121,
+    "manifest_id": "1412843",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 121,
+    "manifest_id": "1412843",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 121,
+    "manifest_id": "1412843",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 120,
+    "manifest_id": "1417528",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 119,
+    "manifest_id": "1422125",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 119,
+    "manifest_id": "1422125",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 119,
+    "manifest_id": "1422125",
+    "slide_index": 5024,
+    "anchor_slide": 5019,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 118,
+    "manifest_id": "1427150",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 118,
+    "manifest_id": "1427150",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 118,
+    "manifest_id": "1427150",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 1005,
+    "anchor_slide": 1000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 117,
+    "manifest_id": "1430988",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 114,
+    "manifest_id": "1445451",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 112,
+    "manifest_id": "1454990",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 111,
+    "manifest_id": "1460142",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 109,
+    "manifest_id": "1468685",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 108,
+    "manifest_id": "1472724",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 108,
+    "manifest_id": "1472724",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 108,
+    "manifest_id": "1472724",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 107,
+    "manifest_id": "1477736",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 107,
+    "manifest_id": "1477736",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 106,
+    "manifest_id": "1482078",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 106,
+    "manifest_id": "1482078",
+    "slide_index": 5005,
+    "anchor_slide": 5000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 113,
+    "manifest_id": "1500219",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 113,
+    "manifest_id": "1500219",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 113,
+    "manifest_id": "1500219",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 104,
+    "manifest_id": "1505492",
+    "slide_index": 7,
+    "anchor_slide": 2,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 104,
+    "manifest_id": "1505492",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 104,
+    "manifest_id": "1505492",
+    "slide_index": 4005,
+    "anchor_slide": 4000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 104,
+    "manifest_id": "1505492",
+    "slide_index": 5005,
+    "anchor_slide": 5000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 104,
+    "manifest_id": "1505492",
+    "slide_index": 5054,
+    "anchor_slide": 5059,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 102,
+    "manifest_id": "1515192",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 101,
+    "manifest_id": "1520239",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 101,
+    "manifest_id": "1520239",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 100,
+    "manifest_id": "1524581",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 100,
+    "manifest_id": "1524581",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 100,
+    "manifest_id": "1524581",
+    "slide_index": 5005,
+    "anchor_slide": 5000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 100,
+    "manifest_id": "1524581",
+    "slide_index": 5150,
+    "anchor_slide": 5155,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 99,
+    "manifest_id": "1529739",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 98,
+    "manifest_id": "1534241",
+    "slide_index": 8,
+    "anchor_slide": 3,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 97,
+    "manifest_id": "1539342",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 97,
+    "manifest_id": "1539342",
+    "slide_index": 3005,
+    "anchor_slide": 3000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 97,
+    "manifest_id": "1539342",
+    "slide_index": 3505,
+    "anchor_slide": 3500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 96,
+    "manifest_id": "1543922",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 96,
+    "manifest_id": "1543922",
+    "slide_index": 5005,
+    "anchor_slide": 5000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 94,
+    "manifest_id": "1552998",
+    "slide_index": 1505,
+    "anchor_slide": 1500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 87,
+    "manifest_id": "1590579",
+    "slide_index": 7,
+    "anchor_slide": 2,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 79,
+    "manifest_id": "1626940",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 74,
+    "manifest_id": "1651776",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 74,
+    "manifest_id": "1651776",
+    "slide_index": 4005,
+    "anchor_slide": 4000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 73,
+    "manifest_id": "1669254",
+    "slide_index": 2505,
+    "anchor_slide": 2500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 72,
+    "manifest_id": "1674222",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 67,
+    "manifest_id": "1699432",
+    "slide_index": 4919,
+    "anchor_slide": 4924,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 66,
+    "manifest_id": "1704357",
+    "slide_index": 4505,
+    "anchor_slide": 4500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 66,
+    "manifest_id": "1704357",
+    "slide_index": 5012,
+    "anchor_slide": 5017,
+    "offset": -5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 65,
+    "manifest_id": "1709376",
+    "slide_index": 505,
+    "anchor_slide": 500,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 58,
+    "manifest_id": "1739726",
+    "slide_index": 2005,
+    "anchor_slide": 2000,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 56,
+    "manifest_id": "1749849",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  },
+  {
+    "reel_number": 62,
+    "manifest_id": "1763084",
+    "slide_index": 6,
+    "anchor_slide": 1,
+    "offset": 5,
+    "pass_name": "pass2"
+  }
+]

@@ -97,6 +97,9 @@ def main() -> int:
             with scsv.open("r", encoding="utf-8", newline="") as f:
                 for row in csv.DictReader(f):
                     if (row.get("street_name") or "").strip():
+                        raw_num = (row.get("house_number") or "").strip()
+                        m_num = re.match(r"^(\d+)", raw_num)
+                        num_val = int(m_num.group(1)) if m_num else None
                         anchors.append(
                             {
                                 "s": int(row["slide_index"]),
@@ -104,7 +107,8 @@ def main() -> int:
                                 "st": normalize_street(row["street_name"]),
                                 "raw_st": row["street_name"],
                                 "dir": row.get("direction", ""),
-                                "num": row.get("house_number", ""),
+                                "num": num_val,
+                                "raw_num": raw_num,
                                 "dt": row.get("permit_date", ""),
                             }
                         )
