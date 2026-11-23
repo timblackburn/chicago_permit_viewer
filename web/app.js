@@ -126,10 +126,19 @@ function normalizeStreet(name) {
   return s.replace(/\s+/g, ' ').trim();
 }
 
+/**
+ * The filing order of the street index cards, as checked against every hand-read anchor (reels 97-99 run
+ * Saginaw, St. Lawrence, St. Louis, Sangamon ... Seeley; reel 101 runs Southport, So. Shore):
+ * named streets A-Z letter by letter (spaces ignored), "St." filed as "Saint"; then numbered streets.
+ * Two streets file under another word: Martin L. King Drive under KING (reel 56, Kimbark ... King ... Kingston, with its old
+ * name South Parkway) and 5th Avenue as FIFTH among the named streets (reel 34, Fifth ... Fillmore).
+ */
+const FILED_AS = [[/^MARTIN (L|LUTHER) KING( JR)?$/, 'KING'], [/^5TH$/, 'FIFTH']];
 function streetSortKey(norm) {
+  for (const [re, as] of FILED_AS) if (re.test(norm)) norm = as;
   const m = norm.match(/^(\d+)(?:ST|ND|RD|TH)?$/);
   if (m) return `1_${String(Number(m[1])).padStart(4, '0')}`;
-  return `0_${norm}`;
+  return `0_${norm.replace(/^ST\s+/, 'SAINT ').replace(/^SO\s+/, 'SOUTH ').replace(/\s+/g, '')}`;   // So. Shore = South Shore (after Southport)
 }
 
 /**

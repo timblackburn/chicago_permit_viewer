@@ -37,6 +37,8 @@ From UIC IIIF Collection `31` (`/iiif/collection/31`), we already discovered and
 - `plan_pass2.py` prints collection-wide legibility stats (`% street legible`, `% number legible`, `% both legible`, `% illegible`) and generates a Pass-2 recovery queue (`street_index/index/pass2_queue.json`) picking the next nearby untried offset (`+5`, `-5`, `+15`, `-15`, `+30`, `-30`) around every illegible/partial/non-card anchor.
 - Feed `pass2_queue.json` back into `sample_reels.py --queue street_index/index/pass2_queue.json`.
 
+**Filing order of the cards** (checked against every hand-read anchor, 2026-11-23): named streets first, A to Z letter by letter with spaces ignored, then numbered streets. "St." files as *Saint* (Saginaw, St. Lawrence, St. Louis, Sangamon … Seeley) and "So." as *South* (Southport, So. Shore). Two streets file under another word: Martin L. King Drive under *King* (Kimbark, King, Kingston; with its old name South Parkway) and 5th Avenue as *Fifth*, among the F streets. `streetSortKey` in `web/app.js` and `street_sort_key` in `street_index/plan_pass3_neighborhood.py` apply this rule; keep the two the same.
+
 ### Pass 3 — Targeted High-Resolution Neighborhood Pass (`plan_pass3_neighborhood.py`)
 - Accepts a user-supplied CSV of Far Southwest Side target streets (Beverly / Morgan Park / Washington Heights / Mt. Greenwood — street name, direction, min/max house number).
 - Cross-references those streets against `reels.json` (start/end reel bounds) and Pass 1/2 observed anchors to isolate **only** the narrow slide sub-windows containing those streets.

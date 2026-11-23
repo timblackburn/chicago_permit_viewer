@@ -38,11 +38,18 @@ def parse_reel_endpoint(raw: str) -> tuple[str, int | None]:
 
 
 def street_sort_key(norm_street: str) -> tuple[int, int, str]:
-    """UIC street index files named streets A-Z first, then numbered streets (1st..138th) at the end."""
+    """UIC street index files named streets A-Z first, then numbered streets (1st..138th) at the end.
+    Named streets file letter by letter (spaces ignored), with "St." as "Saint": Saginaw, St. Lawrence, St. Louis,
+    Sangamon ... Seeley; Southport, So. Shore. Martin L. King Drive files as KING (Kimbark ... King ... Kingston) and
+    5th Avenue as FIFTH among the named streets. (Same rule as streetSortKey in web/app.js.)"""
+    if re.match(r"^MARTIN (L|LUTHER) KING( JR)?$", norm_street):
+        norm_street = "KING"
+    elif norm_street == "5TH":
+        norm_street = "FIFTH"
     m = re.match(r"^(\d+)(?:ST|ND|RD|TH)?$", norm_street)
     if m:
         return (1, int(m.group(1)), norm_street)
-    return (0, 0, norm_street)
+    return (0, 0, re.sub(r"\s+", "", re.sub(r"^SO\s+", "SOUTH ", re.sub(r"^ST\s+", "SAINT ", norm_street))))  # So. Shore = South Shore
 
 
 def main() -> int:
