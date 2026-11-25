@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 2751,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p02751_4193081.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kilbourn Ave\",\"direction\":\"N\",\"house_number\":\"1724\",\"permit_date\":\"1906-04-19\",\"permit_no\":\"26258\",\"notes\":\"old addr: 965 N. 45th Ave; typed card, somewhat speckled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kilbourn Ave",
+  "direction": "N",
+  "house_number": "1724",
+  "permit_date": "1906-04-19",
+  "permit_no": "26258",
+  "notes": "old addr: 965 N. 45th Ave; typed card, somewhat speckled"
+ },
+ "in": 2316,
+ "out": 116
+}

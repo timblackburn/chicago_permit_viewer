@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 752,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p00752_3471283.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"S\",\"house_number\":\"6211-13\",\"permit_date\":\"\",\"permit_no\":\"A 5767\",\"notes\":\"Brick; handwritten card, faint and overexposed; second number 32023 with PAID struck out; date illegible; first line reads 6211-13 S Western Av; house number partly uncertain; direction S though reel suggests N, as written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "S",
+  "house_number": "6211-13",
+  "permit_date": "",
+  "permit_no": "A 5767",
+  "notes": "Brick; handwritten card, faint and overexposed; second number 32023 with PAID struck out; date illegible; first line reads 6211-13 S Western Av; house number partly uncertain; direction S though reel suggests N, as written on card"
+ },
+ "in": 2268,
+ "out": 160
+}

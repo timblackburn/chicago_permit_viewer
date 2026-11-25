@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 1751,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p01751_3739342.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1928-06-28\",\"permit_no\":\"B 26860\",\"notes\":\"Cottage; Book S 45 Page 229 (ledger line faint); house number partly legible, possibly 9241 but uncertain; direction before Racine possibly S, hard to read; plan no. 4765, water no. 12412, file no. 192802; card faint and stained at bottom\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1928-06-28",
+  "permit_no": "B 26860",
+  "notes": "Cottage; Book S 45 Page 229 (ledger line faint); house number partly legible, possibly 9241 but uncertain; direction before Racine possibly S, hard to read; plan no. 4765, water no. 12412, file no. 192802; card faint and stained at bottom"
+ },
+ "in": 2275,
+ "out": 178
+}

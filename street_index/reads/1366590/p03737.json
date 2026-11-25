@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 3737,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p03737_3336305.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"59th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card heavily overexposed and washed out; only top line faintly visible, handwritten \\\"3000/2 ... 59th St\\\" and stamped SUNDRY; house number not reliably readable; Sundry; no other fields legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "59th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card heavily overexposed and washed out; only top line faintly visible, handwritten \"3000/2 ... 59th St\" and stamped SUNDRY; house number not reliably readable; Sundry; no other fields legible"
+ },
+ "in": 2267,
+ "out": 146
+}

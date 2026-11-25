@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 2751,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p02751_3645189.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Water Market\",\"direction\":\"S\",\"house_number\":\"87\",\"permit_date\":\"1925-10-17\",\"permit_no\":\"73189\",\"notes\":\"Int Alt; Sundry stamp; file no. 121877; street name partly obscured by Sundry stamp, 'Water Mar...' read as Water Market; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Water Market",
+  "direction": "S",
+  "house_number": "87",
+  "permit_date": "1925-10-17",
+  "permit_no": "73189",
+  "notes": "Int Alt; Sundry stamp; file no. 121877; street name partly obscured by Sundry stamp, 'Water Mar...' read as Water Market; card faint and low contrast"
+ },
+ "in": 2319,
+ "out": 144
+}

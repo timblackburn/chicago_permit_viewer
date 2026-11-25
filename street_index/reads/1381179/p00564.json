@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 564,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p00564_3371966.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"29th St\",\"direction\":\"W\",\"house_number\":\"313\",\"permit_date\":\"1944-08-25\",\"permit_no\":\"140346\",\"notes\":\"Repair frame shed (faint handwriting, uncertain); Sundry; File No 324992; card is faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "29th St",
+  "direction": "W",
+  "house_number": "313",
+  "permit_date": "1944-08-25",
+  "permit_no": "140346",
+  "notes": "Repair frame shed (faint handwriting, uncertain); Sundry; File No 324992; card is faint and low contrast"
+ },
+ "in": 2262,
+ "out": 122
+}

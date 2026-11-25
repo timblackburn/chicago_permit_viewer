@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1342936",
+ "slide_index": 999,
+ "image": "street_index/data/1342936/slides_pct_0-0-100-99_w1000/p00999_3293774.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Severely overexposed/washed out card; nearly all writing faded. Only a partial number like '11 ?226' visible mid-card, not reliably the address or permit number.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Severely overexposed/washed out card; nearly all writing faded. Only a partial number like '11 ?226' visible mid-card, not reliably the address or permit number."
+ },
+ "in": 2225,
+ "out": 123
+}

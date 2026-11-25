@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 1250,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p01250_3341348.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Overexposed, washed-out card; address at top is too faint to read (possibly begins 37.. with a fraction, not reliable). Printed words RESIDENCE and 'ENTERED 52 PAGE' visible; Page 52 but book not legible. Permit number possibly 30... but unreadable.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Overexposed, washed-out card; address at top is too faint to read (possibly begins 37.. with a fraction, not reliable). Printed words RESIDENCE and 'ENTERED 52 PAGE' visible; Page 52 but book not legible. Permit number possibly 30... but unreadable."
+ },
+ "in": 2273,
+ "out": 168
+}

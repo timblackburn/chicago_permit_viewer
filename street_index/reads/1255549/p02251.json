@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 2251,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p02251_3117202.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bishop St\",\"direction\":\"S\",\"house_number\":\"5125\",\"permit_date\":\"1950-04-17\",\"permit_no\":\"A 40811\",\"notes\":\"Conc Fdn; Plan No. 390993; no book/page entered; handwritten address, stamp text faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bishop St",
+  "direction": "S",
+  "house_number": "5125",
+  "permit_date": "1950-04-17",
+  "permit_no": "A 40811",
+  "notes": "Conc Fdn; Plan No. 390993; no book/page entered; handwritten address, stamp text faint"
+ },
+ "in": 2280,
+ "out": 123
+}

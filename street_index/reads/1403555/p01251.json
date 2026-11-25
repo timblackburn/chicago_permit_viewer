@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 1251,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p01251_3414649.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1908-03-26\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; top line partly legible '163. ... 1st Pl.'; second line '704 Van Hor.' (possibly owner/other address); date reads 'Mar. 26, 1908' (partly faint); kind of work not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1908-03-26",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; top line partly legible '163. ... 1st Pl.'; second line '704 Van Hor.' (possibly owner/other address); date reads 'Mar. 26, 1908' (partly faint); kind of work not readable"
+ },
+ "in": 2304,
+ "out": 158
+}

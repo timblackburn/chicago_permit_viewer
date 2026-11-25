@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 1751,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p01751_2996880.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Crandon Ave\",\"direction\":\"\",\"house_number\":\"6729\",\"permit_date\":\"1924-12-11\",\"permit_no\":\"56275\",\"notes\":\"Sundry; File no. 93166; no direction written; permit number faint; date partly smudged (Dec 11 1924)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Crandon Ave",
+  "direction": "",
+  "house_number": "6729",
+  "permit_date": "1924-12-11",
+  "permit_no": "56275",
+  "notes": "Sundry; File no. 93166; no direction written; permit number faint; date partly smudged (Dec 11 1924)"
+ },
+ "in": 2243,
+ "out": 125
+}

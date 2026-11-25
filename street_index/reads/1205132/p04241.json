@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4241,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04241_3012049.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"2955\",\"permit_date\":\"1950-11-16\",\"permit_no\":\"A 51115\",\"notes\":\"Wreck 2 sty brick/frame building; Plan no 403959; handwritten address at top, house number slightly stylized but read as 2955 (fits between 2423 and 3510)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "2955",
+  "permit_date": "1950-11-16",
+  "permit_no": "A 51115",
+  "notes": "Wreck 2 sty brick/frame building; Plan no 403959; handwritten address at top, house number slightly stylized but read as 2955 (fits between 2423 and 3510)"
+ },
+ "in": 2269,
+ "out": 146
+}

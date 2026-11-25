@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 1751,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p01751_3704037.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Roosevelt Rd\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1913-08-29\",\"permit_no\":\"A 16\",\"notes\":\"Br B.; Book 2 Page 568; file no. 46056; house number handwritten at top left is faint and unclear (possibly 28 46); permit number only partly readable, faint and smudged; handwriting faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Roosevelt Rd",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1913-08-29",
+  "permit_no": "A 16",
+  "notes": "Br B.; Book 2 Page 568; file no. 46056; house number handwritten at top left is faint and unclear (possibly 28 46); permit number only partly readable, faint and smudged; handwriting faint"
+ },
+ "in": 2282,
+ "out": 157
+}

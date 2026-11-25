@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 3251,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p03251_2800756.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harrison St\",\"direction\":\"W\",\"house_number\":\"3109\",\"permit_date\":\"1954-06-29\",\"permit_no\":\"H 113592\",\"notes\":\"Tank; file no 465626; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harrison St",
+  "direction": "W",
+  "house_number": "3109",
+  "permit_date": "1954-06-29",
+  "permit_no": "H 113592",
+  "notes": "Tank; file no 465626; date stamp faint"
+ },
+ "in": 2310,
+ "out": 103
+}

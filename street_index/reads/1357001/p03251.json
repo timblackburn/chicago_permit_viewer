@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 3251,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p03251_3318076.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"65th Pl\",\"direction\":\"W\",\"house_number\":\"3801\",\"permit_date\":\"\",\"permit_no\":\"103476\",\"notes\":\"permit no. has a handwritten prefix mark that is unclear; file no. 155625; date of permit faint and unreadable; card is faint with a low-contrast print; no book or page entered\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "65th Pl",
+  "direction": "W",
+  "house_number": "3801",
+  "permit_date": "",
+  "permit_no": "103476",
+  "notes": "permit no. has a handwritten prefix mark that is unclear; file no. 155625; date of permit faint and unreadable; card is faint with a low-contrast print; no book or page entered"
+ },
+ "in": 2269,
+ "out": 138
+}

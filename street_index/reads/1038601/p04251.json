@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 4251,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p04251_4200615.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kimbark Ave\",\"direction\":\"\",\"house_number\":\"6432\",\"permit_date\":\"1925-08-25\",\"permit_no\":\"69766\",\"notes\":\"Shed; Sundry; direction not written on card; plan no. blank; file no. 116606; card dark and grainy, year 1925 overwritten/struck over; street name handwriting hard to read but fits Kimbark Ave between neighbors\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kimbark Ave",
+  "direction": "",
+  "house_number": "6432",
+  "permit_date": "1925-08-25",
+  "permit_no": "69766",
+  "notes": "Shed; Sundry; direction not written on card; plan no. blank; file no. 116606; card dark and grainy, year 1925 overwritten/struck over; street name handwriting hard to read but fits Kimbark Ave between neighbors"
+ },
+ "in": 2250,
+ "out": 165
+}

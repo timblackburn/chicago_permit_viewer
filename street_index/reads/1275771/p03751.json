@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 3751,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p03751_3154821.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ave G\",\"direction\":\"\",\"house_number\":\"10430\",\"permit_date\":\"1924-05-16\",\"permit_no\":\"A 9608\",\"notes\":\"B. (building type partly illegible); Book S 3 Page 731; permit number faint, uncertain; no direction written; card faint and overexposed; water no. unclear; file no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ave G",
+  "direction": "",
+  "house_number": "10430",
+  "permit_date": "1924-05-16",
+  "permit_no": "A 9608",
+  "notes": "B. (building type partly illegible); Book S 3 Page 731; permit number faint, uncertain; no direction written; card faint and overexposed; water no. unclear; file no. faint"
+ },
+ "in": 2273,
+ "out": 144
+}

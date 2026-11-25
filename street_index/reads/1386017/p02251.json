@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 2251,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p02251_3378305.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"24th Pl\",\"direction\":\"W\",\"house_number\":\"4117\",\"permit_date\":\"1911-07-25\",\"permit_no\":\"SW 31299\",\"notes\":\"Handwritten card; 'B' written beneath street name (likely Brick); File No 96403; date stamp doubled/blurred; permit number prefix reads 'SW' and is uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "24th Pl",
+  "direction": "W",
+  "house_number": "4117",
+  "permit_date": "1911-07-25",
+  "permit_no": "SW 31299",
+  "notes": "Handwritten card; 'B' written beneath street name (likely Brick); File No 96403; date stamp doubled/blurred; permit number prefix reads 'SW' and is uncertain"
+ },
+ "in": 2265,
+ "out": 149
+}

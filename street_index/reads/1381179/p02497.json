@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 2497,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p02497_3368081.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Handwritten top line faint and overexposed; looks like '103? N 33rd ... LE' but not confident; work line reads roughly 'remodeling to ... Estab. Garage; Bldg'; Book 56 Page 509; water no. possibly ends 145; card faint and washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Handwritten top line faint and overexposed; looks like '103? N 33rd ... LE' but not confident; work line reads roughly 'remodeling to ... Estab. Garage; Bldg'; Book 56 Page 509; water no. possibly ends 145; card faint and washed out"
+ },
+ "in": 2265,
+ "out": 163
+}

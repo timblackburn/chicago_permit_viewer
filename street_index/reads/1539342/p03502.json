@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 3502,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p03502_3682359.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"St Louis Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top, faint and overexposed; house number looks like 4029 but is uncertain; rest of card blank or washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "St Louis Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top, faint and overexposed; house number looks like 4029 but is uncertain; rest of card blank or washed out"
+ },
+ "in": 2282,
+ "out": 124
+}

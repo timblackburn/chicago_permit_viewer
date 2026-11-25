@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 1251,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p01251_3639500.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Spaulding Ave\",\"direction\":\"S\",\"house_number\":\"8227\",\"permit_date\":\"\",\"permit_no\":\"A 1220\",\"notes\":\"permit no. partly faint, possibly A 1220 followed by another character; file no. 473945; date of permit faint and unreadable; book and page blank; card low contrast and worn. House number 8227 is a best reading of the handwriting, though it falls oddly after 6011 S Spaulding in the sequence.\\\"}\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Spaulding Ave",
+  "direction": "S",
+  "house_number": "8227",
+  "permit_date": "",
+  "permit_no": "A 1220",
+  "notes": "permit no. partly faint, possibly A 1220 followed by another character; file no. 473945; date of permit faint and unreadable; book and page blank; card low contrast and worn. House number 8227 is a best reading of the handwriting, though it falls oddly after 6011 S Spaulding in the sequence.\"}"
+ },
+ "in": 2274,
+ "out": 186
+}

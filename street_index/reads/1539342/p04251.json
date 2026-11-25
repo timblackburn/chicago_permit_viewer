@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 4251,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p04251_3680911.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"St. Louis Ave\",\"direction\":\"N\",\"house_number\":\"5911\",\"permit_date\":\"1948-12-23\",\"permit_no\":\"B 22168\",\"notes\":\"1-2 sty res; Book 59 Page 357; Plan no. 6637; File no. 372613\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "St. Louis Ave",
+  "direction": "N",
+  "house_number": "5911",
+  "permit_date": "1948-12-23",
+  "permit_no": "B 22168",
+  "notes": "1-2 sty res; Book 59 Page 357; Plan no. 6637; File no. 372613"
+ },
+ "in": 2283,
+ "out": 123
+}

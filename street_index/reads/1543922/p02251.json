@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 2251,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p02251_3694945.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sacramento Blvd\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1934-03-10\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line reads '33 S. Sacramento Blvd.' with the house number possibly cut off or incomplete; cross streets 'Sacramento - Madison'; permit no. begins '370' but is unreadable; date looks like Mar. 10, 1934; film damaged along bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sacramento Blvd",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1934-03-10",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line reads '33 S. Sacramento Blvd.' with the house number possibly cut off or incomplete; cross streets 'Sacramento - Madison'; permit no. begins '370' but is unreadable; date looks like Mar. 10, 1934; film damaged along bottom edge"
+ },
+ "in": 2280,
+ "out": 192
+}

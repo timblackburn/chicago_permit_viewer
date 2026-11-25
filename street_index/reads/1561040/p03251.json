@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 3251,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p03251_3725489.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Richmond St\",\"direction\":\"N\",\"house_number\":\"6251\",\"permit_date\":\"1951-10-30\",\"permit_no\":\"B 66874\",\"notes\":\"1-2 sty B. Duplex Res; Book 64 Page 369; Plan 9721; File 419573; address reads N although neighbors are S, handwriting reads N\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Richmond St",
+  "direction": "N",
+  "house_number": "6251",
+  "permit_date": "1951-10-30",
+  "permit_no": "B 66874",
+  "notes": "1-2 sty B. Duplex Res; Book 64 Page 369; Plan 9721; File 419573; address reads N although neighbors are S, handwriting reads N"
+ },
+ "in": 2279,
+ "out": 143
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 751,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p00751_3351689.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"51st Ct\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"R 42578\",\"notes\":\"top line handwriting faint, house number looks like 123? and is not reliably readable; second line (building type) illegible; Plan No. 3645?; Water No. unclear; Date of permit blank; handwritten 44 and 518 near architect address; low contrast, faint microfilm frame\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "51st Ct",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "R 42578",
+  "notes": "top line handwriting faint, house number looks like 123? and is not reliably readable; second line (building type) illegible; Plan No. 3645?; Water No. unclear; Date of permit blank; handwritten 44 and 518 near architect address; low contrast, faint microfilm frame"
+ },
+ "in": 2297,
+ "out": 170
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 2761,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p02761_3570725.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tilden St\",\"direction\":\"W\",\"house_number\":\"1104\",\"permit_date\":\"1891-10-12\",\"permit_no\":\"3756\",\"notes\":\"old addr: 68 Tilden Ave; typed card, faint; permit number and date faint but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tilden St",
+  "direction": "W",
+  "house_number": "1104",
+  "permit_date": "1891-10-12",
+  "permit_no": "3756",
+  "notes": "old addr: 68 Tilden Ave; typed card, faint; permit number and date faint but readable"
+ },
+ "in": 2274,
+ "out": 117
+}

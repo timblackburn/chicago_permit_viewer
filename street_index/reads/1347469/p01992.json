@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 1992,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p01992_3301470.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1913-04\",\"permit_no\":\"\",\"notes\":\"overexposed, very faint; top line handwriting may read '306 ... 75th st' but not confident; permit no. starts with 'A' but digits unreadable; stamp 'APR ? 6 1913' partly legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1913-04",
+  "permit_no": "",
+  "notes": "overexposed, very faint; top line handwriting may read '306 ... 75th st' but not confident; permit no. starts with 'A' but digits unreadable; stamp 'APR ? 6 1913' partly legible"
+ },
+ "in": 2269,
+ "out": 143
+}

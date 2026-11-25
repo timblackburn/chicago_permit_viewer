@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 1375,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p01375_3716064.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeway Ave\",\"direction\":\"N\",\"house_number\":\"2455\",\"permit_date\":\"\",\"permit_no\":\"903?9\",\"notes\":\"Apts; permit no. partly legible (903?9); water no. faint (65?9); file no. and date of permit faint/illegible; card is dark with stains and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeway Ave",
+  "direction": "N",
+  "house_number": "2455",
+  "permit_date": "",
+  "permit_no": "903?9",
+  "notes": "Apts; permit no. partly legible (903?9); water no. faint (65?9); file no. and date of permit faint/illegible; card is dark with stains and low contrast"
+ },
+ "in": 2322,
+ "out": 138
+}

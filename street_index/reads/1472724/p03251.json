@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 3251,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p03251_3550292.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint, overexposed card; top address line unreadable (possibly Union or Vernon Ave, not certain); date of permit partly visible as APR, year unreadable; file no. stamp unreadable; permit no. blank\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint, overexposed card; top address line unreadable (possibly Union or Vernon Ave, not certain); date of permit partly visible as APR, year unreadable; file no. stamp unreadable; permit no. blank"
+ },
+ "in": 2275,
+ "out": 141
+}

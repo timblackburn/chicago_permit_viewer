@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 3496,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p03496_3366071.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"34th St\",\"direction\":\"W\",\"house_number\":\"2416\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address '2416 W 34th St'; second line possibly 'Brick' (faint); form fields faint and overexposed, no permit details readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "34th St",
+  "direction": "W",
+  "house_number": "2416",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address '2416 W 34th St'; second line possibly 'Brick' (faint); form fields faint and overexposed, no permit details readable"
+ },
+ "in": 2266,
+ "out": 128
+}

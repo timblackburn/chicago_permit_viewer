@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 2751,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p02751_3421358.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"14th Pl\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926-04-06\",\"permit_no\":\"78423\",\"notes\":\"Address written as \\\"N.W. cor 14th Place & Ashland Ave\\\" (corner, no house number); Alterations; Sundry; Plan No. 2903; File No. 131544; stamp is faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "14th Pl",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926-04-06",
+  "permit_no": "78423",
+  "notes": "Address written as \"N.W. cor 14th Place & Ashland Ave\" (corner, no house number); Alterations; Sundry; Plan No. 2903; File No. 131544; stamp is faint"
+ },
+ "in": 2268,
+ "out": 149
+}

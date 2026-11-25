@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 3251,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p03251_3438919.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1945\",\"permit_no\":\"\",\"notes\":\"Sundry; install windows, supply service (handwriting very faint); address line at top unreadable, possibly ends in 'ood'; date of permit Dec 1945, day illegible; permit no. faint; card very faded\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1945",
+  "permit_no": "",
+  "notes": "Sundry; install windows, supply service (handwriting very faint); address line at top unreadable, possibly ends in 'ood'; date of permit Dec 1945, day illegible; permit no. faint; card very faded"
+ },
+ "in": 2272,
+ "out": 141
+}

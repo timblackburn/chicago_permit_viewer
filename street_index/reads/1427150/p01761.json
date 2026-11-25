@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 1761,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p01761_3459618.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wilson Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"B 20970\",\"notes\":\"Top line reads roughly \\\"3123 20 Wilson ave\\\" but the house number is faint and uncertain; second line looks like \\\"Bt B\\\"; handwritten \\\"95\\\" line below permit no.; file no. 59711 (faint); date of permit not readable; very faint card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wilson Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "B 20970",
+  "notes": "Top line reads roughly \"3123 20 Wilson ave\" but the house number is faint and uncertain; second line looks like \"Bt B\"; handwritten \"95\" line below permit no.; file no. 59711 (faint); date of permit not readable; very faint card"
+ },
+ "in": 2314,
+ "out": 169
+}

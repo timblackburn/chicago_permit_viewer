@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 4252,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p04252_3548290.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Green\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926-10-13\",\"permit_no\":\"\",\"notes\":\"Address given as corner: N.E. cor Green & Van Buren (no house number); Wreck 2-story; Sundry; plan no. 150503; permit no. faint and unreadable; date partly obscured, reads Oct 1? 1926; card overexposed and faint in places\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Green",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926-10-13",
+  "permit_no": "",
+  "notes": "Address given as corner: N.E. cor Green & Van Buren (no house number); Wreck 2-story; Sundry; plan no. 150503; permit no. faint and unreadable; date partly obscured, reads Oct 1? 1926; card overexposed and faint in places"
+ },
+ "in": 2311,
+ "out": 166
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 1251,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p01251_3648182.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"S\",\"house_number\":\"9256\",\"permit_date\":\"1948-07-07\",\"permit_no\":\"A 14983\",\"notes\":\"Replace 2 plbg fixtures & install 1-30 gal A.G.H.; house number handwritten, middle digits slightly unclear (read as 9256); file no. 365560; bottom of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "S",
+  "house_number": "9256",
+  "permit_date": "1948-07-07",
+  "permit_no": "A 14983",
+  "notes": "Replace 2 plbg fixtures & install 1-30 gal A.G.H.; house number handwritten, middle digits slightly unclear (read as 9256); file no. 365560; bottom of card damaged"
+ },
+ "in": 2311,
+ "out": 157
+}

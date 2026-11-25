@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 3751,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p03751_3672704.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sawyer Ave\",\"direction\":\"N\",\"house_number\":\"3842\",\"permit_date\":\"1928-07-13\",\"permit_no\":\"A 41753\",\"notes\":\"B. Gpt (type of work as written, uncertain); Book W Page 36; water no. 53479; file no. H 566; permit number faint and partly uncertain; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sawyer Ave",
+  "direction": "N",
+  "house_number": "3842",
+  "permit_date": "1928-07-13",
+  "permit_no": "A 41753",
+  "notes": "B. Gpt (type of work as written, uncertain); Book W Page 36; water no. 53479; file no. H 566; permit number faint and partly uncertain; card faint and low contrast"
+ },
+ "in": 2280,
+ "out": 151
+}

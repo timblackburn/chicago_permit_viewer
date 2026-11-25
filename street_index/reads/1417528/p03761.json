@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 3761,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p03761_3437895.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1932-06-01\",\"permit_no\":\"\",\"notes\":\"Sundry; Repair front & ... (work description faint); address reads roughly \\\"1723 S Wood St\\\" but number uncertain, direction faint; card is faded and low contrast; frame order suggests between 1129 and 3139 S Wood St\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1932-06-01",
+  "permit_no": "",
+  "notes": "Sundry; Repair front & ... (work description faint); address reads roughly \"1723 S Wood St\" but number uncertain, direction faint; card is faded and low contrast; frame order suggests between 1129 and 3139 S Wood St"
+ },
+ "in": 2271,
+ "out": 159
+}

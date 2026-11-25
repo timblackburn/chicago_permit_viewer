@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 2251,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p02251_3339289.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"58th St\",\"direction\":\"W\",\"house_number\":\"743-47\",\"permit_date\":\"1948-06-03\",\"permit_no\":\"B 13344\",\"notes\":\"Erect 1 sty Addn.; Book 58 Page 486; Plan No. 2694; File No. 363905; house number reads 743-47 but sits oddly in sequence (reel neighbors are 3900s block), reading is as written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "58th St",
+  "direction": "W",
+  "house_number": "743-47",
+  "permit_date": "1948-06-03",
+  "permit_no": "B 13344",
+  "notes": "Erect 1 sty Addn.; Book 58 Page 486; Plan No. 2694; File No. 363905; house number reads 743-47 but sits oddly in sequence (reel neighbors are 3900s block), reading is as written on card"
+ },
+ "in": 2268,
+ "out": 165
+}

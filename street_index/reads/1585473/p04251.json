@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 4251,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p04251_3774203.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pershing Rd\",\"direction\":\"W\",\"house_number\":\"1700-10\",\"permit_date\":\"1927-03-21\",\"permit_no\":\"B 15226\",\"notes\":\"Auto Service Station; Book S 41 Page 542; stamped PERSHING RD over handwritten street name; water no. 530; plan no. 2401; file no. 159758\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pershing Rd",
+  "direction": "W",
+  "house_number": "1700-10",
+  "permit_date": "1927-03-21",
+  "permit_no": "B 15226",
+  "notes": "Auto Service Station; Book S 41 Page 542; stamped PERSHING RD over handwritten street name; water no. 530; plan no. 2401; file no. 159758"
+ },
+ "in": 2279,
+ "out": 148
+}

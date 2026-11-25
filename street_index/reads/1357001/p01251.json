@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 1251,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p01251_3322056.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"63rd Pl\",\"direction\":\"W\",\"house_number\":\"3520\",\"permit_date\":\"1948-03-30\",\"permit_no\":\"B 10108\",\"notes\":\"1-2 sty res; Plan no. 1126; File no. 360742; date stamp partly obscured (day read as 30); ledger book/page line damaged and unreadable; lower part of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "63rd Pl",
+  "direction": "W",
+  "house_number": "3520",
+  "permit_date": "1948-03-30",
+  "permit_no": "B 10108",
+  "notes": "1-2 sty res; Plan no. 1126; File no. 360742; date stamp partly obscured (day read as 30); ledger book/page line damaged and unreadable; lower part of card damaged"
+ },
+ "in": 2309,
+ "out": 152
+}

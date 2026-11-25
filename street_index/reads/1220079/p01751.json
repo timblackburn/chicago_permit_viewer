@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 1751,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p01751_3047281.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Christiana Ave\",\"direction\":\"S\",\"house_number\":\"2614\",\"permit_date\":\"1897-09-16\",\"permit_no\":\"SW 666\",\"notes\":\"typed card; second address on card: 1267 S. Turner Ave (not the filing address); permit no. prefix SW as read\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Christiana Ave",
+  "direction": "S",
+  "house_number": "2614",
+  "permit_date": "1897-09-16",
+  "permit_no": "SW 666",
+  "notes": "typed card; second address on card: 1267 S. Turner Ave (not the filing address); permit no. prefix SW as read"
+ },
+ "in": 2273,
+ "out": 128
+}

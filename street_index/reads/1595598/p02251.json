@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1595598",
+ "slide_index": 2251,
+ "image": "street_index/data/1595598/slides_pct_0-0-100-99_w1000/p02251_3798518.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Parkside Ave\",\"direction\":\"N\",\"house_number\":\"1701\",\"permit_date\":\"1922-05-18\",\"permit_no\":\"A 68273\",\"notes\":\"B. Apts; Book W 2 Page 61; water no. 42989; plan no. 3933; file no. 13997\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Parkside Ave",
+  "direction": "N",
+  "house_number": "1701",
+  "permit_date": "1922-05-18",
+  "permit_no": "A 68273",
+  "notes": "B. Apts; Book W 2 Page 61; water no. 42989; plan no. 3933; file no. 13997"
+ },
+ "in": 2311,
+ "out": 127
+}

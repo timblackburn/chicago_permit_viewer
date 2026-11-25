@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 1241,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p01241_3554337.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Union Ave\",\"direction\":\"\",\"house_number\":\"3015\",\"permit_date\":\"1925-03-18\",\"permit_no\":\"7616\",\"notes\":\"Frame auto shed; Sundry; permit no. faint (read as 7616, possibly 27616); file no. faint; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Union Ave",
+  "direction": "",
+  "house_number": "3015",
+  "permit_date": "1925-03-18",
+  "permit_no": "7616",
+  "notes": "Frame auto shed; Sundry; permit no. faint (read as 7616, possibly 27616); file no. faint; no direction written on card"
+ },
+ "in": 2309,
+ "out": 129
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 252,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p00252_3161872.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Astor St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1948-05-17\",\"permit_no\":\"A 12455\",\"notes\":\"Remodel into 6 apts (handwritten, faint); address line faint, house number looks like 1?40 but not confident; File No. 363062; Plan No. faint; card very faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Astor St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1948-05-17",
+  "permit_no": "A 12455",
+  "notes": "Remodel into 6 apts (handwritten, faint); address line faint, house number looks like 1?40 but not confident; File No. 363062; Plan No. faint; card very faint and low contrast"
+ },
+ "in": 2273,
+ "out": 146
+}

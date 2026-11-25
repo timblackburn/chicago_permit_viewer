@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 3251,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p03251_3635499.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Springfield Ave\",\"direction\":\"N\",\"house_number\":\"4124\",\"permit_date\":\"1924-11\",\"permit_no\":\"\",\"notes\":\"Res (kind of work faint); Page 532; Plan no. 11172; File no. 70593; permit no. and water no. too faint to read; date reads Nov 1924, day unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Springfield Ave",
+  "direction": "N",
+  "house_number": "4124",
+  "permit_date": "1924-11",
+  "permit_no": "",
+  "notes": "Res (kind of work faint); Page 532; Plan no. 11172; File no. 70593; permit no. and water no. too faint to read; date reads Nov 1924, day unreadable"
+ },
+ "in": 2312,
+ "out": 143
+}

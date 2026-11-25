@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 2751,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p02751_3281197.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"94th St\",\"direction\":\"W\",\"house_number\":\"1100\",\"permit_date\":\"1950-03\",\"permit_no\":\"A 39715\",\"notes\":\"Frame Garage; date of permit partly faint (Mar. day unclear, 1950); plan no. faint (889880?); card does not fit expected filing between 2000 E 93rd St and 351-53 E 95th St\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "94th St",
+  "direction": "W",
+  "house_number": "1100",
+  "permit_date": "1950-03",
+  "permit_no": "A 39715",
+  "notes": "Frame Garage; date of permit partly faint (Mar. day unclear, 1950); plan no. faint (889880?); card does not fit expected filing between 2000 E 93rd St and 351-53 E 95th St"
+ },
+ "in": 2265,
+ "out": 154
+}

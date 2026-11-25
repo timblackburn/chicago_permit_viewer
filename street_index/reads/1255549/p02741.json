@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 2741,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p02741_3116220.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Bishop St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1939-01-2\",\"permit_no\":\"118369\",\"notes\":\"Frame; Sundry; handwritten top line faint, house number begins 64.. or 6430 not certain; permit no. first digit(s) faint; plan no. 287484; date partly faded (JAN 2? 1939); card very faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Bishop St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1939-01-2",
+  "permit_no": "118369",
+  "notes": "Frame; Sundry; handwritten top line faint, house number begins 64.. or 6430 not certain; permit no. first digit(s) faint; plan no. 287484; date partly faded (JAN 2? 1939); card very faint and overexposed"
+ },
+ "in": 2274,
+ "out": 164
+}

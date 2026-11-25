@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 4751,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p04751_3845966.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nora Ave\",\"direction\":\"N\",\"house_number\":\"3542\",\"permit_date\":\"1954-09-20\",\"permit_no\":\"B 118611\",\"notes\":\"Erect 1 sty Brick Residence; Plan no. 3223; File no. 470552\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nora Ave",
+  "direction": "N",
+  "house_number": "3542",
+  "permit_date": "1954-09-20",
+  "permit_no": "B 118611",
+  "notes": "Erect 1 sty Brick Residence; Plan no. 3223; File no. 470552"
+ },
+ "in": 2311,
+ "out": 118
+}

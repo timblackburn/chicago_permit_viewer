@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 3751,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p03751_3409709.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1912-08-10\",\"permit_no\":\"116281\",\"notes\":\"Sundry; address line at top is very faint handwriting, possibly '... W 21st Place' but not reliably readable; kind of work unreadable; plan no. 284182; date partly cut off (AUG 10 19..), year uncertain; card faint and low contrast\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1912-08-10",
+  "permit_no": "116281",
+  "notes": "Sundry; address line at top is very faint handwriting, possibly '... W 21st Place' but not reliably readable; kind of work unreadable; plan no. 284182; date partly cut off (AUG 10 19..), year uncertain; card faint and low contrast"
+ },
+ "in": 2270,
+ "out": 163
+}

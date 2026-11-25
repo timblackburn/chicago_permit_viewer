@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 2251,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p02251_3976334.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mason Ave\",\"direction\":\"S\",\"house_number\":\"5749\",\"permit_date\":\"1954-08-24\",\"permit_no\":\"B 116931\",\"notes\":\"Erect 1 sty Brick Residence; plan no. 2464; file no. 468855; last digits of permit no. partly obscured (read as 116931)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mason Ave",
+  "direction": "S",
+  "house_number": "5749",
+  "permit_date": "1954-08-24",
+  "permit_no": "B 116931",
+  "notes": "Erect 1 sty Brick Residence; plan no. 2464; file no. 468855; last digits of permit no. partly obscured (read as 116931)"
+ },
+ "in": 2310,
+ "out": 138
+}

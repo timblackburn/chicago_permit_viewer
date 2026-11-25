@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 751,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p00751_3678704.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Very faint, overexposed card; handwriting at top is washed out and unreadable; possibly a Sangamon St card given neighbors but not confirmed; permit no. and date not readable; BOOK/PAGE fields blank or unreadable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Very faint, overexposed card; handwriting at top is washed out and unreadable; possibly a Sangamon St card given neighbors but not confirmed; permit no. and date not readable; BOOK/PAGE fields blank or unreadable"
+ },
+ "in": 2278,
+ "out": 148
+}

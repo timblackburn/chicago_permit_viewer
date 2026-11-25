@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 3501,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p03501_3429279.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wrightwood Ave\",\"direction\":\"W\",\"house_number\":\"5725\",\"permit_date\":\"\",\"permit_no\":\"B 89705\",\"notes\":\"Book 66 Page 564; plan no. 9753; file no. 441921; house number faint, read as 5725; kind of work line struck through/unreadable; no date of permit written; low contrast film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wrightwood Ave",
+  "direction": "W",
+  "house_number": "5725",
+  "permit_date": "",
+  "permit_no": "B 89705",
+  "notes": "Book 66 Page 564; plan no. 9753; file no. 441921; house number faint, read as 5725; kind of work line struck through/unreadable; no date of permit written; low contrast film"
+ },
+ "in": 2277,
+ "out": 147
+}

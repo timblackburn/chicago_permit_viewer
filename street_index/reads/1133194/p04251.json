@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 4251,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p04251_2867608.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fullerton Ave\",\"direction\":\"\",\"house_number\":\"4151\",\"permit_date\":\"1930-06-11\",\"permit_no\":\"67932\",\"notes\":\"Repair Stairs; Sundry; no direction written; date has a struck-through year corrected to 1930; permit number faint; file no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fullerton Ave",
+  "direction": "",
+  "house_number": "4151",
+  "permit_date": "1930-06-11",
+  "permit_no": "67932",
+  "notes": "Repair Stairs; Sundry; no direction written; date has a struck-through year corrected to 1930; permit number faint; file no. faint"
+ },
+ "in": 2282,
+ "out": 132
+}

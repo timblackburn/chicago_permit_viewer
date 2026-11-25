@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 4703,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p04703_3566828.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tripp Ave\",\"direction\":\"N\",\"house_number\":\"3429-35\",\"permit_date\":\"1912-05-28\",\"permit_no\":\"A 4297\",\"notes\":\"Book N I Page 213; handwritten address reads \\\"3429 and 35 N 42d Ct\\\" beside N. Tripp Ave; permit number and ledger entry faint; file no 14206; circled 2 at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tripp Ave",
+  "direction": "N",
+  "house_number": "3429-35",
+  "permit_date": "1912-05-28",
+  "permit_no": "A 4297",
+  "notes": "Book N I Page 213; handwritten address reads \"3429 and 35 N 42d Ct\" beside N. Tripp Ave; permit number and ledger entry faint; file no 14206; circled 2 at bottom"
+ },
+ "in": 2277,
+ "out": 164
+}

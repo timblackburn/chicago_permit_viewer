@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 751,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p00751_3574798.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Throop St\",\"direction\":\"S\",\"house_number\":\"619-23\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card; \\\"To\\\" handwritten above the number; second line faintly typed, reads like \\\"618-20 Throop St.\\\" (possibly the old address); rest of card very faint and unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Throop St",
+  "direction": "S",
+  "house_number": "619-23",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card; \"To\" handwritten above the number; second line faintly typed, reads like \"618-20 Throop St.\" (possibly the old address); rest of card very faint and unreadable"
+ },
+ "in": 2309,
+ "out": 138
+}

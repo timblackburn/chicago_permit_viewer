@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 3251,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p03251_3429729.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wrightwood Ave\",\"direction\":\"\",\"house_number\":\"1500\",\"permit_date\":\"1916-08-25\",\"permit_no\":\"A 42306\",\"notes\":\"Fr B.; Page 20; Water No 16340; stamped AUG 25 1916; no direction written; card is faint and low contrast; book letter after N. unclear, possibly \\\"N. 15\\\"; permit number partly uncertain (42306)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wrightwood Ave",
+  "direction": "",
+  "house_number": "1500",
+  "permit_date": "1916-08-25",
+  "permit_no": "A 42306",
+  "notes": "Fr B.; Page 20; Water No 16340; stamped AUG 25 1916; no direction written; card is faint and low contrast; book letter after N. unclear, possibly \"N. 15\"; permit number partly uncertain (42306)"
+ },
+ "in": 2277,
+ "out": 170
+}

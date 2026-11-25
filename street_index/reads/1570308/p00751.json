@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 751,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p00751_3751172.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pulaski Rd\",\"direction\":\"N\",\"house_number\":\"1034\",\"permit_date\":\"1912-10-04\",\"permit_no\":\"A 8361\",\"notes\":\"B (building type letter); Page 304; file no. 24561; at 40th Ave; handwritten additional text \\\"W. n\\\" and \\\"BV\\\" unclear; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pulaski Rd",
+  "direction": "N",
+  "house_number": "1034",
+  "permit_date": "1912-10-04",
+  "permit_no": "A 8361",
+  "notes": "B (building type letter); Page 304; file no. 24561; at 40th Ave; handwritten additional text \"W. n\" and \"BV\" unclear; card faint and low contrast"
+ },
+ "in": 2281,
+ "out": 150
+}

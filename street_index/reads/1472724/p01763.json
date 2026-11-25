@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 1763,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p01763_3553280.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Union Ave\",\"direction\":\"S\",\"house_number\":\"416c\",\"permit_date\":\"1946-09-16\",\"permit_no\":\"\",\"notes\":\"Add. to Packing Plant, B Bldg; Book 56 Page 372; plan no 1690; file no 341289; house number possibly 4160 (handwriting ambiguous); permit no blank; no type given on card, Union assumed Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Union Ave",
+  "direction": "S",
+  "house_number": "416c",
+  "permit_date": "1946-09-16",
+  "permit_no": "",
+  "notes": "Add. to Packing Plant, B Bldg; Book 56 Page 372; plan no 1690; file no 341289; house number possibly 4160 (handwriting ambiguous); permit no blank; no type given on card, Union assumed Ave"
+ },
+ "in": 2273,
+ "out": 163
+}

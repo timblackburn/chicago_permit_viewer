@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 4751,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p04751_3951588.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Merrimac Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1939-04-11\",\"permit_no\":\"46920\",\"notes\":\"Residence; file no. 280814; house number begins 290 with last digit unclear; direction faint and read as N from neighbouring cards; card faint and washed out; ledger entry at bottom not clear (Page 6?)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Merrimac Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1939-04-11",
+  "permit_no": "46920",
+  "notes": "Residence; file no. 280814; house number begins 290 with last digit unclear; direction faint and read as N from neighbouring cards; card faint and washed out; ledger entry at bottom not clear (Page 6?)"
+ },
+ "in": 2316,
+ "out": 156
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 1751,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p01751_3369604.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Severely overexposed and washed out; handwriting mostly invisible. Faint numbers like 38196 and 38192 possibly plan/file numbers, unsure. Printed 'ENTERED 52 PAGE' visible at bottom. Address at top not readable.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Severely overexposed and washed out; handwriting mostly invisible. Faint numbers like 38196 and 38192 possibly plan/file numbers, unsure. Printed 'ENTERED 52 PAGE' visible at bottom. Address at top not readable."
+ },
+ "in": 2264,
+ "out": 156
+}

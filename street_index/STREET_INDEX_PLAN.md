@@ -50,3 +50,8 @@ From UIC IIIF Collection `31` (`/iiif/collection/31`), we already discovered and
 - Read by Claude Sonnet 5.5 (Message Batches API, $4.23); the raw read of each card is kept in `street_index/reads/<mid>/p<frame>.json`. Only legible cards (legibility `ok`) were kept as anchors; no recovery passes for illegible ones.
 - `check_order.py` set aside 31 cards whose street does not file between their neighbours (mostly cards that give a street's old name, e.g. 44th Ct under Kenneth): legibility `out_of_order`, reading moved into notes.
 - Result: 1,418 read: 1,045 new anchors, 205 partial, 123 illegible, 14 non-card, 31 out of order. Anchor cards: 1,569 → 2,614.
+
+### Pass 5 — Halving the biggest gaps left, with light-scan replacements (2026-11-25)
+- `plan.py --target 230 --nudge 20`: halve the biggest gap of the whole film, then the next biggest, until 230 frames; a midpoint tried before (unreadable) moves to the nearest untried card within 20 frames, so no frame is requested twice.
+- `fetch.py` (7–8 s apart) measures each card's ink contrast; under 15 (a washed-out scan) it fetches the card 10 frames on, then 10 frames back, at most 2 extra per planned frame. 305 frames in 44 min, 75 light scans; plus 17 frames of an interrupted first try.
+- 322 read by Sonnet 5.5 batch ($0.96): 147 new anchors, 75 partial, 74 illegible, 19 non-card, 7 out of filing order (set aside). Anchor cards: 2,614 → 2,761; the biggest gap left is 500 frames.

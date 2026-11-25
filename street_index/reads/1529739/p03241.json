@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 3241,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p03241_3663524.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sedgwick St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1893\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; two address lines: first line partly legible \\\"1503 N. Sedgwick St.\\\" (number uncertain), second \\\"349 Sedgwick\\\" (likely old addr); permit no. possibly \\\"69?\\\"; date partly legible \\\"... 12, 1893\\\"\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sedgwick St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1893",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; two address lines: first line partly legible \"1503 N. Sedgwick St.\" (number uncertain), second \"349 Sedgwick\" (likely old addr); permit no. possibly \"69?\"; date partly legible \"... 12, 1893\""
+ },
+ "in": 2277,
+ "out": 174
+}

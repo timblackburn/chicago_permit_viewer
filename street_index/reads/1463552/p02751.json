@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 2751,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p02751_3533128.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"200\",\"permit_date\":\"1925-11-23\",\"permit_no\":\"74969\",\"notes\":\"Alt; File No. 124799; Sundry stamp at top right; card is noisy with a dark vignette but the handwriting is readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "200",
+  "permit_date": "1925-11-23",
+  "permit_no": "74969",
+  "notes": "Alt; File No. 124799; Sundry stamp at top right; card is noisy with a dark vignette but the handwriting is readable"
+ },
+ "in": 2241,
+ "out": 129
+}

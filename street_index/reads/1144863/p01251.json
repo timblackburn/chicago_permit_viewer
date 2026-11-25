@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 1251,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p01251_2897476.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Evergreen Ave\",\"direction\":\"\",\"house_number\":\"2732\",\"permit_date\":\"1945-06-12\",\"permit_no\":\"142680\",\"notes\":\"Repair rear porch & stairs; Sundry; file no 329124; house number partly faint, direction not written; permit no. slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Evergreen Ave",
+  "direction": "",
+  "house_number": "2732",
+  "permit_date": "1945-06-12",
+  "permit_no": "142680",
+  "notes": "Repair rear porch & stairs; Sundry; file no 329124; house number partly faint, direction not written; permit no. slightly faint"
+ },
+ "in": 2317,
+ "out": 131
+}

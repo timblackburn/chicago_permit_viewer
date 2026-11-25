@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 1261,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p01261_3331554.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"61st St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1922-06-29\",\"permit_no\":\"A 19\",\"notes\":\"Handwritten address begins 387? W 61st St (last digit unclear; direction read from the W/E mark on the second line, uncertain); permit no. partly legible; Book S Page 219; date stamped JUN 29 1922; card faint and overexposed, handwriting washed out.; water no. partly readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "61st St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1922-06-29",
+  "permit_no": "A 19",
+  "notes": "Handwritten address begins 387? W 61st St (last digit unclear; direction read from the W/E mark on the second line, uncertain); permit no. partly legible; Book S Page 219; date stamped JUN 29 1922; card faint and overexposed, handwriting washed out.; water no. partly readable"
+ },
+ "in": 2267,
+ "out": 181
+}

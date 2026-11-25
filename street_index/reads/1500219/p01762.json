@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 1762,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p01762_3609333.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Washington Blvd\",\"direction\":\"W\",\"house_number\":\"2678\",\"permit_date\":\"1949\",\"permit_no\":\"A 32359\",\"notes\":\"Ventilation; house number handwritten and uncertain (reads 2678, but should file between 2019 and 3201); plan no. 965E; file no. 382627; book/page blank; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Washington Blvd",
+  "direction": "W",
+  "house_number": "2678",
+  "permit_date": "1949",
+  "permit_no": "A 32359",
+  "notes": "Ventilation; house number handwritten and uncertain (reads 2678, but should file between 2019 and 3201); plan no. 965E; file no. 382627; book/page blank; card faint and low contrast"
+ },
+ "in": 2278,
+ "out": 151
+}

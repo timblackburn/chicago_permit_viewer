@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 3751,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p03751_3857930.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nelson St\",\"direction\":\"W\",\"house_number\":\"4854-56\",\"permit_date\":\"1923-04-04\",\"permit_no\":\"A 76819\",\"notes\":\"Metropolis (handwritten); B. apts; Book N 35 Page 367; plan 2509; water no. 51840; file 35129; faint microfilm copy, house number partly read (4854/6)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nelson St",
+  "direction": "W",
+  "house_number": "4854-56",
+  "permit_date": "1923-04-04",
+  "permit_no": "A 76819",
+  "notes": "Metropolis (handwritten); B. apts; Book N 35 Page 367; plan 2509; water no. 51840; file 35129; faint microfilm copy, house number partly read (4854/6)"
+ },
+ "in": 2325,
+ "out": 154
+}

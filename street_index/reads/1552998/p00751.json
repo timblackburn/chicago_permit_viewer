@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 751,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p00751_3717349.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeway Ave\",\"direction\":\"N\",\"house_number\":\"1101\",\"permit_date\":\"1931-07-01\",\"permit_no\":\"76177\",\"notes\":\"Rear open porch; Sundry; file no. 235113; handwriting faint, stamp/date partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeway Ave",
+  "direction": "N",
+  "house_number": "1101",
+  "permit_date": "1931-07-01",
+  "permit_no": "76177",
+  "notes": "Rear open porch; Sundry; file no. 235113; handwriting faint, stamp/date partly faded"
+ },
+ "in": 2320,
+ "out": 124
+}

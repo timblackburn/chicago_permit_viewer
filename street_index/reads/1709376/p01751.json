@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 1751,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p01751_4026252.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lorel Ave\",\"direction\":\"N\",\"house_number\":\"2406\",\"permit_date\":\"1935-06-2\",\"permit_no\":\"93\",\"notes\":\"Replace post foundations with concrete & frame front addition; Sundry; permit number faint and partly unreadable (begins 93); date partly obscured (JUN 2_ 1935); plan no. faint; bottom edge of frame damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lorel Ave",
+  "direction": "N",
+  "house_number": "2406",
+  "permit_date": "1935-06-2",
+  "permit_no": "93",
+  "notes": "Replace post foundations with concrete & frame front addition; Sundry; permit number faint and partly unreadable (begins 93); date partly obscured (JUN 2_ 1935); plan no. faint; bottom edge of frame damaged"
+ },
+ "in": 2314,
+ "out": 163
+}

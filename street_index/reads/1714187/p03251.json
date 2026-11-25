@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 3251,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p03251_4033856.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Long Ave\",\"direction\":\"N\",\"house_number\":\"1534\",\"permit_date\":\"1938-07-15\",\"permit_no\":\"110801\",\"notes\":\"Alterations; Sundry; plan no. 3230; file no. 275850; faint, speckled card; date stamp partly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Long Ave",
+  "direction": "N",
+  "house_number": "1534",
+  "permit_date": "1938-07-15",
+  "permit_no": "110801",
+  "notes": "Alterations; Sundry; plan no. 3230; file no. 275850; faint, speckled card; date stamp partly smudged"
+ },
+ "in": 2237,
+ "out": 127
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 3761,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p03761_3345674.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"54th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"A\",\"notes\":\"handwritten top line reads roughly '?182 W 54th St' (first digits faint, direction uncertain); 'for 3' written below; permit no. only prefix A visible; file no. and date very faint; Book S Page (number illegible); very faint overexposed card; first digits of house number unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "54th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "A",
+  "notes": "handwritten top line reads roughly '?182 W 54th St' (first digits faint, direction uncertain); 'for 3' written below; permit no. only prefix A visible; file no. and date very faint; Book S Page (number illegible); very faint overexposed card; first digits of house number unreadable"
+ },
+ "in": 2305,
+ "out": 169
+}

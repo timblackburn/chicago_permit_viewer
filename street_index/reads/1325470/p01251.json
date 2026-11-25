@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 1251,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p01251_3256026.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"448\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"top line handwritten faint, reads like '448 7th 117th St?' but street not confidently readable; Permit No. faint (about 3 15 3 9 2?); Book 6 Page 372; File No. 42877; date of permit faint ('Jul'); very faint, low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "448",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "top line handwritten faint, reads like '448 7th 117th St?' but street not confidently readable; Permit No. faint (about 3 15 3 9 2?); Book 6 Page 372; File No. 42877; date of permit faint ('Jul'); very faint, low contrast"
+ },
+ "in": 2263,
+ "out": 161
+}

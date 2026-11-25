@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 1251,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p01251_3201842.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Champlain Ave\",\"direction\":\"S\",\"house_number\":\"11525\",\"permit_date\":\"1946-12-12\",\"permit_no\":\"A 02429\",\"notes\":\"Install Elevator; Sundry; File no. 344364\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Champlain Ave",
+  "direction": "S",
+  "house_number": "11525",
+  "permit_date": "1946-12-12",
+  "permit_no": "A 02429",
+  "notes": "Install Elevator; Sundry; File no. 344364"
+ },
+ "in": 2313,
+ "out": 107
+}

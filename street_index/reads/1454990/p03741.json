@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 3741,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p03741_3514022.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Warren Ave\",\"direction\":\"\",\"house_number\":\"2836\",\"permit_date\":\"\",\"permit_no\":\"91835\",\"notes\":\"Sundry; sign work, under 200 sq ft (partly faint); owner General Outdoor Adv.; file no. 252049 (faint); no direction written; date of permit not legible; low contrast film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Warren Ave",
+  "direction": "",
+  "house_number": "2836",
+  "permit_date": "",
+  "permit_no": "91835",
+  "notes": "Sundry; sign work, under 200 sq ft (partly faint); owner General Outdoor Adv.; file no. 252049 (faint); no direction written; date of permit not legible; low contrast film"
+ },
+ "in": 2287,
+ "out": 144
+}

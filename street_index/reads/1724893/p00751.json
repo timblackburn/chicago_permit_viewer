@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 751,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p00751_4059253.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lavergne Ave\",\"direction\":\"S\",\"house_number\":\"5059\",\"permit_date\":\"1944-12-12\",\"permit_no\":\"141363\",\"notes\":\"Frame Garage; Sundry; file no. 326680; card is dark and somewhat noisy at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lavergne Ave",
+  "direction": "S",
+  "house_number": "5059",
+  "permit_date": "1944-12-12",
+  "permit_no": "141363",
+  "notes": "Frame Garage; Sundry; file no. 326680; card is dark and somewhat noisy at bottom"
+ },
+ "in": 2276,
+ "out": 123
+}

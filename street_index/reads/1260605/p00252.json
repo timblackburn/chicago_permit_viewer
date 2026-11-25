@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 252,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p00252_3131288.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Belle Plaine Ave\",\"direction\":\"\",\"house_number\":\"5230\",\"permit_date\":\"1925-10-01\",\"permit_no\":\"\",\"notes\":\"Sundry; stamped SUNDRY at top right; handwritten 'Shed' under address; direction after street appears to be 'W.' but is unclear; File no. 120590; faint number 72342 written above the permit line, not clearly the permit number; low contrast, dark film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Belle Plaine Ave",
+  "direction": "",
+  "house_number": "5230",
+  "permit_date": "1925-10-01",
+  "permit_no": "",
+  "notes": "Sundry; stamped SUNDRY at top right; handwritten 'Shed' under address; direction after street appears to be 'W.' but is unclear; File no. 120590; faint number 72342 written above the permit line, not clearly the permit number; low contrast, dark film"
+ },
+ "in": 2280,
+ "out": 175
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 3751,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p03751_3888203.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monticello Ave\",\"direction\":\"N\",\"house_number\":\"1736\",\"permit_date\":\"1901-10-24\",\"permit_no\":\"1014\",\"notes\":\"old addr: 945 Monticello; card is faint and washed out; permit no. prefix appears to be N.S. (possibly 'N.S. 1014')\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monticello Ave",
+  "direction": "N",
+  "house_number": "1736",
+  "permit_date": "1901-10-24",
+  "permit_no": "1014",
+  "notes": "old addr: 945 Monticello; card is faint and washed out; permit no. prefix appears to be N.S. (possibly 'N.S. 1014')"
+ },
+ "in": 2276,
+ "out": 137
+}

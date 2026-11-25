@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 1256,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p01256_3265666.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"109th Pl\",\"direction\":\"W\",\"house_number\":\"55\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; card heavily overexposed and faint, permit details unreadable; file no. partly visible, not reliable; address read as 55 W 109th Pl\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "109th Pl",
+  "direction": "W",
+  "house_number": "55",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; card heavily overexposed and faint, permit details unreadable; file no. partly visible, not reliable; address read as 55 W 109th Pl"
+ },
+ "in": 2299,
+ "out": 127
+}

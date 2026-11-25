@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 3751,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p03751_3326558.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"63rd St\",\"direction\":\"E\",\"house_number\":\"1047-49\",\"permit_date\":\"1946-09\",\"permit_no\":\"\",\"notes\":\"Remove wooden floor & sleepers & replace with conc.; Bldg; Sundry; date of permit partly obscured (SEP 1946, day unclear); file no. faint and unreadable; house number read as 1047-49, second part uncertain; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "63rd St",
+  "direction": "E",
+  "house_number": "1047-49",
+  "permit_date": "1946-09",
+  "permit_no": "",
+  "notes": "Remove wooden floor & sleepers & replace with conc.; Bldg; Sundry; date of permit partly obscured (SEP 1946, day unclear); file no. faint and unreadable; house number read as 1047-49, second part uncertain; card faint and low contrast"
+ },
+ "in": 2267,
+ "out": 171
+}

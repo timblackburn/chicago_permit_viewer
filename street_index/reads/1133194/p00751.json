@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 751,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p00751_2874622.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Francisco Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1923-08\",\"permit_no\":\"A 81108\",\"notes\":\"Book S 30 Page 6; water no. 56131; file no. 48775 (approx.); house number at top is a faint scrawl and unreadable (possibly starts 5-); kind of work unclear (possibly 'Res'); card faint and overexposed, date shows AUG 1923 with day not visible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Francisco Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1923-08",
+  "permit_no": "A 81108",
+  "notes": "Book S 30 Page 6; water no. 56131; file no. 48775 (approx.); house number at top is a faint scrawl and unreadable (possibly starts 5-); kind of work unclear (possibly 'Res'); card faint and overexposed, date shows AUG 1923 with day not visible"
+ },
+ "in": 2319,
+ "out": 183
+}

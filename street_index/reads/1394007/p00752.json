@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 752,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p00752_3397304.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"69th St\",\"direction\":\"W\",\"house_number\":\"1214\",\"permit_date\":\"1925-06-16\",\"permit_no\":\"A 55592\",\"notes\":\"B. Store; Book Sundry Page 203; water no. 80693; plan no. 7849 (faint); file no. 109393; card faint and low contrast, direction and permit number partly unclear, ledger book reads as Sundry (uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "69th St",
+  "direction": "W",
+  "house_number": "1214",
+  "permit_date": "1925-06-16",
+  "permit_no": "A 55592",
+  "notes": "B. Store; Book Sundry Page 203; water no. 80693; plan no. 7849 (faint); file no. 109393; card faint and low contrast, direction and permit number partly unclear, ledger book reads as Sundry (uncertain)"
+ },
+ "in": 2300,
+ "out": 165
+}

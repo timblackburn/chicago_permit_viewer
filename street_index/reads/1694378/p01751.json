@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 1751,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p01751_3996749.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maplewood Ave\",\"direction\":\"N\",\"house_number\":\"1351\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; second line partly visible but unreadable; date line faint; permit number not readable; address 1351 N Maplewood Ave is out of expected filing order (reel expects 2418 N Maplewood next), so number may be misread\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maplewood Ave",
+  "direction": "N",
+  "house_number": "1351",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; second line partly visible but unreadable; date line faint; permit number not readable; address 1351 N Maplewood Ave is out of expected filing order (reel expects 2418 N Maplewood next), so number may be misread"
+ },
+ "in": 2309,
+ "out": 162
+}

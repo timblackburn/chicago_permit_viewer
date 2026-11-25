@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 3751,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p03751_3375287.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"W\",\"house_number\":\"459\",\"permit_date\":\"1945-01-25\",\"permit_no\":\"141460\",\"notes\":\"Rear open porch; Sundry; street name handwriting faint (looks like \\\"W. 25th St\\\" or similar, but not certain; frame position suggests 25th-26th St but 459 W doesn't fit reel order, so unconfirmed); file no 327041; low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "W",
+  "house_number": "459",
+  "permit_date": "1945-01-25",
+  "permit_no": "141460",
+  "notes": "Rear open porch; Sundry; street name handwriting faint (looks like \"W. 25th St\" or similar, but not certain; frame position suggests 25th-26th St but 459 W doesn't fit reel order, so unconfirmed); file no 327041; low contrast"
+ },
+ "in": 2303,
+ "out": 168
+}

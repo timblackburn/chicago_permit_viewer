@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 751,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p00751_3009150.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Constance Ave\",\"direction\":\"S\",\"house_number\":\"9324-6\",\"permit_date\":\"1935-08\",\"permit_no\":\"B 42599\",\"notes\":\"1 sty Brick Residence; Book S 49 Page 115; plan no 1349; water no 26287; file no 25542; date partly faint (Aug 2? 1935), card faint overall\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Constance Ave",
+  "direction": "S",
+  "house_number": "9324-6",
+  "permit_date": "1935-08",
+  "permit_no": "B 42599",
+  "notes": "1 sty Brick Residence; Book S 49 Page 115; plan no 1349; water no 26287; file no 25542; date partly faint (Aug 2? 1935), card faint overall"
+ },
+ "in": 2276,
+ "out": 150
+}

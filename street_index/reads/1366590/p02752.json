@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 2752,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p02752_3338289.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"58th Pl\",\"direction\":\"W\",\"house_number\":\"3922\",\"permit_date\":\"\",\"permit_no\":\"12596\",\"notes\":\"Frame Garage; card overexposed and faint, house number handwriting partly unclear; date of permit not readable; file no. illegible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "58th Pl",
+  "direction": "W",
+  "house_number": "3922",
+  "permit_date": "",
+  "permit_no": "12596",
+  "notes": "Frame Garage; card overexposed and faint, house number handwriting partly unclear; date of permit not readable; file no. illegible"
+ },
+ "in": 2302,
+ "out": 121
+}

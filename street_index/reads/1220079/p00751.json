@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 751,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p00751_3049284.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"W\",\"house_number\":\"5612\",\"permit_date\":\"1947-12-10\",\"permit_no\":\"A 7251\",\"notes\":\"Laundrette; Sundry; Plan no. 9487; File no. 357942\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "W",
+  "house_number": "5612",
+  "permit_date": "1947-12-10",
+  "permit_no": "A 7251",
+  "notes": "Laundrette; Sundry; Plan no. 9487; File no. 357942"
+ },
+ "in": 2280,
+ "out": 115
+}

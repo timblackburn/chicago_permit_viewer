@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 4251,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p04251_3710311.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"5211\",\"permit_date\":\"1931-07-18\",\"permit_no\":\"38218\",\"notes\":\"Res; Entered S 47 Page 502 (Book S 47 Page 502); plan no. 1361; water no. 23682; file no. 235428; card photographed with dark edges, slightly noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "5211",
+  "permit_date": "1931-07-18",
+  "permit_no": "38218",
+  "notes": "Res; Entered S 47 Page 502 (Book S 47 Page 502); plan no. 1361; water no. 23682; file no. 235428; card photographed with dark edges, slightly noisy"
+ },
+ "in": 2316,
+ "out": 151
+}

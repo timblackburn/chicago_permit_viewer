@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 3251,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p03251_2771026.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedzie Ave\",\"direction\":\"S\",\"house_number\":\"4748-62\",\"permit_date\":\"1947-06-06\",\"permit_no\":\"B 02820\",\"notes\":\"1-2 Sty Business unit; Page 223; plan no 5326; file no 349417; bottom edge of card damaged by film streaks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedzie Ave",
+  "direction": "S",
+  "house_number": "4748-62",
+  "permit_date": "1947-06-06",
+  "permit_no": "B 02820",
+  "notes": "1-2 Sty Business unit; Page 223; plan no 5326; file no 349417; bottom edge of card damaged by film streaks"
+ },
+ "in": 2320,
+ "out": 137
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 1761,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p01761_3451952.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Windsor Ave\",\"direction\":\"W\",\"house_number\":\"3730\",\"permit_date\":\"\",\"permit_no\":\"97050\",\"notes\":\"Extend enclosed porch; plan no. 449273 (file no. faint); card overexposed and faded, house number and last digit of address partly uncertain; date, book and page not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Windsor Ave",
+  "direction": "W",
+  "house_number": "3730",
+  "permit_date": "",
+  "permit_no": "97050",
+  "notes": "Extend enclosed porch; plan no. 449273 (file no. faint); card overexposed and faded, house number and last digit of address partly uncertain; date, book and page not readable"
+ },
+ "in": 2283,
+ "out": 138
+}

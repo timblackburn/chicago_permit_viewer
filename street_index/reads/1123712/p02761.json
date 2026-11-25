@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 2761,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p02761_2850839.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1934-08\",\"permit_no\":\"\",\"notes\":\"Sign Board; Sundry; owner General Outdoor Adv. Co.; very faint, top address line washed out (looks like 1143 or 1148 W Grand Ave but not certain); date appears to be Aug 1934, day unreadable; permit no. unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1934-08",
+  "permit_no": "",
+  "notes": "Sign Board; Sundry; owner General Outdoor Adv. Co.; very faint, top address line washed out (looks like 1143 or 1148 W Grand Ave but not certain); date appears to be Aug 1934, day unreadable; permit no. unreadable"
+ },
+ "in": 2277,
+ "out": 168
+}

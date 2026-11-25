@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 1251,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p01251_2987195.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Damen Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1930-08-01\",\"permit_no\":\"\",\"notes\":\"Address given as \\\"N.W. Cor. Damen & Sundry\\\" (corner, no house number); Picket Fence; Sundry; stamped file no. 227093 faint; permit no. faint (possibly 69616); photocopy faint and noisy\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Damen Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1930-08-01",
+  "permit_no": "",
+  "notes": "Address given as \"N.W. Cor. Damen & Sundry\" (corner, no house number); Picket Fence; Sundry; stamped file no. 227093 faint; permit no. faint (possibly 69616); photocopy faint and noisy"
+ },
+ "in": 2308,
+ "out": 162
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 2751,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p02751_2782164.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"62430\",\"notes\":\"Address at top is faint handwriting, possibly \\\"10241 St. Mark\\\" or similar, not reliably readable; File no 317519; date of permit stamp partly legible \\\"SEP\\\" with year unreadable; Entered 53 page; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "62430",
+  "notes": "Address at top is faint handwriting, possibly \"10241 St. Mark\" or similar, not reliably readable; File no 317519; date of permit stamp partly legible \"SEP\" with year unreadable; Entered 53 page; card faint and low contrast"
+ },
+ "in": 2274,
+ "out": 156
+}

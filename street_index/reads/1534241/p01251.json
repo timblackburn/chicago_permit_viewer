@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 1251,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p01251_3677708.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sangamon St\",\"direction\":\"S\",\"house_number\":\"6921\",\"permit_date\":\"1916-06-26\",\"permit_no\":\"A 40985\",\"notes\":\"Br B.; Book S 16 Page 390; Plan No. 5206; Water No. 15036; File No. 13955; date of permit and plan/file numbers faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sangamon St",
+  "direction": "S",
+  "house_number": "6921",
+  "permit_date": "1916-06-26",
+  "permit_no": "A 40985",
+  "notes": "Br B.; Book S 16 Page 390; Plan No. 5206; Water No. 15036; File No. 13955; date of permit and plan/file numbers faint"
+ },
+ "in": 2278,
+ "out": 142
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4261,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04261_3012007.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint, washed out card; first line reads roughly '30__ W. Congress St.'; house number not readable; second line partly legible 'Congress'; ledger line fragment 'Bar. p. 1' unclear; filed between 2423 and 3510 W Congress\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint, washed out card; first line reads roughly '30__ W. Congress St.'; house number not readable; second line partly legible 'Congress'; ledger line fragment 'Bar. p. 1' unclear; filed between 2423 and 3510 W Congress"
+ },
+ "in": 2269,
+ "out": 160
+}

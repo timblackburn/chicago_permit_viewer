@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 2751,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p02751_4142827.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Indiana Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top reads like \\\"79?8 Indiana Ave\\\" but the house number is not clearly readable (between 7024-26 and 9719 on reel); direction not seen; card very faint and overexposed, permit no. and date mostly washed out (date possibly ends '-1-1934?' uncertain)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Indiana Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top reads like \"79?8 Indiana Ave\" but the house number is not clearly readable (between 7024-26 and 9719 on reel); direction not seen; card very faint and overexposed, permit no. and date mostly washed out (date possibly ends '-1-1934?' uncertain)"
+ },
+ "in": 2312,
+ "out": 182
+}

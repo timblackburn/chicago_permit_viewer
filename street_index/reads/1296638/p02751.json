@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 2751,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p02751_3198840.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chestnut St\",\"direction\":\"W\",\"house_number\":\"225-33\",\"permit_date\":\"1945-02-21\",\"permit_no\":\"66218\",\"notes\":\"1 Sty Br. side addn to laundry; Book 64 Page 478 (handwritten, partly faint); plan no 3567; file no 327314; handwritten address, house number slightly unclear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chestnut St",
+  "direction": "W",
+  "house_number": "225-33",
+  "permit_date": "1945-02-21",
+  "permit_no": "66218",
+  "notes": "1 Sty Br. side addn to laundry; Book 64 Page 478 (handwritten, partly faint); plan no 3567; file no 327314; handwritten address, house number slightly unclear"
+ },
+ "in": 2315,
+ "out": 151
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 2251,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p02251_4015637.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lunt Ave\",\"direction\":\"\",\"house_number\":\"1921\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address '1921 Lunt Av' but no direction written; date of permit faint, appears to be May 1914 (day unclear) so not recorded; file no. faint, possibly 3100; card overexposed and washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lunt Ave",
+  "direction": "",
+  "house_number": "1921",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address '1921 Lunt Av' but no direction written; date of permit faint, appears to be May 1914 (day unclear) so not recorded; file no. faint, possibly 3100; card overexposed and washed out"
+ },
+ "in": 2310,
+ "out": 155
+}

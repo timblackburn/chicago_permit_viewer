@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1342936",
+ "slide_index": 3627,
+ "image": "street_index/data/1342936/slides_pct_0-0-100-99_w1000/p03627_3288517.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"87th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten header reads '87th St & I C Tracks' (approx), a cross-street reference rather than a house number; rest of card blank and overexposed/faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "87th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten header reads '87th St & I C Tracks' (approx), a cross-street reference rather than a house number; rest of card blank and overexposed/faint"
+ },
+ "in": 2230,
+ "out": 128
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 751,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p00751_3821793.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ogden Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1927-04-12\",\"permit_no\":\"25060\",\"notes\":\"Address line reads like \\\"N W cor Ogden & Lake\\\" (corner location, no house number); (3) signboards, 2 - 7 ft x 4 ft, 1 - 7 ft x 19 ft; Sundry; owner Arnold Bros; file no. 162056; handwriting faint and blurry\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ogden Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1927-04-12",
+  "permit_no": "25060",
+  "notes": "Address line reads like \"N W cor Ogden & Lake\" (corner location, no house number); (3) signboards, 2 - 7 ft x 4 ft, 1 - 7 ft x 19 ft; Sundry; owner Arnold Bros; file no. 162056; handwriting faint and blurry"
+ },
+ "in": 2277,
+ "out": 186
+}

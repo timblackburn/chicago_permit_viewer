@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 4751,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p04751_3152786.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avenue J\",\"direction\":\"\",\"house_number\":\"11050\",\"permit_date\":\"1939-06-14\",\"permit_no\":\"47487\",\"notes\":\"1 sty Br Residence; Entered 46 Page 548; plan no. 1826; water no. 33397; file no. 282618; handwritten address faint, direction not written; permit date partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avenue J",
+  "direction": "",
+  "house_number": "11050",
+  "permit_date": "1939-06-14",
+  "permit_no": "47487",
+  "notes": "1 sty Br Residence; Entered 46 Page 548; plan no. 1826; water no. 33397; file no. 282618; handwritten address faint, direction not written; permit date partly faded"
+ },
+ "in": 2274,
+ "out": 147
+}

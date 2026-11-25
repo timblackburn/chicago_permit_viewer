@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 2251,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p02251_3272622.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"104th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"handwritten top line reads approx 'H?57 E 104th St' (house number unclear, possibly 1157 or 1057); 'B.' ; 'Auto Sales Room'?; ledger ref approx 'Page 576' unclear; very faint, washed out card; permit no and date not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "104th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "handwritten top line reads approx 'H?57 E 104th St' (house number unclear, possibly 1157 or 1057); 'B.' ; 'Auto Sales Room'?; ledger ref approx 'Page 576' unclear; very faint, washed out card; permit no and date not readable"
+ },
+ "in": 2265,
+ "out": 169
+}

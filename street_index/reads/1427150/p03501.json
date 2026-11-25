@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 3501,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p03501_3456188.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Winchester Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1942-11-20\",\"permit_no\":\"130774\",\"notes\":\"Sundry; handwritten address at top is faint and the house number is not readable (looks like 11624 or similar, unsure); work noted as something like 'Sewer oven bacon' (unclear); plan no 310470; date of permit partly faded, read as Nov. 20 1942; permit number 130774 with last digit overwritten 4; faint card, direction not seen\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Winchester Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1942-11-20",
+  "permit_no": "130774",
+  "notes": "Sundry; handwritten address at top is faint and the house number is not readable (looks like 11624 or similar, unsure); work noted as something like 'Sewer oven bacon' (unclear); plan no 310470; date of permit partly faded, read as Nov. 20 1942; permit number 130774 with last digit overwritten 4; faint card, direction not seen"
+ },
+ "in": 2317,
+ "out": 201
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 2751,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p02751_3253024.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1950-06\",\"permit_no\":\"B 19075\",\"notes\":\"Handwritten address line very faint; appears to be \\\"E. 125th Place\\\" but street and house number not reliably readable; kind of work looks like \\\"sty ... res\\\"; Book 61 Page 564; plan no. 395110; date Jun 1950 (day obscured); permit number partly faint, prefix uncertain; card faded and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1950-06",
+  "permit_no": "B 19075",
+  "notes": "Handwritten address line very faint; appears to be \"E. 125th Place\" but street and house number not reliably readable; kind of work looks like \"sty ... res\"; Book 61 Page 564; plan no. 395110; date Jun 1950 (day obscured); permit number partly faint, prefix uncertain; card faded and low contrast"
+ },
+ "in": 2300,
+ "out": 189
+}

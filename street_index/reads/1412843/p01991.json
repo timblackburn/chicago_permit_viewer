@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 1991,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p01991_3432245.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Woodlawn Ave\",\"direction\":\"\",\"house_number\":\"5533\",\"permit_date\":\"\",\"permit_no\":\"B 2607\",\"notes\":\"Brick; Book S Page 143; permit no. faint and partly unreadable; no direction written; date of permit blank; file no. 9182; low contrast, faded scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Woodlawn Ave",
+  "direction": "",
+  "house_number": "5533",
+  "permit_date": "",
+  "permit_no": "B 2607",
+  "notes": "Brick; Book S Page 143; permit no. faint and partly unreadable; no direction written; date of permit blank; file no. 9182; low contrast, faded scan"
+ },
+ "in": 2270,
+ "out": 138
+}

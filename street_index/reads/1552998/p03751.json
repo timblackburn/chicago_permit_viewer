@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 3751,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p03751_3711306.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"4154\",\"permit_date\":\"1929-06-21\",\"permit_no\":\"57417\",\"notes\":\"Cor Fdn; Sundry; plan no. 211411 (file no.); filed out of expected sequence (S Rockwell, not N); stamp is faint but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "4154",
+  "permit_date": "1929-06-21",
+  "permit_no": "57417",
+  "notes": "Cor Fdn; Sundry; plan no. 211411 (file no.); filed out of expected sequence (S Rockwell, not N); stamp is faint but readable"
+ },
+ "in": 2280,
+ "out": 141
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 2251,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p02251_3236790.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Agatite Ave\",\"direction\":\"\",\"house_number\":\"2703\",\"permit_date\":\"1924-06-24\",\"permit_no\":\"A 98568\",\"notes\":\"Apt; B.; Book 9 Page 375 (book number faint); water no. 68902; plan no. 6118; file no. 77172 faint; handwritten with a parenthetical pen note after the house number; low contrast, partly faint and damaged along bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Agatite Ave",
+  "direction": "",
+  "house_number": "2703",
+  "permit_date": "1924-06-24",
+  "permit_no": "A 98568",
+  "notes": "Apt; B.; Book 9 Page 375 (book number faint); water no. 68902; plan no. 6118; file no. 77172 faint; handwritten with a parenthetical pen note after the house number; low contrast, partly faint and damaged along bottom edge"
+ },
+ "in": 2274,
+ "out": 174
+}

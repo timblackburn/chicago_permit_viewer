@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 751,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p00751_4018634.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1928-01\",\"permit_no\":\"\",\"notes\":\"Very faint, overexposed card; handwritten address line at top not reliably readable (possibly ends in 'Lowell Ave'-like script, not confirmed); file no. appears 187633; date of permit reads Jan 1928, day unclear; permit no. unreadable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1928-01",
+  "permit_no": "",
+  "notes": "Very faint, overexposed card; handwritten address line at top not reliably readable (possibly ends in 'Lowell Ave'-like script, not confirmed); file no. appears 187633; date of permit reads Jan 1928, day unclear; permit no. unreadable"
+ },
+ "in": 2272,
+ "out": 161
+}

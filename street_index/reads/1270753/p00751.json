@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 751,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p00751_3150690.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ave \\\"M\\\"\",\"direction\":\"S\",\"house_number\":\"10905\",\"permit_date\":\"1941-04-29\",\"permit_no\":\"54507\",\"notes\":\"Br Residence; Book 51 Page 319; plan no. 1778; water no. 40648; file no. 299007; dark film edges, bottom edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ave \"M\"",
+  "direction": "S",
+  "house_number": "10905",
+  "permit_date": "1941-04-29",
+  "permit_no": "54507",
+  "notes": "Br Residence; Book 51 Page 319; plan no. 1778; water no. 40648; file no. 299007; dark film edges, bottom edge damaged"
+ },
+ "in": 2272,
+ "out": 140
+}

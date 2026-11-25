@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 2751,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p02751_3693944.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sacramento Ave\",\"direction\":\"N\",\"house_number\":\"2321\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card; second line 1262 N. Sacramento Ave. is very faint, likely the old address (old addr: 1262); rest of card washed out and overexposed, no permit details readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sacramento Ave",
+  "direction": "N",
+  "house_number": "2321",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card; second line 1262 N. Sacramento Ave. is very faint, likely the old address (old addr: 1262); rest of card washed out and overexposed, no permit details readable"
+ },
+ "in": 2283,
+ "out": 139
+}

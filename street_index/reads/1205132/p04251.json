@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4251,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04251_3012023.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1907\",\"permit_no\":\"\",\"notes\":\"very faint, washed-out typed card; first line appears to be '302? W. Congress St.' with the last digit unclear; second line '15?? W. Congress' (probably an old address); permit no. begins '265' but is unreadable; date appears to be '... 31, 1907'; house number is not confidently legible so left blank\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1907",
+  "permit_no": "",
+  "notes": "very faint, washed-out typed card; first line appears to be '302? W. Congress St.' with the last digit unclear; second line '15?? W. Congress' (probably an old address); permit no. begins '265' but is unreadable; date appears to be '... 31, 1907'; house number is not confidently legible so left blank"
+ },
+ "in": 2269,
+ "out": 177
+}

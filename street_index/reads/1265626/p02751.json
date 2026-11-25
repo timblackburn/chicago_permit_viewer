@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 2751,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p02751_3136591.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Belden Ave\",\"direction\":\"W\",\"house_number\":\"3125\",\"permit_date\":\"1917-01-17\",\"permit_no\":\"45008\",\"notes\":\"Book W 10 Page 270; old addr: 3125 (Edgewood Av) handwritten; Plan No 144; Water No 19189; File No 26112; permit no. faint, stamped digits partly unclear; B. A. markings at left\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Belden Ave",
+  "direction": "W",
+  "house_number": "3125",
+  "permit_date": "1917-01-17",
+  "permit_no": "45008",
+  "notes": "Book W 10 Page 270; old addr: 3125 (Edgewood Av) handwritten; Plan No 144; Water No 19189; File No 26112; permit no. faint, stamped digits partly unclear; B. A. markings at left"
+ },
+ "in": 2281,
+ "out": 165
+}

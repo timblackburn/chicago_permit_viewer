@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 3751,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p03751_3269630.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"106th St\",\"direction\":\"E\",\"house_number\":\"3719-25\",\"permit_date\":\"1946-04-22\",\"permit_no\":\"337495\",\"notes\":\"Alterations for auto showroom; Book 56 Page 130; permit number faint, read from the stamped number (file no. area), possibly 337495; card faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "106th St",
+  "direction": "E",
+  "house_number": "3719-25",
+  "permit_date": "1946-04-22",
+  "permit_no": "337495",
+  "notes": "Alterations for auto showroom; Book 56 Page 130; permit number faint, read from the stamped number (file no. area), possibly 337495; card faint in places"
+ },
+ "in": 2262,
+ "out": 137
+}

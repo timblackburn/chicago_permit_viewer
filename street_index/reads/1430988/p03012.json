@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 3012,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p03012_3466759.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Whipple St\",\"direction\":\"S\",\"house_number\":\"3614-26\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Handwritten header \\\"3614-26 No. Whipple St\\\" (direction read as \\\"No.\\\" but file position between 2337 S and 4524 S suggests S; uncertain); Flats; Page 10 W 28 partly legible; permit no. and date faint and unreadable; card overexposed and washed out, printed labels mostly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Whipple St",
+  "direction": "S",
+  "house_number": "3614-26",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Handwritten header \"3614-26 No. Whipple St\" (direction read as \"No.\" but file position between 2337 S and 4524 S suggests S; uncertain); Flats; Page 10 W 28 partly legible; permit no. and date faint and unreadable; card overexposed and washed out, printed labels mostly faded"
+ },
+ "in": 2272,
+ "out": 188
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 3251,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p03251_3327560.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"643-15\",\"permit_date\":\"1952-09\",\"permit_no\":\"\",\"notes\":\"Handwritten top line is overexposed and faint; house number appears to start with 6 or 9 then 13 and may not be reliable; street name not readable (63rd St expected from reel context but not visible); date stamp reads SEP 1952; permit no. partly legible, maybe 'S 1952'; card heavily washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "643-15",
+  "permit_date": "1952-09",
+  "permit_no": "",
+  "notes": "Handwritten top line is overexposed and faint; house number appears to start with 6 or 9 then 13 and may not be reliable; street name not readable (63rd St expected from reel context but not visible); date stamp reads SEP 1952; permit no. partly legible, maybe 'S 1952'; card heavily washed out"
+ },
+ "in": 2268,
+ "out": 180
+}

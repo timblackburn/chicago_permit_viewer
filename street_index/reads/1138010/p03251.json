@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 3251,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p03251_2880418.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Foster Ave\",\"direction\":\"\",\"house_number\":\"614\",\"permit_date\":\"1907-03-01\",\"permit_no\":\"4257\",\"notes\":\"old addr: 1744 Foster Ave; typed card, no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Foster Ave",
+  "direction": "",
+  "house_number": "614",
+  "permit_date": "1907-03-01",
+  "permit_no": "4257",
+  "notes": "old addr: 1744 Foster Ave; typed card, no direction written"
+ },
+ "in": 2286,
+ "out": 107
+}

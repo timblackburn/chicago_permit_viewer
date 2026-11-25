@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1280826",
+ "slide_index": 2251,
+ "image": "street_index/data/1280826/slides_pct_0-0-100-99_w1000/p02251_3167798.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"4735-37\",\"permit_date\":\"1901-03-23\",\"permit_no\":\"\",\"notes\":\"Card reads \\\"Same\\\" for the work; \\\"S.267\\\" appears at left, possibly a ledger or sundry reference, unclear; typed, faint; the card may be filed oddly since the address is 4735-37 S. Ashland, outside the expected N range of reel neighbors; date partly faint (Mar 23, 1901)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "4735-37",
+  "permit_date": "1901-03-23",
+  "permit_no": "",
+  "notes": "Card reads \"Same\" for the work; \"S.267\" appears at left, possibly a ledger or sundry reference, unclear; typed, faint; the card may be filed oddly since the address is 4735-37 S. Ashland, outside the expected N range of reel neighbors; date partly faint (Mar 23, 1901)"
+ },
+ "in": 2279,
+ "out": 194
+}

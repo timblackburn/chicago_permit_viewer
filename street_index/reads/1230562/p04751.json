@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 4751,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p04751_3062171.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Central Ave\",\"direction\":\"N\",\"house_number\":\"2759\",\"permit_date\":\"1936-07-06\",\"permit_no\":\"99045\",\"notes\":\"Brick addn to store; Sundry; plan no 1542; file no 260813 (faint); permit number and date faint, stamp partly obscured at top\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Central Ave",
+  "direction": "N",
+  "house_number": "2759",
+  "permit_date": "1936-07-06",
+  "permit_no": "99045",
+  "notes": "Brick addn to store; Sundry; plan no 1542; file no 260813 (faint); permit number and date faint, stamp partly obscured at top"
+ },
+ "in": 2270,
+ "out": 133
+}

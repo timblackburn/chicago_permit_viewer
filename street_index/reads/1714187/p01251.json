@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 1251,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p01251_4037858.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lithuanian Pl\",\"direction\":\"S\",\"house_number\":\"3104\",\"permit_date\":\"1939-02-20\",\"permit_no\":\"113365\",\"notes\":\"Brick Garage; Sundry; file no. 279788; card faint and speckled, street name partly unclear (reads like Lithuanian Pl, fits filing between Linder and Lock)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lithuanian Pl",
+  "direction": "S",
+  "house_number": "3104",
+  "permit_date": "1939-02-20",
+  "permit_no": "113365",
+  "notes": "Brick Garage; Sundry; file no. 279788; card faint and speckled, street name partly unclear (reads like Lithuanian Pl, fits filing between Linder and Lock)"
+ },
+ "in": 2273,
+ "out": 150
+}

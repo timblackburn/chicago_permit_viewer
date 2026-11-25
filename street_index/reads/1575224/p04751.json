@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 4751,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p04751_3753077.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prospect Ave\",\"direction\":\"S\",\"house_number\":\"10525-31\",\"permit_date\":\"1901-05-23\",\"permit_no\":\"S 650\",\"notes\":\"old addr: 1052 Prospect Ave; \\\"To\\\" written above the number, so the card covers 10525 to 31; permit no. read from the line at left, 'S 650', may be a ledger reference\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prospect Ave",
+  "direction": "S",
+  "house_number": "10525-31",
+  "permit_date": "1901-05-23",
+  "permit_no": "S 650",
+  "notes": "old addr: 1052 Prospect Ave; \"To\" written above the number, so the card covers 10525 to 31; permit no. read from the line at left, 'S 650', may be a ledger reference"
+ },
+ "in": 2278,
+ "out": 154
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 3251,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p03251_2972447.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"5th Ave\",\"direction\":\"\",\"house_number\":\"2801-07\",\"permit_date\":\"1890-07-18\",\"permit_no\":\"2586\",\"notes\":\"typed card; second address line: 2-6 Colorado Ave (likely old/alternate address); old addr: 2-6 Colorado Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "5th Ave",
+  "direction": "",
+  "house_number": "2801-07",
+  "permit_date": "1890-07-18",
+  "permit_no": "2586",
+  "notes": "typed card; second address line: 2-6 Colorado Ave (likely old/alternate address); old addr: 2-6 Colorado Ave"
+ },
+ "in": 2311,
+ "out": 132
+}

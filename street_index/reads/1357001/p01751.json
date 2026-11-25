@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 1751,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p01751_3321054.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"64th St\",\"direction\":\"W\",\"house_number\":\"3737\",\"permit_date\":\"1917-06-26\",\"permit_no\":\"A 47797\",\"notes\":\"Br B.; Book S 19 Page 243; water no. 71397; plan no. faint; file no. faint; stamp date partly faint, read as JUN 26 1917; card faint overall\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "64th St",
+  "direction": "W",
+  "house_number": "3737",
+  "permit_date": "1917-06-26",
+  "permit_no": "A 47797",
+  "notes": "Br B.; Book S 19 Page 243; water no. 71397; plan no. faint; file no. faint; stamp date partly faint, read as JUN 26 1917; card faint overall"
+ },
+ "in": 2310,
+ "out": 146
+}

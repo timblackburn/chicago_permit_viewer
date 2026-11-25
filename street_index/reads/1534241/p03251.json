@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 3251,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p03251_3673704.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sawyer Ave\",\"direction\":\"S\",\"house_number\":\"2453\",\"permit_date\":\"1930-04-10\",\"permit_no\":\"65484\",\"notes\":\"Garage; Sundry; file no. 222083; faint stamped date and numbers\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sawyer Ave",
+  "direction": "S",
+  "house_number": "2453",
+  "permit_date": "1930-04-10",
+  "permit_no": "65484",
+  "notes": "Garage; Sundry; file no. 222083; faint stamped date and numbers"
+ },
+ "in": 2317,
+ "out": 114
+}

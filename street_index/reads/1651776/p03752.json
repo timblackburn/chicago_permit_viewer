@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 3752,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p03752_3908002.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"1236\",\"permit_date\":\"1924-06-06\",\"permit_no\":\"\",\"notes\":\"Sundry; owner St Geo School; file no. 193?1 partly legible; permit no. faint and unreadable; no direction written; card is faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "1236",
+  "permit_date": "1924-06-06",
+  "permit_no": "",
+  "notes": "Sundry; owner St Geo School; file no. 193?1 partly legible; permit no. faint and unreadable; no direction written; card is faint"
+ },
+ "in": 2283,
+ "out": 133
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1689472",
+ "slide_index": 3251,
+ "image": "street_index/data/1689472/slides_pct_0-0-100-99_w1000/p03251_3983634.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Marshfield Ave\",\"direction\":\"S\",\"house_number\":\"4532\",\"permit_date\":\"1905-08-01\",\"permit_no\":\"20509\",\"notes\":\"Same (work description reads 'Same'); typed card, faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Marshfield Ave",
+  "direction": "S",
+  "house_number": "4532",
+  "permit_date": "1905-08-01",
+  "permit_no": "20509",
+  "notes": "Same (work description reads 'Same'); typed card, faint"
+ },
+ "in": 2282,
+ "out": 107
+}

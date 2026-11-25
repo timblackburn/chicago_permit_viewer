@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 751,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p00751_3584155.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talman Ave\",\"direction\":\"S\",\"house_number\":\"10000\",\"permit_date\":\"1952-03-12\",\"permit_no\":\"B 70940\",\"notes\":\"1-sty brick res; Book 65 Page 9; Plan no 16143; File no 423547\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talman Ave",
+  "direction": "S",
+  "house_number": "10000",
+  "permit_date": "1952-03-12",
+  "permit_no": "B 70940",
+  "notes": "1-sty brick res; Book 65 Page 9; Plan no 16143; File no 423547"
+ },
+ "in": 2308,
+ "out": 119
+}

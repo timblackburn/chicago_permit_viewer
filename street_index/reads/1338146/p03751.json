@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 3751,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p03751_3279200.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"96th St\",\"direction\":\"W\",\"house_number\":\"1212\",\"permit_date\":\"1925-08-26\",\"permit_no\":\"70205\",\"notes\":\"Auto Shed; Sundry; file no. 116887; street name handwritten and slightly smudged (96th read from 'g_th'), position between 95th and 97th supports it; permit no. typed below the description, faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "96th St",
+  "direction": "W",
+  "house_number": "1212",
+  "permit_date": "1925-08-26",
+  "permit_no": "70205",
+  "notes": "Auto Shed; Sundry; file no. 116887; street name handwritten and slightly smudged (96th read from 'g_th'), position between 95th and 97th supports it; permit no. typed below the description, faint"
+ },
+ "in": 2265,
+ "out": 152
+}

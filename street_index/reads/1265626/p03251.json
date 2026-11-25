@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 3251,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p03251_3135566.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bell Ave\",\"direction\":\"N\",\"house_number\":\"1412\",\"permit_date\":\"\",\"permit_no\":\"43705\",\"notes\":\"2 sty br rear addn to Flats; Plan no 670; Water no 29532; Book W 46 Page 411 (faint); date of permit stamp mostly illegible (Aug); file no faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bell Ave",
+  "direction": "N",
+  "house_number": "1412",
+  "permit_date": "",
+  "permit_no": "43705",
+  "notes": "2 sty br rear addn to Flats; Plan no 670; Water no 29532; Book W 46 Page 411 (faint); date of permit stamp mostly illegible (Aug); file no faint"
+ },
+ "in": 2316,
+ "out": 145
+}

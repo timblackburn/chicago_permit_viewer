@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 751,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p00751_3687864.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"St. Lawrence Ave\",\"direction\":\"S\",\"house_number\":\"5001\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out below top lines; also lists 601-627 E. 50th St. (cor.) and 5000 So. Champlain (faint), 611-13-15 E. 50th (faint); fragment of number 9301 possibly; date not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "St. Lawrence Ave",
+  "direction": "S",
+  "house_number": "5001",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out below top lines; also lists 601-627 E. 50th St. (cor.) and 5000 So. Champlain (faint), 611-13-15 E. 50th (faint); fragment of number 9301 possibly; date not readable"
+ },
+ "in": 2284,
+ "out": 166
+}

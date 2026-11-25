@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 4751,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p04751_3082343.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Calumet Ave\",\"direction\":\"\",\"house_number\":\"8128-30\",\"permit_date\":\"1929-02-28\",\"permit_no\":\"B 31591\",\"notes\":\"Apts; Book S 45 Page 122; no direction written on card; plan no. 491; water no. 16246; file no. 203740; card dark and grainy, permit number partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Calumet Ave",
+  "direction": "",
+  "house_number": "8128-30",
+  "permit_date": "1929-02-28",
+  "permit_no": "B 31591",
+  "notes": "Apts; Book S 45 Page 122; no direction written on card; plan no. 491; water no. 16246; file no. 203740; card dark and grainy, permit number partly uncertain"
+ },
+ "in": 2273,
+ "out": 150
+}

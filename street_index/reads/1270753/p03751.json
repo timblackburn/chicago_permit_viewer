@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 3751,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p03751_3144639.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Avers Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1902-09\",\"permit_no\":\"\",\"notes\":\"very faint, overexposed card; two address lines, first looks like \\\"4326 N. Avers Ave.\\\" and second like \\\"2193 ... Ave.\\\" (unclear); date reads approx \\\"Sept. 1, 1902\\\"; kind of work possibly \\\"Shed\\\"; house number uncertain so not given\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Avers Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1902-09",
+  "permit_no": "",
+  "notes": "very faint, overexposed card; two address lines, first looks like \"4326 N. Avers Ave.\" and second like \"2193 ... Ave.\" (unclear); date reads approx \"Sept. 1, 1902\"; kind of work possibly \"Shed\"; house number uncertain so not given"
+ },
+ "in": 2307,
+ "out": 180
+}

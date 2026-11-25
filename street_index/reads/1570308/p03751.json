@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 3751,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p03751_3745079.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Race Ave\",\"direction\":\"W\",\"house_number\":\"1948\",\"permit_date\":\"\",\"permit_no\":\"A 110494\",\"notes\":\"Repairs to Bldg; File no. 462368 (faint stamp); date of permit stamp mostly illegible; permit no. prefix handwritten, read as A\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Race Ave",
+  "direction": "W",
+  "house_number": "1948",
+  "permit_date": "",
+  "permit_no": "A 110494",
+  "notes": "Repairs to Bldg; File no. 462368 (faint stamp); date of permit stamp mostly illegible; permit no. prefix handwritten, read as A"
+ },
+ "in": 2275,
+ "out": 134
+}

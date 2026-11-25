@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 2751,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p02751_3262684.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"111th St\",\"direction\":\"W\",\"house_number\":\"1215\",\"permit_date\":\"1952-07-23\",\"permit_no\":\"E 77954\",\"notes\":\"2 sty brick retail store & apt bldg; Book 65 Page 457; faint, low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "111th St",
+  "direction": "W",
+  "house_number": "1215",
+  "permit_date": "1952-07-23",
+  "permit_no": "E 77954",
+  "notes": "2 sty brick retail store & apt bldg; Book 65 Page 457; faint, low contrast"
+ },
+ "in": 2299,
+ "out": 118
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 2751,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p02751_2870611.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fullerton Pkwy\",\"direction\":\"\",\"house_number\":\"548\",\"permit_date\":\"1950-02\",\"permit_no\":\"B 3879\",\"notes\":\"Convert 2nd fl apt into 2 apts; Book 61 Page 718; card faint and overexposed, day of date and last permit digit uncertain; plan no 475; file no 389932\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fullerton Pkwy",
+  "direction": "",
+  "house_number": "548",
+  "permit_date": "1950-02",
+  "permit_no": "B 3879",
+  "notes": "Convert 2nd fl apt into 2 apts; Book 61 Page 718; card faint and overexposed, day of date and last permit digit uncertain; plan no 475; file no 389932"
+ },
+ "in": 2348,
+ "out": 150
+}

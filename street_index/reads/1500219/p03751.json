@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 3751,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p03751_3605159.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Washtenaw Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1915-10\",\"permit_no\":\"A 34767\",\"notes\":\"Br B.; Book N 12 Page 140; house number at top is an unclear scrawl (looks like \\\"2749\\\" but not confident); \\\"8505\\\" written below permit no. may be a plan or other number; File No. 97511; date reads Oct 1-4 1915 (day unclear)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Washtenaw Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1915-10",
+  "permit_no": "A 34767",
+  "notes": "Br B.; Book N 12 Page 140; house number at top is an unclear scrawl (looks like \"2749\" but not confident); \"8505\" written below permit no. may be a plan or other number; File No. 97511; date reads Oct 1-4 1915 (day unclear)"
+ },
+ "in": 2318,
+ "out": 178
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 2751,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p02751_3570747.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tilden St\",\"direction\":\"W\",\"house_number\":\"1036\",\"permit_date\":\"1906-06-15\",\"permit_no\":\"1439\",\"notes\":\"old addr: 32 Tilden St; typed card, very faint and washed out; first line reads 1036 W. Tilden St, direction and date partly faded; date read as June 15, 1906 (year uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tilden St",
+  "direction": "W",
+  "house_number": "1036",
+  "permit_date": "1906-06-15",
+  "permit_no": "1439",
+  "notes": "old addr: 32 Tilden St; typed card, very faint and washed out; first line reads 1036 W. Tilden St, direction and date partly faded; date read as June 15, 1906 (year uncertain)"
+ },
+ "in": 2274,
+ "out": 153
+}

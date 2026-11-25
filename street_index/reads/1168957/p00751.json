@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 751,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p00751_2946774.jpg",
+ "at": "2026-11-25T22:35:40.576203+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"2549-53\",\"permit_date\":\"\",\"permit_no\":\"109888\",\"notes\":\"Stamped Sundry; street name handwritten, looks like \\\"Durcon\\\" or \\\"Duraon\\\" but unclear, filed between 2159 and 3201 W Division St so likely Division but not confirmed on card; no direction written; plan no 2699; file no faint; date of permit very faint (possibly 4-23-8x), not reliable; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "2549-53",
+  "permit_date": "",
+  "permit_no": "109888",
+  "notes": "Stamped Sundry; street name handwritten, looks like \"Durcon\" or \"Duraon\" but unclear, filed between 2159 and 3201 W Division St so likely Division but not confirmed on card; no direction written; plan no 2699; file no faint; date of permit very faint (possibly 4-23-8x), not reliable; card faint and low contrast"
+ },
+ "in": 2301,
+ "out": 195
+}
