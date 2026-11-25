@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 2250,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p02250_2823096.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"4513-15\",\"permit_date\":\"1950-09-08\",\"permit_no\":\"B 47410\",\"notes\":\"1 sty add. to cold storage bldg; Book 62 Page 337; Plan no. 58V; File no. 100252\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "4513-15",
+  "permit_date": "1950-09-08",
+  "permit_no": "B 47410",
+  "notes": "1 sty add. to cold storage bldg; Book 62 Page 337; Plan no. 58V; File no. 100252"
+ },
+ "in": 2238,
+ "out": 129
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 2750,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p02750_2922247.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elizabeth St\",\"direction\":\"S\",\"house_number\":\"5621\",\"permit_date\":\"1949-11-01\",\"permit_no\":\"A 34901\",\"notes\":\"General repairs; Plan no. 385172; handwritten address, date stamped\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elizabeth St",
+  "direction": "S",
+  "house_number": "5621",
+  "permit_date": "1949-11-01",
+  "permit_no": "A 34901",
+  "notes": "General repairs; Plan no. 385172; handwritten address, date stamped"
+ },
+ "in": 2283,
+ "out": 113
+}

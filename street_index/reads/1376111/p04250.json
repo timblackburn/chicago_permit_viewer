@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 4250,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p04250_3354449.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"47th St\",\"direction\":\"W\",\"house_number\":\"4500\",\"permit_date\":\"1951-12-14\",\"permit_no\":\"A 68557\",\"notes\":\"Cut in unloading door; Plan No. 421212; date stamp partly overprinted, day read as 14\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "47th St",
+  "direction": "W",
+  "house_number": "4500",
+  "permit_date": "1951-12-14",
+  "permit_no": "A 68557",
+  "notes": "Cut in unloading door; Plan No. 421212; date stamp partly overprinted, day read as 14"
+ },
+ "in": 2229,
+ "out": 119
+}

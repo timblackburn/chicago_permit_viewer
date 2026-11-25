@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1173918",
+ "slide_index": 1750,
+ "image": "street_index/data/1173918/slides_pct_0-0-100-99_w1000/p01750_2954830.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dickens Ave\",\"direction\":\"W\",\"house_number\":\"2123\",\"permit_date\":\"1897-03-20\",\"permit_no\":\"\",\"notes\":\"typed card, faint; old addr: Carolina St. 66 Lubeck; marked N W 209 (possibly a ledger or permit reference, not clearly read)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dickens Ave",
+  "direction": "W",
+  "house_number": "2123",
+  "permit_date": "1897-03-20",
+  "permit_no": "",
+  "notes": "typed card, faint; old addr: Carolina St. 66 Lubeck; marked N W 209 (possibly a ledger or permit reference, not clearly read)"
+ },
+ "in": 2234,
+ "out": 138
+}

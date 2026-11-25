@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 251,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p00251_3276629.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Handwritten address at top is very faint and washed out; appears to start with 69.. E 100th Pl (unconfirmed); Book S Page marked but number not readable; date of permit 1924 partly legible; card very faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Handwritten address at top is very faint and washed out; appears to start with 69.. E 100th Pl (unconfirmed); Book S Page marked but number not readable; date of permit 1924 partly legible; card very faint"
+ },
+ "in": 2260,
+ "out": 143
+}

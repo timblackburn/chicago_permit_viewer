@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 4750,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p04750_4101896.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kolin Ave\",\"direction\":\"S\",\"house_number\":\"3011\",\"permit_date\":\"1931-06-05\",\"permit_no\":\"75802\",\"notes\":\"Brick garage on rear of lot; Sundry; plan no. 234530; low contrast image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kolin Ave",
+  "direction": "S",
+  "house_number": "3011",
+  "permit_date": "1931-06-05",
+  "permit_no": "75802",
+  "notes": "Brick garage on rear of lot; Sundry; plan no. 234530; low contrast image"
+ },
+ "in": 2318,
+ "out": 117
+}

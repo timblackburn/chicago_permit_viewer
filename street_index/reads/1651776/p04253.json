@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 4253,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p04253_3907002.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"1471\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; second line (possibly 1425 or similar, old addr) mostly unreadable; no direction legible; permit details not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "1471",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; second line (possibly 1425 or similar, old addr) mostly unreadable; no direction legible; permit details not readable"
+ },
+ "in": 2284,
+ "out": 131
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 1750,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p01750_4067349.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"La Salle St\",\"direction\":\"S\",\"house_number\":\"50\",\"permit_date\":\"1953-06-24\",\"permit_no\":\"A 94293\",\"notes\":\"Temporary bridge over alley; Plan no 1871; File no 446557; handwritten card, address reads 50 S La Salle St, which fits filing between 2 N and 160 N only loosely; slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "La Salle St",
+  "direction": "S",
+  "house_number": "50",
+  "permit_date": "1953-06-24",
+  "permit_no": "A 94293",
+  "notes": "Temporary bridge over alley; Plan no 1871; File no 446557; handwritten card, address reads 50 S La Salle St, which fits filing between 2 N and 160 N only loosely; slightly faint"
+ },
+ "in": 2273,
+ "out": 155
+}

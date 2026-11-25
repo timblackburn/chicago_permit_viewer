@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 2750,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p02750_3146650.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avers Ave\",\"direction\":\"S\",\"house_number\":\"1945\",\"permit_date\":\"\",\"permit_no\":\"21162\",\"notes\":\"typed card, very faint and overexposed; second line appears to read \\\"902 S. Avers Ave\\\" (possibly old addr: 902); date partly visible \\\"...17, 1906\\\" not confident; permit number partly legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avers Ave",
+  "direction": "S",
+  "house_number": "1945",
+  "permit_date": "",
+  "permit_no": "21162",
+  "notes": "typed card, very faint and overexposed; second line appears to read \"902 S. Avers Ave\" (possibly old addr: 902); date partly visible \"...17, 1906\" not confident; permit number partly legible"
+ },
+ "in": 2270,
+ "out": 150
+}

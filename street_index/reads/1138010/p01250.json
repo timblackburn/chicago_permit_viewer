@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 1250,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p01250_2884423.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Flournoy St\",\"direction\":\"\",\"house_number\":\"2817\",\"permit_date\":\"1888-07-19\",\"permit_no\":\"2372\",\"notes\":\"typed card; old addr: 512 Flournoy; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Flournoy St",
+  "direction": "",
+  "house_number": "2817",
+  "permit_date": "1888-07-19",
+  "permit_no": "2372",
+  "notes": "typed card; old addr: 512 Flournoy; no direction written"
+ },
+ "in": 2312,
+ "out": 106
+}

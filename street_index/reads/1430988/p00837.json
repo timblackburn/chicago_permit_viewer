@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 837,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p00837_3471108.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Western Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1924-03\",\"permit_no\":\"\",\"notes\":\"Overexposed, very faint card; top line handwritten and mostly unreadable, ends in 'Ave', filed as Western per reel context; house number not readable; stamp MAR 1 1924 (day uncertain); has B. and A stamps and PAGE label; permit number not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Western Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1924-03",
+  "permit_no": "",
+  "notes": "Overexposed, very faint card; top line handwritten and mostly unreadable, ends in 'Ave', filed as Western per reel context; house number not readable; stamp MAR 1 1924 (day uncertain); has B. and A stamps and PAGE label; permit number not readable"
+ },
+ "in": 2268,
+ "out": 170
+}

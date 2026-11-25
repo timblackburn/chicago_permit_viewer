@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 832,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p00832_3697784.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rosemont Ave\",\"direction\":\"W\",\"house_number\":\"2651-53\",\"permit_date\":\"1954\",\"permit_no\":\"B 118915\",\"notes\":\"2 sty Br 4-Apt bldg; plan no 1820; file no 468862; permit number and date faint, date partly visible as '54; no book/page\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rosemont Ave",
+  "direction": "W",
+  "house_number": "2651-53",
+  "permit_date": "1954",
+  "permit_no": "B 118915",
+  "notes": "2 sty Br 4-Apt bldg; plan no 1820; file no 468862; permit number and date faint, date partly visible as '54; no book/page"
+ },
+ "in": 2271,
+ "out": 138
+}

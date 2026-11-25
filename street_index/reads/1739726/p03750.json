@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 3750,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p03750_4088458.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Laflin St\",\"direction\":\"S\",\"house_number\":\"825-27\",\"permit_date\":\"1924-10-15\",\"permit_no\":\"53678\",\"notes\":\"Sundry; address line is struck through; no direction written on card; house number 825-27 read from struck-through handwriting, though it conflicts with the reel position (frame 3500 is 4518 S Laflin); File no. 88342; photographed dark, faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Laflin St",
+  "direction": "S",
+  "house_number": "825-27",
+  "permit_date": "1924-10-15",
+  "permit_no": "53678",
+  "notes": "Sundry; address line is struck through; no direction written on card; house number 825-27 read from struck-through handwriting, though it conflicts with the reel position (frame 3500 is 4518 S Laflin); File no. 88342; photographed dark, faint and low contrast"
+ },
+ "in": 2313,
+ "out": 172
+}

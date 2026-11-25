@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 2750,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p02750_3636506.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Springfield Ave\",\"direction\":\"S\",\"house_number\":\"2703\",\"permit_date\":\"1926-05-10\",\"permit_no\":\"\",\"notes\":\"Alterations; Sundry; file no. 135366 stamped; faint number 8807 below address (not in permit no. field); permit no. line blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Springfield Ave",
+  "direction": "S",
+  "house_number": "2703",
+  "permit_date": "1926-05-10",
+  "permit_no": "",
+  "notes": "Alterations; Sundry; file no. 135366 stamped; faint number 8807 below address (not in permit no. field); permit no. line blank"
+ },
+ "in": 2275,
+ "out": 131
+}

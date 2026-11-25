@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 2750,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p02750_4193094.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kilbourn Ave\",\"direction\":\"\",\"house_number\":\"1722-26\",\"permit_date\":\"1946-07-08\",\"permit_no\":\"72123\",\"notes\":\"1 story Storage; owner J. Kilbourn (handwritten); Book 56 Page 253; Plan 932; Water no. 5935-0; no direction written on card; street name and number from handwriting, reasonably clear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kilbourn Ave",
+  "direction": "",
+  "house_number": "1722-26",
+  "permit_date": "1946-07-08",
+  "permit_no": "72123",
+  "notes": "1 story Storage; owner J. Kilbourn (handwritten); Book 56 Page 253; Plan 932; Water no. 5935-0; no direction written on card; street name and number from handwriting, reasonably clear"
+ },
+ "in": 2280,
+ "out": 162
+}

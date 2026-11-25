@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 4250,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p04250_3243277.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Adams St\",\"direction\":\"W\",\"house_number\":\"1122-58\",\"permit_date\":\"1948-05-11\",\"permit_no\":\"B 12143\",\"notes\":\"1 sty Bus Unit, Auto service & parts; Book 58 Page 426; Plan no. 2169; File no. 362709\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Adams St",
+  "direction": "W",
+  "house_number": "1122-58",
+  "permit_date": "1948-05-11",
+  "permit_no": "B 12143",
+  "notes": "1 sty Bus Unit, Auto service & parts; Book 58 Page 426; Plan no. 2169; File no. 362709"
+ },
+ "in": 2268,
+ "out": 132
+}

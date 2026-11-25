@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 750,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p00750_3160841.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Augusta St\",\"direction\":\"\",\"house_number\":\"2222\",\"permit_date\":\"1900-10-02\",\"permit_no\":\"21755\",\"notes\":\"typed card; very faint; second line appears to read 'Sub Augusta'; date partly legible, read as Oct. 2, 1900 (year uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Augusta St",
+  "direction": "",
+  "house_number": "2222",
+  "permit_date": "1900-10-02",
+  "permit_no": "21755",
+  "notes": "typed card; very faint; second line appears to read 'Sub Augusta'; date partly legible, read as Oct. 2, 1900 (year uncertain)"
+ },
+ "in": 2271,
+ "out": 135
+}

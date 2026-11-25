@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1113780",
+ "slide_index": 1250,
+ "image": "street_index/data/1113780/slides_pct_0-0-100-99_w1000/p01250_2834539.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Grenshaw St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1931-11\",\"permit_no\":\"78456\",\"notes\":\"Inclosure wall brick(?); Sundry; house number first digits look like 35_9 or 3599 but unclear; card faint and overexposed; date appears Nov 1931 with day unclear; file no. about 23831 unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Grenshaw St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1931-11",
+  "permit_no": "78456",
+  "notes": "Inclosure wall brick(?); Sundry; house number first digits look like 35_9 or 3599 but unclear; card faint and overexposed; date appears Nov 1931 with day unclear; file no. about 23831 unclear"
+ },
+ "in": 2279,
+ "out": 157
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 3750,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p03750_3605156.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washtenaw Ave\",\"direction\":\"\",\"house_number\":\"409\",\"permit_date\":\"1892\",\"permit_no\":\"\",\"notes\":\"typed card, faint; lines read \\\"2746 No. Washtenaw Ave.\\\" and \\\"387 Laurel Ave. (Jeff.)\\\" (apparently other addresses/old addresses); date partly faded, \\\"..1?, 1892\\\"; 409 at left; card is faint and partly illegible; direction uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washtenaw Ave",
+  "direction": "",
+  "house_number": "409",
+  "permit_date": "1892",
+  "permit_no": "",
+  "notes": "typed card, faint; lines read \"2746 No. Washtenaw Ave.\" and \"387 Laurel Ave. (Jeff.)\" (apparently other addresses/old addresses); date partly faded, \"..1?, 1892\"; 409 at left; card is faint and partly illegible; direction uncertain"
+ },
+ "in": 2318,
+ "out": 187
+}

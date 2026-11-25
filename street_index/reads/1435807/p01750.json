@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 1750,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p01750_3478048.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"N\",\"house_number\":\"772\",\"permit_date\":\"1891-04-21\",\"permit_no\":\"1317\",\"notes\":\"typed card, faint; top line \\\"145? N. Western Ave.\\\" appears to be the old address (last digit unclear), second line \\\"772 N. Western Ave.\\\"; old addr: 145? N Western Ave; date partly faded (Apr 21, 1891); 1317 read as permit no\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "N",
+  "house_number": "772",
+  "permit_date": "1891-04-21",
+  "permit_no": "1317",
+  "notes": "typed card, faint; top line \"145? N. Western Ave.\" appears to be the old address (last digit unclear), second line \"772 N. Western Ave.\"; old addr: 145? N Western Ave; date partly faded (Apr 21, 1891); 1317 read as permit no"
+ },
+ "in": 2302,
+ "out": 178
+}

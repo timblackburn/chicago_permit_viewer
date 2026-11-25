@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 3250,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p03250_3663507.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sedgwick St\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1902-06\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; second line reads \\\"357 Sedgwick St.\\\" (likely old addr: 357 Sedgwick St); first line is mostly unreadable, possibly \\\"1411 N. Sedgwick St\\\"; permit no. possibly ending \\\"163\\\" unclear; date appears \\\"June 3, 1902\\\" partly legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sedgwick St",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1902-06",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; second line reads \"357 Sedgwick St.\" (likely old addr: 357 Sedgwick St); first line is mostly unreadable, possibly \"1411 N. Sedgwick St\"; permit no. possibly ending \"163\" unclear; date appears \"June 3, 1902\" partly legible"
+ },
+ "in": 2277,
+ "out": 196
+}

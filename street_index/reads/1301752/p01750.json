@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 1750,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p01750_3211034.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Burley Ave\",\"direction\":\"S\",\"house_number\":\"8825\",\"permit_date\":\"1896-04-08\",\"permit_no\":\"S 882\",\"notes\":\"typed card; second address line: 8825 Superior Ave; card faint, first digit of house number partly faded; date day uncertain (Apr 8 or 6)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Burley Ave",
+  "direction": "S",
+  "house_number": "8825",
+  "permit_date": "1896-04-08",
+  "permit_no": "S 882",
+  "notes": "typed card; second address line: 8825 Superior Ave; card faint, first digit of house number partly faded; date day uncertain (Apr 8 or 6)"
+ },
+ "in": 2302,
+ "out": 138
+}

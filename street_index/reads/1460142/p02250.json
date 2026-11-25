@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 2250,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p02250_3523835.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wacker Dr\",\"direction\":\"W\",\"house_number\":\"161-69\",\"permit_date\":\"1920-10-07\",\"permit_no\":\"A 10885\",\"notes\":\"3 Office Bldg; Book C 40 Page 6; plan no. crossed out; water no. 96132; owner/other text: Builders Building; low contrast, some handwriting faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wacker Dr",
+  "direction": "W",
+  "house_number": "161-69",
+  "permit_date": "1920-10-07",
+  "permit_no": "A 10885",
+  "notes": "3 Office Bldg; Book C 40 Page 6; plan no. crossed out; water no. 96132; owner/other text: Builders Building; low contrast, some handwriting faint"
+ },
+ "in": 2314,
+ "out": 150
+}

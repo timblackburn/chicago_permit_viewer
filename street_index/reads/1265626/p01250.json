@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 1250,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p01250_3139598.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Barry Ave\",\"direction\":\"W\",\"house_number\":\"2835\",\"permit_date\":\"1910-10-25\",\"permit_no\":\"2564\",\"notes\":\"old addr: 2835 Noble Ave; typed card, faint; permit number partly faded, last digit uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Barry Ave",
+  "direction": "W",
+  "house_number": "2835",
+  "permit_date": "1910-10-25",
+  "permit_no": "2564",
+  "notes": "old addr: 2835 Noble Ave; typed card, faint; permit number partly faded, last digit uncertain"
+ },
+ "in": 2274,
+ "out": 123
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 750,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p00750_3361456.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"44th St\",\"direction\":\"E\",\"house_number\":\"24\",\"permit_date\":\"1888-02-09\",\"permit_no\":\"\",\"notes\":\"8 Bldgs.; between Evans & Langley; struck-through earlier numbers before 24 (700-4-8-12-14-18-22 crossed out); building numbers 55-59-54-60-61-56-57-58; typed card, faint and speckled; handwritten mark 70 at top; no permit number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "44th St",
+  "direction": "E",
+  "house_number": "24",
+  "permit_date": "1888-02-09",
+  "permit_no": "",
+  "notes": "8 Bldgs.; between Evans & Langley; struck-through earlier numbers before 24 (700-4-8-12-14-18-22 crossed out); building numbers 55-59-54-60-61-56-57-58; typed card, faint and speckled; handwritten mark 70 at top; no permit number"
+ },
+ "in": 2267,
+ "out": 180
+}

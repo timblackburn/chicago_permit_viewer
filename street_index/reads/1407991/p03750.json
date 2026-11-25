@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 3750,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p03750_3419369.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"16th St\",\"direction\":\"W\",\"house_number\":\"522-30\",\"permit_date\":\"1880-07-26\",\"permit_no\":\"2243\",\"notes\":\"typed card; Lot 12 Blk. 33 Sec. 19-39-14; 16th St. W. nr. Canal; header line struck through but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "16th St",
+  "direction": "W",
+  "house_number": "522-30",
+  "permit_date": "1880-07-26",
+  "permit_no": "2243",
+  "notes": "typed card; Lot 12 Blk. 33 Sec. 19-39-14; 16th St. W. nr. Canal; header line struck through but readable"
+ },
+ "in": 2266,
+ "out": 134
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 4750,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p04750_3813816.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oketo Ave\",\"direction\":\"N\",\"house_number\":\"6310\",\"permit_date\":\"1941-12-08\",\"permit_no\":\"58290\",\"notes\":\"2 sty br Residence; Entered 52 Page 359; plan no 6793; water no 44662; file no 306673\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oketo Ave",
+  "direction": "N",
+  "house_number": "6310",
+  "permit_date": "1941-12-08",
+  "permit_no": "58290",
+  "notes": "2 sty br Residence; Entered 52 Page 359; plan no 6793; water no 44662; file no 306673"
+ },
+ "in": 2313,
+ "out": 125
+}

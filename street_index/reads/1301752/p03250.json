@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 3250,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p03250_3208072.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Byron St\",\"direction\":\"W\",\"house_number\":\"1615\",\"permit_date\":\"1896-11-21\",\"permit_no\":\"N W 1250\",\"notes\":\"old addr: 4828 Byron St; card typed and faint; permit no. read as N W 1250\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Byron St",
+  "direction": "W",
+  "house_number": "1615",
+  "permit_date": "1896-11-21",
+  "permit_no": "N W 1250",
+  "notes": "old addr: 4828 Byron St; card typed and faint; permit no. read as N W 1250"
+ },
+ "in": 2302,
+ "out": 118
+}

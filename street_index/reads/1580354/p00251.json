@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 251,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p00251_3771991.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Phillips Ave\",\"direction\":\"S\",\"house_number\":\"1713\",\"permit_date\":\"1926-04-09\",\"permit_no\":\"A 4653\",\"notes\":\"Apts; Book S 37 Page 318; plan no. 3004; water no. 901-05; file no. 73175-2; direction S is faint, written as a prefix mark after the number; card is dark and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Phillips Ave",
+  "direction": "S",
+  "house_number": "1713",
+  "permit_date": "1926-04-09",
+  "permit_no": "A 4653",
+  "notes": "Apts; Book S 37 Page 318; plan no. 3004; water no. 901-05; file no. 73175-2; direction S is faint, written as a prefix mark after the number; card is dark and grainy"
+ },
+ "in": 2273,
+ "out": 156
+}

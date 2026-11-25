@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 251,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p00251_4148053.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Indiana Ave\",\"direction\":\"\",\"house_number\":\"1472\",\"permit_date\":\"1921-06-24\",\"permit_no\":\"2304\",\"notes\":\"Same (kind of work given as \\\"Same\\\"); date faint, read as June 24, 1921; permit number 2304 faint; card overexposed and faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Indiana Ave",
+  "direction": "",
+  "house_number": "1472",
+  "permit_date": "1921-06-24",
+  "permit_no": "2304",
+  "notes": "Same (kind of work given as \"Same\"); date faint, read as June 24, 1921; permit number 2304 faint; card overexposed and faded"
+ },
+ "in": 2273,
+ "out": 134
+}

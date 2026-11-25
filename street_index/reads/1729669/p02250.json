@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 2250,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p02250_4066362.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"La Salle Ave\",\"direction\":\"N\",\"house_number\":\"335-41\",\"permit_date\":\"1913-04-23\",\"permit_no\":\"A 12566\",\"notes\":\"Br B.; Book C Page 45 (ledger ref 'C f.4', page 45 crossed out/overwritten); old addr: 316-18 N Clark St; card also shows 85250, file no. 35906; remarks Reid, Murdock; Cross Indexed; top line handwriting partly hard to read, house number may be 35-41 with the leading digit unclear and street type uncertain (La Salle Ave vs St)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "La Salle Ave",
+  "direction": "N",
+  "house_number": "335-41",
+  "permit_date": "1913-04-23",
+  "permit_no": "A 12566",
+  "notes": "Br B.; Book C Page 45 (ledger ref 'C f.4', page 45 crossed out/overwritten); old addr: 316-18 N Clark St; card also shows 85250, file no. 35906; remarks Reid, Murdock; Cross Indexed; top line handwriting partly hard to read, house number may be 35-41 with the leading digit unclear and street type uncertain (La Salle Ave vs St)"
+ },
+ "in": 2273,
+ "out": 230
+}

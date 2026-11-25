@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 4643,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p04643_3277521.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"99th St\",\"direction\":\"E\",\"house_number\":\"2046\",\"permit_date\":\"1948-12-06\",\"permit_no\":\"63109\",\"notes\":\"2 sty, work description faint and partly unreadable; Book 53 Page 559 (stamp faint); plan no. faint; file no. 318925; low-contrast film, handwriting faint. House number 2046 with E 99th St is outside the neighbors' range, so likely misread or odd filing; read as written.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "99th St",
+  "direction": "E",
+  "house_number": "2046",
+  "permit_date": "1948-12-06",
+  "permit_no": "63109",
+  "notes": "2 sty, work description faint and partly unreadable; Book 53 Page 559 (stamp faint); plan no. faint; file no. 318925; low-contrast film, handwriting faint. House number 2046 with E 99th St is outside the neighbors' range, so likely misread or odd filing; read as written."
+ },
+ "in": 2264,
+ "out": 183
+}

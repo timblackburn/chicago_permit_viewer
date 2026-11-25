@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 1668,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p01668_3862098.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Natchez Ave\",\"direction\":\"N\",\"house_number\":\"6215\",\"permit_date\":\"1950-06\",\"permit_no\":\"B 10125\",\"notes\":\"Book 61 Page 5/9; handwriting very faint, house number and permit number uncertain; day of date unclear; file no. 395206; street type inferred from filing position (Natchez Ave)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Natchez Ave",
+  "direction": "N",
+  "house_number": "6215",
+  "permit_date": "1950-06",
+  "permit_no": "B 10125",
+  "notes": "Book 61 Page 5/9; handwriting very faint, house number and permit number uncertain; day of date unclear; file no. 395206; street type inferred from filing position (Natchez Ave)"
+ },
+ "in": 2283,
+ "out": 150
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 2750,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p02750_4004598.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Madison St\",\"direction\":\"W\",\"house_number\":\"4709\",\"permit_date\":\"1909-10-06\",\"permit_no\":\"B 15363\",\"notes\":\"Inspection No. 6178? (last digit faint); B 15363 written in pencil at right; photographed card dark with noisy edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Madison St",
+  "direction": "W",
+  "house_number": "4709",
+  "permit_date": "1909-10-06",
+  "permit_no": "B 15363",
+  "notes": "Inspection No. 6178? (last digit faint); B 15363 written in pencil at right; photographed card dark with noisy edges"
+ },
+ "in": 2304,
+ "out": 128
+}

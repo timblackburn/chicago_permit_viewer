@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 4250,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p04250_3867146.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nagle Ave\",\"direction\":\"N\",\"house_number\":\"3556\",\"permit_date\":\"1913-07\",\"permit_no\":\"A 15420\",\"notes\":\"Fr. B.; Book N 5 Page 215; File No. 42940; day of permit partly obscured (Jul 1_ 1913); old addr: 8848 (possibly); address line has cross-out and handwriting is hard to read: '3556 (n 6st Ave' (ON) N Nagle Ave; frame is dark and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nagle Ave",
+  "direction": "N",
+  "house_number": "3556",
+  "permit_date": "1913-07",
+  "permit_no": "A 15420",
+  "notes": "Fr. B.; Book N 5 Page 215; File No. 42940; day of permit partly obscured (Jul 1_ 1913); old addr: 8848 (possibly); address line has cross-out and handwriting is hard to read: '3556 (n 6st Ave' (ON) N Nagle Ave; frame is dark and noisy"
+ },
+ "in": 2324,
+ "out": 199
+}

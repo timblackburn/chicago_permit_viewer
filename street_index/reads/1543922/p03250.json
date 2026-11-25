@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 3250,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p03250_3692947.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sacramento Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1924-05-16\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top is faint, appears to be 3326 or 3326 N Sacramento but digits uncertain; stamped date MAY 16 1924; card very faint and washed out, permit no. blank\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sacramento Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1924-05-16",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top is faint, appears to be 3326 or 3326 N Sacramento but digits uncertain; stamped date MAY 16 1924; card very faint and washed out, permit no. blank"
+ },
+ "in": 2281,
+ "out": 155
+}

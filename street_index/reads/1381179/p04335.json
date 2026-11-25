@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 4335,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p04335_3364385.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"35th St\",\"direction\":\"W\",\"house_number\":\"822\",\"permit_date\":\"\",\"permit_no\":\"A 11181\",\"notes\":\"Addn to front of house; Sundry; date stamp APR 21 partly faint, year unreadable; plan no. 1119; file no. 361810; permit no. digits faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "35th St",
+  "direction": "W",
+  "house_number": "822",
+  "permit_date": "",
+  "permit_no": "A 11181",
+  "notes": "Addn to front of house; Sundry; date stamp APR 21 partly faint, year unreadable; plan no. 1119; file no. 361810; permit no. digits faint"
+ },
+ "in": 2266,
+ "out": 134
+}

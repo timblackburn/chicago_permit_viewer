@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 2250,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p02250_4174017.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Keating Ave\",\"direction\":\"N\",\"house_number\":\"12215\",\"permit_date\":\"1938-11-04\",\"permit_no\":\"112567\",\"notes\":\"Rear Brick Addn; Sundry stamp; file no. 278290; house number 12215 may be misread (neighbors suggest a lower number, e.g. 3215), but card appears to read 12215\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Keating Ave",
+  "direction": "N",
+  "house_number": "12215",
+  "permit_date": "1938-11-04",
+  "permit_no": "112567",
+  "notes": "Rear Brick Addn; Sundry stamp; file no. 278290; house number 12215 may be misread (neighbors suggest a lower number, e.g. 3215), but card appears to read 12215"
+ },
+ "in": 2315,
+ "out": 151
+}

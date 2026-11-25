@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 3204,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p03204_3521920.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wallace St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1947\",\"permit_no\":\"136518\",\"notes\":\"Sundry; handwritten work description partly legible (replace windows, ... 1 sty fr.); house number at top appears like 4523 or 4512 but uncertain; date faint, ends 194_; plan no 318771; stamped SUNDRY\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wallace St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1947",
+  "permit_no": "136518",
+  "notes": "Sundry; handwritten work description partly legible (replace windows, ... 1 sty fr.); house number at top appears like 4523 or 4512 but uncertain; date faint, ends 194_; plan no 318771; stamped SUNDRY"
+ },
+ "in": 2275,
+ "out": 159
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 3750,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p03750_3549305.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"University Ave\",\"direction\":\"S\",\"house_number\":\"6407\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card; second line gives old addr: 6407 Lexington Ave; lower lines very faint (S 10.. and partial date ending 19.1 unreadable); permit details not legible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "University Ave",
+  "direction": "S",
+  "house_number": "6407",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card; second line gives old addr: 6407 Lexington Ave; lower lines very faint (S 10.. and partial date ending 19.1 unreadable); permit details not legible"
+ },
+ "in": 2309,
+ "out": 135
+}

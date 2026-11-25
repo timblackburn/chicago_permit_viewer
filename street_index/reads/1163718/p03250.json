@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 3250,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p03250_2931764.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eastlake Ter\",\"direction\":\"N\",\"house_number\":\"7616-18\",\"permit_date\":\"1915-08-27\",\"permit_no\":\"A 32829\",\"notes\":\"Br B.; Book N 12 Page 58; owner/name Garrison (handwritten, partly overwritten); other number 7293 written below; File No. 93861; handwriting over printed heading is overlapped, street name typed N. EASTLAKE TER.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eastlake Ter",
+  "direction": "N",
+  "house_number": "7616-18",
+  "permit_date": "1915-08-27",
+  "permit_no": "A 32829",
+  "notes": "Br B.; Book N 12 Page 58; owner/name Garrison (handwritten, partly overwritten); other number 7293 written below; File No. 93861; handwriting over printed heading is overlapped, street name typed N. EASTLAKE TER."
+ },
+ "in": 2312,
+ "out": 175
+}

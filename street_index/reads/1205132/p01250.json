@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 1250,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p01250_3017991.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Coles Ave\",\"direction\":\"S\",\"house_number\":\"7511-25\",\"permit_date\":\"1926-03-14\",\"permit_no\":\"101028\",\"notes\":\"Apts; Book 34 Page 454; faint handwriting, house number read as 7511-25 with 'to' and 'S' inserted above line; plan no. 2151; water no. 76316; file no. 97960\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Coles Ave",
+  "direction": "S",
+  "house_number": "7511-25",
+  "permit_date": "1926-03-14",
+  "permit_no": "101028",
+  "notes": "Apts; Book 34 Page 454; faint handwriting, house number read as 7511-25 with 'to' and 'S' inserted above line; plan no. 2151; water no. 76316; file no. 97960"
+ },
+ "in": 2275,
+ "out": 156
+}

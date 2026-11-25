@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 2750,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p02750_3228382.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Aldine Ave\",\"direction\":\"\",\"house_number\":\"833\",\"permit_date\":\"1924-10-10\",\"permit_no\":\"96375\",\"notes\":\"Add to Gar; Book N 29 Page 95; plan no. 10171; water no. 21396; file no. 88000; faint handwriting, no direction written; date stamped OCT 10 1924\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Aldine Ave",
+  "direction": "",
+  "house_number": "833",
+  "permit_date": "1924-10-10",
+  "permit_no": "96375",
+  "notes": "Add to Gar; Book N 29 Page 95; plan no. 10171; water no. 21396; file no. 88000; faint handwriting, no direction written; date stamped OCT 10 1924"
+ },
+ "in": 2273,
+ "out": 149
+}

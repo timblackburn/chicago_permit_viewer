@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 1253,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p01253_3396290.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"2614\",\"permit_date\":\"1928-07-10\",\"permit_no\":\"\",\"notes\":\"card very faint; handwritten address at top appears to be 2614 W 69th St (street name partly legible, not confident); permit no. faint and unreadable; date stamped JUL 10 1928; kind of work unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "2614",
+  "permit_date": "1928-07-10",
+  "permit_no": "",
+  "notes": "card very faint; handwritten address at top appears to be 2614 W 69th St (street name partly legible, not confident); permit no. faint and unreadable; date stamped JUL 10 1928; kind of work unreadable"
+ },
+ "in": 2268,
+ "out": 147
+}

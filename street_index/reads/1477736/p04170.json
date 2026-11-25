@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 4170,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p04170_3557169.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Trumbull Ave\",\"direction\":\"S\",\"house_number\":\"2445\",\"permit_date\":\"\",\"permit_no\":\"1822\",\"notes\":\"Concrete Corner (work description partly legible); Sundry; permit no. faint and uncertain; plan no. faint; date of permit blank; poor contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Trumbull Ave",
+  "direction": "S",
+  "house_number": "2445",
+  "permit_date": "",
+  "permit_no": "1822",
+  "notes": "Concrete Corner (work description partly legible); Sundry; permit no. faint and uncertain; plan no. faint; date of permit blank; poor contrast"
+ },
+ "in": 2315,
+ "out": 133
+}

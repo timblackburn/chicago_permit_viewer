@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 2750,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p02750_3476052.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"S\",\"house_number\":\"2645\",\"permit_date\":\"1925-05-25\",\"permit_no\":\"A 104486\",\"notes\":\"B. Transformer House; W 32 Page 551; plan no. 5995; water no. 79687; file no. 106924; card says So. Western Ave, though filed in the N Western range on this reel\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "S",
+  "house_number": "2645",
+  "permit_date": "1925-05-25",
+  "permit_no": "A 104486",
+  "notes": "B. Transformer House; W 32 Page 551; plan no. 5995; water no. 79687; file no. 106924; card says So. Western Ave, though filed in the N Western range on this reel"
+ },
+ "in": 2268,
+ "out": 149
+}

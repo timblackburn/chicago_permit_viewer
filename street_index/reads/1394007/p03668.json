@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 3668,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p03668_3391309.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"71st St\",\"direction\":\"W\",\"house_number\":\"3832-36-40\",\"permit_date\":\"1954-09-14\",\"permit_no\":\"B 118224\",\"notes\":\"Erect 3-1 sty Brick Residence; Plan No 3108; File No 476173 (faint); card slightly faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "71st St",
+  "direction": "W",
+  "house_number": "3832-36-40",
+  "permit_date": "1954-09-14",
+  "permit_no": "B 118224",
+  "notes": "Erect 3-1 sty Brick Residence; Plan No 3108; File No 476173 (faint); card slightly faint in places"
+ },
+ "in": 2268,
+ "out": 132
+}

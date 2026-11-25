@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 3750,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p03750_3124268.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bernice Ave\",\"direction\":\"\",\"house_number\":\"5021\",\"permit_date\":\"\",\"permit_no\":\"A 89873\",\"notes\":\"Br B.; Book N 24 Page 107 (faint); plan no 3419; file no 68954; water no 64849; date of permit stamp faint, possibly APR 1; direction not written; card faded and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bernice Ave",
+  "direction": "",
+  "house_number": "5021",
+  "permit_date": "",
+  "permit_no": "A 89873",
+  "notes": "Br B.; Book N 24 Page 107 (faint); plan no 3419; file no 68954; water no 64849; date of permit stamp faint, possibly APR 1; direction not written; card faded and low contrast"
+ },
+ "in": 2278,
+ "out": 152
+}

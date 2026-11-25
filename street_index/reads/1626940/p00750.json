@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 750,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p00750_3863950.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nashville Ave\",\"direction\":\"S\",\"house_number\":\"6105\",\"permit_date\":\"1950-07-11\",\"permit_no\":\"B 11211\",\"notes\":\"1 sty B. Res.; Plan no 8620; File no 396203; book/page at bottom faint and unreadable; date stamp faint, day uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nashville Ave",
+  "direction": "S",
+  "house_number": "6105",
+  "permit_date": "1950-07-11",
+  "permit_no": "B 11211",
+  "notes": "1 sty B. Res.; Plan no 8620; File no 396203; book/page at bottom faint and unreadable; date stamp faint, day uncertain"
+ },
+ "in": 2289,
+ "out": 140
+}

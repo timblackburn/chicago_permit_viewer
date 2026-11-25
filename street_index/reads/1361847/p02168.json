@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 2168,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p02168_3329774.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"62nd St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1952-03\",\"permit_no\":\"70976\",\"notes\":\"2 sty City Brick; top line faint, house number partly illegible (begins 38.., range ending -14); Book 65? Page 12; File No. 12559?; date partly obscured (MAR ? 1952); faint and streaked card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "62nd St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1952-03",
+  "permit_no": "70976",
+  "notes": "2 sty City Brick; top line faint, house number partly illegible (begins 38.., range ending -14); Book 65? Page 12; File No. 12559?; date partly obscured (MAR ? 1952); faint and streaked card"
+ },
+ "in": 2277,
+ "out": 155
+}

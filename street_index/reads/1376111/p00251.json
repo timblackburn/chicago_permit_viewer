@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 251,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p00251_3362440.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"43rd St\",\"direction\":\"N\",\"house_number\":\"1501\",\"permit_date\":\"1918-09-17\",\"permit_no\":\"A 50495\",\"notes\":\"Br B.; Book S 19 Page 545; Armour & Co. stamp; Plan 2262; File 49511; Water No. 24879; card faint and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "43rd St",
+  "direction": "N",
+  "house_number": "1501",
+  "permit_date": "1918-09-17",
+  "permit_no": "A 50495",
+  "notes": "Br B.; Book S 19 Page 545; Armour & Co. stamp; Plan 2262; File 49511; Water No. 24879; card faint and grainy"
+ },
+ "in": 2265,
+ "out": 140
+}

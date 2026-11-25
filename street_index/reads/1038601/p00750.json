@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 750,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p00750_4207365.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kildare Ave\",\"direction\":\"S\",\"house_number\":\"5014\",\"permit_date\":\"1921-12-27\",\"permit_no\":\"A 64666\",\"notes\":\"f Cottage; Book S 23 Page 450; old addr: 173 (uncertain, written under the number); handwritten top, noisy film, water no. 39785, plan no. 7846, file no. 4430\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kildare Ave",
+  "direction": "S",
+  "house_number": "5014",
+  "permit_date": "1921-12-27",
+  "permit_no": "A 64666",
+  "notes": "f Cottage; Book S 23 Page 450; old addr: 173 (uncertain, written under the number); handwritten top, noisy film, water no. 39785, plan no. 7846, file no. 4430"
+ },
+ "in": 2246,
+ "out": 156
+}

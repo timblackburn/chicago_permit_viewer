@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 251,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p00251_3969945.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"May St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1925-11-02\",\"permit_no\":\"D 552\",\"notes\":\"Res; Book S 37 Page 1; file no. 123156; house number not clearly readable (possibly 8421 or similar, partly obscured by a white blotch); faint, noisy film image with a white spot; handwritten 10 circled\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "May St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1925-11-02",
+  "permit_no": "D 552",
+  "notes": "Res; Book S 37 Page 1; file no. 123156; house number not clearly readable (possibly 8421 or similar, partly obscured by a white blotch); faint, noisy film image with a white spot; handwritten 10 circled"
+ },
+ "in": 2232,
+ "out": 157
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 2250,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p02250_3263681.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1945-01-17\",\"permit_no\":\"141430\",\"notes\":\"Frame Garage; Sundry; handwritten address at top is faint and mostly unreadable (looks like '25?? W ... Pl/Ave'); file no 326966; permit no digits partly blurred, could be 144430 or 141430; low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1945-01-17",
+  "permit_no": "141430",
+  "notes": "Frame Garage; Sundry; handwritten address at top is faint and mostly unreadable (looks like '25?? W ... Pl/Ave'); file no 326966; permit no digits partly blurred, could be 144430 or 141430; low contrast"
+ },
+ "in": 2263,
+ "out": 159
+}

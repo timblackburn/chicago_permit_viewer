@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 3750,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p03750_3539231.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vernon Ave\",\"direction\":\"S\",\"house_number\":\"10948-50\",\"permit_date\":\"1916-04-19\",\"permit_no\":\"A 38842\",\"notes\":\"Br B.; Book S 16 Page 249; Plan No. 2834; Water No. 12938; File No. 8201\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vernon Ave",
+  "direction": "S",
+  "house_number": "10948-50",
+  "permit_date": "1916-04-19",
+  "permit_no": "A 38842",
+  "notes": "Br B.; Book S 16 Page 249; Plan No. 2834; Water No. 12938; File No. 8201"
+ },
+ "in": 2306,
+ "out": 130
+}

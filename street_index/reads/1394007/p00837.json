@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 837,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p00837_3397143.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"69th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint; two addresses typed, 143? W. 69th St. and 153? W. 69th St. (last digit of each unreadable); S. 101? possibly ledger ref; date fragment ', 1 99' unclear; card is washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "69th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint; two addresses typed, 143? W. 69th St. and 153? W. 69th St. (last digit of each unreadable); S. 101? possibly ledger ref; date fragment ', 1 99' unclear; card is washed out"
+ },
+ "in": 2300,
+ "out": 154
+}

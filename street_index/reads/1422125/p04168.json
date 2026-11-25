@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 4168,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p04168_3447137.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Winthrop Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"A 44056\",\"notes\":\"Frame Garage; handwritten address faint, number looks like 6312 or 6342 but not certain; date of permit partly legible (JUN ..., year unclear); plan no. 394156; book/page blank; card overexposed and faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Winthrop Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "A 44056",
+  "notes": "Frame Garage; handwritten address faint, number looks like 6312 or 6342 but not certain; date of permit partly legible (JUN ..., year unclear); plan no. 394156; book/page blank; card overexposed and faint"
+ },
+ "in": 2358,
+ "out": 157
+}

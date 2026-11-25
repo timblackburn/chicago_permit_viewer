@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 2668,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p02668_3377493.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"25th St\",\"direction\":\"W\",\"house_number\":\"2511-57\",\"permit_date\":\"1876-06-06\",\"permit_no\":\"330\",\"notes\":\"Cor. Bldg.; also 2505-51 S. Rockwell St; handwritten note at bottom: Chicago Malleable Iron Co.; card faint, typed with stamped/handwritten marks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "25th St",
+  "direction": "W",
+  "house_number": "2511-57",
+  "permit_date": "1876-06-06",
+  "permit_no": "330",
+  "notes": "Cor. Bldg.; also 2505-51 S. Rockwell St; handwritten note at bottom: Chicago Malleable Iron Co.; card faint, typed with stamped/handwritten marks"
+ },
+ "in": 2300,
+ "out": 152
+}

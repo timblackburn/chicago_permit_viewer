@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 2750,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p02750_3421354.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Rockwell St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1923-09-13\",\"permit_no\":\"31662\",\"notes\":\"Address written as \\\"N.W. Cor 14th & Rockwell\\\" (corner, no house number); Sundry; plan no 8442; file no 57405; permit no faint and partly unclear; card filed under 14th St, so street name reading uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Rockwell St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1923-09-13",
+  "permit_no": "31662",
+  "notes": "Address written as \"N.W. Cor 14th & Rockwell\" (corner, no house number); Sundry; plan no 8442; file no 57405; permit no faint and partly unclear; card filed under 14th St, so street name reading uncertain"
+ },
+ "in": 2268,
+ "out": 163
+}

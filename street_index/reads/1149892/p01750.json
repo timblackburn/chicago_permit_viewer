@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1149892",
+ "slide_index": 1750,
+ "image": "street_index/data/1149892/slides_pct_0-0-100-99_w1000/p01750_2905980.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Erie St\",\"direction\":\"W\",\"house_number\":\"1500\",\"permit_date\":\"1919-07-11\",\"permit_no\":\"A 52997\",\"notes\":\"B. B. shop; Book W 10 Page 560; plan no. 2433; water no. 27358; file no. 59472; handwritten, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Erie St",
+  "direction": "W",
+  "house_number": "1500",
+  "permit_date": "1919-07-11",
+  "permit_no": "A 52997",
+  "notes": "B. B. shop; Book W 10 Page 560; plan no. 2433; water no. 27358; file no. 59472; handwritten, slightly faint"
+ },
+ "in": 2308,
+ "out": 136
+}

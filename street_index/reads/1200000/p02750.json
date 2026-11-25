@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 2750,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p02750_3005143.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cortez St\",\"direction\":\"W\",\"house_number\":\"2709\",\"permit_date\":\"1897-01-06\",\"permit_no\":\"\",\"notes\":\"old addr: 825 Humboldt Ave; typed card, very faint; permit no. not readable (possibly ends in 13); date partly faded, read as Jan. 6, 1897; street name partly faded, read as Cortez\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cortez St",
+  "direction": "W",
+  "house_number": "2709",
+  "permit_date": "1897-01-06",
+  "permit_no": "",
+  "notes": "old addr: 825 Humboldt Ave; typed card, very faint; permit no. not readable (possibly ends in 13); date partly faded, read as Jan. 6, 1897; street name partly faded, read as Cortez"
+ },
+ "in": 2307,
+ "out": 156
+}

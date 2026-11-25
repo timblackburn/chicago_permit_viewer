@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 3250,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p03250_2912954.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elston Ave\",\"direction\":\"N\",\"house_number\":\"4532\",\"permit_date\":\"1953-07-21\",\"permit_no\":\"B 95936\",\"notes\":\"Office Alt Int; Book 67 Page 360; Plan No. 2462; File No. 448108; card has dark streaks and some damage at the bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elston Ave",
+  "direction": "N",
+  "house_number": "4532",
+  "permit_date": "1953-07-21",
+  "permit_no": "B 95936",
+  "notes": "Office Alt Int; Book 67 Page 360; Plan No. 2462; File No. 448108; card has dark streaks and some damage at the bottom"
+ },
+ "in": 2319,
+ "out": 138
+}

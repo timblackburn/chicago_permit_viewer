@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 2250,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p02250_3808479.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oriole Ave\",\"direction\":\"\",\"house_number\":\"3326\",\"permit_date\":\"1930-08-13\",\"permit_no\":\"70142\",\"notes\":\"Con. Fdn; Sundry; plan no 2526; file no 227526; direction not written on card; microfilm image is low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oriole Ave",
+  "direction": "",
+  "house_number": "3326",
+  "permit_date": "1930-08-13",
+  "permit_no": "70142",
+  "notes": "Con. Fdn; Sundry; plan no 2526; file no 227526; direction not written on card; microfilm image is low contrast"
+ },
+ "in": 2323,
+ "out": 129
+}

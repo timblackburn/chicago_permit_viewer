@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 3250,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p03250_3024205.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cleaver St\",\"direction\":\"\",\"house_number\":\"1327\",\"permit_date\":\"1895-09-09\",\"permit_no\":\"N.W. 1266\",\"notes\":\"old addr: 132 Cleaver; typed card, faint and speckled; no direction written; permit prefix N.W.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cleaver St",
+  "direction": "",
+  "house_number": "1327",
+  "permit_date": "1895-09-09",
+  "permit_no": "N.W. 1266",
+  "notes": "old addr: 132 Cleaver; typed card, faint and speckled; no direction written; permit prefix N.W."
+ },
+ "in": 2279,
+ "out": 127
+}

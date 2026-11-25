@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 251,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p00251_3742151.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Racine Ave\",\"direction\":\"N\",\"house_number\":\"3145\",\"permit_date\":\"1925-10-15\",\"permit_no\":\"72257\",\"notes\":\"Foundation; Sundry; permit no. partly overwritten/faint, read as 72257; date stamp faint, 'OCT 15' with 1925 handwritten; file no. 121719\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Racine Ave",
+  "direction": "N",
+  "house_number": "3145",
+  "permit_date": "1925-10-15",
+  "permit_no": "72257",
+  "notes": "Foundation; Sundry; permit no. partly overwritten/faint, read as 72257; date stamp faint, 'OCT 15' with 1925 handwritten; file no. 121719"
+ },
+ "in": 2275,
+ "out": 147
+}

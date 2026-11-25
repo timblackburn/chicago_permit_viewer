@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 251,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p00251_2076940.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Higgins Rd\",\"direction\":\"W\",\"house_number\":\"5601-09\",\"permit_date\":\"1955-01-20\",\"permit_no\":\"A 124657\",\"notes\":\"Tank; File no. 476359; Book/Page blank or smeared; lower part of card damaged by streaks, handwriting faint; house number range partly uncertain; date stamp partly smeared\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Higgins Rd",
+  "direction": "W",
+  "house_number": "5601-09",
+  "permit_date": "1955-01-20",
+  "permit_no": "A 124657",
+  "notes": "Tank; File no. 476359; Book/Page blank or smeared; lower part of card damaged by streaks, handwriting faint; house number range partly uncertain; date stamp partly smeared"
+ },
+ "in": 2308,
+ "out": 153
+}

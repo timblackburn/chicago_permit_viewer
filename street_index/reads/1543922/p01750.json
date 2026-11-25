@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 1750,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p01750_3695947.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rutherford St\",\"direction\":\"N\",\"house_number\":\"2826\",\"permit_date\":\"1948-08-06\",\"permit_no\":\"B 16367\",\"notes\":\"Book 59 Page 58; File No 366876; handwritten address, faint; street type read as St (card also has a second line, unclear)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rutherford St",
+  "direction": "N",
+  "house_number": "2826",
+  "permit_date": "1948-08-06",
+  "permit_no": "B 16367",
+  "notes": "Book 59 Page 58; File No 366876; handwritten address, faint; street type read as St (card also has a second line, unclear)"
+ },
+ "in": 2277,
+ "out": 130
+}

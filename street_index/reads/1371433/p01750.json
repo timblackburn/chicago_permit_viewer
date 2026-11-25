@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 1750,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p01750_3349685.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1945-06-17\",\"permit_no\":\"\",\"notes\":\"Handwritten top line is very faint and washed out; possibly begins 1238 or 1258 with a direction and street unreadable; Laundry (stamped); frame furnace wood bulkhead with brick and new seat; date stamp JUN 17 1945; permit number faint and unreadable; overexposed card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1945-06-17",
+  "permit_no": "",
+  "notes": "Handwritten top line is very faint and washed out; possibly begins 1238 or 1258 with a direction and street unreadable; Laundry (stamped); frame furnace wood bulkhead with brick and new seat; date stamp JUN 17 1945; permit number faint and unreadable; overexposed card"
+ },
+ "in": 2263,
+ "out": 174
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 2750,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p02750_4065344.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"La Salle St\",\"direction\":\"N\",\"house_number\":\"1017-19\",\"permit_date\":\"1918-11-30\",\"permit_no\":\"26620\",\"notes\":\"Br B.; also written N 26620 in handwriting; inspection no. 84325; date stamp partly overstruck, year read as 1918 with some uncertainty; bottom edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "La Salle St",
+  "direction": "N",
+  "house_number": "1017-19",
+  "permit_date": "1918-11-30",
+  "permit_no": "26620",
+  "notes": "Br B.; also written N 26620 in handwriting; inspection no. 84325; date stamp partly overstruck, year read as 1918 with some uncertainty; bottom edge damaged"
+ },
+ "in": 2276,
+ "out": 148
+}

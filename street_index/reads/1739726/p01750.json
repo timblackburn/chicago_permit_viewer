@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 1750,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p01750_4084470.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake St\",\"direction\":\"W\",\"house_number\":\"125-131\",\"permit_date\":\"1940-07-09\",\"permit_no\":\"120943\",\"notes\":\"Int. alts; Sundry; plan no. 2682; file no. 291665; frame order seems off (card is for 125-131 W Lake St, not within reel range)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake St",
+  "direction": "W",
+  "house_number": "125-131",
+  "permit_date": "1940-07-09",
+  "permit_no": "120943",
+  "notes": "Int. alts; Sundry; plan no. 2682; file no. 291665; frame order seems off (card is for 125-131 W Lake St, not within reel range)"
+ },
+ "in": 2308,
+ "out": 138
+}

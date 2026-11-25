@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 4637,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p04637_4051462.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lawrence Ave\",\"direction\":\"\",\"house_number\":\"3124\",\"permit_date\":\"1922-05-10\",\"permit_no\":\"A 61770\",\"notes\":\"B. Story Apts; Book N 25 Page 27; plan no. 3596; water no. 42183; file no. 13089; no direction written; house number partly faint (3124 read from handwriting)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lawrence Ave",
+  "direction": "",
+  "house_number": "3124",
+  "permit_date": "1922-05-10",
+  "permit_no": "A 61770",
+  "notes": "B. Story Apts; Book N 25 Page 27; plan no. 3596; water no. 42183; file no. 13089; no direction written; house number partly faint (3124 read from handwriting)"
+ },
+ "in": 2316,
+ "out": 152
+}

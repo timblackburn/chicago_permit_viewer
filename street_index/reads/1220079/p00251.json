@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 251,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p00251_3050280.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"W\",\"house_number\":\"4700-04\",\"permit_date\":\"1949-04-08\",\"permit_no\":\"B 25002\",\"notes\":\"1 sty Office + stock room; Book 59 Page 519; Plan no. 7918; File no. 375417; handwriting slightly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "W",
+  "house_number": "4700-04",
+  "permit_date": "1949-04-08",
+  "permit_no": "B 25002",
+  "notes": "1 sty Office + stock room; Book 59 Page 519; Plan no. 7918; File no. 375417; handwriting slightly smudged"
+ },
+ "in": 2279,
+ "out": 138
+}

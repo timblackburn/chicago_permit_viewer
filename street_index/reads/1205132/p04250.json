@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4250,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04250_3012020.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint typed card; top line reads roughly '2?21 W. Congress St.' with the first digits unreadable (between 2423 and 3510 by filing order); second line is an older address ending 'W. Congress'; date reads 'Apr. 5, 1?' with the year cut off; permit number unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint typed card; top line reads roughly '2?21 W. Congress St.' with the first digits unreadable (between 2423 and 3510 by filing order); second line is an older address ending 'W. Congress'; date reads 'Apr. 5, 1?' with the year cut off; permit number unreadable"
+ },
+ "in": 2269,
+ "out": 173
+}

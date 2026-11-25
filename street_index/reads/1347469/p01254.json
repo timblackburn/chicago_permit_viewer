@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 1254,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p01254_3302948.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1911\",\"permit_no\":\"\",\"notes\":\"Very overexposed card; address line at top not readable (only faint scrawl); handwritten line like '1 sty ... ' partially visible; year 1911 visible; printed ENTERED 55 PAGE stamp; most fields washed out and bottom edge damaged\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1911",
+  "permit_no": "",
+  "notes": "Very overexposed card; address line at top not readable (only faint scrawl); handwritten line like '1 sty ... ' partially visible; year 1911 visible; printed ENTERED 55 PAGE stamp; most fields washed out and bottom edge damaged"
+ },
+ "in": 2305,
+ "out": 157
+}

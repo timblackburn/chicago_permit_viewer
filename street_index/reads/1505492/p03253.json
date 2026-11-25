@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 3253,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p03253_3616492.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sunnyside Ave\",\"direction\":\"\",\"house_number\":\"3337-43\",\"permit_date\":\"1915-11-23\",\"permit_no\":\"A 35621\",\"notes\":\"Br B.; Book N 12 Page 227; File No. 455; no direction written; street read as Sunnyside Ave from handwriting; handwritten 9745 on card; faint microfilm\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sunnyside Ave",
+  "direction": "",
+  "house_number": "3337-43",
+  "permit_date": "1915-11-23",
+  "permit_no": "A 35621",
+  "notes": "Br B.; Book N 12 Page 227; File No. 455; no direction written; street read as Sunnyside Ave from handwriting; handwritten 9745 on card; faint microfilm"
+ },
+ "in": 2307,
+ "out": 154
+}

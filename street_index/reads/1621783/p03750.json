@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 3750,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p03750_3848010.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Newport Ave\",\"direction\":\"\",\"house_number\":\"4112\",\"permit_date\":\"1925-09-15\",\"permit_no\":\"71244\",\"notes\":\"Porch; Sundry; file no. 118742; no direction written on card; dark, low-contrast image with bright streak at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Newport Ave",
+  "direction": "",
+  "house_number": "4112",
+  "permit_date": "1925-09-15",
+  "permit_no": "71244",
+  "notes": "Porch; Sundry; file no. 118742; no direction written on card; dark, low-contrast image with bright streak at bottom"
+ },
+ "in": 2274,
+ "out": 126
+}

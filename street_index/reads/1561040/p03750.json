@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 3750,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p03750_3724400.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridge Ave\",\"direction\":\"W\",\"house_number\":\"5785\",\"permit_date\":\"1916-12-02\",\"permit_no\":\"A 44313\",\"notes\":\"2 sty Br B.; Book N 15 Page 147; Water No. 18674; File No. 24816; house number reads 5785 with W 89 or 87 beside it, possibly old addr: 5785 W 89; handwriting partly smudged; stamped 9357 under permit no.; remarks circled 1\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridge Ave",
+  "direction": "W",
+  "house_number": "5785",
+  "permit_date": "1916-12-02",
+  "permit_no": "A 44313",
+  "notes": "2 sty Br B.; Book N 15 Page 147; Water No. 18674; File No. 24816; house number reads 5785 with W 89 or 87 beside it, possibly old addr: 5785 W 89; handwriting partly smudged; stamped 9357 under permit no.; remarks circled 1"
+ },
+ "in": 2281,
+ "out": 190
+}

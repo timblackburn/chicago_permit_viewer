@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 1750,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p01750_3230374.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Albany Ave\",\"direction\":\"S\",\"house_number\":\"6143\",\"permit_date\":\"1922-04-20\",\"permit_no\":\"A 67046\",\"notes\":\"B. Bs (Br B.); Book S 26 Page 9; water no. 41895; file no. 10841; image dark and blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Albany Ave",
+  "direction": "S",
+  "house_number": "6143",
+  "permit_date": "1922-04-20",
+  "permit_no": "A 67046",
+  "notes": "B. Bs (Br B.); Book S 26 Page 9; water no. 41895; file no. 10841; image dark and blurry"
+ },
+ "in": 2275,
+ "out": 131
+}

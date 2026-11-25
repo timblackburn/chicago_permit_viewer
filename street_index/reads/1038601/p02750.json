@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 2750,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p02750_4203375.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kimball Ave\",\"direction\":\"\",\"house_number\":\"1829\",\"permit_date\":\"1928-05-16\",\"permit_no\":\"42733\",\"notes\":\"Rebuild rear open Porch; Sundry; no direction written; file no. 189538; card is faint and grainy, permit no. and date partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kimball Ave",
+  "direction": "",
+  "house_number": "1829",
+  "permit_date": "1928-05-16",
+  "permit_no": "42733",
+  "notes": "Rebuild rear open Porch; Sundry; no direction written; file no. 189538; card is faint and grainy, permit no. and date partly uncertain"
+ },
+ "in": 2287,
+ "out": 136
+}

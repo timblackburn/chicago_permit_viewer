@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1595598",
+ "slide_index": 2250,
+ "image": "street_index/data/1595598/slides_pct_0-0-100-99_w1000/p02250_3798517.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Parkside Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1916-11-13\",\"permit_no\":\"A 44088\",\"notes\":\"Br B.; Book N 15 Page 73; top line reads \\\"1700-02-06\\\" which looks like a house number range but is uncertain and handwriting is cramped; plan no. 8903; water no. 18327; file no. 23543; card is grainy\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Parkside Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1916-11-13",
+  "permit_no": "A 44088",
+  "notes": "Br B.; Book N 15 Page 73; top line reads \"1700-02-06\" which looks like a house number range but is uncertain and handwriting is cramped; plan no. 8903; water no. 18327; file no. 23543; card is grainy"
+ },
+ "in": 2311,
+ "out": 168
+}

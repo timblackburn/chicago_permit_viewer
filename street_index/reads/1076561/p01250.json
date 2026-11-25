@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 1250,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p01250_4119381.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hubbard St\",\"direction\":\"W\",\"house_number\":\"2236\",\"permit_date\":\"1951-07-13\",\"permit_no\":\"B 61030\",\"notes\":\"1-1 Addn to existing metal products; Book 64 Page 8; Plan no. 6620; File no. 413596\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hubbard St",
+  "direction": "W",
+  "house_number": "2236",
+  "permit_date": "1951-07-13",
+  "permit_no": "B 61030",
+  "notes": "1-1 Addn to existing metal products; Book 64 Page 8; Plan no. 6620; File no. 413596"
+ },
+ "in": 2278,
+ "out": 127
+}

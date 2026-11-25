@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 4250,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p04250_4200614.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Kimbark Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1916-09-08\",\"permit_no\":\"A 42553\",\"notes\":\"Br B.; Book S 16 Page 511; Water No. 16729; Plan No. 7069; house number at top is faint and smudged (looks like 54-- or 6430, possibly 6430-32 written above); card is dark and noisy; permit no. partly unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Kimbark Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1916-09-08",
+  "permit_no": "A 42553",
+  "notes": "Br B.; Book S 16 Page 511; Water No. 16729; Plan No. 7069; house number at top is faint and smudged (looks like 54-- or 6430, possibly 6430-32 written above); card is dark and noisy; permit no. partly unclear"
+ },
+ "in": 2286,
+ "out": 175
+}

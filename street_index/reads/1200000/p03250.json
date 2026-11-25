@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 3250,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p03250_3004148.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cortland St\",\"direction\":\"W\",\"house_number\":\"1948\",\"permit_date\":\"1948-08-17\",\"permit_no\":\"B 16885\",\"notes\":\"1 sty Warehouse; Book 59 Page 86; plan no. 4326; file no. 367396\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cortland St",
+  "direction": "W",
+  "house_number": "1948",
+  "permit_date": "1948-08-17",
+  "permit_no": "B 16885",
+  "notes": "1 sty Warehouse; Book 59 Page 86; plan no. 4326; file no. 367396"
+ },
+ "in": 2307,
+ "out": 121
+}

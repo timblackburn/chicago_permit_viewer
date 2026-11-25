@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1103606",
+ "slide_index": 4691,
+ "image": "street_index/data/1103606/slides_pct_0-0-100-99_w1000/p04691_2807755.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harding Ave\",\"direction\":\"S\",\"house_number\":\"2718\",\"permit_date\":\"1906-08-03\",\"permit_no\":\"SW 28902\",\"notes\":\"old addr: 1343 S. Harding Ave; typed card, faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harding Ave",
+  "direction": "S",
+  "house_number": "2718",
+  "permit_date": "1906-08-03",
+  "permit_no": "SW 28902",
+  "notes": "old addr: 1343 S. Harding Ave; typed card, faint"
+ },
+ "in": 2277,
+ "out": 112
+}

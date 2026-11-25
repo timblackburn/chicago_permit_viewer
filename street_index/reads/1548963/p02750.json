@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 2750,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p02750_3702015.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Roosevelt Rd\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint, overexposed card; top line reads roughly '42?? W Roosevelt Road' but house number not reliably readable; handwritten 'Jan 46' and '425' near bottom, unclear; other fields washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Roosevelt Rd",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint, overexposed card; top line reads roughly '42?? W Roosevelt Road' but house number not reliably readable; handwritten 'Jan 46' and '425' near bottom, unclear; other fields washed out"
+ },
+ "in": 2286,
+ "out": 151
+}

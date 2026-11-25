@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 4250,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p04250_3278204.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"98th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1922-06\",\"permit_no\":\"B 69104\",\"notes\":\"Con Grain Storage; Book S 76 Page 161; address line reads \\\"E 98th St & Calumet River\\\" so no house number; water no. 43677; file no. 161142; owner Homs Grain Co.; date partly obscured (JUN ?? 1922); card is faint and noisy; permit no. read as B 69104 (uncertain)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "98th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1922-06",
+  "permit_no": "B 69104",
+  "notes": "Con Grain Storage; Book S 76 Page 161; address line reads \"E 98th St & Calumet River\" so no house number; water no. 43677; file no. 161142; owner Homs Grain Co.; date partly obscured (JUN ?? 1922); card is faint and noisy; permit no. read as B 69104 (uncertain)"
+ },
+ "in": 2265,
+ "out": 194
+}

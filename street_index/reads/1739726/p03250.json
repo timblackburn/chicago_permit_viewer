@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 3250,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p03250_4087457.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Laflin St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1928-11-09\",\"permit_no\":\"50463\",\"notes\":\"Replace Post Foundation; Sundry; file no. 200807; house number looks like 5750 but faint and uncertain, so left blank; low-contrast film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Laflin St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1928-11-09",
+  "permit_no": "50463",
+  "notes": "Replace Post Foundation; Sundry; file no. 200807; house number looks like 5750 but faint and uncertain, so left blank; low-contrast film"
+ },
+ "in": 2309,
+ "out": 134
+}

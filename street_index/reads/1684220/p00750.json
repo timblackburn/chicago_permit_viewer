@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 750,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p00750_3979288.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Maryland Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line reads like \\\"84?? Maryland Ave\\\" but the last digits are unclear; second line mostly washed out; date line barely visible; the neighboring frame (7143 Maryland Ave) supports the street name but the number is not safely readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Maryland Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line reads like \"84?? Maryland Ave\" but the last digits are unclear; second line mostly washed out; date line barely visible; the neighboring frame (7143 Maryland Ave) supports the street name but the number is not safely readable"
+ },
+ "in": 2307,
+ "out": 167
+}

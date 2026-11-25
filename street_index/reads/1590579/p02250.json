@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 2250,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p02250_3788247.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"N\",\"house_number\":\"5343\",\"permit_date\":\"1927-07-06\",\"permit_no\":\"29864\",\"notes\":\"Fr Garage; Sundry; file no. 169572; N direction written though reel context suggests S, read as written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "N",
+  "house_number": "5343",
+  "permit_date": "1927-07-06",
+  "permit_no": "29864",
+  "notes": "Fr Garage; Sundry; file no. 169572; N direction written though reel context suggests S, read as written"
+ },
+ "in": 2275,
+ "out": 120
+}

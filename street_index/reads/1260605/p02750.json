@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 2750,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p02750_3126274.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Belmont Ave\",\"direction\":\"W\",\"house_number\":\"7634-36\",\"permit_date\":\"1947-12-03\",\"permit_no\":\"B 7017\",\"notes\":\"1-1 sty retail store; Book 58 Page 130; plan no. appears to be 8992; file no. 357676; card is faint with streaky scan lines\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Belmont Ave",
+  "direction": "W",
+  "house_number": "7634-36",
+  "permit_date": "1947-12-03",
+  "permit_no": "B 7017",
+  "notes": "1-1 sty retail store; Book 58 Page 130; plan no. appears to be 8992; file no. 357676; card is faint with streaky scan lines"
+ },
+ "in": 2279,
+ "out": 142
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 1250,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p01250_3238799.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Addison St\",\"direction\":\"\",\"house_number\":\"3810\",\"permit_date\":\"1916-09-14\",\"permit_no\":\"A 47651\",\"notes\":\"Br B.; Book N 15 Page 47; no direction written; permit number partly unclear; water no. 16626; plan no. 7154; file no. 19030; film is dark with streaks along the bottom edge\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Addison St",
+  "direction": "",
+  "house_number": "3810",
+  "permit_date": "1916-09-14",
+  "permit_no": "A 47651",
+  "notes": "Br B.; Book N 15 Page 47; no direction written; permit number partly unclear; water no. 16626; plan no. 7154; file no. 19030; film is dark with streaks along the bottom edge"
+ },
+ "in": 2269,
+ "out": 152
+}

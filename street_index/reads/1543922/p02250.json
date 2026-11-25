@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 2250,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p02250_3694944.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sacramento Blvd\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1914-03-01\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; top line reads \\\"31_ S. Sacramento Blvd.\\\" with a digit missing after 31 so the house number is not certain; second line \\\"Sacramento ... Madison\\\" (cross streets); date reads approx \\\"Mar. 1, 1914\\\" (year partly unclear); permit number and building kind not readable; damaged bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sacramento Blvd",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1914-03-01",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; top line reads \"31_ S. Sacramento Blvd.\" with a digit missing after 31 so the house number is not certain; second line \"Sacramento ... Madison\" (cross streets); date reads approx \"Mar. 1, 1914\" (year partly unclear); permit number and building kind not readable; damaged bottom edge"
+ },
+ "in": 2280,
+ "out": 207
+}

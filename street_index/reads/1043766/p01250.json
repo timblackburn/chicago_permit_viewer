@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 1250,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p01250_4196040.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kenwood Ave\",\"direction\":\"S\",\"house_number\":\"8225\",\"permit_date\":\"1924-04-22\",\"permit_no\":\"B 89870\",\"notes\":\"Res; Book S 31 Page 30; file no. 69370; water no. 64895; plan no. 3650; address top reads 'B. 8225 / So. Kenwood Ave'; microfilm image is grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kenwood Ave",
+  "direction": "S",
+  "house_number": "8225",
+  "permit_date": "1924-04-22",
+  "permit_no": "B 89870",
+  "notes": "Res; Book S 31 Page 30; file no. 69370; water no. 64895; plan no. 3650; address top reads 'B. 8225 / So. Kenwood Ave'; microfilm image is grainy"
+ },
+ "in": 2284,
+ "out": 160
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 3750,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p03750_3012992.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1939\",\"permit_no\":\"\",\"notes\":\"card very faint and washed out; top line looks like \\\"1451 W. Congress St.\\\" and second line \\\"1451 W. Congress\\\" but digits are uncertain so house number not given; date partly read as \\\"... , 1939\\\"; permit number not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1939",
+  "permit_no": "",
+  "notes": "card very faint and washed out; top line looks like \"1451 W. Congress St.\" and second line \"1451 W. Congress\" but digits are uncertain so house number not given; date partly read as \"... , 1939\"; permit number not readable"
+ },
+ "in": 2267,
+ "out": 154
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 4250,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p04250_2939758.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drake Ave\",\"direction\":\"N\",\"house_number\":\"2440\",\"permit_date\":\"1919-05-10\",\"permit_no\":\"NW 21853\",\"notes\":\"Handwritten address reads \\\"2440 1/2 Drake Av\\\" (house number may include a 1/2); year of stamped date partly obscured, read as 1919; inspection no. 71965; card is dark, low contrast and grainy; direction not clearly written, assumed N from reel order; stamped date \\\"MAY 10\\\"; Book B shown as a scrawled mark beside permit number, unclear.cm\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drake Ave",
+  "direction": "N",
+  "house_number": "2440",
+  "permit_date": "1919-05-10",
+  "permit_no": "NW 21853",
+  "notes": "Handwritten address reads \"2440 1/2 Drake Av\" (house number may include a 1/2); year of stamped date partly obscured, read as 1919; inspection no. 71965; card is dark, low contrast and grainy; direction not clearly written, assumed N from reel order; stamped date \"MAY 10\"; Book B shown as a scrawled mark beside permit number, unclear.cm"
+ },
+ "in": 2236,
+ "out": 221
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 4250,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p04250_2891477.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fairfield Ave\",\"direction\":\"N\",\"house_number\":\"5623\",\"permit_date\":\"1925-04-27\",\"permit_no\":\"A 103283\",\"notes\":\"B. Res; Book N 33 Page 141; plan no. 1693; water no. 78610; file no. 103473; faint handwriting\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fairfield Ave",
+  "direction": "N",
+  "house_number": "5623",
+  "permit_date": "1925-04-27",
+  "permit_no": "A 103283",
+  "notes": "B. Res; Book N 33 Page 141; plan no. 1693; water no. 78610; file no. 103473; faint handwriting"
+ },
+ "in": 2314,
+ "out": 134
+}

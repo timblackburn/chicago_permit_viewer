@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 4662,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p04662_3258908.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"114th St\",\"direction\":\"W\",\"house_number\":\"520\",\"permit_date\":\"1926-05-20\",\"permit_no\":\"\",\"notes\":\"Foundation; Sundry; direction W written over with handwritten \\\"East\\\" above (card reads E/W ambiguous, W typed); date day 19 crossed out and changed to 20; permit no. faint/illegible; file no. 136678; stamped SUNDRY at top right; microfilm image is somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "114th St",
+  "direction": "W",
+  "house_number": "520",
+  "permit_date": "1926-05-20",
+  "permit_no": "",
+  "notes": "Foundation; Sundry; direction W written over with handwritten \"East\" above (card reads E/W ambiguous, W typed); date day 19 crossed out and changed to 20; permit no. faint/illegible; file no. 136678; stamped SUNDRY at top right; microfilm image is somewhat faint"
+ },
+ "in": 2301,
+ "out": 182
+}

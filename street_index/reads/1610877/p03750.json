@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 3750,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p03750_3825625.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Oak Park Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1929-09-19\",\"permit_no\":\"B 34956\",\"notes\":\"Res; Book W 46 Page 95 (altered); house number not visible, top line has only a string of lot or permit numbers; card faint and low contrast; plan no. 5843, water no. 19690, file no. 216078\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Oak Park Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1929-09-19",
+  "permit_no": "B 34956",
+  "notes": "Res; Book W 46 Page 95 (altered); house number not visible, top line has only a string of lot or permit numbers; card faint and low contrast; plan no. 5843, water no. 19690, file no. 216078"
+ },
+ "in": 2285,
+ "out": 158
+}

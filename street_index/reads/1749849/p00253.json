@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 253,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p00253_4110949.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Jr. Dr\",\"direction\":\"S\",\"house_number\":\"3928\",\"permit_date\":\"1928-06-25\",\"permit_no\":\"44827\",\"notes\":\"Frame Garage; Sundry; old addr: 3928 Grand Blvd; handwritten line at top partly overwritten and hard to read; card dark and speckled, file no. 192578\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Jr. Dr",
+  "direction": "S",
+  "house_number": "3928",
+  "permit_date": "1928-06-25",
+  "permit_no": "44827",
+  "notes": "Frame Garage; Sundry; old addr: 3928 Grand Blvd; handwritten line at top partly overwritten and hard to read; card dark and speckled, file no. 192578"
+ },
+ "in": 2319,
+ "out": 154
+}

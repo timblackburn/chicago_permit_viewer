@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 4250,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p04250_3814795.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ohio St\",\"direction\":\"W\",\"house_number\":\"4818\",\"permit_date\":\"1896-05-04\",\"permit_no\":\"N 532\",\"notes\":\"typed card; old addr: 2373 Ontario\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ohio St",
+  "direction": "W",
+  "house_number": "4818",
+  "permit_date": "1896-05-04",
+  "permit_no": "N 532",
+  "notes": "typed card; old addr: 2373 Ontario"
+ },
+ "in": 2311,
+ "out": 102
+}

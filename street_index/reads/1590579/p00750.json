@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 750,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p00750_3791240.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"N\",\"house_number\":\"1838\",\"permit_date\":\"1911-06-15\",\"permit_no\":\"94115\",\"notes\":\"B; N.W. 30-529 (handwritten, possibly a plan or lot reference); blurry, low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "N",
+  "house_number": "1838",
+  "permit_date": "1911-06-15",
+  "permit_no": "94115",
+  "notes": "B; N.W. 30-529 (handwritten, possibly a plan or lot reference); blurry, low contrast"
+ },
+ "in": 2312,
+ "out": 122
+}

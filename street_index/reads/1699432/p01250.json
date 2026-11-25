@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 1250,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p01250_4007597.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Madison St\",\"direction\":\"\",\"house_number\":\"2802\",\"permit_date\":\"1932-09-19\",\"permit_no\":\"82310\",\"notes\":\"Repair wood truss; Sundry; file no. 241790; direction not written on card; date stamp faint, day uncertain; card is dark and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Madison St",
+  "direction": "",
+  "house_number": "2802",
+  "permit_date": "1932-09-19",
+  "permit_no": "82310",
+  "notes": "Repair wood truss; Sundry; file no. 241790; direction not written on card; date stamp faint, day uncertain; card is dark and noisy"
+ },
+ "in": 2272,
+ "out": 131
+}

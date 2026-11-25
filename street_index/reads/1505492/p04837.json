@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 4837,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p04837_3613183.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Superior St\",\"direction\":\"W\",\"house_number\":\"5849\",\"permit_date\":\"1908-12-21\",\"permit_no\":\"6489\",\"notes\":\"old addr: 5840 Cedar St (second line partly obscured, reads 'Ceda.r St.'); typed card; slightly faint with specks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Superior St",
+  "direction": "W",
+  "house_number": "5849",
+  "permit_date": "1908-12-21",
+  "permit_no": "6489",
+  "notes": "old addr: 5840 Cedar St (second line partly obscured, reads 'Ceda.r St.'); typed card; slightly faint with specks"
+ },
+ "in": 2268,
+ "out": 132
+}

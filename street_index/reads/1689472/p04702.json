@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1689472",
+ "slide_index": 4702,
+ "image": "street_index/data/1689472/slides_pct_0-0-100-99_w1000/p04702_3980740.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Marshfield Ave\",\"direction\":\"S\",\"house_number\":\"8028\",\"permit_date\":\"1950-05-01\",\"permit_no\":\"B 41756\",\"notes\":\"Convert 1st fl into two apts. Total of 3; Book 61 Page 337; Plan no. 6419; File no. 391898\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Marshfield Ave",
+  "direction": "S",
+  "house_number": "8028",
+  "permit_date": "1950-05-01",
+  "permit_no": "B 41756",
+  "notes": "Convert 1st fl into two apts. Total of 3; Book 61 Page 337; Plan no. 6419; File no. 391898"
+ },
+ "in": 2280,
+ "out": 134
+}

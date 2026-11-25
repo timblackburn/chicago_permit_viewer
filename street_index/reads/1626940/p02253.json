@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 2253,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p02253_3860928.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Natoma Ave\",\"direction\":\"S\",\"house_number\":\"5821\",\"permit_date\":\"\",\"permit_no\":\"B 97090\",\"notes\":\"Erect 1 sty Brick Residence (Brick Residence struck through, partly); Book 67 Page 445; Plan no. 5138; File no. 449293; date of permit stamp faint and unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Natoma Ave",
+  "direction": "S",
+  "house_number": "5821",
+  "permit_date": "",
+  "permit_no": "B 97090",
+  "notes": "Erect 1 sty Brick Residence (Brick Residence struck through, partly); Book 67 Page 445; Plan no. 5138; File no. 449293; date of permit stamp faint and unreadable"
+ },
+ "in": 2283,
+ "out": 151
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 2250,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p02250_3015982.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Commercial Ave\",\"direction\":\"\",\"house_number\":\"8236\",\"permit_date\":\"1909-06\",\"permit_no\":\"S 629\",\"notes\":\"Same; card very faint typed; day of date partly unreadable (June 1?, 1909); permit no. partly unclear; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Commercial Ave",
+  "direction": "",
+  "house_number": "8236",
+  "permit_date": "1909-06",
+  "permit_no": "S 629",
+  "notes": "Same; card very faint typed; day of date partly unreadable (June 1?, 1909); permit no. partly unclear; no direction written"
+ },
+ "in": 2309,
+ "out": 128
+}

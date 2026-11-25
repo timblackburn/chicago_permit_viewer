@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 1750,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p01750_3237794.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Addison St\",\"direction\":\"W\",\"house_number\":\"57\",\"permit_date\":\"1917-08-31\",\"permit_no\":\"A 47725\",\"notes\":\"Br B.; Book N 15 Page 316; Plan No. 3964; Water No. 21543; File No. 37478; permit number partly uncertain; house number 57 uncertain but likely (hand-written, may be 57 W); card is a bit dark and speckled; date shows AUG 31 1917 with handwritten mark over the 3\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Addison St",
+  "direction": "W",
+  "house_number": "57",
+  "permit_date": "1917-08-31",
+  "permit_no": "A 47725",
+  "notes": "Br B.; Book N 15 Page 316; Plan No. 3964; Water No. 21543; File No. 37478; permit number partly uncertain; house number 57 uncertain but likely (hand-written, may be 57 W); card is a bit dark and speckled; date shows AUG 31 1917 with handwritten mark over the 3"
+ },
+ "in": 2272,
+ "out": 195
+}

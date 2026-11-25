@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 2250,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p02250_3935931.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Normal Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1925-08-14\",\"permit_no\":\"A 108012\",\"notes\":\"Store & Apts; Book V 85 Page 120; house number at top is smudged and partly covered by a blotch (looks like 122?6), direction not clear; Plan no. 9407; Water no. 80056; File no. 115522; film is dark and spotted\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Normal Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1925-08-14",
+  "permit_no": "A 108012",
+  "notes": "Store & Apts; Book V 85 Page 120; house number at top is smudged and partly covered by a blotch (looks like 122?6), direction not clear; Plan no. 9407; Water no. 80056; File no. 115522; film is dark and spotted"
+ },
+ "in": 2308,
+ "out": 168
+}

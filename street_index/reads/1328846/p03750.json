@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 3750,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p03750_3260681.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"112th Blvd\",\"direction\":\"E\",\"house_number\":\"3657\",\"permit_date\":\"1949-12-15\",\"permit_no\":\"538518\",\"notes\":\"1 sty Stone Bldg (handwriting faint); Book 60 Page 579; plan no. and file no. 387010; card faint and overexposed, permit number partly unclear; street name read as 112th Blvd per the card, not confirmed against the reel range\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "112th Blvd",
+  "direction": "E",
+  "house_number": "3657",
+  "permit_date": "1949-12-15",
+  "permit_no": "538518",
+  "notes": "1 sty Stone Bldg (handwriting faint); Book 60 Page 579; plan no. and file no. 387010; card faint and overexposed, permit number partly unclear; street name read as 112th Blvd per the card, not confirmed against the reel range"
+ },
+ "in": 2303,
+ "out": 170
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1636996",
+ "slide_index": 750,
+ "image": "street_index/data/1636996/slides_pct_0-0-100-99_w1000/p00750_3884069.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Montrose Ave\",\"direction\":\"\",\"house_number\":\"4229\",\"permit_date\":\"1945-04-05\",\"permit_no\":\"141960\",\"notes\":\"Replace fr. wall with Brick; Sundry; no direction written; plan no. 73860 partly blacked out; file no. 327922; low contrast, part of card redacted\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Montrose Ave",
+  "direction": "",
+  "house_number": "4229",
+  "permit_date": "1945-04-05",
+  "permit_no": "141960",
+  "notes": "Replace fr. wall with Brick; Sundry; no direction written; plan no. 73860 partly blacked out; file no. 327922; low contrast, part of card redacted"
+ },
+ "in": 2276,
+ "out": 142
+}

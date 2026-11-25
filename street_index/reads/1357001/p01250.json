@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 1250,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p01250_3322054.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"63rd Pl\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1928-07\",\"permit_no\":\"A 7849\",\"notes\":\"Res; house number faint, begins 351? (likely 3518 or 6318, not certain); Entered S.J.; Page 556 (partly legible); plan no. 6920; water no. 92296; file no. H1318; date of permit Jul 6 1928 (day faint); lower part of card damaged by streaks\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "63rd Pl",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1928-07",
+  "permit_no": "A 7849",
+  "notes": "Res; house number faint, begins 351? (likely 3518 or 6318, not certain); Entered S.J.; Page 556 (partly legible); plan no. 6920; water no. 92296; file no. H1318; date of permit Jul 6 1928 (day faint); lower part of card damaged by streaks"
+ },
+ "in": 2273,
+ "out": 184
+}

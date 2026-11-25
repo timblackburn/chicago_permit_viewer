@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 2750,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p02750_3086370.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"California Ave\",\"direction\":\"S\",\"house_number\":\"7923-27\",\"permit_date\":\"1952-05-16\",\"permit_no\":\"B 74463\",\"notes\":\"2-1½-sty brick res.; Book 65 Page 247; Plan No. 3319; File No. 426965; day of date stamp partly obscured (read as 16)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "California Ave",
+  "direction": "S",
+  "house_number": "7923-27",
+  "permit_date": "1952-05-16",
+  "permit_no": "B 74463",
+  "notes": "2-1½-sty brick res.; Book 65 Page 247; Plan No. 3319; File No. 426965; day of date stamp partly obscured (read as 16)"
+ },
+ "in": 2273,
+ "out": 143
+}

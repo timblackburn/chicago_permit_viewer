@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 3250,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p03250_3712310.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"2401-59\",\"permit_date\":\"1950-11-27\",\"permit_no\":\"A 51518\",\"notes\":\"Remodel Office space; Plan no. 2551; File no. 404323; date stamp partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "2401-59",
+  "permit_date": "1950-11-27",
+  "permit_no": "A 51518",
+  "notes": "Remodel Office space; Plan no. 2551; File no. 404323; date stamp partly faint"
+ },
+ "in": 2316,
+ "out": 122
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 2750,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p02750_2870609.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Fullerton Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1922-01-14\",\"permit_no\":\"64821\",\"notes\":\"handwritten address faint; looks like \\\"548 Fullerton\\\" but house number not confident; work: 3 sty (unclear); Book N 33 Page 449; Plan 183; File 4963; Water no. 39582; card faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Fullerton Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1922-01-14",
+  "permit_no": "64821",
+  "notes": "handwritten address faint; looks like \"548 Fullerton\" but house number not confident; work: 3 sty (unclear); Book N 33 Page 449; Plan 183; File 4963; Water no. 39582; card faint and overexposed"
+ },
+ "in": 2276,
+ "out": 164
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 750,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p00750_3555308.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Union Ave\",\"direction\":\"N\",\"house_number\":\"509\",\"permit_date\":\"1949-09-27\",\"permit_no\":\"33031\",\"notes\":\"1 - 500 gal. tank (handwritten, partly hard to read); File No. 83293; date stamp faint; permit no. faint, possibly with a prefix; Bldg/Plumbing/Vent boxes not marked; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Union Ave",
+  "direction": "N",
+  "house_number": "509",
+  "permit_date": "1949-09-27",
+  "permit_no": "33031",
+  "notes": "1 - 500 gal. tank (handwritten, partly hard to read); File No. 83293; date stamp faint; permit no. faint, possibly with a prefix; Bldg/Plumbing/Vent boxes not marked; Book and Page blank"
+ },
+ "in": 2311,
+ "out": 166
+}

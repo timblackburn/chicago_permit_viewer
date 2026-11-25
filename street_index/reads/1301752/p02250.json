@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 2250,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p02250_3210050.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Burling St\",\"direction\":\"\",\"house_number\":\"2025\",\"permit_date\":\"1919-06-24\",\"permit_no\":\"A 52821\",\"notes\":\"B.B. private garage; Book N 15 Page 472; Water No. 27779 (approx.); Plan No. 2222; File No. 58619; stamped date faint, card has dark smudges at bottom; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Burling St",
+  "direction": "",
+  "house_number": "2025",
+  "permit_date": "1919-06-24",
+  "permit_no": "A 52821",
+  "notes": "B.B. private garage; Book N 15 Page 472; Water No. 27779 (approx.); Plan No. 2222; File No. 58619; stamped date faint, card has dark smudges at bottom; no direction written"
+ },
+ "in": 2267,
+ "out": 156
+}

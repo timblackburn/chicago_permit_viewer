@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 3250,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p03250_3869152.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Muskegon Ave\",\"direction\":\"S\",\"house_number\":\"8041-43-45\",\"permit_date\":\"1895-02-11\",\"permit_no\":\"137\",\"notes\":\"3 cottages; second line lists same number on Reynolds Ave (cross-reference); permit no. 137 read from lower left, partly faint; some typing faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Muskegon Ave",
+  "direction": "S",
+  "house_number": "8041-43-45",
+  "permit_date": "1895-02-11",
+  "permit_no": "137",
+  "notes": "3 cottages; second line lists same number on Reynolds Ave (cross-reference); permit no. 137 read from lower left, partly faint; some typing faint"
+ },
+ "in": 2321,
+ "out": 142
+}

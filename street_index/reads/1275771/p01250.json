@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 1250,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p01250_3159853.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Augusta Pl\",\"direction\":\"\",\"house_number\":\"655\",\"permit_date\":\"\",\"permit_no\":\"103483\",\"notes\":\"Open steel stairway; Sundry; Plan no. 3654; File no. 266619; permit no. and stamped numbers faint, date of permit blank; Augusta Pl filing between Augusta St and Austin Blvd\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Augusta Pl",
+  "direction": "",
+  "house_number": "655",
+  "permit_date": "",
+  "permit_no": "103483",
+  "notes": "Open steel stairway; Sundry; Plan no. 3654; File no. 266619; permit no. and stamped numbers faint, date of permit blank; Augusta Pl filing between Augusta St and Austin Blvd"
+ },
+ "in": 2274,
+ "out": 152
+}

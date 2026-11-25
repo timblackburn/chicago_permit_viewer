@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 4750,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p04750_3122260.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bernard St\",\"direction\":\"N\",\"house_number\":\"4331\",\"permit_date\":\"1926-07-28\",\"permit_no\":\"13880\",\"notes\":\"Garage; Sundry; file no. 143374; handwriting and stamps faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bernard St",
+  "direction": "N",
+  "house_number": "4331",
+  "permit_date": "1926-07-28",
+  "permit_no": "13880",
+  "notes": "Garage; Sundry; file no. 143374; handwriting and stamps faint"
+ },
+ "in": 2273,
+ "out": 111
+}

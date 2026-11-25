@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 2250,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p02250_2072953.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Homan Ave\",\"direction\":\"S\",\"house_number\":\"1506\",\"permit_date\":\"1894-10-25\",\"permit_no\":\"3747\",\"notes\":\"old addr: 747 Homan Ave; typed card; permit number faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Homan Ave",
+  "direction": "S",
+  "house_number": "1506",
+  "permit_date": "1894-10-25",
+  "permit_no": "3747",
+  "notes": "old addr: 747 Homan Ave; typed card; permit number faint"
+ },
+ "in": 2310,
+ "out": 109
+}

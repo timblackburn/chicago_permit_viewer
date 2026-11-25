@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1103606",
+ "slide_index": 2250,
+ "image": "street_index/data/1103606/slides_pct_0-0-100-99_w1000/p02250_2812526.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hamlin Ave\",\"direction\":\"N\",\"house_number\":\"1432\",\"permit_date\":\"1899-08-09\",\"permit_no\":\"N W 496\",\"notes\":\"old addr: 2531 N Hamlin Ave; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hamlin Ave",
+  "direction": "N",
+  "house_number": "1432",
+  "permit_date": "1899-08-09",
+  "permit_no": "N W 496",
+  "notes": "old addr: 2531 N Hamlin Ave; typed card"
+ },
+ "in": 2280,
+ "out": 111
+}

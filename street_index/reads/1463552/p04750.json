@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 4750,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p04750_3529141.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"2601\",\"permit_date\":\"1937-02\",\"permit_no\":\"102654\",\"notes\":\"Wreck 3 1/2 sty brick building; Sundry; file no. 265591; date of permit stamp faint, appears Feb 1937, day unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "2601",
+  "permit_date": "1937-02",
+  "permit_no": "102654",
+  "notes": "Wreck 3 1/2 sty brick building; Sundry; file no. 265591; date of permit stamp faint, appears Feb 1937, day unreadable"
+ },
+ "in": 2277,
+ "out": 138
+}

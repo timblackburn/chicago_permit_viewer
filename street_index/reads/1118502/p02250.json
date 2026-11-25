@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 2250,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p02250_2842965.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Green St\",\"direction\":\"S\",\"house_number\":\"9605\",\"permit_date\":\"1953-08-06\",\"permit_no\":\"B 96972\",\"notes\":\"Erect 1 1/2 sty Brick Residence (Frame struck out); Book 67 Page 437; Plan no. 3092; File no. 449164\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Green St",
+  "direction": "S",
+  "house_number": "9605",
+  "permit_date": "1953-08-06",
+  "permit_no": "B 96972",
+  "notes": "Erect 1 1/2 sty Brick Residence (Frame struck out); Book 67 Page 437; Plan no. 3092; File no. 449164"
+ },
+ "in": 2268,
+ "out": 136
+}

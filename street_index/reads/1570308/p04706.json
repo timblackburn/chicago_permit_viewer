@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 4706,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p04706_3743113.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"1911\",\"permit_date\":\"188\",\"permit_no\":\"773\",\"notes\":\"old addr: 632 Centre Ave; card very faint and washed out; street name partly faded (top line reads like 'S Racine Ave'); date partly legible 'Mar 21, 188_'; permit no. partly legible '773'\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "1911",
+  "permit_date": "188",
+  "permit_no": "773",
+  "notes": "old addr: 632 Centre Ave; card very faint and washed out; street name partly faded (top line reads like 'S Racine Ave'); date partly legible 'Mar 21, 188_'; permit no. partly legible '773'"
+ },
+ "in": 2276,
+ "out": 155
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1103606",
+ "slide_index": 1250,
+ "image": "street_index/data/1103606/slides_pct_0-0-100-99_w1000/p01250_2814528.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hamlin Ave\",\"direction\":\"N\",\"house_number\":\"3234-38\",\"permit_date\":\"1910-05-17\",\"permit_no\":\"B 27936\",\"notes\":\"Inspection No. 72448; circled 2 at bottom; card dark and noisy, house number partly overwritten (possibly 3234-38 or 3232-38)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hamlin Ave",
+  "direction": "N",
+  "house_number": "3234-38",
+  "permit_date": "1910-05-17",
+  "permit_no": "B 27936",
+  "notes": "Inspection No. 72448; circled 2 at bottom; card dark and noisy, house number partly overwritten (possibly 3234-38 or 3232-38)"
+ },
+ "in": 2243,
+ "out": 145
+}

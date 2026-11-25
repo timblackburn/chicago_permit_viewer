@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 1750,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p01750_3118210.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Birchwood Ave\",\"direction\":\"\",\"house_number\":\"1329\",\"permit_date\":\"1929-06-01\",\"permit_no\":\"B 92806\",\"notes\":\"Apt; Plan no 3049; Water no 18213; File no 210169; owner address 391; stamp 'Entered N 44 Page' faint; direction not written; card is faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Birchwood Ave",
+  "direction": "",
+  "house_number": "1329",
+  "permit_date": "1929-06-01",
+  "permit_no": "B 92806",
+  "notes": "Apt; Plan no 3049; Water no 18213; File no 210169; owner address 391; stamp 'Entered N 44 Page' faint; direction not written; card is faint and low contrast"
+ },
+ "in": 2280,
+ "out": 152
+}

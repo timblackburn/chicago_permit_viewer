@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1285785",
+ "slide_index": 1250,
+ "image": "street_index/data/1285785/slides_pct_0-0-100-99_w1000/p01250_3180131.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Artesian Ave\",\"direction\":\"N\",\"house_number\":\"6747-57\",\"permit_date\":\"1920-05-18\",\"permit_no\":\"B 32533\",\"notes\":\"B Apts + Shops; Book N 44 Page 981; plan no. 2668; water no. 17792; file no. 209160; faint, low-contrast stamp and handwriting; permit no. partly uncertain; filed out of expected N/S order for this reel position\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Artesian Ave",
+  "direction": "N",
+  "house_number": "6747-57",
+  "permit_date": "1920-05-18",
+  "permit_no": "B 32533",
+  "notes": "B Apts + Shops; Book N 44 Page 981; plan no. 2668; water no. 17792; file no. 209160; faint, low-contrast stamp and handwriting; permit no. partly uncertain; filed out of expected N/S order for this reel position"
+ },
+ "in": 2278,
+ "out": 176
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 4750,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p04750_3951590.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Merrimac Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1928-12-08\",\"permit_no\":\"B 2777\",\"notes\":\"top line lists multiple house numbers (2?16-10-16-18-24-28-34-36-42-46-52-54), not clearly readable; kind of work looks like \\\"Res\\\"; plan no 8495; water no 15329; file no 201700; card is faint and blurry; \\\"489\\\" handwritten near the address line, meaning unclear (no ledger reference clear)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Merrimac Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1928-12-08",
+  "permit_no": "B 2777",
+  "notes": "top line lists multiple house numbers (2?16-10-16-18-24-28-34-36-42-46-52-54), not clearly readable; kind of work looks like \"Res\"; plan no 8495; water no 15329; file no 201700; card is faint and blurry; \"489\" handwritten near the address line, meaning unclear (no ledger reference clear)"
+ },
+ "in": 2280,
+ "out": 205
+}

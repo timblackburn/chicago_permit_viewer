@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 1250,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p01250_3331574.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"N\",\"house_number\":\"3842\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Top line reads roughly '3842 N 61st St' but the card is on reel for W 61st St, so the street text is unclear and the direction is doubtful; second line 'Mallory Rd'?? unclear; Plan No. 291; Water No. 24142; Book 55 Page 192?; overexposed and faint, no permit date or permit no. visible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "N",
+  "house_number": "3842",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Top line reads roughly '3842 N 61st St' but the card is on reel for W 61st St, so the street text is unclear and the direction is doubtful; second line 'Mallory Rd'?? unclear; Plan No. 291; Water No. 24142; Book 55 Page 192?; overexposed and faint, no permit date or permit no. visible"
+ },
+ "in": 2303,
+ "out": 186
+}

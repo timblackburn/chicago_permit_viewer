@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 251,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p00251_2787166.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Honore St\",\"direction\":\"S\",\"house_number\":\"5620\",\"permit_date\":\"1911-08-26\",\"permit_no\":\"32631\",\"notes\":\"Remarks: circled 2; file no 98395 (faint); permit no handwritten and faint, partly uncertain; date stamp partly obscured (day read as 26); address has handwritten 'S' possibly written as '4' - direction read from filing position; old addr: none\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Honore St",
+  "direction": "S",
+  "house_number": "5620",
+  "permit_date": "1911-08-26",
+  "permit_no": "32631",
+  "notes": "Remarks: circled 2; file no 98395 (faint); permit no handwritten and faint, partly uncertain; date stamp partly obscured (day read as 26); address has handwritten 'S' possibly written as '4' - direction read from filing position; old addr: none"
+ },
+ "in": 2305,
+ "out": 170
+}

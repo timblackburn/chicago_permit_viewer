@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 3750,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p03750_2839964.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Holt St\",\"direction\":\"\",\"house_number\":\"1434\",\"permit_date\":\"1907-07-22\",\"permit_no\":\"7923\",\"notes\":\"typed card; two addresses: 1434 Holt St (bold) and 693 Holt St; old addr: 693 Holt St; faint ghost stamp 'N. Greenview Ave' at top right (cross-reference); street Holt St does not fit between Greenleaf and Greenview, likely card relates to Greenview Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Holt St",
+  "direction": "",
+  "house_number": "1434",
+  "permit_date": "1907-07-22",
+  "permit_no": "7923",
+  "notes": "typed card; two addresses: 1434 Holt St (bold) and 693 Holt St; old addr: 693 Holt St; faint ghost stamp 'N. Greenview Ave' at top right (cross-reference); street Holt St does not fit between Greenleaf and Greenview, likely card relates to Greenview Ave"
+ },
+ "in": 2277,
+ "out": 190
+}

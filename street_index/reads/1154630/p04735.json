@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 4735,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p04735_2909962.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Emerald Ave\",\"direction\":\"\",\"house_number\":\"6819-21\",\"permit_date\":\"1897-09-03\",\"permit_no\":\"S 1071\",\"notes\":\"Same; no direction written on card; permit no. read as S.1071; typed card, dark and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Emerald Ave",
+  "direction": "",
+  "house_number": "6819-21",
+  "permit_date": "1897-09-03",
+  "permit_no": "S 1071",
+  "notes": "Same; no direction written on card; permit no. read as S.1071; typed card, dark and grainy"
+ },
+ "in": 2314,
+ "out": 121
+}

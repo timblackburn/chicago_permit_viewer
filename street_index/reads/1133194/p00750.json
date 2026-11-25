@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 750,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p00750_2874628.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"San Francisco Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-10-14\",\"permit_no\":\"A 96964\",\"notes\":\"Br B.; Book S 3 Page 70; address line at top faint, house number and direction not readable; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "San Francisco Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-10-14",
+  "permit_no": "A 96964",
+  "notes": "Br B.; Book S 3 Page 70; address line at top faint, house number and direction not readable; card faint and low contrast"
+ },
+ "in": 2319,
+ "out": 127
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 4666,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p04666_3961442.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Medill Ave\",\"direction\":\"W\",\"house_number\":\"2113\",\"permit_date\":\"1938-06-23\",\"permit_no\":\"41621\",\"notes\":\"1 sty br. top addn; Book N 48 Page 164; old street name crossed out (illegible, ends in St); water no. 27318; plan no. 1185; file no. 260421\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Medill Ave",
+  "direction": "W",
+  "house_number": "2113",
+  "permit_date": "1938-06-23",
+  "permit_no": "41621",
+  "notes": "1 sty br. top addn; Book N 48 Page 164; old street name crossed out (illegible, ends in St); water no. 27318; plan no. 1185; file no. 260421"
+ },
+ "in": 2271,
+ "out": 145
+}

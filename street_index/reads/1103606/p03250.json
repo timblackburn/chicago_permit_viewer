@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1103606",
+ "slide_index": 3250,
+ "image": "street_index/data/1103606/slides_pct_0-0-100-99_w1000/p03250_2810520.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hamlin Ave\",\"direction\":\"S\",\"house_number\":\"5325-29-33\",\"permit_date\":\"1947-10-10\",\"permit_no\":\"B 09622\",\"notes\":\"3-1sty res.; Book 57 Page 593; Plan No. 7918; File No. 355372\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hamlin Ave",
+  "direction": "S",
+  "house_number": "5325-29-33",
+  "permit_date": "1947-10-10",
+  "permit_no": "B 09622",
+  "notes": "3-1sty res.; Book 57 Page 593; Plan No. 7918; File No. 355372"
+ },
+ "in": 2280,
+ "out": 127
+}

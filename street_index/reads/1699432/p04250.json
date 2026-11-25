@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 4250,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p04250_4001708.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Magnolia Ave\",\"direction\":\"\",\"house_number\":\"6324-28\",\"permit_date\":\"1904-12-14\",\"permit_no\":\"16306\",\"notes\":\"typed card; two addresses listed: 6324-28 Magnolia Ave (with handwritten 2 above) and 3069-71 Magnolia Ave; old addr: 3069-71; no building type given; no ledger reference; circled 2 at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Magnolia Ave",
+  "direction": "",
+  "house_number": "6324-28",
+  "permit_date": "1904-12-14",
+  "permit_no": "16306",
+  "notes": "typed card; two addresses listed: 6324-28 Magnolia Ave (with handwritten 2 above) and 3069-71 Magnolia Ave; old addr: 3069-71; no building type given; no ledger reference; circled 2 at bottom"
+ },
+ "in": 2308,
+ "out": 172
+}

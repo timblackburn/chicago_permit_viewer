@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 4250,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p04250_3991813.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maplewood\",\"direction\":\"S\",\"house_number\":\"11215\",\"permit_date\":\"1949-06-20\",\"permit_no\":\"B 29508\",\"notes\":\"1-1 Sty brick Res; Book 60 Page 172; Plan no. 277; File no. 379841; month of date partly faint (read as Jun)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maplewood",
+  "direction": "S",
+  "house_number": "11215",
+  "permit_date": "1949-06-20",
+  "permit_no": "B 29508",
+  "notes": "1-1 Sty brick Res; Book 60 Page 172; Plan no. 277; File no. 379841; month of date partly faint (read as Jun)"
+ },
+ "in": 2306,
+ "out": 138
+}

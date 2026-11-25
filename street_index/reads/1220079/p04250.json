@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 4250,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p04250_3042280.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cicero Ave\",\"direction\":\"N\",\"house_number\":\"914-24\",\"permit_date\":\"1926-05-27\",\"permit_no\":\"A 6498\",\"notes\":\"Stores & Apts; Book W Page 572; plan no. 5962; water no. 92106; file no. 37489; card is dark and noisy, handwriting partly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cicero Ave",
+  "direction": "N",
+  "house_number": "914-24",
+  "permit_date": "1926-05-27",
+  "permit_no": "A 6498",
+  "notes": "Stores & Apts; Book W Page 572; plan no. 5962; water no. 92106; file no. 37489; card is dark and noisy, handwriting partly smudged"
+ },
+ "in": 2278,
+ "out": 146
+}

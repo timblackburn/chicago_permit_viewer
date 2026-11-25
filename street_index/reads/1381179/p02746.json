@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 2746,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p02746_3367579.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"33rd St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"616\",\"notes\":\"Br addn to kitchen; handwritten header reads like \\\"?9 W 33rd St\\\" but the house number is unclear (likely 2 digits beginning with a digit followed by 9, e.g. \\\"49\\\" or \\\"59\\\"); stamp \\\"Entered 53 Page 317\\\"; number 315411 stamped; card faint and low contrast; permit number partly legible (616?)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "33rd St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "616",
+  "notes": "Br addn to kitchen; handwritten header reads like \"?9 W 33rd St\" but the house number is unclear (likely 2 digits beginning with a digit followed by 9, e.g. \"49\" or \"59\"); stamp \"Entered 53 Page 317\"; number 315411 stamped; card faint and low contrast; permit number partly legible (616?)"
+ },
+ "in": 2265,
+ "out": 198
+}

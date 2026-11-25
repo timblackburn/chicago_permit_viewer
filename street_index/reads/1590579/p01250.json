@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 1250,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p01250_3790240.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"N\",\"house_number\":\"3715\",\"permit_date\":\"1925-08-20\",\"permit_no\":\"69688\",\"notes\":\"Shed; Sundry; file no. 116254; microfilm image is grainy, date partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "N",
+  "house_number": "3715",
+  "permit_date": "1925-08-20",
+  "permit_no": "69688",
+  "notes": "Shed; Sundry; file no. 116254; microfilm image is grainy, date partly faint"
+ },
+ "in": 2311,
+ "out": 116
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 2750,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p02750_3198842.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Chestnut St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1940-05-15\",\"permit_no\":\"119894\",\"notes\":\"Hire Fence (handwritten, faint); Sundry; house number partly illegible, begins with 22 maybe 3 or more digits; plan no 290076; fits between Cheltenham and Chicago Ave only as Chestnut St filing; faint handwriting\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Chestnut St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1940-05-15",
+  "permit_no": "119894",
+  "notes": "Hire Fence (handwritten, faint); Sundry; house number partly illegible, begins with 22 maybe 3 or more digits; plan no 290076; fits between Cheltenham and Chicago Ave only as Chestnut St filing; faint handwriting"
+ },
+ "in": 2279,
+ "out": 170
+}

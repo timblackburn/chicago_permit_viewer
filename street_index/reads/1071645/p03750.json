@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 3750,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p03750_4140676.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Indianapolis Blvd\",\"direction\":\"S\",\"house_number\":\"10550\",\"permit_date\":\"1953-10-20\",\"permit_no\":\"H 101367\",\"notes\":\"Tank; File no 453579; card slightly faint and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Indianapolis Blvd",
+  "direction": "S",
+  "house_number": "10550",
+  "permit_date": "1953-10-20",
+  "permit_no": "H 101367",
+  "notes": "Tank; File no 453579; card slightly faint and grainy"
+ },
+ "in": 2275,
+ "out": 112
+}

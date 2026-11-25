@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 251,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p00251_3111086.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Blue Island Ave\",\"direction\":\"\",\"house_number\":\"1021\",\"permit_date\":\"1945-03-19\",\"permit_no\":\"141796\",\"notes\":\"Wreck 2 sty frame building; Sundry; file no. 327614; stamped date faint, house number handwritten and somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Blue Island Ave",
+  "direction": "",
+  "house_number": "1021",
+  "permit_date": "1945-03-19",
+  "permit_no": "141796",
+  "notes": "Wreck 2 sty frame building; Sundry; file no. 327614; stamped date faint, house number handwritten and somewhat faint"
+ },
+ "in": 2282,
+ "out": 132
+}

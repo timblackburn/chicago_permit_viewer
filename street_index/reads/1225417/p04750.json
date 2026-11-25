@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1225417",
+ "slide_index": 4750,
+ "image": "street_index/data/1225417/slides_pct_0-0-100-99_w1000/p04750_3051996.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cermak Rd\",\"direction\":\"W\",\"house_number\":\"3138-40\",\"permit_date\":\"1929-09-11\",\"permit_no\":\"B 13984\",\"notes\":\"Rev add & Alt (handwritten, partly uncertain); Entered W 46 Page 90; plan no. 4796; water no. 19558; file no. 215589; dark, noisy scan, stamp CERMAK RD; address written 22nd beside it (old addr: W 22nd)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cermak Rd",
+  "direction": "W",
+  "house_number": "3138-40",
+  "permit_date": "1929-09-11",
+  "permit_no": "B 13984",
+  "notes": "Rev add & Alt (handwritten, partly uncertain); Entered W 46 Page 90; plan no. 4796; water no. 19558; file no. 215589; dark, noisy scan, stamp CERMAK RD; address written 22nd beside it (old addr: W 22nd)"
+ },
+ "in": 2277,
+ "out": 186
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 2668,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p02668_3617653.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Summerdale Ave\",\"direction\":\"W\",\"house_number\":\"1941\",\"permit_date\":\"1903-03-21\",\"permit_no\":\"5671\",\"notes\":\"old addr: 433 Summerdale; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Summerdale Ave",
+  "direction": "W",
+  "house_number": "1941",
+  "permit_date": "1903-03-21",
+  "permit_no": "5671",
+  "notes": "old addr: 433 Summerdale; typed card"
+ },
+ "in": 2307,
+ "out": 104
+}

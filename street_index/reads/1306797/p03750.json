@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1306797",
+ "slide_index": 3750,
+ "image": "street_index/data/1306797/slides_pct_0-0-100-99_w1000/p03750_3215520.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Artesian Ave\",\"direction\":\"N\",\"house_number\":\"1459\",\"permit_date\":\"1951-10-25\",\"permit_no\":\"A 66726\",\"notes\":\"Frame Garage; File No 419434\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Artesian Ave",
+  "direction": "N",
+  "house_number": "1459",
+  "permit_date": "1951-10-25",
+  "permit_no": "A 66726",
+  "notes": "Frame Garage; File No 419434"
+ },
+ "in": 2281,
+ "out": 101
+}

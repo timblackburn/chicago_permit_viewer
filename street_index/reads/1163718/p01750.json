@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 1750,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p01750_2934816.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drexel Blvd\",\"direction\":\"S\",\"house_number\":\"6505\",\"permit_date\":\"1953-03-24\",\"permit_no\":\"88498\",\"notes\":\"Concrete Fdn.; file no. 446805; a handwritten mark (possibly 4) precedes the permit no.; contrast is high and the bottom edge is damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drexel Blvd",
+  "direction": "S",
+  "house_number": "6505",
+  "permit_date": "1953-03-24",
+  "permit_no": "88498",
+  "notes": "Concrete Fdn.; file no. 446805; a handwritten mark (possibly 4) precedes the permit no.; contrast is high and the bottom edge is damaged"
+ },
+ "in": 2279,
+ "out": 144
+}

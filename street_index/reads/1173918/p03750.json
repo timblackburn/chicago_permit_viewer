@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1173918",
+ "slide_index": 3750,
+ "image": "street_index/data/1173918/slides_pct_0-0-100-99_w1000/p03750_2950815.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Diversey Ave\",\"direction\":\"\",\"house_number\":\"4040\",\"permit_date\":\"1935-11-18\",\"permit_no\":\"B 7540\",\"notes\":\"3 - 36\\\" Stairway fire escapes; Sundry; plan no. 1957; file no. 256959; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Diversey Ave",
+  "direction": "",
+  "house_number": "4040",
+  "permit_date": "1935-11-18",
+  "permit_no": "B 7540",
+  "notes": "3 - 36\" Stairway fire escapes; Sundry; plan no. 1957; file no. 256959; no direction written on card"
+ },
+ "in": 2200,
+ "out": 131
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 750,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p00750_3130288.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Belmont Ave\",\"direction\":\"\",\"house_number\":\"1223\",\"permit_date\":\"1906-08-21\",\"permit_no\":\"\",\"notes\":\"old addr: 1123 Belmont Ave; typed card, very faint; number 443 at left possibly a permit number but unclear; direction not written; new vs old address inferred from first line 1223 and second line 1123 (could be reversed)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Belmont Ave",
+  "direction": "",
+  "house_number": "1223",
+  "permit_date": "1906-08-21",
+  "permit_no": "",
+  "notes": "old addr: 1123 Belmont Ave; typed card, very faint; number 443 at left possibly a permit number but unclear; direction not written; new vs old address inferred from first line 1223 and second line 1123 (could be reversed)"
+ },
+ "in": 2280,
+ "out": 160
+}

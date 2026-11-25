@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1595598",
+ "slide_index": 4250,
+ "image": "street_index/data/1595598/slides_pct_0-0-100-99_w1000/p04250_3794514.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Parnell Ave\",\"direction\":\"S\",\"house_number\":\"12759\",\"permit_date\":\"1950-04-18\",\"permit_no\":\"B 40988\",\"notes\":\"1 sty B. Res.; Book 61 Page 277; Plan no. 6032; File no. 391088\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Parnell Ave",
+  "direction": "S",
+  "house_number": "12759",
+  "permit_date": "1950-04-18",
+  "permit_no": "B 40988",
+  "notes": "1 sty B. Res.; Book 61 Page 277; Plan no. 6032; File no. 391088"
+ },
+ "in": 2274,
+ "out": 124
+}

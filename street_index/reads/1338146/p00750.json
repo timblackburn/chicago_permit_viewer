@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 750,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p00750_3285203.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"500\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address reads like '500 E 90th St' but street is unclear, so not recorded (reel context suggests 89th-91st); rest of card very faint and washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "500",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address reads like '500 E 90th St' but street is unclear, so not recorded (reel context suggests 89th-91st); rest of card very faint and washed out"
+ },
+ "in": 2299,
+ "out": 130
+}

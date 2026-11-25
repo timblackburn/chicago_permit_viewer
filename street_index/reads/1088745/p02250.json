@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 2250,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p02250_2783169.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Howard Ave\",\"direction\":\"\",\"house_number\":\"1659\",\"permit_date\":\"1931-05-28\",\"permit_no\":\"75669\",\"notes\":\"Non-Existing frame Bldg.; Sundry; no direction written; file no. 234345; date stamp faint; permit no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Howard Ave",
+  "direction": "",
+  "house_number": "1659",
+  "permit_date": "1931-05-28",
+  "permit_no": "75669",
+  "notes": "Non-Existing frame Bldg.; Sundry; no direction written; file no. 234345; date stamp faint; permit no. faint"
+ },
+ "in": 2273,
+ "out": 129
+}

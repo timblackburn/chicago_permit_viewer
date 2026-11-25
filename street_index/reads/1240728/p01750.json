@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 1750,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p01750_3088393.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"California Ave\",\"direction\":\"N\",\"house_number\":\"4845-49-51\",\"permit_date\":\"1919-05-28\",\"permit_no\":\"A 52365\",\"notes\":\"B.B.; Book N 15 Page 441; street is N California Ave (north), which is out of reel sequence with S California but read as written; plan no. 1633; water no. 26801; file no. 56977 (56970 struck out)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "California Ave",
+  "direction": "N",
+  "house_number": "4845-49-51",
+  "permit_date": "1919-05-28",
+  "permit_no": "A 52365",
+  "notes": "B.B.; Book N 15 Page 441; street is N California Ave (north), which is out of reel sequence with S California but read as written; plan no. 1633; water no. 26801; file no. 56977 (56970 struck out)"
+ },
+ "in": 2272,
+ "out": 163
+}

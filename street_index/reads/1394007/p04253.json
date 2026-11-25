@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 4253,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p04253_3390099.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"72nd St\",\"direction\":\"E\",\"house_number\":\"1458\",\"permit_date\":\"1906-08-07\",\"permit_no\":\"2807\",\"notes\":\"old addr: 795 E. 72nd St; card is typed and very faint, permit number partly unreadable (last digit unclear, read as 2807?); date partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "72nd St",
+  "direction": "E",
+  "house_number": "1458",
+  "permit_date": "1906-08-07",
+  "permit_no": "2807",
+  "notes": "old addr: 795 E. 72nd St; card is typed and very faint, permit number partly unreadable (last digit unclear, read as 2807?); date partly faded"
+ },
+ "in": 2269,
+ "out": 137
+}

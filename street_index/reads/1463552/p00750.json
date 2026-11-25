@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 750,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p00750_3537139.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vincennes Ave\",\"direction\":\"S\",\"house_number\":\"7413\",\"permit_date\":\"1895-03-19\",\"permit_no\":\"412\",\"notes\":\"Same; typed card, faint; first letter of street name 'V' faded; day of date partly unclear (read as 19)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vincennes Ave",
+  "direction": "S",
+  "house_number": "7413",
+  "permit_date": "1895-03-19",
+  "permit_no": "412",
+  "notes": "Same; typed card, faint; first letter of street name 'V' faded; day of date partly unclear (read as 19)"
+ },
+ "in": 2278,
+ "out": 124
+}

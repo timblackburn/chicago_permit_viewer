@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 2668,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p02668_3655670.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sheffield Ave\",\"direction\":\"N\",\"house_number\":\"3433-57\",\"permit_date\":\"1914\",\"permit_no\":\"A 20177\",\"notes\":\"Br B.; Book N 5 Page 508; date of permit faint, only year 1914 readable; file no. 56858; other number 94390; house number last digits slightly uncertain (3433-5-7)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sheffield Ave",
+  "direction": "N",
+  "house_number": "3433-57",
+  "permit_date": "1914",
+  "permit_no": "A 20177",
+  "notes": "Br B.; Book N 5 Page 508; date of permit faint, only year 1914 readable; file no. 56858; other number 94390; house number last digits slightly uncertain (3433-5-7)"
+ },
+ "in": 2282,
+ "out": 153
+}

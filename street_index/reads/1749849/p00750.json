@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 750,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p00750_4109955.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Dr\",\"direction\":\"S\",\"house_number\":\"4939\",\"permit_date\":\"1943-03-03\",\"permit_no\":\"133584\",\"notes\":\"Int. Alt. for corridor; Sundry; old addr: 4939 South Parkway; file no 314111; plan no 170; stamped street name So. Martin L. King Jr. Drive; low contrast photo\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Dr",
+  "direction": "S",
+  "house_number": "4939",
+  "permit_date": "1943-03-03",
+  "permit_no": "133584",
+  "notes": "Int. Alt. for corridor; Sundry; old addr: 4939 South Parkway; file no 314111; plan no 170; stamped street name So. Martin L. King Jr. Drive; low contrast photo"
+ },
+ "in": 2329,
+ "out": 159
+}

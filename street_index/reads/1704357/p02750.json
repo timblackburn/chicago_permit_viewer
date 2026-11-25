@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 2750,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p02750_4014634.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lynch Ave\",\"direction\":\"\",\"house_number\":\"5433-37\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Frame Garage (faint, partly legible); file no 157828; permit no, plan no, water no and date faint or illegible; street type and direction not clearly written, name read as Lynch\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lynch Ave",
+  "direction": "",
+  "house_number": "5433-37",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Frame Garage (faint, partly legible); file no 157828; permit no, plan no, water no and date faint or illegible; street type and direction not clearly written, name read as Lynch"
+ },
+ "in": 2274,
+ "out": 138
+}

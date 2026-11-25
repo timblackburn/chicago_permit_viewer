@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 251,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p00251_2937785.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drake Ave\",\"direction\":\"N\",\"house_number\":\"4419\",\"permit_date\":\"1922-05-22\",\"permit_no\":\"A 68298\",\"notes\":\"Apts; Book N 25 Page 41; plan no. 4060; water no. 443165; file no. 14391; handwritten address, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drake Ave",
+  "direction": "N",
+  "house_number": "4419",
+  "permit_date": "1922-05-22",
+  "permit_no": "A 68298",
+  "notes": "Apts; Book N 25 Page 41; plan no. 4060; water no. 443165; file no. 14391; handwritten address, slightly faint"
+ },
+ "in": 2311,
+ "out": 136
+}

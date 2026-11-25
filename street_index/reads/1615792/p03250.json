@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 3250,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p03250_3836881.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Norton St\",\"direction\":\"\",\"house_number\":\"710-12\",\"permit_date\":\"1916-11-16\",\"permit_no\":\"A 8997\",\"notes\":\"Br B.; Book W 10 Page 241; Plan No. 8997; Water No. 18178; File No. 24051; permit no. handwritten faintly, read as A 8997 from plan no.; direction not written; street name handwritten, read as Norton St, not on neighbor-frame sequence\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Norton St",
+  "direction": "",
+  "house_number": "710-12",
+  "permit_date": "1916-11-16",
+  "permit_no": "A 8997",
+  "notes": "Br B.; Book W 10 Page 241; Plan No. 8997; Water No. 18178; File No. 24051; permit no. handwritten faintly, read as A 8997 from plan no.; direction not written; street name handwritten, read as Norton St, not on neighbor-frame sequence"
+ },
+ "in": 2315,
+ "out": 182
+}

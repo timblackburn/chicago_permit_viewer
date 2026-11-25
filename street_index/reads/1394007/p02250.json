@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 2250,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p02250_3394226.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"70th Pl\",\"direction\":\"W\",\"house_number\":\"2107-9\",\"permit_date\":\"1928-11\",\"permit_no\":\"B 29371\",\"notes\":\"B Res; Book S 45 Page 742; File no. 201271; plan no. 832; card is faint, permit number and day of date uncertain (Nov ?? 1928)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "70th Pl",
+  "direction": "W",
+  "house_number": "2107-9",
+  "permit_date": "1928-11",
+  "permit_no": "B 29371",
+  "notes": "B Res; Book S 45 Page 742; File no. 201271; plan no. 832; card is faint, permit number and day of date uncertain (Nov ?? 1928)"
+ },
+ "in": 2267,
+ "out": 143
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 1250,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p01250_3862956.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Natchez Ave\",\"direction\":\"N\",\"house_number\":\"3231\",\"permit_date\":\"1953-09-14\",\"permit_no\":\"99052\",\"notes\":\"Frame Garage; file no. 451268; card text partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Natchez Ave",
+  "direction": "N",
+  "house_number": "3231",
+  "permit_date": "1953-09-14",
+  "permit_no": "99052",
+  "notes": "Frame Garage; file no. 451268; card text partly faint"
+ },
+ "in": 2326,
+ "out": 107
+}

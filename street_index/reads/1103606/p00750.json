@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1103606",
+ "slide_index": 750,
+ "image": "street_index/data/1103606/slides_pct_0-0-100-99_w1000/p00750_2815519.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hamilton Ave\",\"direction\":\"S\",\"house_number\":\"9243\",\"permit_date\":\"1928-06-20\",\"permit_no\":\"1108\",\"notes\":\"2 sty brick Residence & Garage; Book S 49 Page 489; permit no. faint; date stamp overprinted and hard to read; plan no 2972, water no 30792, file no 275255\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hamilton Ave",
+  "direction": "S",
+  "house_number": "9243",
+  "permit_date": "1928-06-20",
+  "permit_no": "1108",
+  "notes": "2 sty brick Residence & Garage; Book S 49 Page 489; permit no. faint; date stamp overprinted and hard to read; plan no 2972, water no 30792, file no 275255"
+ },
+ "in": 2281,
+ "out": 152
+}

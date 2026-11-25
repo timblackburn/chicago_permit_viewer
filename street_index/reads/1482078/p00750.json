@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 750,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p00750_3574783.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Throop St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1938\",\"permit_no\":\"110161\",\"notes\":\"1 sty brick building; Sundry; address line very faint, house number unreadable (looks like 616-620?); plan no. 275827; date 15 1938 overwritten; card overexposed and faint; permit number partly faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Throop St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1938",
+  "permit_no": "110161",
+  "notes": "1 sty brick building; Sundry; address line very faint, house number unreadable (looks like 616-620?); plan no. 275827; date 15 1938 overwritten; card overexposed and faint; permit number partly faint"
+ },
+ "in": 2309,
+ "out": 149
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1093813",
+ "slide_index": 4250,
+ "image": "street_index/data/1093813/slides_pct_0-0-100-99_w1000/p04250_2788902.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hermitage Ave\",\"direction\":\"S\",\"house_number\":\"7135\",\"permit_date\":\"1922-11-14\",\"permit_no\":\"A 73610\",\"notes\":\"Br B. (work line partly legible); Book S Page 511 (book letter/number faint); plan no. 9258; water no. 48776; file no. 28669; card photographed with dark edges, handwriting somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hermitage Ave",
+  "direction": "S",
+  "house_number": "7135",
+  "permit_date": "1922-11-14",
+  "permit_no": "A 73610",
+  "notes": "Br B. (work line partly legible); Book S Page 511 (book letter/number faint); plan no. 9258; water no. 48776; file no. 28669; card photographed with dark edges, handwriting somewhat faint"
+ },
+ "in": 2280,
+ "out": 161
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 251,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p00251_3612256.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washington St\",\"direction\":\"E\",\"house_number\":\"25\",\"permit_date\":\"1943-06\",\"permit_no\":\"135604\",\"notes\":\"Reg Convey (handwritten, partly uncertain); File No 315550; Plan No faint; day of date partly obscured (Jun 2_ 1943)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washington St",
+  "direction": "E",
+  "house_number": "25",
+  "permit_date": "1943-06",
+  "permit_no": "135604",
+  "notes": "Reg Convey (handwritten, partly uncertain); File No 315550; Plan No faint; day of date partly obscured (Jun 2_ 1943)"
+ },
+ "in": 2275,
+ "out": 133
+}

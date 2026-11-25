@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 3250,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p03250_3701014.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Root St\",\"direction\":\"W\",\"house_number\":\"724\",\"permit_date\":\"1925-07-21\",\"permit_no\":\"A 106685\",\"notes\":\"Gas Station; Book S 36 Page 308; card marked B; house number prefix direction partly unclear, read as W (724 W Root St); file no. 112912; water no. 81934; stamp 8427\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Root St",
+  "direction": "W",
+  "house_number": "724",
+  "permit_date": "1925-07-21",
+  "permit_no": "A 106685",
+  "notes": "Gas Station; Book S 36 Page 308; card marked B; house number prefix direction partly unclear, read as W (724 W Root St); file no. 112912; water no. 81934; stamp 8427"
+ },
+ "in": 2277,
+ "out": 150
+}

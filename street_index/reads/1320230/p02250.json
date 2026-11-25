@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 2250,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p02250_3247268.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ada St\",\"direction\":\"S\",\"house_number\":\"828\",\"permit_date\":\"1888-03-30\",\"permit_no\":\"606\",\"notes\":\"old addr: 93 Sibley St; typed card, very faint; house number 828 partly unclear (could be 828 or 323); date read as March 30, 1888\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ada St",
+  "direction": "S",
+  "house_number": "828",
+  "permit_date": "1888-03-30",
+  "permit_no": "606",
+  "notes": "old addr: 93 Sibley St; typed card, very faint; house number 828 partly unclear (could be 828 or 323); date read as March 30, 1888"
+ },
+ "in": 2345,
+ "out": 133
+}

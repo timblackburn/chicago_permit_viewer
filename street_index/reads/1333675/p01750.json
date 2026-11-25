@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 1750,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p01750_3273623.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"103rd St\",\"direction\":\"W\",\"house_number\":\"2138\",\"permit_date\":\"1911-04-24\",\"permit_no\":\"B 29157\",\"notes\":\"Date stamp APR 24 1911; file no. faint (approx. 90782, unclear); a circled B written below address; permit no. handwritten and faint, prefix looks like B or S; no kind of building given; no ledger reference; card is faint overall\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "103rd St",
+  "direction": "W",
+  "house_number": "2138",
+  "permit_date": "1911-04-24",
+  "permit_no": "B 29157",
+  "notes": "Date stamp APR 24 1911; file no. faint (approx. 90782, unclear); a circled B written below address; permit no. handwritten and faint, prefix looks like B or S; no kind of building given; no ledger reference; card is faint overall"
+ },
+ "in": 2266,
+ "out": 166
+}

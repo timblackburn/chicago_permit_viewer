@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 251,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p00251_2989200.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cuyler Ave\",\"direction\":\"W\",\"house_number\":\"7127\",\"permit_date\":\"1950-12-28\",\"permit_no\":\"A 52614\",\"notes\":\"Furnace; Plumbing/Vent line; File no. faint (approx. 105381); street type not written on card; house number handwriting slightly ambiguous; stamp date faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cuyler Ave",
+  "direction": "W",
+  "house_number": "7127",
+  "permit_date": "1950-12-28",
+  "permit_no": "A 52614",
+  "notes": "Furnace; Plumbing/Vent line; File no. faint (approx. 105381); street type not written on card; house number handwriting slightly ambiguous; stamp date faint"
+ },
+ "in": 2271,
+ "out": 147
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 1250,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p01250_4078430.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake Park Ave\",\"direction\":\"\",\"house_number\":\"4711\",\"permit_date\":\"1901-12-26\",\"permit_no\":\"1665\",\"notes\":\"typed card; old addr: 4711 Lake Ave.; no direction written; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake Park Ave",
+  "direction": "",
+  "house_number": "4711",
+  "permit_date": "1901-12-26",
+  "permit_no": "1665",
+  "notes": "typed card; old addr: 4711 Lake Ave.; no direction written; no building type given"
+ },
+ "in": 2314,
+ "out": 116
+}

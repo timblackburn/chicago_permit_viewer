@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 1250,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p01250_2853869.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grace St\",\"direction\":\"\",\"house_number\":\"1619\",\"permit_date\":\"1922-08-26\",\"permit_no\":\"50117\",\"notes\":\"Sundry; permit no. faint and uncertain; file no. 23338; date partly faded, read as Aug 26 1922; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grace St",
+  "direction": "",
+  "house_number": "1619",
+  "permit_date": "1922-08-26",
+  "permit_no": "50117",
+  "notes": "Sundry; permit no. faint and uncertain; file no. 23338; date partly faded, read as Aug 26 1922; no direction written on card"
+ },
+ "in": 2271,
+ "out": 130
+}

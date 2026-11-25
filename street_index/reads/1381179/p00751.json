@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 751,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p00751_3371605.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"30th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card gives location only: \\\"N.W. Cor. 30th & Cott Grove\\\" (Cottage Grove), not a house number; \\\"Vhip Wheel\\\" (?) written below; stamped SUNDRY; file no. faint handwriting, unclear; faint low-contrast film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "30th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card gives location only: \"N.W. Cor. 30th & Cott Grove\" (Cottage Grove), not a house number; \"Vhip Wheel\" (?) written below; stamped SUNDRY; file no. faint handwriting, unclear; faint low-contrast film"
+ },
+ "in": 2263,
+ "out": 165
+}

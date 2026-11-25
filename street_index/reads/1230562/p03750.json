@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 3750,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p03750_3064073.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Catalpa Ave\",\"direction\":\"\",\"house_number\":\"3315-75\",\"permit_date\":\"1928-01-25\",\"permit_no\":\"B 23230\",\"notes\":\"B apts & garage; Plan no. 386; Water no. 8472; File no. 182059; ledger reference faint, possibly \\\"Book 44 Page 12\\\"; no direction written; card faint and speckled with dark spots\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Catalpa Ave",
+  "direction": "",
+  "house_number": "3315-75",
+  "permit_date": "1928-01-25",
+  "permit_no": "B 23230",
+  "notes": "B apts & garage; Plan no. 386; Water no. 8472; File no. 182059; ledger reference faint, possibly \"Book 44 Page 12\"; no direction written; card faint and speckled with dark spots"
+ },
+ "in": 2272,
+ "out": 163
+}

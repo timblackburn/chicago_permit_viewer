@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 1750,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p01750_2915985.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elston Ave\",\"direction\":\"\",\"house_number\":\"1501\",\"permit_date\":\"1939-08-16\",\"permit_no\":\"116371\",\"notes\":\"Rear open porch; Sundry; File no. 284319; permit number struck through/overwritten, reading uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elston Ave",
+  "direction": "",
+  "house_number": "1501",
+  "permit_date": "1939-08-16",
+  "permit_no": "116371",
+  "notes": "Rear open porch; Sundry; File no. 284319; permit number struck through/overwritten, reading uncertain"
+ },
+ "in": 2314,
+ "out": 122
+}

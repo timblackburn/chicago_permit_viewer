@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 4750,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p04750_2778343.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoyne Ave\",\"direction\":\"S\",\"house_number\":\"6347\",\"permit_date\":\"1927-03-30\",\"permit_no\":\"B 15562\",\"notes\":\"Bk (kind of building); Book S 41 Page 577; Plan no. 2752; Water no. 900; File no. 160812; stamped date and ledger entry faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoyne Ave",
+  "direction": "S",
+  "house_number": "6347",
+  "permit_date": "1927-03-30",
+  "permit_no": "B 15562",
+  "notes": "Bk (kind of building); Book S 41 Page 577; Plan no. 2752; Water no. 900; File no. 160812; stamped date and ledger entry faint"
+ },
+ "in": 2276,
+ "out": 145
+}

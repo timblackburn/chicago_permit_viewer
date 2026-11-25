@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 1750,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p01750_3911999.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card heavily overexposed/washed out; only faint traces of text at top (possibly a number like 2047-?) and nothing reliably readable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card heavily overexposed/washed out; only faint traces of text at top (possibly a number like 2047-?) and nothing reliably readable"
+ },
+ "in": 2315,
+ "out": 115
+}

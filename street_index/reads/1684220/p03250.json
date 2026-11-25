@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 3250,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p03250_3974391.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maxwell St\",\"direction\":\"\",\"house_number\":\"1037-9\",\"permit_date\":\"1944-09-19\",\"permit_no\":\"65374\",\"notes\":\"Convert garage into Church; Entered 54 Page 356; Water no. 5-7458; Plan no. 2762; File no. 325432; no direction written; house number partly faint, read as 1037-9; card dark and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maxwell St",
+  "direction": "",
+  "house_number": "1037-9",
+  "permit_date": "1944-09-19",
+  "permit_no": "65374",
+  "notes": "Convert garage into Church; Entered 54 Page 356; Water no. 5-7458; Plan no. 2762; File no. 325432; no direction written; house number partly faint, read as 1037-9; card dark and low contrast"
+ },
+ "in": 2302,
+ "out": 161
+}

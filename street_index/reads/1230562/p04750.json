@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 4750,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p04750_3062172.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Central Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1926-04-02\",\"permit_no\":\"78607\",\"notes\":\"Garage; house number handwritten and smudged, reads like 2133 or 2753 but not certain; file no. 13024 (approx); card dark and noisy; So. Central Ave is out of the reel's N Central sequence, so address uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Central Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1926-04-02",
+  "permit_no": "78607",
+  "notes": "Garage; house number handwritten and smudged, reads like 2133 or 2753 but not certain; file no. 13024 (approx); card dark and noisy; So. Central Ave is out of the reel's N Central sequence, so address uncertain"
+ },
+ "in": 2306,
+ "out": 161
+}

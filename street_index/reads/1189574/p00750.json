@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 750,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p00750_2988200.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dakin St\",\"direction\":\"\",\"house_number\":\"4917\",\"permit_date\":\"1925-12-05\",\"permit_no\":\"75306\",\"notes\":\"Porch; Sundry; file no. 125526; no direction written; date stamp faint, microfilm streaked at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dakin St",
+  "direction": "",
+  "house_number": "4917",
+  "permit_date": "1925-12-05",
+  "permit_no": "75306",
+  "notes": "Porch; Sundry; file no. 125526; no direction written; date stamp faint, microfilm streaked at bottom"
+ },
+ "in": 2344,
+ "out": 123
+}

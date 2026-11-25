@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 4250,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p04250_3436959.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"3718\",\"permit_date\":\"1898\",\"permit_no\":\"2945\",\"notes\":\"typed card; street name faint, read as Wood St from reel context; \\\"Same\\\" on second line; date faint, appears to be ...20, 1898, month and day unreadable; very faint and washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "3718",
+  "permit_date": "1898",
+  "permit_no": "2945",
+  "notes": "typed card; street name faint, read as Wood St from reel context; \"Same\" on second line; date faint, appears to be ...20, 1898, month and day unreadable; very faint and washed out"
+ },
+ "in": 2271,
+ "out": 141
+}

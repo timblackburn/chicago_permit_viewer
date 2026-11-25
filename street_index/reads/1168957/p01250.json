@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 1250,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p01250_2945787.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Division St\",\"direction\":\"W\",\"house_number\":\"4024-26\",\"permit_date\":\"1926-01-15\",\"permit_no\":\"A 9540\",\"notes\":\"Apts; Book W 15 Page 264; plan 517; water no. 872.99; file no. 126970; card is faint and speckled, B written under the address\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Division St",
+  "direction": "W",
+  "house_number": "4024-26",
+  "permit_date": "1926-01-15",
+  "permit_no": "A 9540",
+  "notes": "Apts; Book W 15 Page 264; plan 517; water no. 872.99; file no. 126970; card is faint and speckled, B written under the address"
+ },
+ "in": 2301,
+ "out": 136
+}

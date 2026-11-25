@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 4250,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p04250_2857943.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Giles Ave\",\"direction\":\"\",\"house_number\":\"3451-53\",\"permit_date\":\"1934-09-26\",\"permit_no\":\"90454\",\"notes\":\"Wreck 1 sty brick bldg; Sundry; plan no 250622; no direction written on card; photo dark and slightly blurry, date partly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Giles Ave",
+  "direction": "",
+  "house_number": "3451-53",
+  "permit_date": "1934-09-26",
+  "permit_no": "90454",
+  "notes": "Wreck 1 sty brick bldg; Sundry; plan no 250622; no direction written on card; photo dark and slightly blurry, date partly smudged"
+ },
+ "in": 2277,
+ "out": 139
+}

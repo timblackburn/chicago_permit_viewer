@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 1250,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p01250_4017634.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Luella Ave\",\"direction\":\"S\",\"house_number\":\"8943-47\",\"permit_date\":\"\",\"permit_no\":\"B 10?689\",\"notes\":\"Erect 2-1 (likely 2 story); Book 68 Page 218; Plan no. 5790; permit number partly faded and date of permit not visible; file no. faint; card is high-contrast and washed out in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Luella Ave",
+  "direction": "S",
+  "house_number": "8943-47",
+  "permit_date": "",
+  "permit_no": "B 10?689",
+  "notes": "Erect 2-1 (likely 2 story); Book 68 Page 218; Plan no. 5790; permit number partly faded and date of permit not visible; file no. faint; card is high-contrast and washed out in places"
+ },
+ "in": 2308,
+ "out": 155
+}

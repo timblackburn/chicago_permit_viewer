@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 4250,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p04250_3483569.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wentworth Ave\",\"direction\":\"S\",\"house_number\":\"6920\",\"permit_date\":\"1952-10-23\",\"permit_no\":\"A 83159\",\"notes\":\"Int alt for launderette; Plan No. 6637; File No. 435567\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wentworth Ave",
+  "direction": "S",
+  "house_number": "6920",
+  "permit_date": "1952-10-23",
+  "permit_no": "A 83159",
+  "notes": "Int alt for launderette; Plan No. 6637; File No. 435567"
+ },
+ "in": 2311,
+ "out": 114
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 2250,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p02250_4194039.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Keystone Ave\",\"direction\":\"N\",\"house_number\":\"4743-47\",\"permit_date\":\"1951-05-07\",\"permit_no\":\"B 57346\",\"notes\":\"2-1 Sty Br Res; Book 63 Page 375; Plan no. 5438; File no. 410024\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Keystone Ave",
+  "direction": "N",
+  "house_number": "4743-47",
+  "permit_date": "1951-05-07",
+  "permit_no": "B 57346",
+  "notes": "2-1 Sty Br Res; Book 63 Page 375; Plan no. 5438; File no. 410024"
+ },
+ "in": 2319,
+ "out": 128
+}

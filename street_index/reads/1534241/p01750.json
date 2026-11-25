@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 1750,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p01750_3676712.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sangamon St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1923\",\"permit_no\":\"A 77186\",\"notes\":\"Br B.; Book S 22 Page 395 (uncertain); card is faint and overexposed, house number at top not clearly readable (starts 85.. or 35..); date of permit appears as ...3 1923, month and day not readable; permit number only partly legible; file no. 124396 uncertain; plan no. unclear.\\\"}\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sangamon St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1923",
+  "permit_no": "A 77186",
+  "notes": "Br B.; Book S 22 Page 395 (uncertain); card is faint and overexposed, house number at top not clearly readable (starts 85.. or 35..); date of permit appears as ...3 1923, month and day not readable; permit number only partly legible; file no. 124396 uncertain; plan no. unclear.\"}"
+ },
+ "in": 2278,
+ "out": 189
+}

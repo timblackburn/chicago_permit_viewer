@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 1250,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p01250_3610412.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washington Blvd\",\"direction\":\"W\",\"house_number\":\"1327\",\"permit_date\":\"1947-07-14\",\"permit_no\":\"A 06971\",\"notes\":\"new 4' tile part. 2 fire doors, piping & vent; Sundry; plan no 6032; file no 351079; stamped Sundry; film image high contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washington Blvd",
+  "direction": "W",
+  "house_number": "1327",
+  "permit_date": "1947-07-14",
+  "permit_no": "A 06971",
+  "notes": "new 4' tile part. 2 fire doors, piping & vent; Sundry; plan no 6032; file no 351079; stamped Sundry; film image high contrast"
+ },
+ "in": 2310,
+ "out": 143
+}

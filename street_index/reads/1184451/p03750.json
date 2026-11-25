@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 3750,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p03750_2971457.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"5th Ave\",\"direction\":\"\",\"house_number\":\"4325\",\"permit_date\":\"1931-06-30\",\"permit_no\":\"76169\",\"notes\":\"Brick Stack; Sundry; old addr: 4350 (crossed out); plan no 1261; file no 235098\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "5th Ave",
+  "direction": "",
+  "house_number": "4325",
+  "permit_date": "1931-06-30",
+  "permit_no": "76169",
+  "notes": "Brick Stack; Sundry; old addr: 4350 (crossed out); plan no 1261; file no 235098"
+ },
+ "in": 2311,
+ "out": 122
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 1750,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p01750_3829646.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakley Ave\",\"direction\":\"N\",\"house_number\":\"4035\",\"permit_date\":\"1895-05-07\",\"permit_no\":\"523\",\"notes\":\"old addr: 2234 N Oakley Ave; typed card; two addresses listed, 4035 on top line taken as new number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakley Ave",
+  "direction": "N",
+  "house_number": "4035",
+  "permit_date": "1895-05-07",
+  "permit_no": "523",
+  "notes": "old addr: 2234 N Oakley Ave; typed card; two addresses listed, 4035 on top line taken as new number"
+ },
+ "in": 2318,
+ "out": 126
+}

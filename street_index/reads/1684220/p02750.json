@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 2750,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p02750_3975365.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Massasoit Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1940-10-14\",\"permit_no\":\"52308\",\"notes\":\"2 sty Residence; handwritten house number unclear, appears to begin 53 (e.g. 53?? S); Book/Page: entered page unclear, '50' stamped; file no 294435; faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Massasoit Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1940-10-14",
+  "permit_no": "52308",
+  "notes": "2 sty Residence; handwritten house number unclear, appears to begin 53 (e.g. 53?? S); Book/Page: entered page unclear, '50' stamped; file no 294435; faint and low contrast"
+ },
+ "in": 2272,
+ "out": 156
+}

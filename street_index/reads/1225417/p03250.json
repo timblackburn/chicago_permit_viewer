@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1225417",
+ "slide_index": 3250,
+ "image": "street_index/data/1225417/slides_pct_0-0-100-99_w1000/p03250_3054998.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cermak Rd\",\"direction\":\"E\",\"house_number\":\"120\",\"permit_date\":\"1935-09-26\",\"permit_no\":\"94583\",\"notes\":\"Alts. to store front; Sundry; plan no 256085; address handwritten, street name slightly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cermak Rd",
+  "direction": "E",
+  "house_number": "120",
+  "permit_date": "1935-09-26",
+  "permit_no": "94583",
+  "notes": "Alts. to store front; Sundry; plan no 256085; address handwritten, street name slightly smudged"
+ },
+ "in": 2312,
+ "out": 120
+}

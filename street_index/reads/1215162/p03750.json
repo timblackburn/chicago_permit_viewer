@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 3750,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p03750_3033037.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"178\",\"permit_date\":\"1886-05-04\",\"permit_no\":\"970\",\"notes\":\"typed card; old addr: 44 S. Clark; faint typing, 4 in date partly blurred\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "178",
+  "permit_date": "1886-05-04",
+  "permit_no": "970",
+  "notes": "typed card; old addr: 44 S. Clark; faint typing, 4 in date partly blurred"
+ },
+ "in": 2272,
+ "out": 114
+}

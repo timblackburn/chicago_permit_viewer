@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 3750,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p03750_3578131.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Taylor St\",\"direction\":\"W\",\"house_number\":\"2200\",\"permit_date\":\"1955-01-04\",\"permit_no\":\"B 123751\",\"notes\":\"Work line handwritten and hard to read, possibly \\\"Interlocking ... Elev\\\"; File no 475657; Book and Page blank; card slightly faint with stamped text; permit prefix handwritten and not entirely clear (read as B)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Taylor St",
+  "direction": "W",
+  "house_number": "2200",
+  "permit_date": "1955-01-04",
+  "permit_no": "B 123751",
+  "notes": "Work line handwritten and hard to read, possibly \"Interlocking ... Elev\"; File no 475657; Book and Page blank; card slightly faint with stamped text; permit prefix handwritten and not entirely clear (read as B)"
+ },
+ "in": 2276,
+ "out": 165
+}

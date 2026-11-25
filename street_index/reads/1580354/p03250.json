@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 3250,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p03250_3766031.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Polk St\",\"direction\":\"W\",\"house_number\":\"3607-09\",\"permit_date\":\"1948-07-23\",\"permit_no\":\"A 15718\",\"notes\":\"Alts. for rooming house; Plan No. 3737; File No. 366277; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Polk St",
+  "direction": "W",
+  "house_number": "3607-09",
+  "permit_date": "1948-07-23",
+  "permit_no": "A 15718",
+  "notes": "Alts. for rooming house; Plan No. 3737; File No. 366277; Book and Page blank"
+ },
+ "in": 2274,
+ "out": 121
+}

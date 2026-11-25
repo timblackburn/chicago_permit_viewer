@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 4250,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p04250_3427745.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Yale Ave\",\"direction\":\"S\",\"house_number\":\"7100\",\"permit_date\":\"1914-10-09\",\"permit_no\":\"B 99857\",\"notes\":\"No Application; Book S 11 Page 586; File No. 73831; handwritten card, house number and direction partly in cursive, direction S inferred from reel context and the S. in the book reference; also written A 1000? beside Permit No. (unclear)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Yale Ave",
+  "direction": "S",
+  "house_number": "7100",
+  "permit_date": "1914-10-09",
+  "permit_no": "B 99857",
+  "notes": "No Application; Book S 11 Page 586; File No. 73831; handwritten card, house number and direction partly in cursive, direction S inferred from reel context and the S. in the book reference; also written A 1000? beside Permit No. (unclear)"
+ },
+ "in": 2311,
+ "out": 167
+}

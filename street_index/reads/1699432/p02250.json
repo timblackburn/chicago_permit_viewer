@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 2250,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p02250_4005603.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Madison St\",\"direction\":\"W\",\"house_number\":\"4111\",\"permit_date\":\"1921-11-15\",\"permit_no\":\"A 63650\",\"notes\":\"Store & Loft (handwritten, B. Stne & Loft); Page 374 (W-21); plan no 7025; water no 3870; file no 2735; card dark and slightly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Madison St",
+  "direction": "W",
+  "house_number": "4111",
+  "permit_date": "1921-11-15",
+  "permit_no": "A 63650",
+  "notes": "Store & Loft (handwritten, B. Stne & Loft); Page 374 (W-21); plan no 7025; water no 3870; file no 2735; card dark and slightly faded"
+ },
+ "in": 2268,
+ "out": 146
+}

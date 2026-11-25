@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 2250,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p02250_3911024.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1934-10-10\",\"permit_no\":\"90687\",\"notes\":\"Sundry; address line at top is very faint and unreadable (possibly begins 25.. with a street name ending in Ave); permit no. 90687 faint; plan no. struck out 250844, file no. 250872; card is faint and washed out\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1934-10-10",
+  "permit_no": "90687",
+  "notes": "Sundry; address line at top is very faint and unreadable (possibly begins 25.. with a street name ending in Ave); permit no. 90687 faint; plan no. struck out 250844, file no. 250872; card is faint and washed out"
+ },
+ "in": 2279,
+ "out": 154
+}

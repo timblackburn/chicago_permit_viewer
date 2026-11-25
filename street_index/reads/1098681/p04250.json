@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 4250,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p04250_2798807.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harrison St\",\"direction\":\"W\",\"house_number\":\"5549\",\"permit_date\":\"1949-12-29\",\"permit_no\":\"A 37215\",\"notes\":\"Wreck 2 sty brick building (frame struck out); File No 287411; card faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harrison St",
+  "direction": "W",
+  "house_number": "5549",
+  "permit_date": "1949-12-29",
+  "permit_no": "A 37215",
+  "notes": "Wreck 2 sty brick building (frame struck out); File No 287411; card faint in places"
+ },
+ "in": 2275,
+ "out": 117
+}

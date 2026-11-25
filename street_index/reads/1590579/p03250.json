@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 3250,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p03250_3786240.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"S\",\"house_number\":\"7339-43\",\"permit_date\":\"1924-10-20\",\"permit_no\":\"A 96532\",\"notes\":\"Fr. Cott; Book S 34 Page 88; plan no. 10447; water no. 71568; file no. 88746; house number partly overwritten and hard to read, second part uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "S",
+  "house_number": "7339-43",
+  "permit_date": "1924-10-20",
+  "permit_no": "A 96532",
+  "notes": "Fr. Cott; Book S 34 Page 88; plan no. 10447; water no. 71568; file no. 88746; house number partly overwritten and hard to read, second part uncertain"
+ },
+ "in": 2312,
+ "out": 150
+}

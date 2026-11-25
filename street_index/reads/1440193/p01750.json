@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 1750,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p01750_3488565.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wells St\",\"direction\":\"S\",\"house_number\":\"4763\",\"permit_date\":\"1924-07-23\",\"permit_no\":\"18051\",\"notes\":\"Sundry; plan no. 7448; file no. 800-70; permit number faint; no kind of work written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wells St",
+  "direction": "S",
+  "house_number": "4763",
+  "permit_date": "1924-07-23",
+  "permit_no": "18051",
+  "notes": "Sundry; plan no. 7448; file no. 800-70; permit number faint; no kind of work written"
+ },
+ "in": 2309,
+ "out": 117
+}

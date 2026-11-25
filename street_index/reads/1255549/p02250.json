@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 2250,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p02250_3117204.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bishop\",\"direction\":\"S\",\"house_number\":\"5125\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Very faint typed card; top line reads '5125 Bishop' (type faint, likely St), with 'S' stamped above; 'Same' on second line; permit no. looks like 'S 355' but uncertain; date looks like 'Nov 27, 190_' with year not readable; card heavily faded\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bishop",
+  "direction": "S",
+  "house_number": "5125",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Very faint typed card; top line reads '5125 Bishop' (type faint, likely St), with 'S' stamped above; 'Same' on second line; permit no. looks like 'S 355' but uncertain; date looks like 'Nov 27, 190_' with year not readable; card heavily faded"
+ },
+ "in": 2280,
+ "out": 172
+}

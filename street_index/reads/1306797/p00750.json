@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1306797",
+ "slide_index": 750,
+ "image": "street_index/data/1306797/slides_pct_0-0-100-99_w1000/p00750_3221416.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ardmore Ave\",\"direction\":\"W\",\"house_number\":\"5556\",\"permit_date\":\"1948-08-23\",\"permit_no\":\"A 17130\",\"notes\":\"Br Garage; File no. 367690; Book and page blank; card slightly dark/noisy but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ardmore Ave",
+  "direction": "W",
+  "house_number": "5556",
+  "permit_date": "1948-08-23",
+  "permit_no": "A 17130",
+  "notes": "Br Garage; File no. 367690; Book and page blank; card slightly dark/noisy but readable"
+ },
+ "in": 2272,
+ "out": 123
+}

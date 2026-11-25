@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 3750,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p03750_3888200.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Monticello Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1901-10-24\",\"permit_no\":\"1016\",\"notes\":\"typed card, very faint; first line reads 173? N. Monticello Ave. (last digit obscured, filing between 1031 and 2647 suggests 1735); second line 944 Monticello (old addr: 944 Monticello); permit no. partly faded, reads No. 1016; date Oct. 24, 1901 partly faded\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Monticello Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1901-10-24",
+  "permit_no": "1016",
+  "notes": "typed card, very faint; first line reads 173? N. Monticello Ave. (last digit obscured, filing between 1031 and 2647 suggests 1735); second line 944 Monticello (old addr: 944 Monticello); permit no. partly faded, reads No. 1016; date Oct. 24, 1901 partly faded"
+ },
+ "in": 2276,
+ "out": 192
+}

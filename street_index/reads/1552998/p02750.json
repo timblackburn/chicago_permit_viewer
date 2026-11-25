@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 2750,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p02750_3713368.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"N\",\"house_number\":\"1000\",\"permit_date\":\"1895-05-23\",\"permit_no\":\"662\",\"notes\":\"old addr: 489 N. Rockwell St; typed card, faint; direction letter and permit number partly faded, permit no. uncertain; date partly faded (May 23, 1895)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "N",
+  "house_number": "1000",
+  "permit_date": "1895-05-23",
+  "permit_no": "662",
+  "notes": "old addr: 489 N. Rockwell St; typed card, faint; direction letter and permit number partly faded, permit no. uncertain; date partly faded (May 23, 1895)"
+ },
+ "in": 2283,
+ "out": 144
+}

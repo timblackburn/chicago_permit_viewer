@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 750,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p00750_3520005.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Waller Ave\",\"direction\":\"S\",\"house_number\":\"18\",\"permit_date\":\"1910-08-30\",\"permit_no\":\"B 23348\",\"notes\":\"B; year 1910 written over a struck-out earlier year; inspection no. faint; photographed at an angle with dark edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Waller Ave",
+  "direction": "S",
+  "house_number": "18",
+  "permit_date": "1910-08-30",
+  "permit_no": "B 23348",
+  "notes": "B; year 1910 written over a struck-out earlier year; inspection no. faint; photographed at an angle with dark edges"
+ },
+ "in": 2314,
+ "out": 126
+}

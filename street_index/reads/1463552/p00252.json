@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 252,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p00252_3538185.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vincennes Ave\",\"direction\":\"\",\"house_number\":\"3850-52\",\"permit_date\":\"\",\"permit_no\":\"108273\",\"notes\":\"Sundry; File no. 27322 7 (faint); no direction written on card; ward line faint; card faint and washed out with ink blot, date of permit not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vincennes Ave",
+  "direction": "",
+  "house_number": "3850-52",
+  "permit_date": "",
+  "permit_no": "108273",
+  "notes": "Sundry; File no. 27322 7 (faint); no direction written on card; ward line faint; card faint and washed out with ink blot, date of permit not readable"
+ },
+ "in": 2274,
+ "out": 134
+}

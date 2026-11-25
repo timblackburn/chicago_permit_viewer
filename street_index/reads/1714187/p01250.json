@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 1250,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p01250_4037860.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1928-03-07\",\"permit_no\":\"\",\"notes\":\"Very noisy, faint photocopy; address at top is handwritten and crossed out (looks like 3119 ... Ave Lituanica?) but not reliably readable; file no. 181017; water no. 9226; permit no. unclear (24 ... handwritten); stamped ENTERED; address line shows something like 'E 622'\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1928-03-07",
+  "permit_no": "",
+  "notes": "Very noisy, faint photocopy; address at top is handwritten and crossed out (looks like 3119 ... Ave Lituanica?) but not reliably readable; file no. 181017; water no. 9226; permit no. unclear (24 ... handwritten); stamped ENTERED; address line shows something like 'E 622'"
+ },
+ "in": 2273,
+ "out": 181
+}

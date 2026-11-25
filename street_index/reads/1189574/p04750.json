@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 4750,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p04750_2980214.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Damen Ave\",\"direction\":\"S\",\"house_number\":\"8117-19-23-27-29-33\",\"permit_date\":\"1952-02-26\",\"permit_no\":\"B 70380\",\"notes\":\"6 - 1 1/2 sty B. Res.; Book 64 Page 576; Plan No 1353; File No 423004; address line struck through; old addr: none; house number partly smudged by strike-through line\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Damen Ave",
+  "direction": "S",
+  "house_number": "8117-19-23-27-29-33",
+  "permit_date": "1952-02-26",
+  "permit_no": "B 70380",
+  "notes": "6 - 1 1/2 sty B. Res.; Book 64 Page 576; Plan No 1353; File No 423004; address line struck through; old addr: none; house number partly smudged by strike-through line"
+ },
+ "in": 2279,
+ "out": 165
+}

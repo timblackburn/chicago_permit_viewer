@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 251,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p00251_3131290.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Belle Plain Ave\",\"direction\":\"\",\"house_number\":\"5225-27\",\"permit_date\":\"1914-07-30\",\"permit_no\":\"A 24526\",\"notes\":\"2 sty B; Book N 9 Page 133; File No. 68949; permit number and book/page partly faint; no direction written; microfilm image is low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Belle Plain Ave",
+  "direction": "",
+  "house_number": "5225-27",
+  "permit_date": "1914-07-30",
+  "permit_no": "A 24526",
+  "notes": "2 sty B; Book N 9 Page 133; File No. 68949; permit number and book/page partly faint; no direction written; microfilm image is low contrast"
+ },
+ "in": 2280,
+ "out": 143
+}

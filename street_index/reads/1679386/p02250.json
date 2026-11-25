@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 2250,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p02250_3966301.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"McCormick Rd\",\"direction\":\"\",\"house_number\":\"6227-6345\",\"permit_date\":\"1949-07-07\",\"permit_no\":\"A 28989\",\"notes\":\"Mine Rides 7-8 to 7-12-49; File No. 376230; street type read as Rd (handwriting uncertain); year of date partly smudged, inferred from 1949 in work dates\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "McCormick Rd",
+  "direction": "",
+  "house_number": "6227-6345",
+  "permit_date": "1949-07-07",
+  "permit_no": "A 28989",
+  "notes": "Mine Rides 7-8 to 7-12-49; File No. 376230; street type read as Rd (handwriting uncertain); year of date partly smudged, inferred from 1949 in work dates"
+ },
+ "in": 2270,
+ "out": 155
+}

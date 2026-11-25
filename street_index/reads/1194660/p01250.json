@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 1250,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p01250_2997885.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cottage Grove Ave\",\"direction\":\"\",\"house_number\":\"9561-9605\",\"permit_date\":\"1944-08-21\",\"permit_no\":\"65270\",\"notes\":\"1 story brick factory; Book 54 Page 328; plan no 2710; water no 51738; file no 324936; no direction written; date year partly overwritten (1944)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cottage Grove Ave",
+  "direction": "",
+  "house_number": "9561-9605",
+  "permit_date": "1944-08-21",
+  "permit_no": "65270",
+  "notes": "1 story brick factory; Book 54 Page 328; plan no 2710; water no 51738; file no 324936; no direction written; date year partly overwritten (1944)"
+ },
+ "in": 2246,
+ "out": 146
+}

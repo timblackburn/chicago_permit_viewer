@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 251,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p00251_4049544.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leland Ave\",\"direction\":\"\",\"house_number\":\"3447-51\",\"permit_date\":\"\",\"permit_no\":\"A 15057\",\"notes\":\"B. Apt (brick apartment); house number handwritten, partly overwritten (3447/51, possible correction on 4); direction not written; date of permit faint/illegible; plan no. 646; file no. 31975; water no. faint; N75 E295 notation; low contrast microfilm frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leland Ave",
+  "direction": "",
+  "house_number": "3447-51",
+  "permit_date": "",
+  "permit_no": "A 15057",
+  "notes": "B. Apt (brick apartment); house number handwritten, partly overwritten (3447/51, possible correction on 4); direction not written; date of permit faint/illegible; plan no. 646; file no. 31975; water no. faint; N75 E295 notation; low contrast microfilm frame"
+ },
+ "in": 2308,
+ "out": 177
+}

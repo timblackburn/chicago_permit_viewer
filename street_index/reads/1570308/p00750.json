@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 750,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p00750_3751174.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Crawford Ave\",\"direction\":\"N\",\"house_number\":\"1534\",\"permit_date\":\"1930-12-01\",\"permit_no\":\"78993\",\"notes\":\"Interior Alt; Sundry; stamped PULASKI RD (street renamed from Crawford Ave); plan no. 2168; file no. 238216; low-contrast, date partly blurred\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Crawford Ave",
+  "direction": "N",
+  "house_number": "1534",
+  "permit_date": "1930-12-01",
+  "permit_no": "78993",
+  "notes": "Interior Alt; Sundry; stamped PULASKI RD (street renamed from Crawford Ave); plan no. 2168; file no. 238216; low-contrast, date partly blurred"
+ },
+ "in": 2281,
+ "out": 150
+}

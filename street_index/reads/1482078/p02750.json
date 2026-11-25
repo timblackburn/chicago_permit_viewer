@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 2750,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p02750_3570746.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Tilden St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1933-07-14\",\"permit_no\":\"1629\",\"notes\":\"Typed card, very faint; house number partly illegible (looks like 1_34, possibly 1334 or 1234); cross streets 'Tilden Pl. & Bowery'; date partly faded, read as July 14, 1933 (day/year uncertain)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Tilden St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1933-07-14",
+  "permit_no": "1629",
+  "notes": "Typed card, very faint; house number partly illegible (looks like 1_34, possibly 1334 or 1234); cross streets 'Tilden Pl. & Bowery'; date partly faded, read as July 14, 1933 (day/year uncertain)"
+ },
+ "in": 2274,
+ "out": 166
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 2250,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p02250_2943752.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dorchester Ave\",\"direction\":\"\",\"house_number\":\"4808-10\",\"permit_date\":\"1908-04-02\",\"permit_no\":\"\",\"notes\":\"old addr: 4808-10 Madison Ave; 1896 written at left (possibly the old permit year); no direction written; typed card, no permit number; Madison Ave line is fainter\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dorchester Ave",
+  "direction": "",
+  "house_number": "4808-10",
+  "permit_date": "1908-04-02",
+  "permit_no": "",
+  "notes": "old addr: 4808-10 Madison Ave; 1896 written at left (possibly the old permit year); no direction written; typed card, no permit number; Madison Ave line is fainter"
+ },
+ "in": 2345,
+ "out": 146
+}

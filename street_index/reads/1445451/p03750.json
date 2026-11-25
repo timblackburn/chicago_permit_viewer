@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1445451",
+ "slide_index": 3750,
+ "image": "street_index/data/1445451/slides_pct_0-0-100-99_w1000/p03750_3493105.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wellington Ave\",\"direction\":\"\",\"house_number\":\"4935\",\"permit_date\":\"1927-04-25\",\"permit_no\":\"25793\",\"notes\":\"Fr Garage; Sundry; File no. 163175; no direction written; street type not on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wellington Ave",
+  "direction": "",
+  "house_number": "4935",
+  "permit_date": "1927-04-25",
+  "permit_no": "25793",
+  "notes": "Fr Garage; Sundry; File no. 163175; no direction written; street type not on card"
+ },
+ "in": 2281,
+ "out": 115
+}

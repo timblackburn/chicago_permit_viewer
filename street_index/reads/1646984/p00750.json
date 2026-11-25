@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 750,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p00750_3903827.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"3342\",\"permit_date\":\"1950-08-18\",\"permit_no\":\"A 46143\",\"notes\":\"Install one garbage disposal for vegetables; File no. 399034; no direction written; house number 3342 handwritten, slightly ambiguous\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "3342",
+  "permit_date": "1950-08-18",
+  "permit_no": "A 46143",
+  "notes": "Install one garbage disposal for vegetables; File no. 399034; no direction written; house number 3342 handwritten, slightly ambiguous"
+ },
+ "in": 2315,
+ "out": 136
+}

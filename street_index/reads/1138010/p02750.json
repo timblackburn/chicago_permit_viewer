@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 2750,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p02750_2881409.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Forest Preserve Rd\",\"direction\":\"\",\"house_number\":\"8121\",\"permit_date\":\"1929-05-06\",\"permit_no\":\"B 32150\",\"notes\":\"Sfr Res (work type partly legible); Book 4 Page 970; plan no. 2408; water no. 17688; file no. 208:307; high-contrast, stamped date faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Forest Preserve Rd",
+  "direction": "",
+  "house_number": "8121",
+  "permit_date": "1929-05-06",
+  "permit_no": "B 32150",
+  "notes": "Sfr Res (work type partly legible); Book 4 Page 970; plan no. 2408; water no. 17688; file no. 208:307; high-contrast, stamped date faint"
+ },
+ "in": 2275,
+ "out": 150
+}

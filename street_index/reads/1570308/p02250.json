@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 2250,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p02250_3748169.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pulaski Rd\",\"direction\":\"N\",\"house_number\":\"3559\",\"permit_date\":\"1931-03-02\",\"permit_no\":\"73627\",\"notes\":\"1 sty Brick Add to Service Sta; Sundry; old street name Crawford Ave written, stamped PULASKI RD over it; permit no. handwriting faint, read as 73627; Plan no. 409; File no. 232091\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pulaski Rd",
+  "direction": "N",
+  "house_number": "3559",
+  "permit_date": "1931-03-02",
+  "permit_no": "73627",
+  "notes": "1 sty Brick Add to Service Sta; Sundry; old street name Crawford Ave written, stamped PULASKI RD over it; permit no. handwriting faint, read as 73627; Plan no. 409; File no. 232091"
+ },
+ "in": 2282,
+ "out": 165
+}

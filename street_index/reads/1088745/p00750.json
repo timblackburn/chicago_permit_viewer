@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 750,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p00750_2786177.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Honore St\",\"direction\":\"S\",\"house_number\":\"6842-44\",\"permit_date\":\"1924\",\"permit_no\":\"A 97110\",\"notes\":\"B. Frame Res; Book 34 Page 128; plan no 10905; water no 12075; file no 89867; date stamp partly faint (30 1924), month unreadable; direction not clearly written on card, S inferred from reel range\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Honore St",
+  "direction": "S",
+  "house_number": "6842-44",
+  "permit_date": "1924",
+  "permit_no": "A 97110",
+  "notes": "B. Frame Res; Book 34 Page 128; plan no 10905; water no 12075; file no 89867; date stamp partly faint (30 1924), month unreadable; direction not clearly written on card, S inferred from reel range"
+ },
+ "in": 2269,
+ "out": 159
+}

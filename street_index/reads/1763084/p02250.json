@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 2250,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p02250_4133517.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leavitt St\",\"direction\":\"S\",\"house_number\":\"919\",\"permit_date\":\"1906\",\"permit_no\":\"\",\"notes\":\"old addr: 1908 S Leavitt St; typed card, faint; date partly legible (month/day unclear, 1906); number '93' at left partly legible, not clearly a permit no.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leavitt St",
+  "direction": "S",
+  "house_number": "919",
+  "permit_date": "1906",
+  "permit_no": "",
+  "notes": "old addr: 1908 S Leavitt St; typed card, faint; date partly legible (month/day unclear, 1906); number '93' at left partly legible, not clearly a permit no."
+ },
+ "in": 2317,
+ "out": 138
+}

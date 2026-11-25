@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 3250,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p03250_4172089.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedvale Ave\",\"direction\":\"S\",\"house_number\":\"1355\",\"permit_date\":\"1893-12-12\",\"permit_no\":\"2997\",\"notes\":\"old addr: 1355 S. 41st Ct.; typed card; second address line is 41st Ct. (old name), top line is Kedvale Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedvale Ave",
+  "direction": "S",
+  "house_number": "1355",
+  "permit_date": "1893-12-12",
+  "permit_no": "2997",
+  "notes": "old addr: 1355 S. 41st Ct.; typed card; second address line is 41st Ct. (old name), top line is Kedvale Ave"
+ },
+ "in": 2316,
+ "out": 136
+}

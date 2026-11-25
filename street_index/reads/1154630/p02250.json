@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 2250,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p02250_2914984.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elston Ave\",\"direction\":\"N\",\"house_number\":\"2525\",\"permit_date\":\"1890-12-19\",\"permit_no\":\"4472\",\"notes\":\"typed card; cross street: Elston Ave. & Snow\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elston Ave",
+  "direction": "N",
+  "house_number": "2525",
+  "permit_date": "1890-12-19",
+  "permit_no": "4472",
+  "notes": "typed card; cross street: Elston Ave. & Snow"
+ },
+ "in": 2279,
+ "out": 105
+}

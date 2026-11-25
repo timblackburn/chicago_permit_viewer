@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 1668,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p01668_3647355.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Southport Ave\",\"direction\":\"\",\"house_number\":\"2933\",\"permit_date\":\"1950-03\",\"permit_no\":\"A 39678\",\"notes\":\"Wreck 2 sty frame building; permit number prefix faint, possibly a slash or A; plan no. faint (possibly 850858); date partly faded, month and day unclear, year 1950; no direction written; Book/Page blank; film dark and noisy at edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Southport Ave",
+  "direction": "",
+  "house_number": "2933",
+  "permit_date": "1950-03",
+  "permit_no": "A 39678",
+  "notes": "Wreck 2 sty frame building; permit number prefix faint, possibly a slash or A; plan no. faint (possibly 850858); date partly faded, month and day unclear, year 1950; no direction written; Book/Page blank; film dark and noisy at edges"
+ },
+ "in": 2272,
+ "out": 171
+}

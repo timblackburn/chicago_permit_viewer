@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1306797",
+ "slide_index": 251,
+ "image": "street_index/data/1306797/slides_pct_0-0-100-99_w1000/p00251_3222411.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Archer Ave\",\"direction\":\"\",\"house_number\":\"5893-5953\",\"permit_date\":\"1946-01-07\",\"permit_no\":\"\",\"notes\":\"1 story factory; Book SS Page 424; Plan no 7644; Water no 56334; File no 384344 (faint stamp); permit no blank; no direction written; microfilm image dark with scratches\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Archer Ave",
+  "direction": "",
+  "house_number": "5893-5953",
+  "permit_date": "1946-01-07",
+  "permit_no": "",
+  "notes": "1 story factory; Book SS Page 424; Plan no 7644; Water no 56334; File no 384344 (faint stamp); permit no blank; no direction written; microfilm image dark with scratches"
+ },
+ "in": 2310,
+ "out": 151
+}

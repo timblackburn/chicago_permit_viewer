@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 1250,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p01250_3048276.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Christiana Ave\",\"direction\":\"S\",\"house_number\":\"1315\",\"permit_date\":\"1892-04-23\",\"permit_no\":\"1428\",\"notes\":\"typed card; old addr: 640 S. Turner Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Christiana Ave",
+  "direction": "S",
+  "house_number": "1315",
+  "permit_date": "1892-04-23",
+  "permit_no": "1428",
+  "notes": "typed card; old addr: 640 S. Turner Ave"
+ },
+ "in": 2240,
+ "out": 106
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 3750,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p03750_2940767.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drake Ave\",\"direction\":\"N\",\"house_number\":\"1038-52\",\"permit_date\":\"1912-05-28\",\"permit_no\":\"A 4289\",\"notes\":\"Br B.; Page 163; File No 14165; W. marking; card faint and blurry, permit number partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drake Ave",
+  "direction": "N",
+  "house_number": "1038-52",
+  "permit_date": "1912-05-28",
+  "permit_no": "A 4289",
+  "notes": "Br B.; Page 163; File No 14165; W. marking; card faint and blurry, permit number partly faded"
+ },
+ "in": 2305,
+ "out": 126
+}

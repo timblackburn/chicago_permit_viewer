@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 2250,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p02250_3851032.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"New England Ave\",\"direction\":\"N\",\"house_number\":\"5224\",\"permit_date\":\"1937-12-30\",\"permit_no\":\"44352\",\"notes\":\"2 sty br Residence; Book N 48 Page 358; plan no. 1702; water no. 30093; file no. 272203\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "New England Ave",
+  "direction": "N",
+  "house_number": "5224",
+  "permit_date": "1937-12-30",
+  "permit_no": "44352",
+  "notes": "2 sty br Residence; Book N 48 Page 358; plan no. 1702; water no. 30093; file no. 272203"
+ },
+ "in": 2271,
+ "out": 126
+}

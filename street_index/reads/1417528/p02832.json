@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 2832,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p02832_3439754.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wolfram St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top is faint, looks like \\\"4425 W Wolfram\\\" but house number and direction are uncertain; date of permit partly faded, year 1924; card washed out, other fields blank or illegible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wolfram St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top is faint, looks like \"4425 W Wolfram\" but house number and direction are uncertain; date of permit partly faded, year 1924; card washed out, other fields blank or illegible"
+ },
+ "in": 2273,
+ "out": 149
+}

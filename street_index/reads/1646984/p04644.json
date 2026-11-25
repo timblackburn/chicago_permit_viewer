@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 4644,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p04644_3896006.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mansfield Ave\",\"direction\":\"S\",\"house_number\":\"6116\",\"permit_date\":\"1936-11-09\",\"permit_no\":\"161630\",\"notes\":\"Frame Garage; stamped MONITOR AV SUNDRY; permit no. faint and partly uncertain; file no. 263300 faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mansfield Ave",
+  "direction": "S",
+  "house_number": "6116",
+  "permit_date": "1936-11-09",
+  "permit_no": "161630",
+  "notes": "Frame Garage; stamped MONITOR AV SUNDRY; permit no. faint and partly uncertain; file no. 263300 faint"
+ },
+ "in": 2347,
+ "out": 135
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 1750,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p01750_2975452.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Farwell Ave\",\"direction\":\"\",\"house_number\":\"1817-51\",\"permit_date\":\"1913-11-07\",\"permit_no\":\"A 18092\",\"notes\":\"B.; Book N 5 Page 379; no direction written on card; file no. 51101; water no. 91863; faint handwriting at top; second card marked 2; address line reads 1817-51 with AND above, 'Farwell ave' faint script\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Farwell Ave",
+  "direction": "",
+  "house_number": "1817-51",
+  "permit_date": "1913-11-07",
+  "permit_no": "A 18092",
+  "notes": "B.; Book N 5 Page 379; no direction written on card; file no. 51101; water no. 91863; faint handwriting at top; second card marked 2; address line reads 1817-51 with AND above, 'Farwell ave' faint script"
+ },
+ "in": 2314,
+ "out": 168
+}

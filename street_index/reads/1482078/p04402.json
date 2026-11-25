@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 4402,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p04402_3567464.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tripp Ave\",\"direction\":\"S\",\"house_number\":\"2333\",\"permit_date\":\"1904-04-28\",\"permit_no\":\"SW 11924\",\"notes\":\"old addr: 1358 W. 42nd St.; card very faint and washed out; date partly obscured (Apr. 28, 1904); permit number prefix SW as read\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tripp Ave",
+  "direction": "S",
+  "house_number": "2333",
+  "permit_date": "1904-04-28",
+  "permit_no": "SW 11924",
+  "notes": "old addr: 1358 W. 42nd St.; card very faint and washed out; date partly obscured (Apr. 28, 1904); permit number prefix SW as read"
+ },
+ "in": 2276,
+ "out": 144
+}

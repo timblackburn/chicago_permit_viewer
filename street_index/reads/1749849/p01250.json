@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 1250,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p01250_4108955.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Jr. Dr\",\"direction\":\"S\",\"house_number\":\"6842\",\"permit_date\":\"1895-06-07\",\"permit_no\":\"1312\",\"notes\":\"old addr: 6842 South Park Ave.; card typed with earlier 'South Parkw' crossed out and stamped 'So. Martin L. King Jr. Drive'; no building type given; image dark and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Jr. Dr",
+  "direction": "S",
+  "house_number": "6842",
+  "permit_date": "1895-06-07",
+  "permit_no": "1312",
+  "notes": "old addr: 6842 South Park Ave.; card typed with earlier 'South Parkw' crossed out and stamped 'So. Martin L. King Jr. Drive'; no building type given; image dark and low contrast"
+ },
+ "in": 2330,
+ "out": 164
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 4750,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p04750_3732980.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rhodes Ave\",\"direction\":\"\",\"house_number\":\"3401\",\"permit_date\":\"1948-03-01\",\"permit_no\":\"A 9262\",\"notes\":\"Install Plbg; File no. 359909; no direction written on card; plumbing permit\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rhodes Ave",
+  "direction": "",
+  "house_number": "3401",
+  "permit_date": "1948-03-01",
+  "permit_no": "A 9262",
+  "notes": "Install Plbg; File no. 359909; no direction written on card; plumbing permit"
+ },
+ "in": 2281,
+ "out": 116
+}

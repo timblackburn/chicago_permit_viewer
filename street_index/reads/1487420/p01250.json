@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 1250,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p01250_3583169.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talman Ave\",\"direction\":\"N\",\"house_number\":\"4945\",\"permit_date\":\"1924-05-07\",\"permit_no\":\"90548\",\"notes\":\"Apts + Gar; Book N 29 Page 296; water no. 65734; plan no. 1162 (faint); file no. 7501; date stamp May 7 1924 (May struck through); card prefixed B\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talman Ave",
+  "direction": "N",
+  "house_number": "4945",
+  "permit_date": "1924-05-07",
+  "permit_no": "90548",
+  "notes": "Apts + Gar; Book N 29 Page 296; water no. 65734; plan no. 1162 (faint); file no. 7501; date stamp May 7 1924 (May struck through); card prefixed B"
+ },
+ "in": 2311,
+ "out": 154
+}

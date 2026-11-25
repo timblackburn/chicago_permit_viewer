@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 2750,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p02750_4173060.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Keating Ave\",\"direction\":\"N\",\"house_number\":\"5820\",\"permit_date\":\"1954-07-07\",\"permit_no\":\"B 114005\",\"notes\":\"Erect 2 sty Brick Residence + garage; Plan No 1200; File No 465980\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Keating Ave",
+  "direction": "N",
+  "house_number": "5820",
+  "permit_date": "1954-07-07",
+  "permit_no": "B 114005",
+  "notes": "Erect 2 sty Brick Residence + garage; Plan No 1200; File No 465980"
+ },
+ "in": 2314,
+ "out": 119
+}

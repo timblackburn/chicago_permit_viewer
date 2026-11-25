@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1280826",
+ "slide_index": 750,
+ "image": "street_index/data/1280826/slides_pct_0-0-100-99_w1000/p00750_3170845.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"3430\",\"permit_date\":\"1920-01-30\",\"permit_no\":\"B 35573\",\"notes\":\"Conc. Boiler Room; $20; Page 367; Plan no. A 231; Water/file no. 166137 (faint); Owner/contractor lines blank; faint, low contrast; permit number partly uncertain; Water: None\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "3430",
+  "permit_date": "1920-01-30",
+  "permit_no": "B 35573",
+  "notes": "Conc. Boiler Room; $20; Page 367; Plan no. A 231; Water/file no. 166137 (faint); Owner/contractor lines blank; faint, low contrast; permit number partly uncertain; Water: None"
+ },
+ "in": 2278,
+ "out": 165
+}

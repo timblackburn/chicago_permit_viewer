@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 1750,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p01750_3148659.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ave O\",\"direction\":\"S\",\"house_number\":\"11016\",\"permit_date\":\"1942-03-26\",\"permit_no\":\"59606\",\"notes\":\"1 sty frame residence; Book 52 Page 576; plan no 1259; water no 46019; file no 308969; address handwriting faint, house number partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ave O",
+  "direction": "S",
+  "house_number": "11016",
+  "permit_date": "1942-03-26",
+  "permit_no": "59606",
+  "notes": "1 sty frame residence; Book 52 Page 576; plan no 1259; water no 46019; file no 308969; address handwriting faint, house number partly uncertain"
+ },
+ "in": 2267,
+ "out": 138
+}

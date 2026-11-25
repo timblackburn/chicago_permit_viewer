@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 663,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p00663_3698119.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rosedale Ave\",\"direction\":\"W\",\"house_number\":\"7422\",\"permit_date\":\"1951-04\",\"permit_no\":\"B 55\",\"notes\":\"1 sty B Res + Gar; File No 40840; Plan No 4722; permit number partly faded; day of date obscured; book and page not legible; card faint and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rosedale Ave",
+  "direction": "W",
+  "house_number": "7422",
+  "permit_date": "1951-04",
+  "permit_no": "B 55",
+  "notes": "1 sty B Res + Gar; File No 40840; Plan No 4722; permit number partly faded; day of date obscured; book and page not legible; card faint and noisy"
+ },
+ "in": 2307,
+ "out": 142
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 2750,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p02750_3849999.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Newland Ave\",\"direction\":\"N\",\"house_number\":\"1849\",\"permit_date\":\"1951-05-24\",\"permit_no\":\"B 58253\",\"notes\":\"1 sty B. Res.; Book 63 Page 486; Plan No 5884; File No 410905\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Newland Ave",
+  "direction": "N",
+  "house_number": "1849",
+  "permit_date": "1951-05-24",
+  "permit_no": "B 58253",
+  "notes": "1 sty B. Res.; Book 63 Page 486; Plan No 5884; File No 410905"
+ },
+ "in": 2308,
+ "out": 121
+}

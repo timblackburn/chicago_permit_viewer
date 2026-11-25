@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 251,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p00251_3151674.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ave L\",\"direction\":\"S\",\"house_number\":\"11050\",\"permit_date\":\"1929\",\"permit_no\":\"A 100709\",\"notes\":\"B. Abt (work type as written, partly unclear); Book S 34 Page 420; plan no. 1759; water no. 75827; file no. 97181; faint photocopy, direction not clearly written on card, permit number partly unclear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ave L",
+  "direction": "S",
+  "house_number": "11050",
+  "permit_date": "1929",
+  "permit_no": "A 100709",
+  "notes": "B. Abt (work type as written, partly unclear); Book S 34 Page 420; plan no. 1759; water no. 75827; file no. 97181; faint photocopy, direction not clearly written on card, permit number partly unclear"
+ },
+ "in": 2269,
+ "out": 157
+}

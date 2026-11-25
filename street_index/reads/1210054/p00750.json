@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 750,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p00750_3029207.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"2461-65\",\"permit_date\":\"1909-04-21\",\"permit_no\":\"A 67751\",\"notes\":\"Apts; Book N 25 Page 7; plan no. 2853; water no. 42029; file no. 110944; house number partly unclear (2461 with a fraction/range written over it); date stamp faint, day and year uncertain; card noisy and speckled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "2461-65",
+  "permit_date": "1909-04-21",
+  "permit_no": "A 67751",
+  "notes": "Apts; Book N 25 Page 7; plan no. 2853; water no. 42029; file no. 110944; house number partly unclear (2461 with a fraction/range written over it); date stamp faint, day and year uncertain; card noisy and speckled"
+ },
+ "in": 2242,
+ "out": 170
+}

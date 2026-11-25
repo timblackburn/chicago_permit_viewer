@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 2750,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p02750_2932763.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Circle Ave\",\"direction\":\"E\",\"house_number\":\"270-76\",\"permit_date\":\"1909-07-07\",\"permit_no\":\"13156\",\"notes\":\"Corner Bldg.; card lists three addresses: 5734-38 N. E. Circle Ave, 5742 N. E. Circle Ave, 270-76 E. Circle Ave; old addr: 5734-38 N. E. Circle Ave and 5742 N. E. Circle Ave; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Circle Ave",
+  "direction": "E",
+  "house_number": "270-76",
+  "permit_date": "1909-07-07",
+  "permit_no": "13156",
+  "notes": "Corner Bldg.; card lists three addresses: 5734-38 N. E. Circle Ave, 5742 N. E. Circle Ave, 270-76 E. Circle Ave; old addr: 5734-38 N. E. Circle Ave and 5742 N. E. Circle Ave; typed card"
+ },
+ "in": 2273,
+ "out": 189
+}

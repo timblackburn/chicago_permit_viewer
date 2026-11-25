@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 3168,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p03168_2850032.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"1844-50\",\"permit_date\":\"1951-07-19\",\"permit_no\":\"A 61243\",\"notes\":\"Repair fire damage; permit no. stamped, prefix A handwritten; plan/file no. faint (approx. 413448); book/page not legible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "1844-50",
+  "permit_date": "1951-07-19",
+  "permit_no": "A 61243",
+  "notes": "Repair fire damage; permit no. stamped, prefix A handwritten; plan/file no. faint (approx. 413448); book/page not legible"
+ },
+ "in": 2315,
+ "out": 137
+}

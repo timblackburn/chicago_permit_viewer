@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 750,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p00750_4136514.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leader Ave\",\"direction\":\"N\",\"house_number\":\"6105\",\"permit_date\":\"1949-09-21\",\"permit_no\":\"B 32707\",\"notes\":\"1 sty B. Res; Book 60 Page 330; Plan no. 1634; File no. 382904; handwriting is cursive, stamped date slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leader Ave",
+  "direction": "N",
+  "house_number": "6105",
+  "permit_date": "1949-09-21",
+  "permit_no": "B 32707",
+  "notes": "1 sty B. Res; Book 60 Page 330; Plan no. 1634; File no. 382904; handwriting is cursive, stamped date slightly faint"
+ },
+ "in": 2319,
+ "out": 141
+}

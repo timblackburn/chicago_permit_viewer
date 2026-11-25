@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 3250,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p03250_3806481.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Osceola Ave\",\"direction\":\"N\",\"house_number\":\"3801\",\"permit_date\":\"1939-04-06\",\"permit_no\":\"46852\",\"notes\":\"1 sty frame Residence; Book N 48 Page 603; Plan 910; Water no. 32696; File no. 280697\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Osceola Ave",
+  "direction": "N",
+  "house_number": "3801",
+  "permit_date": "1939-04-06",
+  "permit_no": "46852",
+  "notes": "1 sty frame Residence; Book N 48 Page 603; Plan 910; Water no. 32696; File no. 280697"
+ },
+ "in": 2313,
+ "out": 128
+}

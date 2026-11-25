@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 4250,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p04250_4113362.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hyde Park Blvd\",\"direction\":\"E\",\"house_number\":\"1047\",\"permit_date\":\"1954-05-04\",\"permit_no\":\"A 110064\",\"notes\":\"Int Alt to Kitchen & replace sink; Plan no. 9357; File no. 462150; house number 1047 slightly stylized handwriting; card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hyde Park Blvd",
+  "direction": "E",
+  "house_number": "1047",
+  "permit_date": "1954-05-04",
+  "permit_no": "A 110064",
+  "notes": "Int Alt to Kitchen & replace sink; Plan no. 9357; File no. 462150; house number 1047 slightly stylized handwriting; card slightly faint"
+ },
+ "in": 2312,
+ "out": 148
+}

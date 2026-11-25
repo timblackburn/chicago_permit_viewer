@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 2250,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p02250_3703016.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Roosevelt Rd\",\"direction\":\"\",\"house_number\":\"3501-5\",\"permit_date\":\"\",\"permit_no\":\"A 95671\",\"notes\":\"B. add to Stores; Book ? Page 289 (ledger reference partly faint); Plan No. 192; File No. faint (approx. 14341); no direction written; date of permit blank; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Roosevelt Rd",
+  "direction": "",
+  "house_number": "3501-5",
+  "permit_date": "",
+  "permit_no": "A 95671",
+  "notes": "B. add to Stores; Book ? Page 289 (ledger reference partly faint); Plan No. 192; File No. faint (approx. 14341); no direction written; date of permit blank; card faint and low contrast"
+ },
+ "in": 2286,
+ "out": 155
+}

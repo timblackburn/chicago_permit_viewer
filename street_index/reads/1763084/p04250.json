@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 4250,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p04250_4129517.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Le Claire Ave\",\"direction\":\"N\",\"house_number\":\"1700\",\"permit_date\":\"\",\"permit_no\":\"H 97703\",\"notes\":\"File no. 449938; no date of permit, book or page filled in; kind of work line blank; card faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Le Claire Ave",
+  "direction": "N",
+  "house_number": "1700",
+  "permit_date": "",
+  "permit_no": "H 97703",
+  "notes": "File no. 449938; no date of permit, book or page filled in; kind of work line blank; card faint in places"
+ },
+ "in": 2320,
+ "out": 117
+}

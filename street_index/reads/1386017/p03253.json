@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 3253,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p03253_3376293.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"25th Pl\",\"direction\":\"W\",\"house_number\":\"728\",\"permit_date\":\"1947-03-14\",\"permit_no\":\"A 03766\",\"notes\":\"Erect Fra Gar 14x20 alley da.; Sundry; file no 346294; date stamp partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "25th Pl",
+  "direction": "W",
+  "house_number": "728",
+  "permit_date": "1947-03-14",
+  "permit_no": "A 03766",
+  "notes": "Erect Fra Gar 14x20 alley da.; Sundry; file no 346294; date stamp partly faint"
+ },
+ "in": 2303,
+ "out": 124
+}

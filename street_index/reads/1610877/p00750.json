@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 750,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p00750_3831643.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakley Blvd\",\"direction\":\"N\",\"house_number\":\"696\",\"permit_date\":\"1889-09-13\",\"permit_no\":\"2954\",\"notes\":\"old addr: 1337 N. Oakley Blvd; typed card; the second address 696 N. Oakley is taken as the new number, since the 1909 renumbering was later than this 1889 date it is uncertain which is filed under; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakley Blvd",
+  "direction": "N",
+  "house_number": "696",
+  "permit_date": "1889-09-13",
+  "permit_no": "2954",
+  "notes": "old addr: 1337 N. Oakley Blvd; typed card; the second address 696 N. Oakley is taken as the new number, since the 1909 renumbering was later than this 1889 date it is uncertain which is filed under; no building type given"
+ },
+ "in": 2315,
+ "out": 165
+}

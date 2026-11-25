@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 4250,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p04250_3887235.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monticello Ave\",\"direction\":\"\",\"house_number\":\"3719\",\"permit_date\":\"1927-05-19\",\"permit_no\":\"B 17412\",\"notes\":\"Br Res (second line partly legible, possibly \\\"B Res\\\"); Book N 38 Page 398; no direction written on card; file no. 165666, plan no. 4685, water no. 2576; stamp text faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monticello Ave",
+  "direction": "",
+  "house_number": "3719",
+  "permit_date": "1927-05-19",
+  "permit_no": "B 17412",
+  "notes": "Br Res (second line partly legible, possibly \"B Res\"); Book N 38 Page 398; no direction written on card; file no. 165666, plan no. 4685, water no. 2576; stamp text faint in places"
+ },
+ "in": 2276,
+ "out": 159
+}

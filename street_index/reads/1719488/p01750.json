@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 1750,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p01750_4046566.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lexington St\",\"direction\":\"\",\"house_number\":\"2912\",\"permit_date\":\"1910\",\"permit_no\":\"\",\"notes\":\"typed card; second line reads \\\"Same\\\"; remaining typed lines very faint; date partially readable as \\\"...910\\\"; film damaged along bottom edge\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lexington St",
+  "direction": "",
+  "house_number": "2912",
+  "permit_date": "1910",
+  "permit_no": "",
+  "notes": "typed card; second line reads \"Same\"; remaining typed lines very faint; date partially readable as \"...910\"; film damaged along bottom edge"
+ },
+ "in": 2312,
+ "out": 127
+}

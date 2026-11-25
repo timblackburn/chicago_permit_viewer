@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1398698",
+ "slide_index": 3750,
+ "image": "street_index/data/1398698/slides_pct_0-0-100-99_w1000/p03750_3400994.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1914-08-06\",\"permit_no\":\"A 74690\",\"notes\":\"Br B.; Book S 11 Page 478; address line at top is handwritten in faint cursive, reads something like '3005 West ... St' but not confident; file no. 69469, also 98379; faint microfilm\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1914-08-06",
+  "permit_no": "A 74690",
+  "notes": "Br B.; Book S 11 Page 478; address line at top is handwritten in faint cursive, reads something like '3005 West ... St' but not confident; file no. 69469, also 98379; faint microfilm"
+ },
+ "in": 2269,
+ "out": 147
+}

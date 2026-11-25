@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 251,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p00251_2927240.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Edbrooke Ave\",\"direction\":\"S\",\"house_number\":\"11316\",\"permit_date\":\"1917-03-15\",\"permit_no\":\"44690\",\"notes\":\"Sundry; File No. 27974; dark, grainy microfilm with some specks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Edbrooke Ave",
+  "direction": "S",
+  "house_number": "11316",
+  "permit_date": "1917-03-15",
+  "permit_no": "44690",
+  "notes": "Sundry; File No. 27974; dark, grainy microfilm with some specks"
+ },
+ "in": 2278,
+ "out": 115
+}

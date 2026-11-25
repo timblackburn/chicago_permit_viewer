@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 2250,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p02250_3358428.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"47th St\",\"direction\":\"E\",\"house_number\":\"8\",\"permit_date\":\"1953-04-29\",\"permit_no\":\"A 90563\",\"notes\":\"Repairs to store front; Plan No. 442886 (file no. stamped); date stamp faint; tape/stain across center of card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "47th St",
+  "direction": "E",
+  "house_number": "8",
+  "permit_date": "1953-04-29",
+  "permit_no": "A 90563",
+  "notes": "Repairs to store front; Plan No. 442886 (file no. stamped); date stamp faint; tape/stain across center of card"
+ },
+ "in": 2263,
+ "out": 125
+}

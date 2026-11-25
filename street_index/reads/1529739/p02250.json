@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 2250,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p02250_3665501.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Schubert Ave\",\"direction\":\"\",\"house_number\":\"2715\",\"permit_date\":\"1912-04-26\",\"permit_no\":\"A 2739\",\"notes\":\"Br B.; old addr: 2647 or 49 N. Fairfield Ave (written at top, partly cut off); direction not written beside the new number; faint and low contrast; File No 11067; stamp 'N 1' and '150' on card; Cor.; remarks circled 1\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Schubert Ave",
+  "direction": "",
+  "house_number": "2715",
+  "permit_date": "1912-04-26",
+  "permit_no": "A 2739",
+  "notes": "Br B.; old addr: 2647 or 49 N. Fairfield Ave (written at top, partly cut off); direction not written beside the new number; faint and low contrast; File No 11067; stamp 'N 1' and '150' on card; Cor.; remarks circled 1"
+ },
+ "in": 2272,
+ "out": 178
+}

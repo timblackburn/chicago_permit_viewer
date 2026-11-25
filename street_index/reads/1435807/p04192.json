@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 4192,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p04192_3473195.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"N\",\"house_number\":\"4734\",\"permit_date\":\"1924-12-09\",\"permit_no\":\"56175\",\"notes\":\"Sign 5x6; Sundry; file no. 97955; owner Boyana Rx Co (handwriting uncertain); permit no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "N",
+  "house_number": "4734",
+  "permit_date": "1924-12-09",
+  "permit_no": "56175",
+  "notes": "Sign 5x6; Sundry; file no. 97955; owner Boyana Rx Co (handwriting uncertain); permit no. faint"
+ },
+ "in": 2271,
+ "out": 132
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 4738,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p04738_3803590.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ozark Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1946-05-09\",\"permit_no\":\"142288\",\"notes\":\"New siding; Sundry; house number written as 56?0 (second digit unclear, likely 5670 or 5610); street written as Ozark with no type; stamped date faint, reads May 9 1946 (year uncertain); file no 328487; card shelved between Ozanam and Pacific on reel, so name plausible as Ozark\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ozark Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1946-05-09",
+  "permit_no": "142288",
+  "notes": "New siding; Sundry; house number written as 56?0 (second digit unclear, likely 5670 or 5610); street written as Ozark with no type; stamped date faint, reads May 9 1946 (year uncertain); file no 328487; card shelved between Ozanam and Pacific on reel, so name plausible as Ozark"
+ },
+ "in": 2280,
+ "out": 191
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 2750,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p02750_3827677.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakley Ave\",\"direction\":\"S\",\"house_number\":\"9036\",\"permit_date\":\"1950-11-22\",\"permit_no\":\"B 51402\",\"notes\":\"1 sty B. Res; Book 62 Page 570; Plan no. 7425; File no. 404197\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakley Ave",
+  "direction": "S",
+  "house_number": "9036",
+  "permit_date": "1950-11-22",
+  "permit_no": "B 51402",
+  "notes": "1 sty B. Res; Book 62 Page 570; Plan no. 7425; File no. 404197"
+ },
+ "in": 2320,
+ "out": 123
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 4750,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p04750_3021263.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clybourn Ave\",\"direction\":\"N\",\"house_number\":\"1316\",\"permit_date\":\"1947-04-18\",\"permit_no\":\"A 04439\",\"notes\":\"Alt. to store front; Sundry; plan no 4587; file no 347443\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clybourn Ave",
+  "direction": "N",
+  "house_number": "1316",
+  "permit_date": "1947-04-18",
+  "permit_no": "A 04439",
+  "notes": "Alt. to store front; Sundry; plan no 4587; file no 347443"
+ },
+ "in": 2242,
+ "out": 115
+}

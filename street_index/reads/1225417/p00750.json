@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1225417",
+ "slide_index": 750,
+ "image": "street_index/data/1225417/slides_pct_0-0-100-99_w1000/p00750_3059999.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Central Park Ave\",\"direction\":\"N\",\"house_number\":\"1100-1102\",\"permit_date\":\"1922-05-09\",\"permit_no\":\"A 67585\",\"notes\":\"B. Apts; Book W 2H Page 28; plan no. 3264; water no. 47370; file no. 12024; house number partly written over, possibly 1100-1102 with a fraction; dark edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Central Park Ave",
+  "direction": "N",
+  "house_number": "1100-1102",
+  "permit_date": "1922-05-09",
+  "permit_no": "A 67585",
+  "notes": "B. Apts; Book W 2H Page 28; plan no. 3264; water no. 47370; file no. 12024; house number partly written over, possibly 1100-1102 with a fraction; dark edges"
+ },
+ "in": 2275,
+ "out": 158
+}

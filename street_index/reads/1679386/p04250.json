@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 4250,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p04250_3962284.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Meade Ave\",\"direction\":\"S\",\"house_number\":\"5251\",\"permit_date\":\"1938-05-25\",\"permit_no\":\"98231\",\"notes\":\"Concrete fd - bldg to be moved; Sundry; plan no 917; file no 259734; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Meade Ave",
+  "direction": "S",
+  "house_number": "5251",
+  "permit_date": "1938-05-25",
+  "permit_no": "98231",
+  "notes": "Concrete fd - bldg to be moved; Sundry; plan no 917; file no 259734; date stamp faint"
+ },
+ "in": 2272,
+ "out": 124
+}

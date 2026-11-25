@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1280826",
+ "slide_index": 2250,
+ "image": "street_index/data/1280826/slides_pct_0-0-100-99_w1000/p02250_3167796.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"4735\",\"permit_date\":\"1926-11-24\",\"permit_no\":\"20525\",\"notes\":\"Sundry; work written as 'Ice Fruit' or 'Ice Fruit store' (uncertain); plan no. 12302; file no. 153712; card faint with a torn notch at top edge, near street type; note the direction S conflicts with the reel position between 4614 N and 4892 N, so verify\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "4735",
+  "permit_date": "1926-11-24",
+  "permit_no": "20525",
+  "notes": "Sundry; work written as 'Ice Fruit' or 'Ice Fruit store' (uncertain); plan no. 12302; file no. 153712; card faint with a torn notch at top edge, near street type; note the direction S conflicts with the reel position between 4614 N and 4892 N, so verify"
+ },
+ "in": 2279,
+ "out": 186
+}

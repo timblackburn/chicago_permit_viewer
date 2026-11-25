@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 3750,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p03750_2780201.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoyne Ave\",\"direction\":\"N\",\"house_number\":\"2310\",\"permit_date\":\"1892-05\",\"permit_no\":\"711\",\"notes\":\"old addr: 1115 N. Hoyne Ave; typed card; day of month unclear (May ?, 1892); number 711 at left may be the permit number; faint print\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoyne Ave",
+  "direction": "N",
+  "house_number": "2310",
+  "permit_date": "1892-05",
+  "permit_no": "711",
+  "notes": "old addr: 1115 N. Hoyne Ave; typed card; day of month unclear (May ?, 1892); number 711 at left may be the permit number; faint print"
+ },
+ "in": 2351,
+ "out": 139
+}

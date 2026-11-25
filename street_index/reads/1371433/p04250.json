@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 4250,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p04250_3344672.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"55th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten: N.E. Cor 55th & Racine, Mary-in Convent & Parish School (approx. reading); corner location with no house number; printed fields mostly blank/faint; number 22 written near the middle; low-contrast film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "55th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten: N.E. Cor 55th & Racine, Mary-in Convent & Parish School (approx. reading); corner location with no house number; printed fields mostly blank/faint; number 22 written near the middle; low-contrast film"
+ },
+ "in": 2302,
+ "out": 154
+}

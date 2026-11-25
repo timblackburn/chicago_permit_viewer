@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 3750,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p03750_3868153.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Myrtle Ave\",\"direction\":\"\",\"house_number\":\"1262\",\"permit_date\":\"1931-02-19\",\"permit_no\":\"73374\",\"notes\":\"Fr rear Add.; Sundry; Plan no. 313; File no. 231900; no direction written on card; card dark and slightly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Myrtle Ave",
+  "direction": "",
+  "house_number": "1262",
+  "permit_date": "1931-02-19",
+  "permit_no": "73374",
+  "notes": "Fr rear Add.; Sundry; Plan no. 313; File no. 231900; no direction written on card; card dark and slightly faded"
+ },
+ "in": 2319,
+ "out": 132
+}

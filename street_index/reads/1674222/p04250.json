@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 4250,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p04250_3952634.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Merrill Ave\",\"direction\":\"\",\"house_number\":\"8317\",\"permit_date\":\"1924-07-16\",\"permit_no\":\"\",\"notes\":\"Stamped Sundry; permit no. line faint and unreadable; file no. 77350 approx; handwritten address at top, card washed out and low contrast; house number last digit uncertain; direction not written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Merrill Ave",
+  "direction": "",
+  "house_number": "8317",
+  "permit_date": "1924-07-16",
+  "permit_no": "",
+  "notes": "Stamped Sundry; permit no. line faint and unreadable; file no. 77350 approx; handwritten address at top, card washed out and low contrast; house number last digit uncertain; direction not written"
+ },
+ "in": 2316,
+ "out": 148
+}

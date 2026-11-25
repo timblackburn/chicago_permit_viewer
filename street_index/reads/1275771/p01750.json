@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 1750,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p01750_3158853.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Austin Ave\",\"direction\":\"N\",\"house_number\":\"1836\",\"permit_date\":\"1954-05-05\",\"permit_no\":\"A 110120\",\"notes\":\"Brick Garage; stamped date May 5 1954 is faint; file no. smudged; bottom of card damaged and dirty\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Austin Ave",
+  "direction": "N",
+  "house_number": "1836",
+  "permit_date": "1954-05-05",
+  "permit_no": "A 110120",
+  "notes": "Brick Garage; stamped date May 5 1954 is faint; file no. smudged; bottom of card damaged and dirty"
+ },
+ "in": 2275,
+ "out": 129
+}

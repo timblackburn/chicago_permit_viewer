@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 4748,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p04748_3651519.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sherman St\",\"direction\":\"S\",\"house_number\":\"610\",\"permit_date\":\"1887-12\",\"permit_no\":\"3793\",\"notes\":\"typed card; faint; old addr: 108 Sherman; day of date partly unreadable (Dec. ?9, 1887); street name partly faded, read as Sherman\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sherman St",
+  "direction": "S",
+  "house_number": "610",
+  "permit_date": "1887-12",
+  "permit_no": "3793",
+  "notes": "typed card; faint; old addr: 108 Sherman; day of date partly unreadable (Dec. ?9, 1887); street name partly faded, read as Sherman"
+ },
+ "in": 2280,
+ "out": 136
+}

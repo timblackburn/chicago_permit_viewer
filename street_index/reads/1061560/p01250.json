@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1061560",
+ "slide_index": 1250,
+ "image": "street_index/data/1061560/slides_pct_0-0-100-99_w1000/p01250_4166150.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Jean Ave\",\"direction\":\"N\",\"house_number\":\"6741\",\"permit_date\":\"1940-07-15\",\"permit_no\":\"51095\",\"notes\":\"2 sty br Residence; Book 50 Page 334; plan no 2761; water no 37139; file no 291778; street name handwritten, read as Jean Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Jean Ave",
+  "direction": "N",
+  "house_number": "6741",
+  "permit_date": "1940-07-15",
+  "permit_no": "51095",
+  "notes": "2 sty br Residence; Book 50 Page 334; plan no 2761; water no 37139; file no 291778; street name handwritten, read as Jean Ave"
+ },
+ "in": 2316,
+ "out": 139
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 2837,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p02837_3377147.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"25th St\",\"direction\":\"W\",\"house_number\":\"2902\",\"permit_date\":\"1887-01\",\"permit_no\":\"67\",\"notes\":\"typed card, faint; cross street: 25th & Francisco; day of month illegible (Jan. ??, 1887); direction read from faint 'w.'; fits between frames 2500 and 3005 as a numbered-street card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "25th St",
+  "direction": "W",
+  "house_number": "2902",
+  "permit_date": "1887-01",
+  "permit_no": "67",
+  "notes": "typed card, faint; cross street: 25th & Francisco; day of month illegible (Jan. ??, 1887); direction read from faint 'w.'; fits between frames 2500 and 3005 as a numbered-street card"
+ },
+ "in": 2300,
+ "out": 152
+}

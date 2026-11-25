@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 750,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p00750_4147069.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Indiana Ave\",\"direction\":\"S\",\"house_number\":\"2611\",\"permit_date\":\"1942-01-29\",\"permit_no\":\"29333\",\"notes\":\"20 M gal tank; Sundry; handwritten, permit no. faint; file no. 307658\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Indiana Ave",
+  "direction": "S",
+  "house_number": "2611",
+  "permit_date": "1942-01-29",
+  "permit_no": "29333",
+  "notes": "20 M gal tank; Sundry; handwritten, permit no. faint; file no. 307658"
+ },
+ "in": 2274,
+ "out": 118
+}

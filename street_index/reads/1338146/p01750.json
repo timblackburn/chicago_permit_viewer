@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 1750,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p01750_3283201.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"92nd St\",\"direction\":\"E\",\"house_number\":\"1427\",\"permit_date\":\"1954-08-24\",\"permit_no\":\"\",\"notes\":\"Garage (type line faint, possibly \\\"Frame Garage\\\"); permit no. faint and unreadable; File no. 4689-3 (faint); card faint and washed out, overexposed; Plumbing/Vent headings present, no book or page given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "92nd St",
+  "direction": "E",
+  "house_number": "1427",
+  "permit_date": "1954-08-24",
+  "permit_no": "",
+  "notes": "Garage (type line faint, possibly \"Frame Garage\"); permit no. faint and unreadable; File no. 4689-3 (faint); card faint and washed out, overexposed; Plumbing/Vent headings present, no book or page given"
+ },
+ "in": 2266,
+ "out": 161
+}

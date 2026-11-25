@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 3750,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p03750_3003147.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cortland St\",\"direction\":\"W\",\"house_number\":\"4827\",\"permit_date\":\"1909-08-19\",\"permit_no\":\"14695\",\"notes\":\"old addr: 1694 Cortland St; card is faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cortland St",
+  "direction": "W",
+  "house_number": "4827",
+  "permit_date": "1909-08-19",
+  "permit_no": "14695",
+  "notes": "old addr: 1694 Cortland St; card is faint"
+ },
+ "in": 2312,
+ "out": 103
+}

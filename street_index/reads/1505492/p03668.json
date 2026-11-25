@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 3668,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p03668_3615652.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Superior St\",\"direction\":\"W\",\"house_number\":\"215-17\",\"permit_date\":\"1891-03-14\",\"permit_no\":\"362\",\"notes\":\"typed card; second address line: 162-68 E. Superior St (partly faint); date and permit number faint, month and day partly unclear (Mar 14, 1891)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Superior St",
+  "direction": "W",
+  "house_number": "215-17",
+  "permit_date": "1891-03-14",
+  "permit_no": "362",
+  "notes": "typed card; second address line: 162-68 E. Superior St (partly faint); date and permit number faint, month and day partly unclear (Mar 14, 1891)"
+ },
+ "in": 2305,
+ "out": 136
+}

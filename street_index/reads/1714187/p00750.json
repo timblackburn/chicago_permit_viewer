@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 750,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p00750_4038860.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Linder Ave\",\"direction\":\"N\",\"house_number\":\"507\",\"permit_date\":\"1928-10-22\",\"permit_no\":\"A 63557\",\"notes\":\"B. flat; Book W 21 Page 360; house number partly overwritten, read as 507 (filed between Lincoln Park West and 4749 N Linder, so may be 4507); card is noisy and faint; date partly unclear; water no. 38311; plan no. 6082; file no. 1764\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Linder Ave",
+  "direction": "N",
+  "house_number": "507",
+  "permit_date": "1928-10-22",
+  "permit_no": "A 63557",
+  "notes": "B. flat; Book W 21 Page 360; house number partly overwritten, read as 507 (filed between Lincoln Park West and 4749 N Linder, so may be 4507); card is noisy and faint; date partly unclear; water no. 38311; plan no. 6082; file no. 1764"
+ },
+ "in": 2240,
+ "out": 183
+}

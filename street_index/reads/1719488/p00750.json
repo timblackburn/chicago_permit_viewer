@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 750,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p00750_4048545.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"2127\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten top line appears to read '2127 E Wayne St' but street name is faint and uncertain; second line 'Record, ...' mostly illegible; permit no and date fields faint/overexposed; card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "2127",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; handwritten top line appears to read '2127 E Wayne St' but street name is faint and uncertain; second line 'Record, ...' mostly illegible; permit no and date fields faint/overexposed; card washed out"
+ },
+ "in": 2344,
+ "out": 146
+}

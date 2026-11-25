@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 2750,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p02750_3515991.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Warner Ave\",\"direction\":\"\",\"house_number\":\"1457\",\"permit_date\":\"1928-09\",\"permit_no\":\"48394\",\"notes\":\"Frame Auto Shed; Sundry; date stamp partly obscured (day unreadable); plan no. 197745 (partly faint); dark, low-contrast frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Warner Ave",
+  "direction": "",
+  "house_number": "1457",
+  "permit_date": "1928-09",
+  "permit_no": "48394",
+  "notes": "Frame Auto Shed; Sundry; date stamp partly obscured (day unreadable); plan no. 197745 (partly faint); dark, low-contrast frame"
+ },
+ "in": 2280,
+ "out": 138
+}

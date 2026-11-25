@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 2750,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p02750_3246277.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ada St\",\"direction\":\"S\",\"house_number\":\"6236\",\"permit_date\":\"\",\"permit_no\":\"2694\",\"notes\":\"Same.; card very faint and overexposed; date line partly legible, appears to read 'Nov. 21st, 1899' but uncertain; permit no. read as 2694 (last digit uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ada St",
+  "direction": "S",
+  "house_number": "6236",
+  "permit_date": "",
+  "permit_no": "2694",
+  "notes": "Same.; card very faint and overexposed; date line partly legible, appears to read 'Nov. 21st, 1899' but uncertain; permit no. read as 2694 (last digit uncertain)"
+ },
+ "in": 2270,
+ "out": 142
+}

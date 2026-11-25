@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1689472",
+ "slide_index": 251,
+ "image": "street_index/data/1689472/slides_pct_0-0-100-99_w1000/p00251_3989632.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Marmora Ave\",\"direction\":\"N\",\"house_number\":\"4431\",\"permit_date\":\"1919-04-25\",\"permit_no\":\"A 51599\",\"notes\":\"Br B.; Book N 15 Page 422; old addr: 4421 (written beside the new number); Plan No 55170; Water No 26181; card somewhat faint and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Marmora Ave",
+  "direction": "N",
+  "house_number": "4431",
+  "permit_date": "1919-04-25",
+  "permit_no": "A 51599",
+  "notes": "Br B.; Book N 15 Page 422; old addr: 4421 (written beside the new number); Plan No 55170; Water No 26181; card somewhat faint and noisy"
+ },
+ "in": 2275,
+ "out": 147
+}

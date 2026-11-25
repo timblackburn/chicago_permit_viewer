@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 4750,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p04750_3971429.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"May St\",\"direction\":\"S\",\"house_number\":\"6844-58\",\"permit_date\":\"1926-04-28\",\"permit_no\":\"A 5259\",\"notes\":\"B. Stores & Apts (handwritten, partly faint); Book S 37 Page 378; plan no. 3764; water no. 98518; file no. 103541; card photographed low contrast, house number a bit faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "May St",
+  "direction": "S",
+  "house_number": "6844-58",
+  "permit_date": "1926-04-28",
+  "permit_no": "A 5259",
+  "notes": "B. Stores & Apts (handwritten, partly faint); Book S 37 Page 378; plan no. 3764; water no. 98518; file no. 103541; card photographed low contrast, house number a bit faint"
+ },
+ "in": 2301,
+ "out": 155
+}

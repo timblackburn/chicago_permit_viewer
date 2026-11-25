@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1445451",
+ "slide_index": 1250,
+ "image": "street_index/data/1445451/slides_pct_0-0-100-99_w1000/p01250_3498110.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Waveland Ave\",\"direction\":\"W\",\"house_number\":\"5043\",\"permit_date\":\"1922-03-20\",\"permit_no\":\"A 65992\",\"notes\":\"Res; Book W 21 Page 486; plan no. 1532; water no. 40842; file no. 8203; B. prefix stamp on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Waveland Ave",
+  "direction": "W",
+  "house_number": "5043",
+  "permit_date": "1922-03-20",
+  "permit_no": "A 65992",
+  "notes": "Res; Book W 21 Page 486; plan no. 1532; water no. 40842; file no. 8203; B. prefix stamp on card"
+ },
+ "in": 2274,
+ "out": 135
+}

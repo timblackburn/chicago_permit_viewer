@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1398698",
+ "slide_index": 1750,
+ "image": "street_index/data/1398698/slides_pct_0-0-100-99_w1000/p01750_3405070.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"37th Pl\",\"direction\":\"W\",\"house_number\":\"2465\",\"permit_date\":\"1903-07-22\",\"permit_no\":\"7865\",\"notes\":\"typed card; old addr: 3309 W. 37th Pl.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "37th Pl",
+  "direction": "W",
+  "house_number": "2465",
+  "permit_date": "1903-07-22",
+  "permit_no": "7865",
+  "notes": "typed card; old addr: 3309 W. 37th Pl."
+ },
+ "in": 2231,
+ "out": 105
+}

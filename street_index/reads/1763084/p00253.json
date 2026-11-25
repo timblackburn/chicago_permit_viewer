@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 253,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p00253_4137511.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lawrence Ave\",\"direction\":\"\",\"house_number\":\"4305\",\"permit_date\":\"\",\"permit_no\":\"108315\",\"notes\":\"Sundry; handwritten '25 x 70' under address; card very faint and overexposed, permit no. and file no. (272666?) only partly readable, date of permit not readable; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lawrence Ave",
+  "direction": "",
+  "house_number": "4305",
+  "permit_date": "",
+  "permit_no": "108315",
+  "notes": "Sundry; handwritten '25 x 70' under address; card very faint and overexposed, permit no. and file no. (272666?) only partly readable, date of permit not readable; no direction written"
+ },
+ "in": 2317,
+ "out": 141
+}

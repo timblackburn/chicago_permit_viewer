@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 251,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p00251_3939822.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nordica Ave\",\"direction\":\"N\",\"house_number\":\"3625\",\"permit_date\":\"1922-08-10\",\"permit_no\":\"A 70899\",\"notes\":\"B. Br. Ro (kind of work partly legible); Book W 24 Page 185; Plan no. 6682; Water no. 45766; File no. 21230; card dark, date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nordica Ave",
+  "direction": "N",
+  "house_number": "3625",
+  "permit_date": "1922-08-10",
+  "permit_no": "A 70899",
+  "notes": "B. Br. Ro (kind of work partly legible); Book W 24 Page 185; Plan no. 6682; Water no. 45766; File no. 21230; card dark, date stamp faint"
+ },
+ "in": 2309,
+ "out": 152
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 4250,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p04250_3153810.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avenue H\",\"direction\":\"\",\"house_number\":\"10559\",\"permit_date\":\"1919-06-13\",\"permit_no\":\"A 52713\",\"notes\":\"B. B.; Book S 20 Page 141; Water No. 27255; File No. 57985; date stamp faint, year read as 1919; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avenue H",
+  "direction": "",
+  "house_number": "10559",
+  "permit_date": "1919-06-13",
+  "permit_no": "A 52713",
+  "notes": "B. B.; Book S 20 Page 141; Water No. 27255; File No. 57985; date stamp faint, year read as 1919; no direction written"
+ },
+ "in": 2272,
+ "out": 135
+}

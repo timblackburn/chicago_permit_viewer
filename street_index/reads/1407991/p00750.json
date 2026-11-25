@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 750,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p00750_3425353.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Yates Blvd\",\"direction\":\"S\",\"house_number\":\"9645\",\"permit_date\":\"1943-10-29\",\"permit_no\":\"62633\",\"notes\":\"Group House; Entered 53 Page 500; plan no. 1258; water no. 49311; file no. 318219\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Yates Blvd",
+  "direction": "S",
+  "house_number": "9645",
+  "permit_date": "1943-10-29",
+  "permit_no": "62633",
+  "notes": "Group House; Entered 53 Page 500; plan no. 1258; water no. 49311; file no. 318219"
+ },
+ "in": 2271,
+ "out": 123
+}

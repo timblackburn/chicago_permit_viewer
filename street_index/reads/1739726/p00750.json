@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 750,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p00750_4082448.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake St\",\"direction\":\"W\",\"house_number\":\"763\",\"permit_date\":\"1891-12-15\",\"permit_no\":\"4337\",\"notes\":\"old addr: 1949 W Lake St; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake St",
+  "direction": "W",
+  "house_number": "763",
+  "permit_date": "1891-12-15",
+  "permit_no": "4337",
+  "notes": "old addr: 1949 W Lake St; typed card"
+ },
+ "in": 2306,
+ "out": 100
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1280826",
+ "slide_index": 4250,
+ "image": "street_index/data/1280826/slides_pct_0-0-100-99_w1000/p04250_3163773.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"6848\",\"permit_date\":\"1907-10-21\",\"permit_no\":\"10805\",\"notes\":\"Typed card; very faint; second line reads \\\"Same\\\"\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "6848",
+  "permit_date": "1907-10-21",
+  "permit_no": "10805",
+  "notes": "Typed card; very faint; second line reads \"Same\""
+ },
+ "in": 2281,
+ "out": 105
+}

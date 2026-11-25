@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 1250,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p01250_3212015.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Buffalo Ave\",\"direction\":\"\",\"house_number\":\"8915\",\"permit_date\":\"1903-09-16\",\"permit_no\":\"8736\",\"notes\":\"typed card; \\\"Same\\\" written under address; no building type; no direction written; faint typing; film streaks at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Buffalo Ave",
+  "direction": "",
+  "house_number": "8915",
+  "permit_date": "1903-09-16",
+  "permit_no": "8736",
+  "notes": "typed card; \"Same\" written under address; no building type; no direction written; faint typing; film streaks at bottom"
+ },
+ "in": 2271,
+ "out": 123
+}

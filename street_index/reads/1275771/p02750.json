@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 2750,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p02750_3156841.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avalon Ave\",\"direction\":\"S\",\"house_number\":\"7701\",\"permit_date\":\"1943-01-20\",\"permit_no\":\"61203\",\"notes\":\"Latory top add to office (handwritten, partly uncertain); Book 53 Page 244; permit no. faint; file no. 313866; water no. 47618; plan no. 40; card is blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avalon Ave",
+  "direction": "S",
+  "house_number": "7701",
+  "permit_date": "1943-01-20",
+  "permit_no": "61203",
+  "notes": "Latory top add to office (handwritten, partly uncertain); Book 53 Page 244; permit no. faint; file no. 313866; water no. 47618; plan no. 40; card is blurry"
+ },
+ "in": 2279,
+ "out": 151
+}

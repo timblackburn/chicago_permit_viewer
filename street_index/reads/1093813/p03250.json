@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1093813",
+ "slide_index": 3250,
+ "image": "street_index/data/1093813/slides_pct_0-0-100-99_w1000/p03250_2790905.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hermitage Ave\",\"direction\":\"S\",\"house_number\":\"4955\",\"permit_date\":\"1896-06-01\",\"permit_no\":\"S 1014\",\"notes\":\"Same (work line reads 'Same.'); typed card, faint; date partly unclear, read as June 1, 1896; permit no. prefix read as S, possibly E or Z.; between frames 3000 and 3500 although house number 4955 fits the order\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hermitage Ave",
+  "direction": "S",
+  "house_number": "4955",
+  "permit_date": "1896-06-01",
+  "permit_no": "S 1014",
+  "notes": "Same (work line reads 'Same.'); typed card, faint; date partly unclear, read as June 1, 1896; permit no. prefix read as S, possibly E or Z.; between frames 3000 and 3500 although house number 4955 fits the order"
+ },
+ "in": 2281,
+ "out": 171
+}

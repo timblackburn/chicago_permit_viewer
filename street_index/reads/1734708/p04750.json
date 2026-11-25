@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 4750,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p04750_4071389.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Laramie Ave\",\"direction\":\"N\",\"house_number\":\"932\",\"permit_date\":\"\",\"permit_no\":\"66725\",\"notes\":\"Fdn; Sundry; file no. 223617; permit no. stamped faintly; date of permit blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Laramie Ave",
+  "direction": "N",
+  "house_number": "932",
+  "permit_date": "",
+  "permit_no": "66725",
+  "notes": "Fdn; Sundry; file no. 223617; permit no. stamped faintly; date of permit blank"
+ },
+ "in": 2309,
+ "out": 114
+}

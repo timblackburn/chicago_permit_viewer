@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 750,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p00750_3730877.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rhodes Ave\",\"direction\":\"S\",\"house_number\":\"10106\",\"permit_date\":\"1946-04-05\",\"permit_no\":\"146113\",\"notes\":\"Erect Fr. Auto Shed - rear of lot; Sundry; Plan no 337107; low-contrast microfilm image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rhodes Ave",
+  "direction": "S",
+  "house_number": "10106",
+  "permit_date": "1946-04-05",
+  "permit_no": "146113",
+  "notes": "Erect Fr. Auto Shed - rear of lot; Sundry; Plan no 337107; low-contrast microfilm image"
+ },
+ "in": 2281,
+ "out": 131
+}

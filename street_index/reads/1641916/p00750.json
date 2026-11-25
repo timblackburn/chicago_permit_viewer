@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 750,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p00750_3894351.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monroe St\",\"direction\":\"W\",\"house_number\":\"311\",\"permit_date\":\"1898-04-26\",\"permit_no\":\"\",\"notes\":\"old addr: 1036 W Monroe St; typed card, faint; ledger ref \\\"S W 219\\\" (Sundry?); date partly faded (\\\"April 26, 1898\\\"); no permit number readable; bottom edge of frame damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monroe St",
+  "direction": "W",
+  "house_number": "311",
+  "permit_date": "1898-04-26",
+  "permit_no": "",
+  "notes": "old addr: 1036 W Monroe St; typed card, faint; ledger ref \"S W 219\" (Sundry?); date partly faded (\"April 26, 1898\"); no permit number readable; bottom edge of frame damaged"
+ },
+ "in": 2272,
+ "out": 160
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 3337,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p03337_3298776.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"77th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Overexposed, very faint card; handwritten top line appears to read something like '... 77th St' but the house number is not readable; permit number and date not legible. Printed fields mostly washed out; Book/Page labels present but no entries readable.\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "77th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Overexposed, very faint card; handwritten top line appears to read something like '... 77th St' but the house number is not readable; permit number and date not legible. Printed fields mostly washed out; Book/Page labels present but no entries readable."
+ },
+ "in": 2272,
+ "out": 147
+}

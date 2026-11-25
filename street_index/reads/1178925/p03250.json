@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 3250,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p03250_2961749.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Dearborn St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1954-09-02\",\"permit_no\":\"A 117565\",\"notes\":\"work line faint, reads like \\\"repairs ... roof\\\"; address line very faint, house number unreadable (starts like 26.. or 2629?); File No 469539; no book/page; card faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Dearborn St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1954-09-02",
+  "permit_no": "A 117565",
+  "notes": "work line faint, reads like \"repairs ... roof\"; address line very faint, house number unreadable (starts like 26.. or 2629?); File No 469539; no book/page; card faint"
+ },
+ "in": 2309,
+ "out": 146
+}

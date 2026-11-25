@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 1250,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p01250_3620443.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Stewart Ave\",\"direction\":\"\",\"house_number\":\"11944\",\"permit_date\":\"1919-06-05\",\"permit_no\":\"A 52626\",\"notes\":\"Book S 20 Page 128; Water No 27056; File No 57490; Plan No 1891; no direction written on card; handwritten line 'p. B.' on card; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Stewart Ave",
+  "direction": "",
+  "house_number": "11944",
+  "permit_date": "1919-06-05",
+  "permit_no": "A 52626",
+  "notes": "Book S 20 Page 128; Water No 27056; File No 57490; Plan No 1891; no direction written on card; handwritten line 'p. B.' on card; date stamp faint"
+ },
+ "in": 2314,
+ "out": 148
+}

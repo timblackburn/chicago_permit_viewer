@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 2250,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p02250_4154264.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Irving Park Rd\",\"direction\":\"W\",\"house_number\":\"5342-44\",\"permit_date\":\"1947-07-17\",\"permit_no\":\"B 03341\",\"notes\":\"1-1 sty Garage Bldg; Book 57 Page 309; Sundry stamp; plan no 6146; file no 351233\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Irving Park Rd",
+  "direction": "W",
+  "house_number": "5342-44",
+  "permit_date": "1947-07-17",
+  "permit_no": "B 03341",
+  "notes": "1-1 sty Garage Bldg; Book 57 Page 309; Sundry stamp; plan no 6146; file no 351233"
+ },
+ "in": 2316,
+ "out": 136
+}

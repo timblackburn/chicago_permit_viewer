@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 3250,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p03250_3245281.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ada St\",\"direction\":\"S\",\"house_number\":\"8757\",\"permit_date\":\"1925-02-11\",\"permit_no\":\"B 11926\",\"notes\":\"B. Apts; Book S 34 Page 148; permit number and ledger reference faint; water no. 7-1925; plan no. 913; file no. 9563\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ada St",
+  "direction": "S",
+  "house_number": "8757",
+  "permit_date": "1925-02-11",
+  "permit_no": "B 11926",
+  "notes": "B. Apts; Book S 34 Page 148; permit number and ledger reference faint; water no. 7-1925; plan no. 913; file no. 9563"
+ },
+ "in": 2268,
+ "out": 137
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 251,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p00251_4177802.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Karlov Ave\",\"direction\":\"S\",\"house_number\":\"1631\",\"permit_date\":\"1909-11-01\",\"permit_no\":\"16486\",\"notes\":\"old addr: 1631 S. 41st Av.; typed card, no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Karlov Ave",
+  "direction": "S",
+  "house_number": "1631",
+  "permit_date": "1909-11-01",
+  "permit_no": "16486",
+  "notes": "old addr: 1631 S. 41st Av.; typed card, no building type given"
+ },
+ "in": 2311,
+ "out": 112
+}

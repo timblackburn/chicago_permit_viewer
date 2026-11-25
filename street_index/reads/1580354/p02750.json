@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 2750,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p02750_3766993.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Polk St\",\"direction\":\"W\",\"house_number\":\"2136\",\"permit_date\":\"1883-08-20\",\"permit_no\":\"2115\",\"notes\":\"old addr: 925 W Polk St; card typed, somewhat faint; permit no. partly unclear (2115)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Polk St",
+  "direction": "W",
+  "house_number": "2136",
+  "permit_date": "1883-08-20",
+  "permit_no": "2115",
+  "notes": "old addr: 925 W Polk St; card typed, somewhat faint; permit no. partly unclear (2115)"
+ },
+ "in": 2274,
+ "out": 121
+}

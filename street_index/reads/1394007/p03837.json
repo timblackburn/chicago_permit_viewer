@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 3837,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p03837_3390960.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"71st Pl\",\"direction\":\"W\",\"house_number\":\"1444\",\"permit_date\":\"1923-09-06\",\"permit_no\":\"B 82190\",\"notes\":\"Res; Book S 20 Page 101; faint handwriting, house number and ledger reference partly uncertain; plan no. 135; water no. 57207; file no. 51639\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "71st Pl",
+  "direction": "W",
+  "house_number": "1444",
+  "permit_date": "1923-09-06",
+  "permit_no": "B 82190",
+  "notes": "Res; Book S 20 Page 101; faint handwriting, house number and ledger reference partly uncertain; plan no. 135; water no. 57207; file no. 51639"
+ },
+ "in": 2304,
+ "out": 143
+}

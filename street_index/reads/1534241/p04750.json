@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 4750,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p04750_3670705.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sawyer Ave\",\"direction\":\"S\",\"house_number\":\"7840\",\"permit_date\":\"1953-10-20\",\"permit_no\":\"101432\",\"notes\":\"Erect 1 sty Brick Residence; Book 68 Page 103; permit no. prefix handwritten 'B' (bldg); plan no. 4988; file no. 453565; stamped text faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sawyer Ave",
+  "direction": "S",
+  "house_number": "7840",
+  "permit_date": "1953-10-20",
+  "permit_no": "101432",
+  "notes": "Erect 1 sty Brick Residence; Book 68 Page 103; permit no. prefix handwritten 'B' (bldg); plan no. 4988; file no. 453565; stamped text faint"
+ },
+ "in": 2284,
+ "out": 154
+}

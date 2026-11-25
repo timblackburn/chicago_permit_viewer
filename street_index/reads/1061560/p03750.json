@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1061560",
+ "slide_index": 3750,
+ "image": "street_index/data/1061560/slides_pct_0-0-100-99_w1000/p03750_4161266.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Justine St\",\"direction\":\"S\",\"house_number\":\"6339\",\"permit_date\":\"1895-10-26\",\"permit_no\":\"S 2518\",\"notes\":\"Same; typed card; permit number prefix S read as 'S.2518', date slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Justine St",
+  "direction": "S",
+  "house_number": "6339",
+  "permit_date": "1895-10-26",
+  "permit_no": "S 2518",
+  "notes": "Same; typed card; permit number prefix S read as 'S.2518', date slightly faint"
+ },
+ "in": 2311,
+ "out": 115
+}

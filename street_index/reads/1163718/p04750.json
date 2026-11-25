@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 4750,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p04750_2928743.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eberhart Ave\",\"direction\":\"\",\"house_number\":\"8248-58\",\"permit_date\":\"1927-12-06\",\"permit_no\":\"B 22094\",\"notes\":\"B. Store & apt; Book S 43 Page 484; direction not clearly written on card; street name handwritten, reads Eberhart; date stamp faint; Plan 11029; Water 7936; File 180541\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eberhart Ave",
+  "direction": "",
+  "house_number": "8248-58",
+  "permit_date": "1927-12-06",
+  "permit_no": "B 22094",
+  "notes": "B. Store & apt; Book S 43 Page 484; direction not clearly written on card; street name handwritten, reads Eberhart; date stamp faint; Plan 11029; Water 7936; File 180541"
+ },
+ "in": 2277,
+ "out": 159
+}

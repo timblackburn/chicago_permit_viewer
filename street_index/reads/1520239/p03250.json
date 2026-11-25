@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 3250,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p03250_3644184.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Spaulding Ave\",\"direction\":\"S\",\"house_number\":\"1538\",\"permit_date\":\"1915-11-18\",\"permit_no\":\"A 35069\",\"notes\":\"Br B.; Book W 7 Page 548; direction written as S before Spaulding, E in margin is likely a stray mark; file no. 217; old number 9471 written below permit no.; date stamp slightly overprinted\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Spaulding Ave",
+  "direction": "S",
+  "house_number": "1538",
+  "permit_date": "1915-11-18",
+  "permit_no": "A 35069",
+  "notes": "Br B.; Book W 7 Page 548; direction written as S before Spaulding, E in margin is likely a stray mark; file no. 217; old number 9471 written below permit no.; date stamp slightly overprinted"
+ },
+ "in": 2319,
+ "out": 161
+}

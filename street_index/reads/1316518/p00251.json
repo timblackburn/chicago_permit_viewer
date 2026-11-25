@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 251,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p00251_3240788.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Adams St\",\"direction\":\"W\",\"house_number\":\"4841\",\"permit_date\":\"1916-02-23\",\"permit_no\":\"A 37165\",\"notes\":\"Br B.; Book W 10 Page 14; Plan No. 890; Water No. 11398; File No. 3997; card dark with some faint handwriting\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Adams St",
+  "direction": "W",
+  "house_number": "4841",
+  "permit_date": "1916-02-23",
+  "permit_no": "A 37165",
+  "notes": "Br B.; Book W 10 Page 14; Plan No. 890; Water No. 11398; File No. 3997; card dark with some faint handwriting"
+ },
+ "in": 2266,
+ "out": 136
+}

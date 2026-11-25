@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 3250,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p03250_2800753.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Harrison St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"24696\",\"notes\":\"typed card, very faint and washed out; first line reads \\\"310? W. Harrison St.\\\" with last digit unreadable; second line \\\"1923 Harri...\\\" (possibly old addr: 1923 Harrison); date partly legible \\\"Mar ?, 19??\\\"; permit no. partly faint, 24696 probable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Harrison St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "24696",
+  "notes": "typed card, very faint and washed out; first line reads \"310? W. Harrison St.\" with last digit unreadable; second line \"1923 Harri...\" (possibly old addr: 1923 Harrison); date partly legible \"Mar ?, 19??\"; permit no. partly faint, 24696 probable"
+ },
+ "in": 2310,
+ "out": 181
+}

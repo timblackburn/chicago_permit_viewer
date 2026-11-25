@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 251,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p00251_2886449.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fletcher\",\"direction\":\"W\",\"house_number\":\"7014-18-20\",\"permit_date\":\"1915-08-18\",\"permit_no\":\"A 32674\",\"notes\":\"Br B.; Book N 12 Page 42; File No. 93170; 6914 written below permit no. (possibly old addr or other number); address at top is handwritten and hard to read, direction not clearly written; microfilm frame is dark and speckled\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fletcher",
+  "direction": "W",
+  "house_number": "7014-18-20",
+  "permit_date": "1915-08-18",
+  "permit_no": "A 32674",
+  "notes": "Br B.; Book N 12 Page 42; File No. 93170; 6914 written below permit no. (possibly old addr or other number); address at top is handwritten and hard to read, direction not clearly written; microfilm frame is dark and speckled"
+ },
+ "in": 2271,
+ "out": 170
+}

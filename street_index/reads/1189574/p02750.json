@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 2750,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p02750_2984207.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Damen Ave\",\"direction\":\"N\",\"house_number\":\"3520\",\"permit_date\":\"1897-10-16\",\"permit_no\":\"N 772\",\"notes\":\"old addr: 1979 N. Robey St; typed card, faint; date and permit no. partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Damen Ave",
+  "direction": "N",
+  "house_number": "3520",
+  "permit_date": "1897-10-16",
+  "permit_no": "N 772",
+  "notes": "old addr: 1979 N. Robey St; typed card, faint; date and permit no. partly faint"
+ },
+ "in": 2275,
+ "out": 119
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 750,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p00750_2977447.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fargo Ave\",\"direction\":\"W\",\"house_number\":\"7838\",\"permit_date\":\"1950-06-30\",\"permit_no\":\"B 10671\",\"notes\":\"1 sty B. Res.; Book 62 Page 2; Plan No. 8344; File No. 395675; house number first digit slightly unclear, read as 7838 (street filed between Fairfield and Farragut)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fargo Ave",
+  "direction": "W",
+  "house_number": "7838",
+  "permit_date": "1950-06-30",
+  "permit_no": "B 10671",
+  "notes": "1 sty B. Res.; Book 62 Page 2; Plan No. 8344; File No. 395675; house number first digit slightly unclear, read as 7838 (street filed between Fairfield and Farragut)"
+ },
+ "in": 2281,
+ "out": 159
+}

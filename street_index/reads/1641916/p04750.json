@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 4750,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p04750_3886185.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monticello Ave\",\"direction\":\"N\",\"house_number\":\"6043\",\"permit_date\":\"1950-11-13\",\"permit_no\":\"B 50924\",\"notes\":\"1-2 sty B Res + Gar; Book 62 Page 540; Plan no. 2198; File no. 403733\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monticello Ave",
+  "direction": "N",
+  "house_number": "6043",
+  "permit_date": "1950-11-13",
+  "permit_no": "B 50924",
+  "notes": "1-2 sty B Res + Gar; Book 62 Page 540; Plan no. 2198; File no. 403733"
+ },
+ "in": 2275,
+ "out": 128
+}

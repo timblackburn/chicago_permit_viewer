@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 3250,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p03250_2972445.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926-06-21\",\"permit_no\":\"11844\",\"notes\":\"Sundry; Three Sea boards (2-) 10x12 - 11x8x8; top line reads like 'N W cor 5th & Spaulding' (street address not given as house number); owner Roxanna Pet. Co.; plan no. 139970; dark, low-contrast film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926-06-21",
+  "permit_no": "11844",
+  "notes": "Sundry; Three Sea boards (2-) 10x12 - 11x8x8; top line reads like 'N W cor 5th & Spaulding' (street address not given as house number); owner Roxanna Pet. Co.; plan no. 139970; dark, low-contrast film"
+ },
+ "in": 2311,
+ "out": 168
+}

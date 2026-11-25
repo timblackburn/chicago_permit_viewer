@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 2250,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p02250_2861953.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Garfield Blvd\",\"direction\":\"W\",\"house_number\":\"1145\",\"permit_date\":\"1948-10-08\",\"permit_no\":\"B 19256\",\"notes\":\"1-2 sty rear addn. to mfg.; Book 59 Page 204; Plan No. 5360; File No. 369759; date stamp partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Garfield Blvd",
+  "direction": "W",
+  "house_number": "1145",
+  "permit_date": "1948-10-08",
+  "permit_no": "B 19256",
+  "notes": "1-2 sty rear addn. to mfg.; Book 59 Page 204; Plan No. 5360; File No. 369759; date stamp partly faint"
+ },
+ "in": 2277,
+ "out": 141
+}

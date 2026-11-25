@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 3250,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p03250_3858946.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nelson St\",\"direction\":\"\",\"house_number\":\"1338\",\"permit_date\":\"1910-08-08\",\"permit_no\":\"NW 22785\",\"notes\":\"Br B; Inspection No. 77553; no direction written on card; permit number prefix read as NW (uncertain); card has streaks and spots in lower portion; address 1338 is out of order for reel position but is clearly written.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nelson St",
+  "direction": "",
+  "house_number": "1338",
+  "permit_date": "1910-08-08",
+  "permit_no": "NW 22785",
+  "notes": "Br B; Inspection No. 77553; no direction written on card; permit number prefix read as NW (uncertain); card has streaks and spots in lower portion; address 1338 is out of order for reel position but is clearly written."
+ },
+ "in": 2326,
+ "out": 158
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 750,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p00750_3874212.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mozart St\",\"direction\":\"N\",\"house_number\":\"2045-47\",\"permit_date\":\"1890-12-16\",\"permit_no\":\"4457\",\"notes\":\"old addr: 276 Mozart; typed card; slightly faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mozart St",
+  "direction": "N",
+  "house_number": "2045-47",
+  "permit_date": "1890-12-16",
+  "permit_no": "4457",
+  "notes": "old addr: 276 Mozart; typed card; slightly faint in places"
+ },
+ "in": 2316,
+ "out": 110
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 4636,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p04636_3102467.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Broadway\",\"direction\":\"\",\"house_number\":\"4860\",\"permit_date\":\"1931-10-28\",\"permit_no\":\"78524\",\"notes\":\"Repair fire damage; Sundry; Plan no. 237626; no direction written; house number slightly faint, first digits read as 4860 (could be 5860 but filing order suggests 4860)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Broadway",
+  "direction": "",
+  "house_number": "4860",
+  "permit_date": "1931-10-28",
+  "permit_no": "78524",
+  "notes": "Repair fire damage; Sundry; Plan no. 237626; no direction written; house number slightly faint, first digits read as 4860 (could be 5860 but filing order suggests 4860)"
+ },
+ "in": 2276,
+ "out": 145
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 4706,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p04706_4138634.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Iowa St\",\"direction\":\"W\",\"house_number\":\"2129-39\",\"permit_date\":\"1903-04-20\",\"permit_no\":\"6358\",\"notes\":\"old addr: 173-83 Iowa St; direction W handwritten over a 'Ts' insertion above the number; typed card, faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Iowa St",
+  "direction": "W",
+  "house_number": "2129-39",
+  "permit_date": "1903-04-20",
+  "permit_no": "6358",
+  "notes": "old addr: 173-83 Iowa St; direction W handwritten over a 'Ts' insertion above the number; typed card, faint"
+ },
+ "in": 2273,
+ "out": 130
+}

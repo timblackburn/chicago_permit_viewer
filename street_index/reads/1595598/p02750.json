@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1595598",
+ "slide_index": 2750,
+ "image": "street_index/data/1595598/slides_pct_0-0-100-99_w1000/p02750_3797517.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1915-12-20\",\"permit_no\":\"A 36343\",\"notes\":\"Fr B.; Book S 16 Page 76; address at top is struck through and handwritten, not reliably readable (looks like 3301 S Parkside Ave, with a crossed-out line below); file no. 1736; 10327 handwritten; card is faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1915-12-20",
+  "permit_no": "A 36343",
+  "notes": "Fr B.; Book S 16 Page 76; address at top is struck through and handwritten, not reliably readable (looks like 3301 S Parkside Ave, with a crossed-out line below); file no. 1736; 10327 handwritten; card is faint and low contrast"
+ },
+ "in": 2311,
+ "out": 167
+}

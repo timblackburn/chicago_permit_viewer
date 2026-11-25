@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 4730,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p04730_2938757.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drake Ave\",\"direction\":\"S\",\"house_number\":\"3047\",\"permit_date\":\"1901-07-30\",\"permit_no\":\"603\",\"notes\":\"Card typed with stamped heading S. DRAKE AVE.; addresses listed as Clifton Pk. Ave. (3047 and 1480); old addr: 1480 Clifton Pk. Ave.; S.W. 603 (Sundry Work number); permit number read as 603; no kind of work stated\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drake Ave",
+  "direction": "S",
+  "house_number": "3047",
+  "permit_date": "1901-07-30",
+  "permit_no": "603",
+  "notes": "Card typed with stamped heading S. DRAKE AVE.; addresses listed as Clifton Pk. Ave. (3047 and 1480); old addr: 1480 Clifton Pk. Ave.; S.W. 603 (Sundry Work number); permit number read as 603; no kind of work stated"
+ },
+ "in": 2309,
+ "out": 186
+}

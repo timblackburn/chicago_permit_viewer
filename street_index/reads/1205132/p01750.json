@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 1750,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p01750_3016985.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Colfax Ave\",\"direction\":\"S\",\"house_number\":\"8349\",\"permit_date\":\"1940-08-14\",\"permit_no\":\"121473\",\"notes\":\"Frame Garage; Sundry; file no 292672; handwritten address faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Colfax Ave",
+  "direction": "S",
+  "house_number": "8349",
+  "permit_date": "1940-08-14",
+  "permit_no": "121473",
+  "notes": "Frame Garage; Sundry; file no 292672; handwritten address faint"
+ },
+ "in": 2272,
+ "out": 112
+}

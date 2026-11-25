@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 251,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p00251_3121213.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Berteau Ave\",\"direction\":\"\",\"house_number\":\"1413\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; first line reads \\\"1413 Berteau Ave\\\" (the 4 is partly unclear, could be 1113); second line \\\"94_ Berteau\\\" and third line \\\"09_\\\" too faint to read; permit number and date not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Berteau Ave",
+  "direction": "",
+  "house_number": "1413",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; first line reads \"1413 Berteau Ave\" (the 4 is partly unclear, could be 1113); second line \"94_ Berteau\" and third line \"09_\" too faint to read; permit number and date not readable"
+ },
+ "in": 2274,
+ "out": 163
+}

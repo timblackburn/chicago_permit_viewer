@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 251,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p00251_2806749.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harding Ave\",\"direction\":\"N\",\"house_number\":\"1525\",\"permit_date\":\"1927-08-28\",\"permit_no\":\"32516\",\"notes\":\"Enclose front porch (handwriting faint, partly read); Sundry; file no. 173345; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harding Ave",
+  "direction": "N",
+  "house_number": "1525",
+  "permit_date": "1927-08-28",
+  "permit_no": "32516",
+  "notes": "Enclose front porch (handwriting faint, partly read); Sundry; file no. 173345; card faint and low contrast"
+ },
+ "in": 2313,
+ "out": 125
+}

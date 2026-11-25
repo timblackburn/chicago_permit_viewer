@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 1750,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p01750_3255023.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"118th Pl\",\"direction\":\"E\",\"house_number\":\"143\",\"permit_date\":\"1926-06-19\",\"permit_no\":\"11761\",\"notes\":\"Veneer frame cottage; Sundry; plan no. 6145; file no. 139858 (approx.)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "118th Pl",
+  "direction": "E",
+  "house_number": "143",
+  "permit_date": "1926-06-19",
+  "permit_no": "11761",
+  "notes": "Veneer frame cottage; Sundry; plan no. 6145; file no. 139858 (approx.)"
+ },
+ "in": 2264,
+ "out": 119
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 2750,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p02750_4153246.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Isham Ave\",\"direction\":\"W\",\"house_number\":\"7431\",\"permit_date\":\"1951-04-24\",\"permit_no\":\"B 56779\",\"notes\":\"1-2 sty two apt. bldg; Book 63 Page 342; Plan no. 5200; File no. 409439; street name handwritten, reading Isham is a best guess\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Isham Ave",
+  "direction": "W",
+  "house_number": "7431",
+  "permit_date": "1951-04-24",
+  "permit_no": "B 56779",
+  "notes": "1-2 sty two apt. bldg; Book 63 Page 342; Plan no. 5200; File no. 409439; street name handwritten, reading Isham is a best guess"
+ },
+ "in": 2350,
+ "out": 145
+}

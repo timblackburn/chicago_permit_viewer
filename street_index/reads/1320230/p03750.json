@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 3750,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p03750_3244271.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Adams St\",\"direction\":\"W\",\"house_number\":\"105\",\"permit_date\":\"1942-12-24\",\"permit_no\":\"133284\",\"notes\":\"Int Alt on 1st floor; Sundry; plan no 3356; file no 313759; handwriting faint, permit number partly blurred\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Adams St",
+  "direction": "W",
+  "house_number": "105",
+  "permit_date": "1942-12-24",
+  "permit_no": "133284",
+  "notes": "Int Alt on 1st floor; Sundry; plan no 3356; file no 313759; handwriting faint, permit number partly blurred"
+ },
+ "in": 2268,
+ "out": 128
+}

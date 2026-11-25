@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 4706,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p04706_3823842.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oconto Ave\",\"direction\":\"N\",\"house_number\":\"6553\",\"permit_date\":\"1950-07-26\",\"permit_no\":\"B 12311\",\"notes\":\"1sty B. Res + Gar.; Book 62 Page 12-5; plan no. 9193; file no. 397255\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oconto Ave",
+  "direction": "N",
+  "house_number": "6553",
+  "permit_date": "1950-07-26",
+  "permit_no": "B 12311",
+  "notes": "1sty B. Res + Gar.; Book 62 Page 12-5; plan no. 9193; file no. 397255"
+ },
+ "in": 2317,
+ "out": 128
+}

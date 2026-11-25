@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 3168,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p03168_3299170.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"78th St\",\"direction\":\"W\",\"house_number\":\"517\",\"permit_date\":\"1926-01\",\"permit_no\":\"A 44959\",\"notes\":\"fr B. alt change use to flats; Book S Page 86; overexposed, faint; permit no. and date partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "78th St",
+  "direction": "W",
+  "house_number": "517",
+  "permit_date": "1926-01",
+  "permit_no": "A 44959",
+  "notes": "fr B. alt change use to flats; Book S Page 86; overexposed, faint; permit no. and date partly uncertain"
+ },
+ "in": 2308,
+ "out": 122
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 2250,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p02250_4143903.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Indiana Ave\",\"direction\":\"\",\"house_number\":\"5911\",\"permit_date\":\"1977-04-01\",\"permit_no\":\"80303\",\"notes\":\"Repair fire damage (handwritten, partly faint); Sundry stamp; file no 233515; date faint, read as Apr 1 1977 (possibly misread year); no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Indiana Ave",
+  "direction": "",
+  "house_number": "5911",
+  "permit_date": "1977-04-01",
+  "permit_no": "80303",
+  "notes": "Repair fire damage (handwritten, partly faint); Sundry stamp; file no 233515; date faint, read as Apr 1 1977 (possibly misread year); no direction written"
+ },
+ "in": 2275,
+ "out": 145
+}

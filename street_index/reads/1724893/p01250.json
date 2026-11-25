@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 1250,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p01250_4058246.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lawler Ave\",\"direction\":\"N\",\"house_number\":\"41\",\"permit_date\":\"1916-05-18\",\"permit_no\":\"A 39786\",\"notes\":\"Br B.; Book N 12 Page 474; house number 41 followed by a possible extra digit or mark (reads \\\"41 N\\\" with a small \\\"13\\\"-like mark), N direction partly uncertain; Water No. 14051; Plan No. 3903; File No. 10950; filed between 956 N Lawler and 636 N Lawndale so number may be 4113 or similar; fairly low contrast microfilm image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lawler Ave",
+  "direction": "N",
+  "house_number": "41",
+  "permit_date": "1916-05-18",
+  "permit_no": "A 39786",
+  "notes": "Br B.; Book N 12 Page 474; house number 41 followed by a possible extra digit or mark (reads \"41 N\" with a small \"13\"-like mark), N direction partly uncertain; Water No. 14051; Plan No. 3903; File No. 10950; filed between 956 N Lawler and 636 N Lawndale so number may be 4113 or similar; fairly low contrast microfilm image"
+ },
+ "in": 2312,
+ "out": 224
+}

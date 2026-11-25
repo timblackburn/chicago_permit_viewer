@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 750,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p00750_3687862.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"St. Lawrence Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint, overexposed card; top line appears to read '4949 S. ... St. Lawrence Ave'; house number only partly visible (4949?) so not given; second line 'Same'; permit no. possibly 22209 but unreliable; rest of card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "St. Lawrence Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint, overexposed card; top line appears to read '4949 S. ... St. Lawrence Ave'; house number only partly visible (4949?) so not given; second line 'Same'; permit no. possibly 22209 but unreliable; rest of card washed out"
+ },
+ "in": 2284,
+ "out": 164
+}

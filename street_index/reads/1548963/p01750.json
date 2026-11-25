@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 1750,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p01750_3704042.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Roosevelt Rd\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Header printed W. ROOSEVELT RD; handwritten top line looks like 2844 (N 12 St?) but unclear and not safely read as a house number, expected between 2237 and 3235; card very faint and washed out; stamped W A and B; file no. 26472 faintly visible; other entries too faint to read\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Roosevelt Rd",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Header printed W. ROOSEVELT RD; handwritten top line looks like 2844 (N 12 St?) but unclear and not safely read as a house number, expected between 2237 and 3235; card very faint and washed out; stamped W A and B; file no. 26472 faintly visible; other entries too faint to read"
+ },
+ "in": 2282,
+ "out": 181
+}

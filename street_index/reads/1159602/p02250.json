@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 2250,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p02250_2923226.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eggleston Ave\",\"direction\":\"S\",\"house_number\":\"12501\",\"permit_date\":\"1953-09-29\",\"permit_no\":\"B 100108\",\"notes\":\"Erect 1 sty Brick Residence (Frame struck out); Book 68 Page 33; Plan no. 4478; File no. 452262\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eggleston Ave",
+  "direction": "S",
+  "house_number": "12501",
+  "permit_date": "1953-09-29",
+  "permit_no": "B 100108",
+  "notes": "Erect 1 sty Brick Residence (Frame struck out); Book 68 Page 33; Plan no. 4478; File no. 452262"
+ },
+ "in": 2283,
+ "out": 137
+}

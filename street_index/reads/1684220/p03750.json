@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 3750,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p03750_3973404.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"May St\",\"direction\":\"S\",\"house_number\":\"2000\",\"permit_date\":\"1889-12-10\",\"permit_no\":\"3871\",\"notes\":\"old addr: 708 S May St; typed card, faint; date partly faint (year read as 1889)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "May St",
+  "direction": "S",
+  "house_number": "2000",
+  "permit_date": "1889-12-10",
+  "permit_no": "3871",
+  "notes": "old addr: 708 S May St; typed card, faint; date partly faint (year read as 1889)"
+ },
+ "in": 2230,
+ "out": 113
+}

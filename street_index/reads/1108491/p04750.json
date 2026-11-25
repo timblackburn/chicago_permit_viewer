@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 4750,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p04750_2818100.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"9859\",\"permit_date\":\"1941-03-25\",\"permit_no\":\"124282\",\"notes\":\"1 Sign Board 50x10; Sundry; owner General Outdoor Adv. Co.; plan/file no. 297893\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "9859",
+  "permit_date": "1941-03-25",
+  "permit_no": "124282",
+  "notes": "1 Sign Board 50x10; Sundry; owner General Outdoor Adv. Co.; plan/file no. 297893"
+ },
+ "in": 2239,
+ "out": 127
+}

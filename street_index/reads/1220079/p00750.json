@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 750,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p00750_3049280.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Chicago Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1913-01-18\",\"permit_no\":\"A 10682\",\"notes\":\"B.W.; house number written at top left is unclear (looks like 5011 or 3611, but not certain); Book W 12 Page 379 (book number uncertain); plan/water no. 82888; File No. 30288; dark, noisy scan\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Chicago Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1913-01-18",
+  "permit_no": "A 10682",
+  "notes": "B.W.; house number written at top left is unclear (looks like 5011 or 3611, but not certain); Book W 12 Page 379 (book number uncertain); plan/water no. 82888; File No. 30288; dark, noisy scan"
+ },
+ "in": 2280,
+ "out": 164
+}

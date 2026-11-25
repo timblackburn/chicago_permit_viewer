@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 2750,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p02750_3837874.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Northwest Hwy\",\"direction\":\"\",\"house_number\":\"5608-16\",\"permit_date\":\"1928-07-20\",\"permit_no\":\"45950\",\"notes\":\"Sign Board - 250 ft. front; Sundry; owner Gen. Outdoor Adv. Co.; plan/file no. 194223; microfilm image dark and slightly blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Northwest Hwy",
+  "direction": "",
+  "house_number": "5608-16",
+  "permit_date": "1928-07-20",
+  "permit_no": "45950",
+  "notes": "Sign Board - 250 ft. front; Sundry; owner Gen. Outdoor Adv. Co.; plan/file no. 194223; microfilm image dark and slightly blurry"
+ },
+ "in": 2273,
+ "out": 151
+}

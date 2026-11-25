@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 2250,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p02250_3571753.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Throop St\",\"direction\":\"S\",\"house_number\":\"8225\",\"permit_date\":\"1926-05-25\",\"permit_no\":\"6627\",\"notes\":\"4 Flats; Book S 37 Page 169; direction S faint, written beside number; permit no. handwritten and faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Throop St",
+  "direction": "S",
+  "house_number": "8225",
+  "permit_date": "1926-05-25",
+  "permit_no": "6627",
+  "notes": "4 Flats; Book S 37 Page 169; direction S faint, written beside number; permit no. handwritten and faint"
+ },
+ "in": 2270,
+ "out": 123
+}

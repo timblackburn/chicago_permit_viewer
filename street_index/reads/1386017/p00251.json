@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 251,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p00251_3382333.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"22nd Pl\",\"direction\":\"W\",\"house_number\":\"2203\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"2 sty brick; card very faint and overexposed; bottom numbers possibly 46 and 424 (unclear if book/page); permit no. and date not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "22nd Pl",
+  "direction": "W",
+  "house_number": "2203",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "2 sty brick; card very faint and overexposed; bottom numbers possibly 46 and 424 (unclear if book/page); permit no. and date not readable"
+ },
+ "in": 2263,
+ "out": 129
+}

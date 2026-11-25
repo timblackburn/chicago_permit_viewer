@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 259,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p00259_3435715.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"handwritten card, very faint and overexposed; top line looks like \\\"53?? S Wood Rd\\\" but the house number digits are unclear; permit number and date not readable; filing position between 4804 and 5943 is only a loose guide\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "handwritten card, very faint and overexposed; top line looks like \"53?? S Wood Rd\" but the house number digits are unclear; permit number and date not readable; filing position between 4804 and 5943 is only a loose guide"
+ },
+ "in": 2269,
+ "out": 148
+}

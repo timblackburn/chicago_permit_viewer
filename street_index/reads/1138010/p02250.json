@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 2250,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p02250_2882417.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Forest Ave\",\"direction\":\"S\",\"house_number\":\"10358\",\"permit_date\":\"1953-02-18\",\"permit_no\":\"B 87073\",\"notes\":\"Erect 1 sty Brick Residence; Book 66 Page 360; Plan no. 8448; File no. 439369\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Forest Ave",
+  "direction": "S",
+  "house_number": "10358",
+  "permit_date": "1953-02-18",
+  "permit_no": "B 87073",
+  "notes": "Erect 1 sty Brick Residence; Book 66 Page 360; Plan no. 8448; File no. 439369"
+ },
+ "in": 2307,
+ "out": 128
+}

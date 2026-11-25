@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 4250,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p04250_2929779.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eberhardt Ave\",\"direction\":\"\",\"house_number\":\"6620\",\"permit_date\":\"1901-06-24\",\"permit_no\":\"\",\"notes\":\"old addr: 6620 Vincennes Ave; typed card, faint; $841 cost; no direction written; no permit number visible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eberhardt Ave",
+  "direction": "",
+  "house_number": "6620",
+  "permit_date": "1901-06-24",
+  "permit_no": "",
+  "notes": "old addr: 6620 Vincennes Ave; typed card, faint; $841 cost; no direction written; no permit number visible"
+ },
+ "in": 2280,
+ "out": 127
+}

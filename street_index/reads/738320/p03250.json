@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 3250,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p03250_2070873.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Homan Ave\",\"direction\":\"S\",\"house_number\":\"5652\",\"permit_date\":\"1926-12-01\",\"permit_no\":\"20666\",\"notes\":\"Work line faint, appears to read \\\"2s auto shed\\\"; Sundry; file no. 154018; low contrast, handwriting faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Homan Ave",
+  "direction": "S",
+  "house_number": "5652",
+  "permit_date": "1926-12-01",
+  "permit_no": "20666",
+  "notes": "Work line faint, appears to read \"2s auto shed\"; Sundry; file no. 154018; low contrast, handwriting faint"
+ },
+ "in": 2311,
+ "out": 130
+}

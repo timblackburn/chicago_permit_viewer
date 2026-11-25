@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 1750,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p01750_4077444.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake Shore Dr\",\"direction\":\"\",\"house_number\":\"732-760\",\"permit_date\":\"1931-12-10\",\"permit_no\":\"B 38550\",\"notes\":\"Auditorium; Book C 41 Page 235; plan no. 2194 AB432 (struck), water no. 24100, file no. 238328; dark, noisy film with some stamped/overwritten text\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake Shore Dr",
+  "direction": "",
+  "house_number": "732-760",
+  "permit_date": "1931-12-10",
+  "permit_no": "B 38550",
+  "notes": "Auditorium; Book C 41 Page 235; plan no. 2194 AB432 (struck), water no. 24100, file no. 238328; dark, noisy film with some stamped/overwritten text"
+ },
+ "in": 2315,
+ "out": 156
+}

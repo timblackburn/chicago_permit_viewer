@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 1753,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p01753_3264677.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"110th St\",\"direction\":\"W\",\"house_number\":\"2041-3\",\"permit_date\":\"1922-04-18\",\"permit_no\":\"A 67161\",\"notes\":\"B. Res; Page 26; water no 41942; handwritten address read as '2041-3 W 110 th St', card faint and low contrast; permit no partly uncertain; top line also has '2039' (possibly old addr or other reference)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "110th St",
+  "direction": "W",
+  "house_number": "2041-3",
+  "permit_date": "1922-04-18",
+  "permit_no": "A 67161",
+  "notes": "B. Res; Page 26; water no 41942; handwritten address read as '2041-3 W 110 th St', card faint and low contrast; permit no partly uncertain; top line also has '2039' (possibly old addr or other reference)"
+ },
+ "in": 2263,
+ "out": 162
+}

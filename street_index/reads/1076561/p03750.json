@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 3750,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p03750_4114380.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hutchinson St\",\"direction\":\"\",\"house_number\":\"803\",\"permit_date\":\"1928-04-20\",\"permit_no\":\"41340\",\"notes\":\"Brick Garage; Sundry; old addr: 803 Kenmore Terrace (crossed out, struck through); no direction written; stamped card, fairly faint; file no. 187259\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hutchinson St",
+  "direction": "",
+  "house_number": "803",
+  "permit_date": "1928-04-20",
+  "permit_no": "41340",
+  "notes": "Brick Garage; Sundry; old addr: 803 Kenmore Terrace (crossed out, struck through); no direction written; stamped card, fairly faint; file no. 187259"
+ },
+ "in": 2309,
+ "out": 145
+}

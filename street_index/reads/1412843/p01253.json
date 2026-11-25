@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 1253,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p01253_3433718.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1928\",\"permit_no\":\"\",\"notes\":\"card very faint and overexposed; top line reads approx '83?? S Wood St' but house number not reliable; permit no. and plan no. unreadable; file no. possibly 20077?; year 1928 partly visible at right; kind of work line unreadable; mason line has faint writing\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1928",
+  "permit_no": "",
+  "notes": "card very faint and overexposed; top line reads approx '83?? S Wood St' but house number not reliable; permit no. and plan no. unreadable; file no. possibly 20077?; year 1928 partly visible at right; kind of work line unreadable; mason line has faint writing"
+ },
+ "in": 2271,
+ "out": 165
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 3750,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p03750_3084397.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Calumet Ave\",\"direction\":\"\",\"house_number\":\"4217-19\",\"permit_date\":\"1895-05-23\",\"permit_no\":\"1145\",\"notes\":\"typed card; \\\"Same\\\" written on the building-type line; no direction given; permit number reads 1145 (the 4 appears overtyped)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Calumet Ave",
+  "direction": "",
+  "house_number": "4217-19",
+  "permit_date": "1895-05-23",
+  "permit_no": "1145",
+  "notes": "typed card; \"Same\" written on the building-type line; no direction given; permit number reads 1145 (the 4 appears overtyped)"
+ },
+ "in": 2273,
+ "out": 132
+}

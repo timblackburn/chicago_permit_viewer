@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 1250,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p01250_4083438.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake St\",\"direction\":\"W\",\"house_number\":\"925-31\",\"permit_date\":\"1907-03-28\",\"permit_no\":\"28966\",\"notes\":\"Factory; typed card; old addr: 251-7 W Lake St; \\\"To\\\" handwritten above new address\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake St",
+  "direction": "W",
+  "house_number": "925-31",
+  "permit_date": "1907-03-28",
+  "permit_no": "28966",
+  "notes": "Factory; typed card; old addr: 251-7 W Lake St; \"To\" handwritten above new address"
+ },
+ "in": 2306,
+ "out": 120
+}

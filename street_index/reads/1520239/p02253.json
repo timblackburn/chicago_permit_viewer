@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 2253,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p02253_3646179.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"South Shore Dr\",\"direction\":\"\",\"house_number\":\"7240\",\"permit_date\":\"1950\",\"permit_no\":\"B 38881\",\"notes\":\"Convert 3 apts into 7 apts; Book 61 Page 124; Plan No. 4819; File No. 389650; date of permit faint, partly obscured (Mar 1950?); card has streaks and damage along the bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "South Shore Dr",
+  "direction": "",
+  "house_number": "7240",
+  "permit_date": "1950",
+  "permit_no": "B 38881",
+  "notes": "Convert 3 apts into 7 apts; Book 61 Page 124; Plan No. 4819; File No. 389650; date of permit faint, partly obscured (Mar 1950?); card has streaks and damage along the bottom"
+ },
+ "in": 2278,
+ "out": 159
+}

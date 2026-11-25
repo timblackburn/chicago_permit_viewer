@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 750,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p00750_4197037.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kenwood Ave\",\"direction\":\"\",\"house_number\":\"5500\",\"permit_date\":\"1924-09-19\",\"permit_no\":\"51950\",\"notes\":\"Sundry; plan no. 9244; file no. 85726; no direction written on card; image is dark and low contrast but handwriting readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kenwood Ave",
+  "direction": "",
+  "house_number": "5500",
+  "permit_date": "1924-09-19",
+  "permit_no": "51950",
+  "notes": "Sundry; plan no. 9244; file no. 85726; no direction written on card; image is dark and low contrast but handwriting readable"
+ },
+ "in": 2318,
+ "out": 130
+}

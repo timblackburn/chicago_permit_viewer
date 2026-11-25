@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 4250,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p04250_3774201.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"39th St\",\"direction\":\"W\",\"house_number\":\"1656-8\",\"permit_date\":\"1921-10-31\",\"permit_no\":\"35862\",\"notes\":\"Buick Garage; stamped Pershing Rd Sundry; Sundry; street name written as W. 39th, stamped Pershing Rd; plan no 9960; file no 178401; film dark and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "39th St",
+  "direction": "W",
+  "house_number": "1656-8",
+  "permit_date": "1921-10-31",
+  "permit_no": "35862",
+  "notes": "Buick Garage; stamped Pershing Rd Sundry; Sundry; street name written as W. 39th, stamped Pershing Rd; plan no 9960; file no 178401; film dark and low contrast"
+ },
+ "in": 2279,
+ "out": 154
+}

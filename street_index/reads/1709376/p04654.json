@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 4654,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p04654_4020592.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lowell Ave\",\"direction\":\"N\",\"house_number\":\"1817-25\",\"permit_date\":\"1923-05\",\"permit_no\":\"A 78808\",\"notes\":\"B. Cott; Book W 24 Page 562; Plan 4183; Water 63706; File 41167; date partly obscured (May ?? 1923); address written over with 'to' between numbers, possibly 1817 to 25; faint microfilm\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lowell Ave",
+  "direction": "N",
+  "house_number": "1817-25",
+  "permit_date": "1923-05",
+  "permit_no": "A 78808",
+  "notes": "B. Cott; Book W 24 Page 562; Plan 4183; Water 63706; File 41167; date partly obscured (May ?? 1923); address written over with 'to' between numbers, possibly 1817 to 25; faint microfilm"
+ },
+ "in": 2314,
+ "out": 169
+}

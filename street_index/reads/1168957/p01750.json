@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 1750,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p01750_2944793.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Division St\",\"direction\":\"W\",\"house_number\":\"5815-25\",\"permit_date\":\"1924-09-20\",\"permit_no\":\"A 95531\",\"notes\":\"B. Theatre & Store; W3 Page 116; plan 9235; water no. 79707; file no. 85841; house number partly overwritten, range read as 5815-25; date stamp partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Division St",
+  "direction": "W",
+  "house_number": "5815-25",
+  "permit_date": "1924-09-20",
+  "permit_no": "A 95531",
+  "notes": "B. Theatre & Store; W3 Page 116; plan 9235; water no. 79707; file no. 85841; house number partly overwritten, range read as 5815-25; date stamp partly faint"
+ },
+ "in": 2304,
+ "out": 151
+}

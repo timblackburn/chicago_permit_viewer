@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 3750,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p03750_2820098.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"6700\",\"permit_date\":\"1944-07-07\",\"permit_no\":\"139657\",\"notes\":\"Rebuild Br. Chimney - 15' high; Sundry; file no. 324059; faint handwriting at top\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "6700",
+  "permit_date": "1944-07-07",
+  "permit_no": "139657",
+  "notes": "Rebuild Br. Chimney - 15' high; Sundry; file no. 324059; faint handwriting at top"
+ },
+ "in": 2240,
+ "out": 123
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 1750,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p01750_2964775.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dearborn St\",\"direction\":\"S\",\"house_number\":\"132-48\",\"permit_date\":\"1891-11-23\",\"permit_no\":\"4212\",\"notes\":\"typed card, faint; second address line: 194-210 Dearborn St; \\\"to\\\" handwritten above 132-48 (written 132 to 48)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dearborn St",
+  "direction": "S",
+  "house_number": "132-48",
+  "permit_date": "1891-11-23",
+  "permit_no": "4212",
+  "notes": "typed card, faint; second address line: 194-210 Dearborn St; \"to\" handwritten above 132-48 (written 132 to 48)"
+ },
+ "in": 2310,
+ "out": 134
+}

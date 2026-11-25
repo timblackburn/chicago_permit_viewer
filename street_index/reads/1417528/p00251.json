@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 251,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p00251_3444919.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wolcott Ave\",\"direction\":\"N\",\"house_number\":\"3701-09\",\"permit_date\":\"1916-04-18\",\"permit_no\":\"A 38822\",\"notes\":\"Br B.; Book W 10 Page 63; handwritten address reads approx \\\"3701-09 N Lincoln\\\" under printed stamp WOLCOTT AVE; water no. 17691; plan no. 2765; file no. 8098; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wolcott Ave",
+  "direction": "N",
+  "house_number": "3701-09",
+  "permit_date": "1916-04-18",
+  "permit_no": "A 38822",
+  "notes": "Br B.; Book W 10 Page 63; handwritten address reads approx \"3701-09 N Lincoln\" under printed stamp WOLCOTT AVE; water no. 17691; plan no. 2765; file no. 8098; card faint and low contrast"
+ },
+ "in": 2312,
+ "out": 179
+}

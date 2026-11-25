@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 4750,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p04750_3082341.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Calumet Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1921-12-06\",\"permit_no\":\"A 64359\",\"notes\":\"B. Cottages (6 Bldgs.); address line reads 8113-17-19-25-37-53 Calumet Ave. with the digit after 19- partly obscured and no direction written, so the house number is not given; Book S 23 Page 431; Plan 7533; Water 39065; File 3705; permit no. partly faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Calumet Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1921-12-06",
+  "permit_no": "A 64359",
+  "notes": "B. Cottages (6 Bldgs.); address line reads 8113-17-19-25-37-53 Calumet Ave. with the digit after 19- partly obscured and no direction written, so the house number is not given; Book S 23 Page 431; Plan 7533; Water 39065; File 3705; permit no. partly faint"
+ },
+ "in": 2273,
+ "out": 192
+}

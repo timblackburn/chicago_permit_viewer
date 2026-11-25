@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 2750,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p02750_4034851.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Logan Blvd\",\"direction\":\"\",\"house_number\":\"2707\",\"permit_date\":\"1909-03-29\",\"permit_no\":\"11171\",\"notes\":\"typed card; second address 1?42 Humboldt Blvd (first digit faint, likely 1742), possibly old addr: 1?42 Humboldt Blvd; date digits partly faint; permit no. 11171 last digit faint; speckled film noise; no direction written; no building type shown.\\u0020\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Logan Blvd",
+  "direction": "",
+  "house_number": "2707",
+  "permit_date": "1909-03-29",
+  "permit_no": "11171",
+  "notes": "typed card; second address 1?42 Humboldt Blvd (first digit faint, likely 1742), possibly old addr: 1?42 Humboldt Blvd; date digits partly faint; permit no. 11171 last digit faint; speckled film noise; no direction written; no building type shown. "
+ },
+ "in": 2239,
+ "out": 185
+}

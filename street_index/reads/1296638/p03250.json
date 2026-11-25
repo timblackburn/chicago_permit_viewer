@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 3250,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p03250_3197853.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"W\",\"house_number\":\"309\",\"permit_date\":\"1954-11-30\",\"permit_no\":\"A 122553\",\"notes\":\"Interlocks on Elev; File No. 474480; permit number slightly smudged, last digits uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "W",
+  "house_number": "309",
+  "permit_date": "1954-11-30",
+  "permit_no": "A 122553",
+  "notes": "Interlocks on Elev; File No. 474480; permit number slightly smudged, last digits uncertain"
+ },
+ "in": 2279,
+ "out": 122
+}

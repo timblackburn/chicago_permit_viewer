@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 3250,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p03250_3115195.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bishop St\",\"direction\":\"\",\"house_number\":\"8600-04\",\"permit_date\":\"1929-02-09\",\"permit_no\":\"B 30336\",\"notes\":\"B Church; Book S 45 Page 540; no direction written on card; plan no. A13 243; water no. 16024; file no. 203290; faint ledger stamp\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bishop St",
+  "direction": "",
+  "house_number": "8600-04",
+  "permit_date": "1929-02-09",
+  "permit_no": "B 30336",
+  "notes": "B Church; Book S 45 Page 540; no direction written on card; plan no. A13 243; water no. 16024; file no. 203290; faint ledger stamp"
+ },
+ "in": 2275,
+ "out": 141
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 3750,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p03750_2799754.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harrison St\",\"direction\":\"W\",\"house_number\":\"4048-52\",\"permit_date\":\"1925-04-17\",\"permit_no\":\"A 102596\",\"notes\":\"Garage; Sundry; Book W 32 Page 468; plan no. 4245; water no. 78204; file no. 102190; card is faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harrison St",
+  "direction": "W",
+  "house_number": "4048-52",
+  "permit_date": "1925-04-17",
+  "permit_no": "A 102596",
+  "notes": "Garage; Sundry; Book W 32 Page 468; plan no. 4245; water no. 78204; file no. 102190; card is faint and low contrast"
+ },
+ "in": 2273,
+ "out": 140
+}

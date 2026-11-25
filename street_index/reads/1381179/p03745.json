@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 3745,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p03745_3365573.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten top line reads roughly 'S W Cor 35th & Lowe' (corner location, no house number); owner appears to be '... Co'; file no 150776; very faint and low contrast; permit no. unreadable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926",
+  "permit_no": "",
+  "notes": "Sundry; handwritten top line reads roughly 'S W Cor 35th & Lowe' (corner location, no house number); owner appears to be '... Co'; file no 150776; very faint and low contrast; permit no. unreadable"
+ },
+ "in": 2302,
+ "out": 148
+}

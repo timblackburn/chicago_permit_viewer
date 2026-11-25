@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 251,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p00251_3999746.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Malden St\",\"direction\":\"\",\"house_number\":\"4405\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Sundry; File no. 69H14; date partly legible (month/day unclear, year 1924); no direction written; street type not on card; card faint and overexposed; permit no. blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Malden St",
+  "direction": "",
+  "house_number": "4405",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Sundry; File no. 69H14; date partly legible (month/day unclear, year 1924); no direction written; street type not on card; card faint and overexposed; permit no. blank"
+ },
+ "in": 2309,
+ "out": 134
+}

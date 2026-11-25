@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 4250,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p04250_3652497.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sheridan Rd\",\"direction\":\"\",\"house_number\":\"6420-48\",\"permit_date\":\"1926-07-21\",\"permit_no\":\"A 8606\",\"notes\":\"Filling Sta.; Book N 38 Page 83; no direction written on card; permit no. read as A 8606 (handwriting uncertain); plan no. 7293; water no. 93849; file no. 142627; microfilm has streaks at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sheridan Rd",
+  "direction": "",
+  "house_number": "6420-48",
+  "permit_date": "1926-07-21",
+  "permit_no": "A 8606",
+  "notes": "Filling Sta.; Book N 38 Page 83; no direction written on card; permit no. read as A 8606 (handwriting uncertain); plan no. 7293; water no. 93849; file no. 142627; microfilm has streaks at bottom"
+ },
+ "in": 2319,
+ "out": 172
+}

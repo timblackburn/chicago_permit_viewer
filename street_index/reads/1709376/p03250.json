@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 3250,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p03250_4023253.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lowe Ave\",\"direction\":\"\",\"house_number\":\"3700\",\"permit_date\":\"1887-11\",\"permit_no\":\"3618\",\"notes\":\"Same; no direction written on card; permit date faint, reads like Nov 2?, 1887 (day unclear); permit number faint, last digit uncertain (3618)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lowe Ave",
+  "direction": "",
+  "house_number": "3700",
+  "permit_date": "1887-11",
+  "permit_no": "3618",
+  "notes": "Same; no direction written on card; permit date faint, reads like Nov 2?, 1887 (day unclear); permit number faint, last digit uncertain (3618)"
+ },
+ "in": 2313,
+ "out": 137
+}

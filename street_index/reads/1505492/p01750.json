@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 1750,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p01750_3619452.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Stony Island Ave\",\"direction\":\"S\",\"house_number\":\"7042\",\"permit_date\":\"1908-01\",\"permit_no\":\"\",\"notes\":\"Owner/work line reads \\\"Same\\\"; number at left looks like \\\"59\\\" (very faint, not read as permit no); date reads \\\"Jan. 1?, 1908\\\", day unclear; card very faint and overexposed, typed\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Stony Island Ave",
+  "direction": "S",
+  "house_number": "7042",
+  "permit_date": "1908-01",
+  "permit_no": "",
+  "notes": "Owner/work line reads \"Same\"; number at left looks like \"59\" (very faint, not read as permit no); date reads \"Jan. 1?, 1908\", day unclear; card very faint and overexposed, typed"
+ },
+ "in": 2314,
+ "out": 157
+}

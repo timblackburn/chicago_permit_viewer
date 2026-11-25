@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 3250,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p03250_4074423.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Langley Ave\",\"direction\":\"\",\"house_number\":\"3802\",\"permit_date\":\"\",\"permit_no\":\"107682\",\"notes\":\"Sundry; 2 CTY (kind of work faint); permit no. faint and partly unclear; date of permit faint/unreadable; no direction written; low contrast card with dark border and specks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Langley Ave",
+  "direction": "",
+  "house_number": "3802",
+  "permit_date": "",
+  "permit_no": "107682",
+  "notes": "Sundry; 2 CTY (kind of work faint); permit no. faint and partly unclear; date of permit faint/unreadable; no direction written; low contrast card with dark border and specks"
+ },
+ "in": 2306,
+ "out": 140
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 3250,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p03250_4013638.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mackinaw Ave\",\"direction\":\"\",\"house_number\":\"8260\",\"permit_date\":\"\",\"permit_no\":\"103568\",\"notes\":\"Frame house (handwritten, 'Frame house'); stamped Sundry; file no 266767; date of permit mostly illegible; no direction written; permit no faint; film edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mackinaw Ave",
+  "direction": "",
+  "house_number": "8260",
+  "permit_date": "",
+  "permit_no": "103568",
+  "notes": "Frame house (handwritten, 'Frame house'); stamped Sundry; file no 266767; date of permit mostly illegible; no direction written; permit no faint; film edge damaged"
+ },
+ "in": 2313,
+ "out": 142
+}

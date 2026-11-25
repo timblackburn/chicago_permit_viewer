@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 3750,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p03750_2879449.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Foster Ave\",\"direction\":\"W\",\"house_number\":\"5301\",\"permit_date\":\"1953-07-20\",\"permit_no\":\"B 95816\",\"notes\":\"Erect 2 sty Brick Residence (Duplex); Book 67 Page 352; Plan no. 2H9H; File no. 447999\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Foster Ave",
+  "direction": "W",
+  "house_number": "5301",
+  "permit_date": "1953-07-20",
+  "permit_no": "B 95816",
+  "notes": "Erect 2 sty Brick Residence (Duplex); Book 67 Page 352; Plan no. 2H9H; File no. 447999"
+ },
+ "in": 2321,
+ "out": 135
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1061560",
+ "slide_index": 1750,
+ "image": "street_index/data/1061560/slides_pct_0-0-100-99_w1000/p01750_4165168.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Jefferson St\",\"direction\":\"S\",\"house_number\":\"1314\",\"permit_date\":\"1950-06-01\",\"permit_no\":\"B 43741\",\"notes\":\"Convert 9 apts into 4 apts; Book 61 Page 470; Plan No. 7375; File No. 393811\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Jefferson St",
+  "direction": "S",
+  "house_number": "1314",
+  "permit_date": "1950-06-01",
+  "permit_no": "B 43741",
+  "notes": "Convert 9 apts into 4 apts; Book 61 Page 470; Plan No. 7375; File No. 393811"
+ },
+ "in": 2318,
+ "out": 128
+}

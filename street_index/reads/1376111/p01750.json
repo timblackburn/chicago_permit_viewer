@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 1750,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p01750_3359439.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"46th St\",\"direction\":\"W\",\"house_number\":\"621\",\"permit_date\":\"\",\"permit_no\":\"98740\",\"notes\":\"Replace post fd; Sundry; card faint, permit number and date partly unclear; file no. 210287 (approx.)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "46th St",
+  "direction": "W",
+  "house_number": "621",
+  "permit_date": "",
+  "permit_no": "98740",
+  "notes": "Replace post fd; Sundry; card faint, permit number and date partly unclear; file no. 210287 (approx.)"
+ },
+ "in": 2266,
+ "out": 115
+}

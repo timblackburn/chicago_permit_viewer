@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 3250,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p03250_4115365.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Huron St\",\"direction\":\"W\",\"house_number\":\"754\",\"permit_date\":\"1898-05-09\",\"permit_no\":\"\",\"notes\":\"old addr: 2518 W. Huron St.; N.W. 307 written on card; typed card, lower lines faint; no permit number shown\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Huron St",
+  "direction": "W",
+  "house_number": "754",
+  "permit_date": "1898-05-09",
+  "permit_no": "",
+  "notes": "old addr: 2518 W. Huron St.; N.W. 307 written on card; typed card, lower lines faint; no permit number shown"
+ },
+ "in": 2307,
+ "out": 125
+}

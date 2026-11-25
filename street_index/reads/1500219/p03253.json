@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 3253,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p03253_3606185.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washtenaw Ave\",\"direction\":\"N\",\"house_number\":\"1410\",\"permit_date\":\"1913-07\",\"permit_no\":\"A 15160\",\"notes\":\"Br B.; Book W 2 Page 529; ledger no. 88378 written below permit no.; date stamp faint (Jul 1913), day not readable; card photographed with dark edges and some fading; permit no. last digits uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washtenaw Ave",
+  "direction": "N",
+  "house_number": "1410",
+  "permit_date": "1913-07",
+  "permit_no": "A 15160",
+  "notes": "Br B.; Book W 2 Page 529; ledger no. 88378 written below permit no.; date stamp faint (Jul 1913), day not readable; card photographed with dark edges and some fading; permit no. last digits uncertain"
+ },
+ "in": 2317,
+ "out": 165
+}

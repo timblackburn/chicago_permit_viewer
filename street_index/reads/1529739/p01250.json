@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 1250,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p01250_3667513.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"School St\",\"direction\":\"\",\"house_number\":\"1800\",\"permit_date\":\"\",\"permit_no\":\"99267\",\"notes\":\"Sundry; work line: \\\"Level up cixty ft\\\" (handwriting hard to read); date stamp reads \\\"JUL 21\\\" but year not legible; card faint and low contrast, bottom edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "School St",
+  "direction": "",
+  "house_number": "1800",
+  "permit_date": "",
+  "permit_no": "99267",
+  "notes": "Sundry; work line: \"Level up cixty ft\" (handwriting hard to read); date stamp reads \"JUL 21\" but year not legible; card faint and low contrast, bottom edge damaged"
+ },
+ "in": 2309,
+ "out": 143
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 750,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p00750_3811473.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Olive Ave\",\"direction\":\"N\",\"house_number\":\"1512\",\"permit_date\":\"1912-05-16\",\"permit_no\":\"A 3872\",\"notes\":\"old addr: 134 (struck through, uncertain); ledger Book N Page 194; file no. 13149; building type marked B; torn upper right corner, faded film edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Olive Ave",
+  "direction": "N",
+  "house_number": "1512",
+  "permit_date": "1912-05-16",
+  "permit_no": "A 3872",
+  "notes": "old addr: 134 (struck through, uncertain); ledger Book N Page 194; file no. 13149; building type marked B; torn upper right corner, faded film edges"
+ },
+ "in": 2276,
+ "out": 142
+}

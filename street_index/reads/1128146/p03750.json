@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 3750,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p03750_2858977.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Giddings St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1917-02-23\",\"permit_no\":\"A 45307\",\"notes\":\"Br B.; Book N 15 Page 193; top line handwritten, house number is unclear (starts with 'W 5' possibly, direction W only a guess); plan no. 546, water no. 19303, file no. 27057; dark, noisy frame\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Giddings St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1917-02-23",
+  "permit_no": "A 45307",
+  "notes": "Br B.; Book N 15 Page 193; top line handwritten, house number is unclear (starts with 'W 5' possibly, direction W only a guess); plan no. 546, water no. 19303, file no. 27057; dark, noisy frame"
+ },
+ "in": 2189,
+ "out": 165
+}

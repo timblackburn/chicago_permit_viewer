@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 4250,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p04250_3316027.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"67th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1925-06-15\",\"permit_no\":\"11209\",\"notes\":\"alterations; Sundry; handwritten address reads like '608-10 E 67 St' but house number and direction are uncertain (the card sits between 66th Pl and 67th St W cards, so the direction is unclear); permit no. faint; file no. faint; stamped JUN 15 1925 (year partly unclear)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "67th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1925-06-15",
+  "permit_no": "11209",
+  "notes": "alterations; Sundry; handwritten address reads like '608-10 E 67 St' but house number and direction are uncertain (the card sits between 66th Pl and 67th St W cards, so the direction is unclear); permit no. faint; file no. faint; stamped JUN 15 1925 (year partly unclear)"
+ },
+ "in": 2269,
+ "out": 182
+}

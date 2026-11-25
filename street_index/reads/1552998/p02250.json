@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 2250,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p02250_3714308.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeway Ave\",\"direction\":\"S\",\"house_number\":\"4727\",\"permit_date\":\"\",\"permit_no\":\"5700\",\"notes\":\"in brick (work type partly faint); Plan no. 2780; water no. 3004(?); file no. 17(?); date of permit faint, appears to be July 11, year unreadable; handwritten S 49 / 481 near bottom, possibly ledger reference; very high contrast, faint and overexposed scan; permit no. uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeway Ave",
+  "direction": "S",
+  "house_number": "4727",
+  "permit_date": "",
+  "permit_no": "5700",
+  "notes": "in brick (work type partly faint); Plan no. 2780; water no. 3004(?); file no. 17(?); date of permit faint, appears to be July 11, year unreadable; handwritten S 49 / 481 near bottom, possibly ledger reference; very high contrast, faint and overexposed scan; permit no. uncertain"
+ },
+ "in": 2322,
+ "out": 191
+}

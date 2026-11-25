@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 4750,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p04750_3845967.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nova Ave\",\"direction\":\"N\",\"house_number\":\"3541\",\"permit_date\":\"1954-08-16\",\"permit_no\":\"B 116358\",\"notes\":\"Erect 1 sty Brick Residence (Frame struck out); Plan No. 2312; File No. 468326; handwritten address, street name 'Nova' is cursive and fairly clear; filed out of sequence for reel range\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nova Ave",
+  "direction": "N",
+  "house_number": "3541",
+  "permit_date": "1954-08-16",
+  "permit_no": "B 116358",
+  "notes": "Erect 1 sty Brick Residence (Frame struck out); Plan No. 2312; File No. 468326; handwritten address, street name 'Nova' is cursive and fairly clear; filed out of sequence for reel range"
+ },
+ "in": 2311,
+ "out": 162
+}

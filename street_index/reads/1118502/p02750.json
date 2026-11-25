@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 2750,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p02750_2841959.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Green St\",\"direction\":\"S\",\"house_number\":\"1225\",\"permit_date\":\"1916-08-23\",\"permit_no\":\"A 23812\",\"notes\":\"Kind of building: B; Inspection No. 7850; date stamp partly faint, year read as 1916; permit number handwritten at top right\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Green St",
+  "direction": "S",
+  "house_number": "1225",
+  "permit_date": "1916-08-23",
+  "permit_no": "A 23812",
+  "notes": "Kind of building: B; Inspection No. 7850; date stamp partly faint, year read as 1916; permit number handwritten at top right"
+ },
+ "in": 2273,
+ "out": 129
+}

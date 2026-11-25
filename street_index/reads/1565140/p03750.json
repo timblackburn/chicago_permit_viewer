@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 3750,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p03750_3735086.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ravenswood Ave\",\"direction\":\"\",\"house_number\":\"13\",\"permit_date\":\"1924-04-21\",\"permit_no\":\"A 499,12\",\"notes\":\"lot 463/ lot 503 handwritten; B. for Res; Book N 29 Page 290; Plan no 3538; File no 9173; street name read as Ravenswood but handwriting is uncertain; permit number partly unclear; card faint, direction not written; top line -63-6405-07-; water no lot 936; written with address 13 may be partial (lot 503/13)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ravenswood Ave",
+  "direction": "",
+  "house_number": "13",
+  "permit_date": "1924-04-21",
+  "permit_no": "A 499,12",
+  "notes": "lot 463/ lot 503 handwritten; B. for Res; Book N 29 Page 290; Plan no 3538; File no 9173; street name read as Ravenswood but handwriting is uncertain; permit number partly unclear; card faint, direction not written; top line -63-6405-07-; water no lot 936; written with address 13 may be partial (lot 503/13)"
+ },
+ "in": 2288,
+ "out": 212
+}

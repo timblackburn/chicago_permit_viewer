@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 4750,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p04750_4199664.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Jr. Dr\",\"direction\":\"S\",\"house_number\":\"2469\",\"permit_date\":\"1930-01-23\",\"permit_no\":\"63731\",\"notes\":\"Wreck Buck Bldg; Sundry; handwritten as \\\"So. Parkway\\\" (printed heading So. Martin L. King Jr. Drive); dark, noisy microfilm image; file no. 219925; date stamp partly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Jr. Dr",
+  "direction": "S",
+  "house_number": "2469",
+  "permit_date": "1930-01-23",
+  "permit_no": "63731",
+  "notes": "Wreck Buck Bldg; Sundry; handwritten as \"So. Parkway\" (printed heading So. Martin L. King Jr. Drive); dark, noisy microfilm image; file no. 219925; date stamp partly smudged"
+ },
+ "in": 2289,
+ "out": 174
+}

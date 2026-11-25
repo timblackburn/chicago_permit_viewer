@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 2250,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p02250_2773032.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Kedzie Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1925-11-03\",\"permit_no\":\"12444\",\"notes\":\"Steel Warehouse; Book AB 708 Page 37 (ledger ref partly faint); house number appears to be 9200 or 9266 but uncertain; water no. 85786; file no. 123256; card is grainy and faint in places\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Kedzie Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1925-11-03",
+  "permit_no": "12444",
+  "notes": "Steel Warehouse; Book AB 708 Page 37 (ledger ref partly faint); house number appears to be 9200 or 9266 but uncertain; water no. 85786; file no. 123256; card is grainy and faint in places"
+ },
+ "in": 2318,
+ "out": 163
+}

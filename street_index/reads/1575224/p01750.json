@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 1750,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p01750_3758948.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prairie Ave\",\"direction\":\"\",\"house_number\":\"7535-37\",\"permit_date\":\"1918-12-12\",\"permit_no\":\"A 50779\",\"notes\":\"Br B. 2 bldgs; Book S 19 Page 595; direction not written on card; plan no. 31193 (2616 also stamped); water no. 25168; handwriting for street name is cursive and house number is 7535/37 with a small mark above; film is grainy but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prairie Ave",
+  "direction": "",
+  "house_number": "7535-37",
+  "permit_date": "1918-12-12",
+  "permit_no": "A 50779",
+  "notes": "Br B. 2 bldgs; Book S 19 Page 595; direction not written on card; plan no. 31193 (2616 also stamped); water no. 25168; handwriting for street name is cursive and house number is 7535/37 with a small mark above; film is grainy but readable"
+ },
+ "in": 2280,
+ "out": 180
+}

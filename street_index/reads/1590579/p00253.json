@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 253,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p00253_3792232.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"S\",\"house_number\":\"1007\",\"permit_date\":\"1912-03-18\",\"permit_no\":\"A 1916\",\"notes\":\"Brick; Book W 2 Page 67; File No 8070; handwritten house number slightly faint, read as 1007 (between 625 S and 1342 N filing range)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "S",
+  "house_number": "1007",
+  "permit_date": "1912-03-18",
+  "permit_no": "A 1916",
+  "notes": "Brick; Book W 2 Page 67; File No 8070; handwritten house number slightly faint, read as 1007 (between 625 S and 1342 N filing range)"
+ },
+ "in": 2274,
+ "out": 142
+}

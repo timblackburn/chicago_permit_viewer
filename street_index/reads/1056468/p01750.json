@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 1750,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p01750_4174978.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Karlov Ave\",\"direction\":\"S\",\"house_number\":\"6416\",\"permit_date\":\"1954-05-11\",\"permit_no\":\"C 110548\",\"notes\":\"Erect 1 sty Residence; Book 69 Page 146; Plan no. 9584; File no. 462593; microfilm image is dark with faint stamped text\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Karlov Ave",
+  "direction": "S",
+  "house_number": "6416",
+  "permit_date": "1954-05-11",
+  "permit_no": "C 110548",
+  "notes": "Erect 1 sty Residence; Book 69 Page 146; Plan no. 9584; File no. 462593; microfilm image is dark with faint stamped text"
+ },
+ "in": 2316,
+ "out": 142
+}

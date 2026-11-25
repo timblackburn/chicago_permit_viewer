@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1669254",
+ "slide_index": 4733,
+ "image": "street_index/data/1669254/slides_pct_0-0-100-99_w1000/p04733_3940902.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Michigan Ave\",\"direction\":\"S\",\"house_number\":\"6101\",\"permit_date\":\"1949-07-20\",\"permit_no\":\"A 29544\",\"notes\":\"Grease Interceptor; File No. 379891; Book and Page blank; card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Michigan Ave",
+  "direction": "S",
+  "house_number": "6101",
+  "permit_date": "1949-07-20",
+  "permit_no": "A 29544",
+  "notes": "Grease Interceptor; File No. 379891; Book and Page blank; card slightly faint"
+ },
+ "in": 2326,
+ "out": 119
+}

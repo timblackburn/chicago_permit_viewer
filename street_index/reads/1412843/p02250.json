@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 2250,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p02250_3431728.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Woodlawn Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"16177\",\"notes\":\"handwritten address at top is very faint; street appears to be Woodlawn Ave, house number not readable (possibly 64xx); second line faint, likely work description; File No 366746; date of permit blank; no book/page; card faded and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Woodlawn Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "16177",
+  "notes": "handwritten address at top is very faint; street appears to be Woodlawn Ave, house number not readable (possibly 64xx); second line faint, likely work description; File No 366746; date of permit blank; no book/page; card faded and low contrast"
+ },
+ "in": 2306,
+ "out": 158
+}

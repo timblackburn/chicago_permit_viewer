@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 1250,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p01250_3489568.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wells St\",\"direction\":\"S\",\"house_number\":\"2916\",\"permit_date\":\"1924-08-01\",\"permit_no\":\"18811\",\"notes\":\"Sundry; file no. 809.76 (handwritten); card slightly faint and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wells St",
+  "direction": "S",
+  "house_number": "2916",
+  "permit_date": "1924-08-01",
+  "permit_no": "18811",
+  "notes": "Sundry; file no. 809.76 (handwritten); card slightly faint and noisy"
+ },
+ "in": 2269,
+ "out": 113
+}

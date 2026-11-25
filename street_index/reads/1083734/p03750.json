@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 3750,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p03750_2770035.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedzie Ave\",\"direction\":\"N\",\"house_number\":\"5719\",\"permit_date\":\"1950-05-17\",\"permit_no\":\"B 42929\",\"notes\":\"1sty B. Res.; Book 61 Page 419; Plan no. 6999; File no. 393006\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedzie Ave",
+  "direction": "N",
+  "house_number": "5719",
+  "permit_date": "1950-05-17",
+  "permit_no": "B 42929",
+  "notes": "1sty B. Res.; Book 61 Page 419; Plan no. 6999; File no. 393006"
+ },
+ "in": 2282,
+ "out": 124
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 1250,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p01250_3820798.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ogden Ave\",\"direction\":\"\",\"house_number\":\"2034\",\"permit_date\":\"1943\",\"permit_no\":\"136459\",\"notes\":\"Wrk 3 sty Brick (handwritten, partly uncertain); Sundry; File no. 318634; date stamp faint, only year 1943 readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ogden Ave",
+  "direction": "",
+  "house_number": "2034",
+  "permit_date": "1943",
+  "permit_no": "136459",
+  "notes": "Wrk 3 sty Brick (handwritten, partly uncertain); Sundry; File no. 318634; date stamp faint, only year 1943 readable"
+ },
+ "in": 2314,
+ "out": 134
+}

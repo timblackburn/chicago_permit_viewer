@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 3750,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p03750_3154822.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1919-10-27\",\"permit_no\":\"A 54\",\"notes\":\"Address line at top is faint and unreadable (handwriting looks like '10427/29/33 Ave G' but not confident); B b Res; Book S Page 295; Plan No 4047; File No 64350 approx; date stamp OCT 27 1919; card very faint and washed out; permit no partly legible\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1919-10-27",
+  "permit_no": "A 54",
+  "notes": "Address line at top is faint and unreadable (handwriting looks like '10427/29/33 Ave G' but not confident); B b Res; Book S Page 295; Plan No 4047; File No 64350 approx; date stamp OCT 27 1919; card very faint and washed out; permit no partly legible"
+ },
+ "in": 2273,
+ "out": 177
+}

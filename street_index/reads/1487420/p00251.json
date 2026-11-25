@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 251,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p00251_3585158.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talcott Ave\",\"direction\":\"W\",\"house_number\":\"7773-91\",\"permit_date\":\"1953-02\",\"permit_no\":\"H 86517\",\"notes\":\"18 - 275 Gal Fuel Oil Tanks; Plan 8028; File no. 438854; date of permit faint (stamp reads approx. FEB 1953); no book/page; street type not on card, Ave assumed\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talcott Ave",
+  "direction": "W",
+  "house_number": "7773-91",
+  "permit_date": "1953-02",
+  "permit_no": "H 86517",
+  "notes": "18 - 275 Gal Fuel Oil Tanks; Plan 8028; File no. 438854; date of permit faint (stamp reads approx. FEB 1953); no book/page; street type not on card, Ave assumed"
+ },
+ "in": 2271,
+ "out": 163
+}

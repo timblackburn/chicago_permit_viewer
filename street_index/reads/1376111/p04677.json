@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 4677,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p04677_3353556.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"48th St\",\"direction\":\"W\",\"house_number\":\"1745\",\"permit_date\":\"1937-11-30\",\"permit_no\":\"10757\",\"notes\":\"Repair fire damage - 18%; Sundry; permit no. and date faint, permit no. uncertain; file no. 271987 faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "48th St",
+  "direction": "W",
+  "house_number": "1745",
+  "permit_date": "1937-11-30",
+  "permit_no": "10757",
+  "notes": "Repair fire damage - 18%; Sundry; permit no. and date faint, permit no. uncertain; file no. 271987 faint"
+ },
+ "in": 2265,
+ "out": 127
+}

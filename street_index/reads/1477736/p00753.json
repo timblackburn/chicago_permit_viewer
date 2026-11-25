@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 753,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p00753_3564021.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Troy St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; two addresses appear: '1233 S. Troy St.' and '410 S. Troy St.' (digits uncertain), possibly a number '3072' below; no other details readable; old addr not determinable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Troy St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; two addresses appear: '1233 S. Troy St.' and '410 S. Troy St.' (digits uncertain), possibly a number '3072' below; no other details readable; old addr not determinable"
+ },
+ "in": 2312,
+ "out": 150
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 668,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p00668_3434893.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"6316\",\"permit_date\":\"1951\",\"permit_no\":\"A 106026\",\"notes\":\"Frame Garage; handwritten address at top is faint and overexposed, street name inferred from reel position, direction not clearly visible; permit number partly faint (reads 106026?); date partly obscured (1951); no ledger reference visible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "6316",
+  "permit_date": "1951",
+  "permit_no": "A 106026",
+  "notes": "Frame Garage; handwritten address at top is faint and overexposed, street name inferred from reel position, direction not clearly visible; permit number partly faint (reads 106026?); date partly obscured (1951); no ledger reference visible"
+ },
+ "in": 2272,
+ "out": 157
+}

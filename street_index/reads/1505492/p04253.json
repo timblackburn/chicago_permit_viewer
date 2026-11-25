@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 4253,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p04253_3614413.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Superior St\",\"direction\":\"W\",\"house_number\":\"2110\",\"permit_date\":\"\",\"permit_no\":\"103141\",\"notes\":\"Wreck ... (work line partly legible); Sundry stamp; File No. 266150; no date of permit; handwriting faint and house number digits partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Superior St",
+  "direction": "W",
+  "house_number": "2110",
+  "permit_date": "",
+  "permit_no": "103141",
+  "notes": "Wreck ... (work line partly legible); Sundry stamp; File No. 266150; no date of permit; handwriting faint and house number digits partly uncertain"
+ },
+ "in": 2304,
+ "out": 130
+}

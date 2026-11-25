@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 5250,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p05250_3708313.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"7024\",\"permit_date\":\"1951-08-17\",\"permit_no\":\"B 62964\",\"notes\":\"1 1/2 sty tav opt bldg (handwritten, partly faint); Book 64 Page 122; plan no. 7132; file no. 415499; high-contrast scan, address faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "7024",
+  "permit_date": "1951-08-17",
+  "permit_no": "B 62964",
+  "notes": "1 1/2 sty tav opt bldg (handwritten, partly faint); Book 64 Page 122; plan no. 7132; file no. 415499; high-contrast scan, address faint in places"
+ },
+ "in": 2353,
+ "out": 152
+}

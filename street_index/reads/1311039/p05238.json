@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 5238,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p05238_3223393.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Archer Ave\",\"direction\":\"\",\"house_number\":\"4101\",\"permit_date\":\"1950-10-10\",\"permit_no\":\"A 49230\",\"notes\":\"Alts for Launderette; Plan No. 402C79 (stamped), 1407 handwritten above; no direction written on card; low-contrast scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Archer Ave",
+  "direction": "",
+  "house_number": "4101",
+  "permit_date": "1950-10-10",
+  "permit_no": "A 49230",
+  "notes": "Alts for Launderette; Plan No. 402C79 (stamped), 1407 handwritten above; no direction written on card; low-contrast scan"
+ },
+ "in": 2274,
+ "out": 135
+}

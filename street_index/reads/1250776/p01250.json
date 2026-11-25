@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 1250,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p01250_3109066.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bosworth Ave\",\"direction\":\"N\",\"house_number\":\"1301\",\"permit_date\":\"1937-01-18\",\"permit_no\":\"102247\",\"notes\":\"Wreck 2 sty brick building; Sundry; file no. 265179; street name handwritten and partly overwritten (\\\"Dickson-St\\\" crossed/written beneath), faint film image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bosworth Ave",
+  "direction": "N",
+  "house_number": "1301",
+  "permit_date": "1937-01-18",
+  "permit_no": "102247",
+  "notes": "Wreck 2 sty brick building; Sundry; file no. 265179; street name handwritten and partly overwritten (\"Dickson-St\" crossed/written beneath), faint film image"
+ },
+ "in": 2277,
+ "out": 150
+}

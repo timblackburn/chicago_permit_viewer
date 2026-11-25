@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1669254",
+ "slide_index": 2250,
+ "image": "street_index/data/1669254/slides_pct_0-0-100-99_w1000/p02250_3946338.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Michigan Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1980-08-23\",\"permit_no\":\"B 46337\",\"notes\":\"1 sty store and abt 61 lbts (handwriting hard to read); Book 63 Page 189; card faint and washed out; house number looks like 1231 but is uncertain; date stamp reads AUG 23 1980 (likely misread of year)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Michigan Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1980-08-23",
+  "permit_no": "B 46337",
+  "notes": "1 sty store and abt 61 lbts (handwriting hard to read); Book 63 Page 189; card faint and washed out; house number looks like 1231 but is uncertain; date stamp reads AUG 23 1980 (likely misread of year)"
+ },
+ "in": 2323,
+ "out": 168
+}

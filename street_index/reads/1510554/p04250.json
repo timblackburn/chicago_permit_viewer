@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1510554",
+ "slide_index": 4250,
+ "image": "street_index/data/1510554/slides_pct_0-0-100-99_w1000/p04250_3623409.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"State St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1928-08-30\",\"permit_no\":\"\",\"notes\":\"Sign Board 20 x 6; Sundry; owner Bowman Bros (handwritten, uncertain); house number begins 76.. but last digits unreadable (frame order suggests 7600s-9900s); card faint and low contrast; permit no. not legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "State St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1928-08-30",
+  "permit_no": "",
+  "notes": "Sign Board 20 x 6; Sundry; owner Bowman Bros (handwritten, uncertain); house number begins 76.. but last digits unreadable (frame order suggests 7600s-9900s); card faint and low contrast; permit no. not legible"
+ },
+ "in": 2294,
+ "out": 163
+}

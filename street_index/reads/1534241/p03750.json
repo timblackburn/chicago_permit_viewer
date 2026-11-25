@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 3750,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p03750_3672703.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sawyer Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1924-05-19\",\"permit_no\":\"\",\"notes\":\"Stamped Sundry; file no. 73001 (handwritten); house number handwritten starting 38.. but unclear; permit no. faint and unreadable; date stamp reads May 19 1924\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sawyer Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1924-05-19",
+  "permit_no": "",
+  "notes": "Stamped Sundry; file no. 73001 (handwritten); house number handwritten starting 38.. but unclear; permit no. faint and unreadable; date stamp reads May 19 1924"
+ },
+ "in": 2280,
+ "out": 147
+}

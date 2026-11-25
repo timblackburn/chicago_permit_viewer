@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 251,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p00251_3019985.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clybourn Ave\",\"direction\":\"N\",\"house_number\":\"2264\",\"permit_date\":\"1952-12\",\"permit_no\":\"B 84961\",\"notes\":\"1-sty br retail str bldg; Book 66 Page 215; Plan no. 6768; File no. 437297; date stamp partly faint (DEC 8 195?), year inferred from form date 4-52 and not fully legible; handwriting faint and scan noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clybourn Ave",
+  "direction": "N",
+  "house_number": "2264",
+  "permit_date": "1952-12",
+  "permit_no": "B 84961",
+  "notes": "1-sty br retail str bldg; Book 66 Page 215; Plan no. 6768; File no. 437297; date stamp partly faint (DEC 8 195?), year inferred from form date 4-52 and not fully legible; handwriting faint and scan noisy"
+ },
+ "in": 2276,
+ "out": 175
+}

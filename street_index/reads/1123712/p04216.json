@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 4216,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p04216_2848013.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line appears to read 4041 W. Grand Ave. and second line 2062 Grand Ave. (old addr?), but digits are uncertain and 4041 conflicts with the reel position; permit no. possibly 0996 (unclear); date appears Jan. 25, 19?? (year illegible)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line appears to read 4041 W. Grand Ave. and second line 2062 Grand Ave. (old addr?), but digits are uncertain and 4041 conflicts with the reel position; permit no. possibly 0996 (unclear); date appears Jan. 25, 19?? (year illegible)"
+ },
+ "in": 2278,
+ "out": 187
+}

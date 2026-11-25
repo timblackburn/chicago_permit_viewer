@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 2750,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p02750_3934845.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Normandy Ave\",\"direction\":\"N\",\"house_number\":\"3121\",\"permit_date\":\"1947-04-24\",\"permit_no\":\"B 02215\",\"notes\":\"1-1 Sty. Res.; Bldg; Plan no 4613; File no 347632\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Normandy Ave",
+  "direction": "N",
+  "house_number": "3121",
+  "permit_date": "1947-04-24",
+  "permit_no": "B 02215",
+  "notes": "1-1 Sty. Res.; Bldg; Plan no 4613; File no 347632"
+ },
+ "in": 2312,
+ "out": 119
+}

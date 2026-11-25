@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 251,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p00251_3895212.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monroe St\",\"direction\":\"W\",\"house_number\":\"105\",\"permit_date\":\"1948-08-02\",\"permit_no\":\"A 16096\",\"notes\":\"Remodel 14th fl. toilet rms; Plan no. 3752; File no. 366654; Book/Page blank; dark scan edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monroe St",
+  "direction": "W",
+  "house_number": "105",
+  "permit_date": "1948-08-02",
+  "permit_no": "A 16096",
+  "notes": "Remodel 14th fl. toilet rms; Plan no. 3752; File no. 366654; Book/Page blank; dark scan edges"
+ },
+ "in": 2270,
+ "out": 132
+}

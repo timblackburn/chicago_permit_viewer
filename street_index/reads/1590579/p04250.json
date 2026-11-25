@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 4250,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p04250_3784235.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paxton Ave\",\"direction\":\"\",\"house_number\":\"8433\",\"permit_date\":\"1924-06-09\",\"permit_no\":\"44952\",\"notes\":\"Sundry; File No. 75403; no direction written; permit no. faint; film copy is dark with low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paxton Ave",
+  "direction": "",
+  "house_number": "8433",
+  "permit_date": "1924-06-09",
+  "permit_no": "44952",
+  "notes": "Sundry; File No. 75403; no direction written; permit no. faint; film copy is dark with low contrast"
+ },
+ "in": 2311,
+ "out": 121
+}

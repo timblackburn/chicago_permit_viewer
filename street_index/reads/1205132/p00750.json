@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 750,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p00750_3018989.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clyde Ave\",\"direction\":\"S\",\"house_number\":\"7107\",\"permit_date\":\"1924-11-17\",\"permit_no\":\"A 99397\",\"notes\":\"B. Apt.; Book S 34 Page 176; plan no. 11536; water no. 72664; file no. 91365; faint, blurred handwriting, house number partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clyde Ave",
+  "direction": "S",
+  "house_number": "7107",
+  "permit_date": "1924-11-17",
+  "permit_no": "A 99397",
+  "notes": "B. Apt.; Book S 34 Page 176; plan no. 11536; water no. 72664; file no. 91365; faint, blurred handwriting, house number partly uncertain"
+ },
+ "in": 2279,
+ "out": 148
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 255,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p00255_4208359.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kildare Ave\",\"direction\":\"N\",\"house_number\":\"3518\",\"permit_date\":\"1909-06-05\",\"permit_no\":\"12516\",\"notes\":\"old addr: 2133 N. 43rd Ave; typed card; frame is between 2811 S and 4444 S Kildare Ave per reel order, though card reads N\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kildare Ave",
+  "direction": "N",
+  "house_number": "3518",
+  "permit_date": "1909-06-05",
+  "permit_no": "12516",
+  "notes": "old addr: 2133 N. 43rd Ave; typed card; frame is between 2811 S and 4444 S Kildare Ave per reel order, though card reads N"
+ },
+ "in": 2245,
+ "out": 141
+}

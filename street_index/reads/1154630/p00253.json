@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 253,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p00253_2918968.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ellis Ave\",\"direction\":\"S\",\"house_number\":\"4908\",\"permit_date\":\"1954-05-12\",\"permit_no\":\"A 110621\",\"notes\":\"Remodel attic window to door; File No 462717; no book/page; handwritten address, slightly blurry film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ellis Ave",
+  "direction": "S",
+  "house_number": "4908",
+  "permit_date": "1954-05-12",
+  "permit_no": "A 110621",
+  "notes": "Remodel attic window to door; File No 462717; no book/page; handwritten address, slightly blurry film"
+ },
+ "in": 2318,
+ "out": 123
+}

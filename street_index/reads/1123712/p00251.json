@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 251,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p00251_2855853.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Glenlake Ave\",\"direction\":\"W\",\"house_number\":\"1700-14\",\"permit_date\":\"1909-07-03\",\"permit_no\":\"12702\",\"notes\":\"Cor. Bldg; also lists 6100-2 N. Paulina St; old addr: 3872 Forest Ave (struck out); typed card, faint and washed out; permit no. partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Glenlake Ave",
+  "direction": "W",
+  "house_number": "1700-14",
+  "permit_date": "1909-07-03",
+  "permit_no": "12702",
+  "notes": "Cor. Bldg; also lists 6100-2 N. Paulina St; old addr: 3872 Forest Ave (struck out); typed card, faint and washed out; permit no. partly faint"
+ },
+ "in": 2312,
+ "out": 154
+}

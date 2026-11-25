@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 1250,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p01250_3350715.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"51st St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"139846\",\"notes\":\"Handwritten address at top is faint and washed out; appears to read '24.. 51st St' with the house number and direction unclear; stamped Sundry; file no. 321251; date reads 'Jul' only; card overexposed and faded, permit no. partly uncertain.; Sundry\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "51st St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "139846",
+  "notes": "Handwritten address at top is faint and washed out; appears to read '24.. 51st St' with the house number and direction unclear; stamped Sundry; file no. 321251; date reads 'Jul' only; card overexposed and faded, permit no. partly uncertain.; Sundry"
+ },
+ "in": 2261,
+ "out": 165
+}

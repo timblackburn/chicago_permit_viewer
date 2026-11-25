@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 750,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p00750_3741409.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"4854\",\"permit_date\":\"1910-05-14\",\"permit_no\":\"22106\",\"notes\":\"old addr: S. Centre Av (crossed out); Inspection No. 72226; handwritten B in center; film is dark with scratches at bottom; year stamp heavy, read as 1910; permit no. read from handwriting at top right, moderately confident\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "4854",
+  "permit_date": "1910-05-14",
+  "permit_no": "22106",
+  "notes": "old addr: S. Centre Av (crossed out); Inspection No. 72226; handwritten B in center; film is dark with scratches at bottom; year stamp heavy, read as 1910; permit no. read from handwriting at top right, moderately confident"
+ },
+ "in": 2240,
+ "out": 167
+}

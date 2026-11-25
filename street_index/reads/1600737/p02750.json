@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 2750,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p02750_3807476.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oriole Ave\",\"direction\":\"N\",\"house_number\":\"7541-45\",\"permit_date\":\"1953-10-05\",\"permit_no\":\"B 100467\",\"notes\":\"Erect 2-1 sty Brick Residence; Book 68 Page 53; Plan no. 4631; File no. 452628\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oriole Ave",
+  "direction": "N",
+  "house_number": "7541-45",
+  "permit_date": "1953-10-05",
+  "permit_no": "B 100467",
+  "notes": "Erect 2-1 sty Brick Residence; Book 68 Page 53; Plan no. 4631; File no. 452628"
+ },
+ "in": 2323,
+ "out": 133
+}

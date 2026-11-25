@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 750,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p00750_3584156.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tolman Ave\",\"direction\":\"S\",\"house_number\":\"9950\",\"permit_date\":\"1950-04-03\",\"permit_no\":\"B 40143\",\"notes\":\"1 sty B Res; Book 61 Page 217; Plan no. 5543; File no. 39?293 (partly unclear); street name handwritten as Tolman, likely Talman Ave\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tolman Ave",
+  "direction": "S",
+  "house_number": "9950",
+  "permit_date": "1950-04-03",
+  "permit_no": "B 40143",
+  "notes": "1 sty B Res; Book 61 Page 217; Plan no. 5543; File no. 39?293 (partly unclear); street name handwritten as Tolman, likely Talman Ave"
+ },
+ "in": 2308,
+ "out": 151
+}

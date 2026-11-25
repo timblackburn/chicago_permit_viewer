@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 750,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p00750_4079441.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake Park Ave\",\"direction\":\"S\",\"house_number\":\"3048-50\",\"permit_date\":\"1951-04-30\",\"permit_no\":\"A 57022\",\"notes\":\"Wreck 2 sty brick (frame struck out) building; Plan/File No. 409744; book and page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake Park Ave",
+  "direction": "S",
+  "house_number": "3048-50",
+  "permit_date": "1951-04-30",
+  "permit_no": "A 57022",
+  "notes": "Wreck 2 sty brick (frame struck out) building; Plan/File No. 409744; book and page blank"
+ },
+ "in": 2310,
+ "out": 128
+}

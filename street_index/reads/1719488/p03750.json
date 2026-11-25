@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 3750,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p03750_4042535.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lincoln Ave\",\"direction\":\"\",\"house_number\":\"3105\",\"permit_date\":\"1896-03-17\",\"permit_no\":\"\",\"notes\":\"old addr: 1006 Lincoln Ave; typed card; permit number line faint (looks like '274'), not confident; date partly faded (March 17, 1896); lower part of card overexposed\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lincoln Ave",
+  "direction": "",
+  "house_number": "3105",
+  "permit_date": "1896-03-17",
+  "permit_no": "",
+  "notes": "old addr: 1006 Lincoln Ave; typed card; permit number line faint (looks like '274'), not confident; date partly faded (March 17, 1896); lower part of card overexposed"
+ },
+ "in": 2352,
+ "out": 147
+}

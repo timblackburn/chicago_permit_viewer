@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 253,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p00253_3556306.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Trumbull Ave\",\"direction\":\"S\",\"house_number\":\"5519\",\"permit_date\":\"1950-06-06\",\"permit_no\":\"B 10350\",\"notes\":\"1 Sty residence (faint handwriting); Plan No 815; File No 395361; Book 81 Page 587; card faint and low contrast; permit number partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Trumbull Ave",
+  "direction": "S",
+  "house_number": "5519",
+  "permit_date": "1950-06-06",
+  "permit_no": "B 10350",
+  "notes": "1 Sty residence (faint handwriting); Plan No 815; File No 395361; Book 81 Page 587; card faint and low contrast; permit number partly uncertain"
+ },
+ "in": 2315,
+ "out": 146
+}

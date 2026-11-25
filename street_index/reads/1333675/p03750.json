@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 3750,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p03750_3269629.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"106th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1925-06-12\",\"permit_no\":\"A 109178\",\"notes\":\"B. Store & apt; Book S 36 Page 172 (partly legible); water no. 88839; file no. 109057; top line faint, house number hard to read (looks like 97?? or 9717); low contrast, faint pencil handwriting\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "106th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1925-06-12",
+  "permit_no": "A 109178",
+  "notes": "B. Store & apt; Book S 36 Page 172 (partly legible); water no. 88839; file no. 109057; top line faint, house number hard to read (looks like 97?? or 9717); low contrast, faint pencil handwriting"
+ },
+ "in": 2262,
+ "out": 160
+}

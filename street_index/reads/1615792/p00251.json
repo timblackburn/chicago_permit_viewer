@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 251,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p00251_3842901.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"North Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1930-11-07\",\"permit_no\":\"72290\",\"notes\":\"change store front; Sundry; house number faint and hard to read (looks like 34?8, between 3134 and 3847); faint microfilm; plan no. 230438 written; permit no. partly overwritten/uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "North Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1930-11-07",
+  "permit_no": "72290",
+  "notes": "change store front; Sundry; house number faint and hard to read (looks like 34?8, between 3134 and 3847); faint microfilm; plan no. 230438 written; permit no. partly overwritten/uncertain"
+ },
+ "in": 2271,
+ "out": 151
+}

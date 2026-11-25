@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 1250,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p01250_3810477.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ontario St\",\"direction\":\"\",\"house_number\":\"162\",\"permit_date\":\"1932-04-01\",\"permit_no\":\"80036\",\"notes\":\"Repair illuminated roof sign; Sundry; owner Federal Elect. Co.; plan no. 269; file no. 239352; no direction written; year handwritten over, read as 1932\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ontario St",
+  "direction": "",
+  "house_number": "162",
+  "permit_date": "1932-04-01",
+  "permit_no": "80036",
+  "notes": "Repair illuminated roof sign; Sundry; owner Federal Elect. Co.; plan no. 269; file no. 239352; no direction written; year handwritten over, read as 1932"
+ },
+ "in": 2312,
+ "out": 144
+}

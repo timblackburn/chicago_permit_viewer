@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 3250,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p03250_3429728.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wrightwood Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1948-06-21\",\"permit_no\":\"A 29112\",\"notes\":\"B. Italy; Book Page; permit no. partly legible; card faint and blurry, house number not readable; stamped date approx. JUN 21 (year unclear)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wrightwood Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1948-06-21",
+  "permit_no": "A 29112",
+  "notes": "B. Italy; Book Page; permit no. partly legible; card faint and blurry, house number not readable; stamped date approx. JUN 21 (year unclear)"
+ },
+ "in": 2277,
+ "out": 142
+}

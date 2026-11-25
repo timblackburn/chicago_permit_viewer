@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 1750,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p01750_3977329.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mason Ave\",\"direction\":\"N\",\"house_number\":\"4710\",\"permit_date\":\"1924\",\"permit_no\":\"87289\",\"notes\":\"kind of work faint, possibly \\\"Gas\\\"; Book 29 Page 170 (ledger ref faint); plan no 1000 (partly faded); water no 62445; file no 63545; card is faint and washed out; \\\"Now\\\" written faintly at top right, possibly a note on address change; date partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mason Ave",
+  "direction": "N",
+  "house_number": "4710",
+  "permit_date": "1924",
+  "permit_no": "87289",
+  "notes": "kind of work faint, possibly \"Gas\"; Book 29 Page 170 (ledger ref faint); plan no 1000 (partly faded); water no 62445; file no 63545; card is faint and washed out; \"Now\" written faintly at top right, possibly a note on address change; date partly faded"
+ },
+ "in": 2273,
+ "out": 181
+}

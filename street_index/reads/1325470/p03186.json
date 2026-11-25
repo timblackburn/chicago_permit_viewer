@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 3186,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p03186_3252155.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"138th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1952-03\",\"permit_no\":\"A 71307\",\"notes\":\"handwritten address line is faint; house number unclear (appears to start 'IKH-66' or similar); work line reads roughly 'Lady Bush ... '; Book 65 Page 44; Plan no. 1466; File no. 423890; date partly obscured, Mar ?? 1952; low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "138th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1952-03",
+  "permit_no": "A 71307",
+  "notes": "handwritten address line is faint; house number unclear (appears to start 'IKH-66' or similar); work line reads roughly 'Lady Bush ... '; Book 65 Page 44; Plan no. 1466; File no. 423890; date partly obscured, Mar ?? 1952; low contrast"
+ },
+ "in": 2264,
+ "out": 179
+}

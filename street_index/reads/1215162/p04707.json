@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 4707,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p04707_3031149.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"950-58\",\"permit_date\":\"1944-11-06\",\"permit_no\":\"65678\",\"notes\":\"2 sty Br addn to Horses House; Book 54 Page 408 (page number faint); plan no. 3128; water no. 52071; file no. 326209; film grainy, handwriting hard to read\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "950-58",
+  "permit_date": "1944-11-06",
+  "permit_no": "65678",
+  "notes": "2 sty Br addn to Horses House; Book 54 Page 408 (page number faint); plan no. 3128; water no. 52071; file no. 326209; film grainy, handwriting hard to read"
+ },
+ "in": 2271,
+ "out": 150
+}

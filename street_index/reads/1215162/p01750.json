@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 1750,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p01750_3037038.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Claremont Ave\",\"direction\":\"N\",\"house_number\":\"4900-08\",\"permit_date\":\"1924-07-18\",\"permit_no\":\"A 93605\",\"notes\":\"B. School; Book N 79 Page 406; plan no. A 199; water no. 67488; file no. 79567; house number partly faint, read as 4900/08; photocopy is dark and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Claremont Ave",
+  "direction": "N",
+  "house_number": "4900-08",
+  "permit_date": "1924-07-18",
+  "permit_no": "A 93605",
+  "notes": "B. School; Book N 79 Page 406; plan no. A 199; water no. 67488; file no. 79567; house number partly faint, read as 4900/08; photocopy is dark and low contrast"
+ },
+ "in": 2275,
+ "out": 155
+}

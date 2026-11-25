@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 3250,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p03250_2921219.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elizabeth St\",\"direction\":\"S\",\"house_number\":\"8322-24\",\"permit_date\":\"1925-02-13\",\"permit_no\":\"A 99969\",\"notes\":\"B. Res; Book S 34 Page 357; Plan 989; Water no. 74974; File no. 95766; handwritten, photographed at an angle with some faint stamped text\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elizabeth St",
+  "direction": "S",
+  "house_number": "8322-24",
+  "permit_date": "1925-02-13",
+  "permit_no": "A 99969",
+  "notes": "B. Res; Book S 34 Page 357; Plan 989; Water no. 74974; File no. 95766; handwritten, photographed at an angle with some faint stamped text"
+ },
+ "in": 2282,
+ "out": 148
+}

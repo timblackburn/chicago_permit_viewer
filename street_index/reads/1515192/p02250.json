@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 2250,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p02250_3637502.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Springfield Ave\",\"direction\":\"S\",\"house_number\":\"1658\",\"permit_date\":\"1908-03-24\",\"permit_no\":\"1495\",\"notes\":\"old addr: 84? S Springfield Ave (last digit faint); permit date faint, month partly read as Mar. and day as 24; permit no. faint; card faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Springfield Ave",
+  "direction": "S",
+  "house_number": "1658",
+  "permit_date": "1908-03-24",
+  "permit_no": "1495",
+  "notes": "old addr: 84? S Springfield Ave (last digit faint); permit date faint, month partly read as Mar. and day as 24; permit no. faint; card faded"
+ },
+ "in": 2311,
+ "out": 140
+}

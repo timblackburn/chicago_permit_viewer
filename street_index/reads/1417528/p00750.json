@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 750,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p00750_3443916.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wolcott Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1919-10-16\",\"permit_no\":\"\",\"notes\":\"Street typed as Wolcott Ave; house number not visible; handwritten line faint, possibly 'Lincoln St' and 'school annex'; Book S 20 Page (stamped, partly legible); permit no. faint, starts with A; overexposed and faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wolcott Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1919-10-16",
+  "permit_no": "",
+  "notes": "Street typed as Wolcott Ave; house number not visible; handwritten line faint, possibly 'Lincoln St' and 'school annex'; Book S 20 Page (stamped, partly legible); permit no. faint, starts with A; overexposed and faint"
+ },
+ "in": 2277,
+ "out": 168
+}

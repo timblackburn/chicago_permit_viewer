@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1173918",
+ "slide_index": 2250,
+ "image": "street_index/data/1173918/slides_pct_0-0-100-99_w1000/p02250_2953859.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dickens Ave\",\"direction\":\"W\",\"house_number\":\"6001\",\"permit_date\":\"1953-11\",\"permit_no\":\"A 102528\",\"notes\":\"Install elev; Plan no 5442; File no 454698; date stamp faint, reads NOV - ? 1953; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dickens Ave",
+  "direction": "W",
+  "house_number": "6001",
+  "permit_date": "1953-11",
+  "permit_no": "A 102528",
+  "notes": "Install elev; Plan no 5442; File no 454698; date stamp faint, reads NOV - ? 1953; Book and Page blank"
+ },
+ "in": 2235,
+ "out": 132
+}

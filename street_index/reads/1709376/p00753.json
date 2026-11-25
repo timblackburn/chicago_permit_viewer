@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 753,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p00753_4028248.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Loomis St\",\"direction\":\"\",\"house_number\":\"8333\",\"permit_date\":\"1925-07-17\",\"permit_no\":\"A 106654\",\"notes\":\"B. Res; Book S 36 Page 318; direction not written on card; plan no. 8249; water no. 82013; file 1126/5; handwriting somewhat faint, book and page partly uncertain; filed between 7606-10 and 9244-46 consistent with street order (S direction not shown)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Loomis St",
+  "direction": "",
+  "house_number": "8333",
+  "permit_date": "1925-07-17",
+  "permit_no": "A 106654",
+  "notes": "B. Res; Book S 36 Page 318; direction not written on card; plan no. 8249; water no. 82013; file 1126/5; handwriting somewhat faint, book and page partly uncertain; filed between 7606-10 and 9244-46 consistent with street order (S direction not shown)"
+ },
+ "in": 2312,
+ "out": 182
+}

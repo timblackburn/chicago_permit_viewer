@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 4661,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p04661_3463479.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Whipple\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1941-05\",\"permit_no\":\"54791\",\"notes\":\"Same residence; house number faint, appears to start with 08 (likely 8xxx, not confirmed); file no. 299731; Entered 51 Page; date stamp partly faded (May ? 1941); low contrast scan\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Whipple",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1941-05",
+  "permit_no": "54791",
+  "notes": "Same residence; house number faint, appears to start with 08 (likely 8xxx, not confirmed); file no. 299731; Entered 51 Page; date stamp partly faded (May ? 1941); low contrast scan"
+ },
+ "in": 2271,
+ "out": 151
+}

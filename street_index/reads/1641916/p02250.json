@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 2250,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p02250_3891202.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monroe St\",\"direction\":\"W\",\"house_number\":\"4755-57\",\"permit_date\":\"1913-12-01\",\"permit_no\":\"A 18650\",\"notes\":\"Br B.; Book W Page 45; file no. 52408; high-contrast scan, handwriting somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monroe St",
+  "direction": "W",
+  "house_number": "4755-57",
+  "permit_date": "1913-12-01",
+  "permit_no": "A 18650",
+  "notes": "Br B.; Book W Page 45; file no. 52408; high-contrast scan, handwriting somewhat faint"
+ },
+ "in": 2274,
+ "out": 127
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 4750,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p04750_2856956.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Gladys Ave\",\"direction\":\"W\",\"house_number\":\"4210\",\"permit_date\":\"1908-10-21\",\"permit_no\":\"6322\",\"notes\":\"old addr: 2125 Gladys Ave; typed card; W written above house number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Gladys Ave",
+  "direction": "W",
+  "house_number": "4210",
+  "permit_date": "1908-10-21",
+  "permit_no": "6322",
+  "notes": "old addr: 2125 Gladys Ave; typed card; W written above house number"
+ },
+ "in": 2280,
+ "out": 112
+}

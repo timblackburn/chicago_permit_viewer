@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 1250,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p01250_3089367.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"California Ave\",\"direction\":\"S\",\"house_number\":\"3601\",\"permit_date\":\"1926-08-14\",\"permit_no\":\"B 9427\",\"notes\":\"Gas Filling Station; Book S 41 Page 87; permit number and date partly faint/stamped, date day uncertain; owner H. T. Skinner; plan no. 8424; water no. 95134; file no. 145141; poor contrast scan, direction inferred from reel sequence/handwriting appears S.; permit prefix B at left of card unclear (B written on line under address)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "California Ave",
+  "direction": "S",
+  "house_number": "3601",
+  "permit_date": "1926-08-14",
+  "permit_no": "B 9427",
+  "notes": "Gas Filling Station; Book S 41 Page 87; permit number and date partly faint/stamped, date day uncertain; owner H. T. Skinner; plan no. 8424; water no. 95134; file no. 145141; poor contrast scan, direction inferred from reel sequence/handwriting appears S.; permit prefix B at left of card unclear (B written on line under address)"
+ },
+ "in": 2270,
+ "out": 210
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 251,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p00251_3731579.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rhodes Ave\",\"direction\":\"\",\"house_number\":\"7339\",\"permit_date\":\"1924-05-23\",\"permit_no\":\"13680\",\"notes\":\"Sundry; File no. 73747; no direction written on card; card is somewhat blurry with a dark spot and a stray mark at top right\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rhodes Ave",
+  "direction": "",
+  "house_number": "7339",
+  "permit_date": "1924-05-23",
+  "permit_no": "13680",
+  "notes": "Sundry; File no. 73747; no direction written on card; card is somewhat blurry with a dark spot and a stray mark at top right"
+ },
+ "in": 2284,
+ "out": 130
+}

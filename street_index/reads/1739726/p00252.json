@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 252,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p00252_4081452.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake St\",\"direction\":\"W\",\"house_number\":\"3014\",\"permit_date\":\"1906-10-15\",\"permit_no\":\"2057\",\"notes\":\"old addr: 1408 W Lake St; typed card, new address 3014 listed first, old address 1408 below; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake St",
+  "direction": "W",
+  "house_number": "3014",
+  "permit_date": "1906-10-15",
+  "permit_no": "2057",
+  "notes": "old addr: 1408 W Lake St; typed card, new address 3014 listed first, old address 1408 below; no building type given"
+ },
+ "in": 2305,
+ "out": 124
+}

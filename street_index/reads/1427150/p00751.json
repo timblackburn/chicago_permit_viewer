@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 751,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p00751_3461646.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1951\",\"permit_no\":\"A 61732\",\"notes\":\"BRICK GARAGE; address line at top washed out and unreadable; overexposed and faint; other number 412216 (unclear); date partly read as 1951\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1951",
+  "permit_no": "A 61732",
+  "notes": "BRICK GARAGE; address line at top washed out and unreadable; overexposed and faint; other number 412216 (unclear); date partly read as 1951"
+ },
+ "in": 2316,
+ "out": 126
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 3250,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p03250_2771034.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Kedzie Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-07-14\",\"permit_no\":\"47563\",\"notes\":\"Sundry; address line at top is handwritten and hard to read (house number unclear, possibly starts with 4 or 5); file no. 79162; card faint and damaged at bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Kedzie Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-07-14",
+  "permit_no": "47563",
+  "notes": "Sundry; address line at top is handwritten and hard to read (house number unclear, possibly starts with 4 or 5); file no. 79162; card faint and damaged at bottom edge"
+ },
+ "in": 2320,
+ "out": 144
+}

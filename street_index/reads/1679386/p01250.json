@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 1250,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p01250_3968289.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maypole Ave\",\"direction\":\"\",\"house_number\":\"1917\",\"permit_date\":\"1908-03-13\",\"permit_no\":\"1431\",\"notes\":\"old addr: 156 Park Ave; typed card, faint; no direction shown\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maypole Ave",
+  "direction": "",
+  "house_number": "1917",
+  "permit_date": "1908-03-13",
+  "permit_no": "1431",
+  "notes": "old addr: 156 Park Ave; typed card, faint; no direction shown"
+ },
+ "in": 2272,
+ "out": 111
+}

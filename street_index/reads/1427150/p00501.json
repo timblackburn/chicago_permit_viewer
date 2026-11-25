@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 501,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p00501_3462140.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wilcox St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Br B.; handwritten top reads something like 4371 Wilcox St (number uncertain, first digits '43' and '7' hard to read, so not given); Permit No. faint, begins with A; W page stamp, page number unreadable; card very faint and overexposed, date of permit unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wilcox St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Br B.; handwritten top reads something like 4371 Wilcox St (number uncertain, first digits '43' and '7' hard to read, so not given); Permit No. faint, begins with A; W page stamp, page number unreadable; card very faint and overexposed, date of permit unreadable"
+ },
+ "in": 2316,
+ "out": 169
+}

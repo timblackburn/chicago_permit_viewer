@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 1750,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p01750_3068074.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Carpenter St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1926-03-03\",\"permit_no\":\"3672\",\"notes\":\"Apts; Page 245 (book unclear, possibly S 37); house number partly legible, reads like 695? (last digit unclear), so left blank; plan no. 1773?, water no. 88166?, file no. 129457; dark, noisy film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Carpenter St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1926-03-03",
+  "permit_no": "3672",
+  "notes": "Apts; Page 245 (book unclear, possibly S 37); house number partly legible, reads like 695? (last digit unclear), so left blank; plan no. 1773?, water no. 88166?, file no. 129457; dark, noisy film"
+ },
+ "in": 2275,
+ "out": 163
+}

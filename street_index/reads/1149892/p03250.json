@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1149892",
+ "slide_index": 3250,
+ "image": "street_index/data/1149892/slides_pct_0-0-100-99_w1000/p03250_2902971.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Essex Ave\",\"direction\":\"S\",\"house_number\":\"8113\",\"permit_date\":\"1953-03\",\"permit_no\":\"B 87976\",\"notes\":\"Erect 2 (brick/frame line struck, partly faint); Plan No 8939; File No 440280; Book 66 Page 444; date stamp faint, day not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Essex Ave",
+  "direction": "S",
+  "house_number": "8113",
+  "permit_date": "1953-03",
+  "permit_no": "B 87976",
+  "notes": "Erect 2 (brick/frame line struck, partly faint); Plan No 8939; File No 440280; Book 66 Page 444; date stamp faint, day not readable"
+ },
+ "in": 2318,
+ "out": 142
+}

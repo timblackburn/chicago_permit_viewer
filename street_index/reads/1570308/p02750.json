@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 2750,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p02750_3747136.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pulaski Rd\",\"direction\":\"S\",\"house_number\":\"4802\",\"permit_date\":\"1915-10-20\",\"permit_no\":\"A 34606\",\"notes\":\"Br B.; Book S 14 Page 577; old addr: 8705; File No. 97990; handwritten line also reads \\\"C Crawford Ave\\\" (cross street); microfilm image is grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pulaski Rd",
+  "direction": "S",
+  "house_number": "4802",
+  "permit_date": "1915-10-20",
+  "permit_no": "A 34606",
+  "notes": "Br B.; Book S 14 Page 577; old addr: 8705; File No. 97990; handwritten line also reads \"C Crawford Ave\" (cross street); microfilm image is grainy"
+ },
+ "in": 2280,
+ "out": 155
+}

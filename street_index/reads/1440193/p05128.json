@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 5128,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p05128_3481813.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Circle Ave\",\"direction\":\"W\",\"house_number\":\"5729\",\"permit_date\":\"1921-08-30\",\"permit_no\":\"33040\",\"notes\":\"Frame Auto Shed; Sundry; plan no. 173879; address reads 5729 W Circle Av, handwritten; card is noisy and high contrast; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Circle Ave",
+  "direction": "W",
+  "house_number": "5729",
+  "permit_date": "1921-08-30",
+  "permit_no": "33040",
+  "notes": "Frame Auto Shed; Sundry; plan no. 173879; address reads 5729 W Circle Av, handwritten; card is noisy and high contrast; date stamp faint"
+ },
+ "in": 2276,
+ "out": 145
+}

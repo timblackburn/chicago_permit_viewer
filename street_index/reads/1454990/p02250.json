@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 2250,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p02250_3516994.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Walton St\",\"direction\":\"W\",\"house_number\":\"2437-39\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"top line handwritten \\\"2437/9 W. Walton St\\\"; permit no. line faint and unreadable; file no. 26378 (approx.); water no. possibly 28094; date of permit blank or washed out; overexposed, low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Walton St",
+  "direction": "W",
+  "house_number": "2437-39",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "top line handwritten \"2437/9 W. Walton St\"; permit no. line faint and unreadable; file no. 26378 (approx.); water no. possibly 28094; date of permit blank or washed out; overexposed, low contrast"
+ },
+ "in": 2277,
+ "out": 155
+}

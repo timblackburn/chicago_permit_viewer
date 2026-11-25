@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 1250,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p01250_3249271.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Aberdeen St\",\"direction\":\"S\",\"house_number\":\"7109\",\"permit_date\":\"1941\",\"permit_no\":\"126108\",\"notes\":\"Frame Garage (faint); Sundry; file no 301116; date of permit faint, year appears to be 1941\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Aberdeen St",
+  "direction": "S",
+  "house_number": "7109",
+  "permit_date": "1941",
+  "permit_no": "126108",
+  "notes": "Frame Garage (faint); Sundry; file no 301116; date of permit faint, year appears to be 1941"
+ },
+ "in": 2272,
+ "out": 119
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 1750,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p01750_2924263.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eggleston Ave\",\"direction\":\"\",\"house_number\":\"10240\",\"permit_date\":\"1926-09-10\",\"permit_no\":\"16772\",\"notes\":\"Garage; Sundry; plan/file no. 147593; no direction written; photocopy is grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eggleston Ave",
+  "direction": "",
+  "house_number": "10240",
+  "permit_date": "1926-09-10",
+  "permit_no": "16772",
+  "notes": "Garage; Sundry; plan/file no. 147593; no direction written; photocopy is grainy"
+ },
+ "in": 2319,
+ "out": 119
+}

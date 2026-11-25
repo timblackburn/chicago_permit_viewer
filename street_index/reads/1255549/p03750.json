@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 3750,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p03750_3114192.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bissell St\",\"direction\":\"\",\"house_number\":\"2051\",\"permit_date\":\"1879-11-28\",\"permit_no\":\"2817\",\"notes\":\"typed card; old addr: 272 Bissell St; faint typing, date and permit number partly faded; no direction shown; permit no. 2817 read from faint typing\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bissell St",
+  "direction": "",
+  "house_number": "2051",
+  "permit_date": "1879-11-28",
+  "permit_no": "2817",
+  "notes": "typed card; old addr: 272 Bissell St; faint typing, date and permit number partly faded; no direction shown; permit no. 2817 read from faint typing"
+ },
+ "in": 2313,
+ "out": 136
+}

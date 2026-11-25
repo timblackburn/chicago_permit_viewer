@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 2337,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p02337_3329396.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"62nd Pl\",\"direction\":\"W\",\"house_number\":\"3420\",\"permit_date\":\"\",\"permit_no\":\"19507\",\"notes\":\"Handwritten line below address, possibly 'garage' (faint); Sundry; File No. faint (possibly 151510); card is faint and overexposed with streaks along the bottom; no date of permit visible; direction before street read as W (handwriting uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "62nd Pl",
+  "direction": "W",
+  "house_number": "3420",
+  "permit_date": "",
+  "permit_no": "19507",
+  "notes": "Handwritten line below address, possibly 'garage' (faint); Sundry; File No. faint (possibly 151510); card is faint and overexposed with streaks along the bottom; no date of permit visible; direction before street read as W (handwriting uncertain)"
+ },
+ "in": 2277,
+ "out": 163
+}

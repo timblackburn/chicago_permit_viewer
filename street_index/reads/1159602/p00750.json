@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1159602",
+ "slide_index": 750,
+ "image": "street_index/data/1159602/slides_pct_0-0-100-99_w1000/p00750_2926250.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Eddy St\",\"direction\":\"\",\"house_number\":\"5024\",\"permit_date\":\"1928-05-16\",\"permit_no\":\"B 192532\",\"notes\":\"Apts; Plan no 2755; Water no 17882; File no 209151; ledger stamp faint, appears Book W 46 Page 12; card is dark with faint stamps; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Eddy St",
+  "direction": "",
+  "house_number": "5024",
+  "permit_date": "1928-05-16",
+  "permit_no": "B 192532",
+  "notes": "Apts; Plan no 2755; Water no 17882; File no 209151; ledger stamp faint, appears Book W 46 Page 12; card is dark with faint stamps; no direction written"
+ },
+ "in": 2276,
+ "out": 148
+}

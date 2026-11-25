@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 2750,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p02750_3522830.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wallace St\",\"direction\":\"S\",\"house_number\":\"3206\",\"permit_date\":\"1887-08-03\",\"permit_no\":\"2295\",\"notes\":\"typed card; second line repeats address as \\\"3206 Wallace St.\\\" without direction\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wallace St",
+  "direction": "S",
+  "house_number": "3206",
+  "permit_date": "1887-08-03",
+  "permit_no": "2295",
+  "notes": "typed card; second line repeats address as \"3206 Wallace St.\" without direction"
+ },
+ "in": 2312,
+ "out": 112
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 1250,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p01250_2804753.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harlem Ave\",\"direction\":\"N\",\"house_number\":\"6756\",\"permit_date\":\"1952-02-25\",\"permit_no\":\"A 70300\",\"notes\":\"Ventilation; File no. 422959; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harlem Ave",
+  "direction": "N",
+  "house_number": "6756",
+  "permit_date": "1952-02-25",
+  "permit_no": "A 70300",
+  "notes": "Ventilation; File no. 422959; Book and Page blank"
+ },
+ "in": 2276,
+ "out": 109
+}

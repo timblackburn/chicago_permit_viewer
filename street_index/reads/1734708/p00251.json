@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 251,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p00251_4080422.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lake St\",\"direction\":\"W\",\"house_number\":\"4612-66\",\"permit_date\":\"1947-05-26\",\"permit_no\":\"B 02709\",\"notes\":\"+ 1 Sty Addn for storage and monitor; Sundry; Book 57 Page 204; Plan no 5241; File no 348931; microfilm image is dark with some blur\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lake St",
+  "direction": "W",
+  "house_number": "4612-66",
+  "permit_date": "1947-05-26",
+  "permit_no": "B 02709",
+  "notes": "+ 1 Sty Addn for storage and monitor; Sundry; Book 57 Page 204; Plan no 5241; File no 348931; microfilm image is dark with some blur"
+ },
+ "in": 2305,
+ "out": 148
+}

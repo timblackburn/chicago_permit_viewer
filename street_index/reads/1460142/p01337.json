@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 1337,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p01337_3525675.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"7830\",\"permit_date\":\"1942-03-25\",\"permit_no\":\"59495\",\"notes\":\"2 sty Br Residence; Entered 52 Page 569; plan no 1218; water no 45932; file no 308912\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "7830",
+  "permit_date": "1942-03-25",
+  "permit_no": "59495",
+  "notes": "2 sty Br Residence; Entered 52 Page 569; plan no 1218; water no 45932; file no 308912"
+ },
+ "in": 2318,
+ "out": 126
+}

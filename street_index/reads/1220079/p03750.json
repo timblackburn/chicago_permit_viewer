@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 3750,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p03750_3043277.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cicero Ave\",\"direction\":\"N\",\"house_number\":\"201-11\",\"permit_date\":\"1911-11-01\",\"permit_no\":\"NW 34455\",\"notes\":\"handwritten note at top: \\\"(N 48th av)\\\"; B. prefix before address; File No 3056; card is dark and speckled but readable; house number 201-11 partly overwritten and slightly uncertain; circled 2 in remarks area\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cicero Ave",
+  "direction": "N",
+  "house_number": "201-11",
+  "permit_date": "1911-11-01",
+  "permit_no": "NW 34455",
+  "notes": "handwritten note at top: \"(N 48th av)\"; B. prefix before address; File No 3056; card is dark and speckled but readable; house number 201-11 partly overwritten and slightly uncertain; circled 2 in remarks area"
+ },
+ "in": 2273,
+ "out": 169
+}

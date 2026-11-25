@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 1250,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p01250_3069081.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Carpenter St\",\"direction\":\"S\",\"house_number\":\"5358\",\"permit_date\":\"1926-06-23\",\"permit_no\":\"12013\",\"notes\":\"alterations; Sundry; plan no. 140189; dark, noisy film, permit number stamped above the line\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Carpenter St",
+  "direction": "S",
+  "house_number": "5358",
+  "permit_date": "1926-06-23",
+  "permit_no": "12013",
+  "notes": "alterations; Sundry; plan no. 140189; dark, noisy film, permit number stamped above the line"
+ },
+ "in": 2273,
+ "out": 120
+}

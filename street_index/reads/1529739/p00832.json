@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 832,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p00832_3668335.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sayre Ave\",\"direction\":\"N\",\"house_number\":\"6525\",\"permit_date\":\"\",\"permit_no\":\"3633\",\"notes\":\"Frame Garage; Sundry; card faint, permit no. and date of permit hard to read, date illegible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sayre Ave",
+  "direction": "N",
+  "house_number": "6525",
+  "permit_date": "",
+  "permit_no": "3633",
+  "notes": "Frame Garage; Sundry; card faint, permit no. and date of permit hard to read, date illegible"
+ },
+ "in": 2278,
+ "out": 115
+}

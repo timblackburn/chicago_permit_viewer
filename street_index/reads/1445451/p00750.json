@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1445451",
+ "slide_index": 750,
+ "image": "street_index/data/1445451/slides_pct_0-0-100-99_w1000/p00750_3499105.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Waukesha Ave\",\"direction\":\"N\",\"house_number\":\"6550-2\",\"permit_date\":\"1938-08-07\",\"permit_no\":\"41750\",\"notes\":\"1 1/2 sty br Residence; Book N 48 Page 181; Plan no 1644; Water no 23378; File no 261569; house number written as 6550-2, date partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Waukesha Ave",
+  "direction": "N",
+  "house_number": "6550-2",
+  "permit_date": "1938-08-07",
+  "permit_no": "41750",
+  "notes": "1 1/2 sty br Residence; Book N 48 Page 181; Plan no 1644; Water no 23378; File no 261569; house number written as 6550-2, date partly faint"
+ },
+ "in": 2275,
+ "out": 150
+}

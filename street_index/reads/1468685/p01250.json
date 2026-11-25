@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 1250,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p01250_3544247.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Van Buren St\",\"direction\":\"W\",\"house_number\":\"4102\",\"permit_date\":\"1890\",\"permit_no\":\"306\",\"notes\":\"typed card; cross reference line: 41st St. & Van Buren; date partly faded, only 1890 year readable; street name partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Van Buren St",
+  "direction": "W",
+  "house_number": "4102",
+  "permit_date": "1890",
+  "permit_no": "306",
+  "notes": "typed card; cross reference line: 41st St. & Van Buren; date partly faded, only 1890 year readable; street name partly faded"
+ },
+ "in": 2309,
+ "out": 124
+}

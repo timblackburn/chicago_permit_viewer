@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 3253,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p03253_3410691.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"21st St\",\"direction\":\"W\",\"house_number\":\"2337\",\"permit_date\":\"1955-01\",\"permit_no\":\"123695\",\"notes\":\"Concrete bldn; day of date partly unreadable (Jan - ? 1955); plan/file no 473599 (faint); handwriting faint, house number read from cursive\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "21st St",
+  "direction": "W",
+  "house_number": "2337",
+  "permit_date": "1955-01",
+  "permit_no": "123695",
+  "notes": "Concrete bldn; day of date partly unreadable (Jan - ? 1955); plan/file no 473599 (faint); handwriting faint, house number read from cursive"
+ },
+ "in": 2269,
+ "out": 136
+}

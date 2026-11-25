@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 1250,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p01250_3008144.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cornelia Ave\",\"direction\":\"W\",\"house_number\":\"4106\",\"permit_date\":\"1933-09\",\"permit_no\":\"H 99134\",\"notes\":\"Frame Garage; File no. 451?73 partly faded; date of permit partly faded (Sep ... 1933 approx), month and year only guessed from faint stamp\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cornelia Ave",
+  "direction": "W",
+  "house_number": "4106",
+  "permit_date": "1933-09",
+  "permit_no": "H 99134",
+  "notes": "Frame Garage; File no. 451?73 partly faded; date of permit partly faded (Sep ... 1933 approx), month and year only guessed from faint stamp"
+ },
+ "in": 2278,
+ "out": 142
+}

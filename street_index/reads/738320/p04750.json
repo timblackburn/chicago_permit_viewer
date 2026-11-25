@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 4750,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p04750_2067871.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Honore St\",\"direction\":\"S\",\"house_number\":\"3806\",\"permit_date\":\"1931-09-09\",\"permit_no\":\"77500\",\"notes\":\"Front open porch & steps; Sundry; file no. 236560; dark, slightly faint photo\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Honore St",
+  "direction": "S",
+  "house_number": "3806",
+  "permit_date": "1931-09-09",
+  "permit_no": "77500",
+  "notes": "Front open porch & steps; Sundry; file no. 236560; dark, slightly faint photo"
+ },
+ "in": 2307,
+ "out": 115
+}

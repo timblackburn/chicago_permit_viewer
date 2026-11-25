@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1048893",
+ "slide_index": 251,
+ "image": "street_index/data/1048893/slides_pct_0-0-100-99_w1000/p00251_4187785.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Keeler Ave\",\"direction\":\"N\",\"house_number\":\"2432\",\"permit_date\":\"1925-06-30\",\"permit_no\":\"\",\"notes\":\"Sundry; permit number stamped faintly (possibly 66514) and not reliably readable; file no. 111002; dark, low-contrast frame with glare spots\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Keeler Ave",
+  "direction": "N",
+  "house_number": "2432",
+  "permit_date": "1925-06-30",
+  "permit_no": "",
+  "notes": "Sundry; permit number stamped faintly (possibly 66514) and not reliably readable; file no. 111002; dark, low-contrast frame with glare spots"
+ },
+ "in": 2278,
+ "out": 137
+}

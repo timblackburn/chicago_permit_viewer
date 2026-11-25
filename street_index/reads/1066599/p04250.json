@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 4250,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p04250_4150219.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Jackson Blvd\",\"direction\":\"\",\"house_number\":\"2318\",\"permit_date\":\"1952-10-03\",\"permit_no\":\"P 81999\",\"notes\":\"Wood stairs fr. roof to ground; File No. 434403; no direction written on card (filing implies W); permit prefix before number is faint, possibly P; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Jackson Blvd",
+  "direction": "",
+  "house_number": "2318",
+  "permit_date": "1952-10-03",
+  "permit_no": "P 81999",
+  "notes": "Wood stairs fr. roof to ground; File No. 434403; no direction written on card (filing implies W); permit prefix before number is faint, possibly P; Book and Page blank"
+ },
+ "in": 2318,
+ "out": 147
+}

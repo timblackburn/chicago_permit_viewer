@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 251,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p00251_3904850.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"2748\",\"permit_date\":\"1928-08-07\",\"permit_no\":\"46712\",\"notes\":\"Alterations & Stairs; Sundry; Plan no. 5919; File no. 195298; no direction written on card; dark, noisy film image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "2748",
+  "permit_date": "1928-08-07",
+  "permit_no": "46712",
+  "notes": "Alterations & Stairs; Sundry; Plan no. 5919; File no. 195298; no direction written on card; dark, noisy film image"
+ },
+ "in": 2278,
+ "out": 134
+}

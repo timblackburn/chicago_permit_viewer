@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4703,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04703_3011216.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Congress St\",\"direction\":\"W\",\"house_number\":\"4146\",\"permit_date\":\"1908-10\",\"permit_no\":\"\",\"notes\":\"old addr: 2096 W Congress St (partly faint); card is faint, typed; number 1331 or 3331 partly legible at left; date reads Oct. 2?, 1908 with day partly missing\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Congress St",
+  "direction": "W",
+  "house_number": "4146",
+  "permit_date": "1908-10",
+  "permit_no": "",
+  "notes": "old addr: 2096 W Congress St (partly faint); card is faint, typed; number 1331 or 3331 partly legible at left; date reads Oct. 2?, 1908 with day partly missing"
+ },
+ "in": 2283,
+ "out": 145
+}

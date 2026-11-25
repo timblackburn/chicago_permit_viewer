@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 2250,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p02250_3757969.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prairie Ave\",\"direction\":\"S\",\"house_number\":\"10222\",\"permit_date\":\"1951-02-28\",\"permit_no\":\"A 54438\",\"notes\":\"Install two fixtures on 2nd floor for powder room; original permit #48402; File No. 401222\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prairie Ave",
+  "direction": "S",
+  "house_number": "10222",
+  "permit_date": "1951-02-28",
+  "permit_no": "A 54438",
+  "notes": "Install two fixtures on 2nd floor for powder room; original permit #48402; File No. 401222"
+ },
+ "in": 2280,
+ "out": 121
+}

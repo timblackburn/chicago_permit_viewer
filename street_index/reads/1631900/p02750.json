@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 2750,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p02750_3870193.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mulligan Ave\",\"direction\":\"N\",\"house_number\":\"4308\",\"permit_date\":\"1953-01-26\",\"permit_no\":\"A 86251\",\"notes\":\"Frame Garage; File No. 438584; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mulligan Ave",
+  "direction": "N",
+  "house_number": "4308",
+  "permit_date": "1953-01-26",
+  "permit_no": "A 86251",
+  "notes": "Frame Garage; File No. 438584; date stamp faint"
+ },
+ "in": 2289,
+ "out": 110
+}

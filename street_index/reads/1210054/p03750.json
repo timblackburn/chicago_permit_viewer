@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 3750,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p03750_3023203.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cleveland Ave\",\"direction\":\"\",\"house_number\":\"2019-23\",\"permit_date\":\"1924-06-09\",\"permit_no\":\"45122\",\"notes\":\"Sundry; no direction written on card; file no. 75450; permit no. faint; photocopy is grainy, house number handwriting slightly ambiguous\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cleveland Ave",
+  "direction": "",
+  "house_number": "2019-23",
+  "permit_date": "1924-06-09",
+  "permit_no": "45122",
+  "notes": "Sundry; no direction written on card; file no. 75450; permit no. faint; photocopy is grainy, house number handwriting slightly ambiguous"
+ },
+ "in": 2246,
+ "out": 138
+}

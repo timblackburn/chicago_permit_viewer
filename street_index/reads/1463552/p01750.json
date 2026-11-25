@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 1750,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p01750_3535176.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabansia Ave\",\"direction\":\"W\",\"house_number\":\"1837\",\"permit_date\":\"1886-12-16\",\"permit_no\":\"3460\",\"notes\":\"old addr: 306 Wabansia Ave; typed card, faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabansia Ave",
+  "direction": "W",
+  "house_number": "1837",
+  "permit_date": "1886-12-16",
+  "permit_no": "3460",
+  "notes": "old addr: 306 Wabansia Ave; typed card, faint in places"
+ },
+ "in": 2278,
+ "out": 112
+}

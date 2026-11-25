@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 1250,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p01250_3759907.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prairie Ave\",\"direction\":\"\",\"house_number\":\"5743-5\",\"permit_date\":\"1928-10-02\",\"permit_no\":\"48798\",\"notes\":\"Repair Bldgs & repairs; Sundry; no direction written on card; file no. 198610; handwriting at top is somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prairie Ave",
+  "direction": "",
+  "house_number": "5743-5",
+  "permit_date": "1928-10-02",
+  "permit_no": "48798",
+  "notes": "Repair Bldgs & repairs; Sundry; no direction written on card; file no. 198610; handwriting at top is somewhat faint"
+ },
+ "in": 2279,
+ "out": 133
+}

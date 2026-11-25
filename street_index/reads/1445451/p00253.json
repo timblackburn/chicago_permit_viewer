@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1445451",
+ "slide_index": 253,
+ "image": "street_index/data/1445451/slides_pct_0-0-100-99_w1000/p00253_3500100.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washtenaw Ave\",\"direction\":\"S\",\"house_number\":\"8138\",\"permit_date\":\"1941-09-12\",\"permit_no\":\"57105\",\"notes\":\"2 sty Br Residence; Entered page 156 (stamped 52); Sundry; plan no 5768; water no 43365; file no 304213\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washtenaw Ave",
+  "direction": "S",
+  "house_number": "8138",
+  "permit_date": "1941-09-12",
+  "permit_no": "57105",
+  "notes": "2 sty Br Residence; Entered page 156 (stamped 52); Sundry; plan no 5768; water no 43365; file no 304213"
+ },
+ "in": 2276,
+ "out": 136
+}

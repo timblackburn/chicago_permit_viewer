@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 252,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p00252_3718368.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeland Ave\",\"direction\":\"S\",\"house_number\":\"7800-04\",\"permit_date\":\"1925-05-05\",\"permit_no\":\"103744\",\"notes\":\"Ridgeland Arms Apts; Book 5016 stamped; file no. 104-74 written; faint and low contrast, permit number partly unclear; water no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeland Ave",
+  "direction": "S",
+  "house_number": "7800-04",
+  "permit_date": "1925-05-05",
+  "permit_no": "103744",
+  "notes": "Ridgeland Arms Apts; Book 5016 stamped; file no. 104-74 written; faint and low contrast, permit number partly unclear; water no. faint"
+ },
+ "in": 2283,
+ "out": 146
+}

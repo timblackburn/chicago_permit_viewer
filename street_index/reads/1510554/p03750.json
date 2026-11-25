@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1510554",
+ "slide_index": 3750,
+ "image": "street_index/data/1510554/slides_pct_0-0-100-99_w1000/p03750_3624415.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"State St\",\"direction\":\"S\",\"house_number\":\"5725\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Replace of M. gal tank (handwritten, partly uncertain); stamped Sundry; permit no. faint and uncertain (possibly 201008); date of permit blank or unreadable; card faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "State St",
+  "direction": "S",
+  "house_number": "5725",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Replace of M. gal tank (handwritten, partly uncertain); stamped Sundry; permit no. faint and uncertain (possibly 201008); date of permit blank or unreadable; card faint"
+ },
+ "in": 2257,
+ "out": 139
+}

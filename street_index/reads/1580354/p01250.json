@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 1250,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p01250_3769985.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pioneer Ave\",\"direction\":\"N\",\"house_number\":\"3306\",\"permit_date\":\"1950-11-09\",\"permit_no\":\"B 50848\",\"notes\":\"1 sty B Res; Book 62 Page 535; Plan no. 2127; File no. 403625\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pioneer Ave",
+  "direction": "N",
+  "house_number": "3306",
+  "permit_date": "1950-11-09",
+  "permit_no": "B 50848",
+  "notes": "1 sty B Res; Book 62 Page 535; Plan no. 2127; File no. 403625"
+ },
+ "in": 2277,
+ "out": 123
+}

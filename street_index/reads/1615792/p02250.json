@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 2250,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p02250_3838918.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"North Shore Ave\",\"direction\":\"\",\"house_number\":\"1237-39\",\"permit_date\":\"1908-12\",\"permit_no\":\"\",\"notes\":\"two addresses typed: first line 1227-25 (apparently the old addr), second line 1237-9 with handwritten corrections; old addr: 1227-25 North Shore Ave; date reads 'Dec. 10, 1908' but is partly faded; faint text '774' at left; no permit number legible; card is faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "North Shore Ave",
+  "direction": "",
+  "house_number": "1237-39",
+  "permit_date": "1908-12",
+  "permit_no": "",
+  "notes": "two addresses typed: first line 1227-25 (apparently the old addr), second line 1237-9 with handwritten corrections; old addr: 1227-25 North Shore Ave; date reads 'Dec. 10, 1908' but is partly faded; faint text '774' at left; no permit number legible; card is faint and low contrast"
+ },
+ "in": 2306,
+ "out": 191
+}

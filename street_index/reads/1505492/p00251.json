@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 251,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p00251_3622381.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"State St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1915-08\",\"permit_no\":\"6618\",\"notes\":\"house number handwritten, likely 11245 or 11285 but uncertain; B; Book S Page (illegible); handwritten 'N 32591' near middle; file no 92760; permit date stamp reads AUG 1? 1915, day unclear; low contrast film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "State St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1915-08",
+  "permit_no": "6618",
+  "notes": "house number handwritten, likely 11245 or 11285 but uncertain; B; Book S Page (illegible); handwritten 'N 32591' near middle; file no 92760; permit date stamp reads AUG 1? 1915, day unclear; low contrast film"
+ },
+ "in": 2297,
+ "out": 163
+}

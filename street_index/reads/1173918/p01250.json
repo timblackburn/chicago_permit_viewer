@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1173918",
+ "slide_index": 1250,
+ "image": "street_index/data/1173918/slides_pct_0-0-100-99_w1000/p01250_2955854.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Devon Ave\",\"direction\":\"W\",\"house_number\":\"5354-76\",\"permit_date\":\"1947-08-01\",\"permit_no\":\"A 07525\",\"notes\":\"2 Riding Devices, 8-1 to 8-10-47; Sundry; file no. 352005; stamped SUNDRY; microfilm image is faint and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Devon Ave",
+  "direction": "W",
+  "house_number": "5354-76",
+  "permit_date": "1947-08-01",
+  "permit_no": "A 07525",
+  "notes": "2 Riding Devices, 8-1 to 8-10-47; Sundry; file no. 352005; stamped SUNDRY; microfilm image is faint and grainy"
+ },
+ "in": 2203,
+ "out": 146
+}

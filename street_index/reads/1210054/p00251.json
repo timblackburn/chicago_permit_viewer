@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 251,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p00251_3030195.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1927-04-08\",\"permit_no\":\"24984\",\"notes\":\"Alt; Sundry; handwritten house number at top reads approx 1420-22 but is blurred and uncertain; file no. 161759; card is dark and speckled with a bright flare spot\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1927-04-08",
+  "permit_no": "24984",
+  "notes": "Alt; Sundry; handwritten house number at top reads approx 1420-22 but is blurred and uncertain; file no. 161759; card is dark and speckled with a bright flare spot"
+ },
+ "in": 2239,
+ "out": 143
+}

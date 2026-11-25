@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 2750,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p02750_4086485.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Laflin St\",\"direction\":\"S\",\"house_number\":\"6535\",\"permit_date\":\"1902-09-06\",\"permit_no\":\"3628\",\"notes\":\"Typed card; the work line reads \\\"Same\\\" (presumably the same kind of building as the card before it)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Laflin St",
+  "direction": "S",
+  "house_number": "6535",
+  "permit_date": "1902-09-06",
+  "permit_no": "3628",
+  "notes": "Typed card; the work line reads \"Same\" (presumably the same kind of building as the card before it)"
+ },
+ "in": 2310,
+ "out": 117
+}

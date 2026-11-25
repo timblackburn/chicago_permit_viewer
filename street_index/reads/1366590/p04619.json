@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 4619,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p04619_3334534.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"60th St\",\"direction\":\"W\",\"house_number\":\"3333-39\",\"permit_date\":\"1925-08-20\",\"permit_no\":\"A 108089\",\"notes\":\"Flats; Book S 36 Page 415; house number written 3333 with 31 inserted above, then 39 (read as 3333-39); date stamp faint; Plan no. X 9610; Water no. 83273; File no. 116145\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "60th St",
+  "direction": "W",
+  "house_number": "3333-39",
+  "permit_date": "1925-08-20",
+  "permit_no": "A 108089",
+  "notes": "Flats; Book S 36 Page 415; house number written 3333 with 31 inserted above, then 39 (read as 3333-39); date stamp faint; Plan no. X 9610; Water no. 83273; File no. 116145"
+ },
+ "in": 2266,
+ "out": 162
+}

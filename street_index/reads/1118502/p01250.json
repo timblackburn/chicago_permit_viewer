@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 1250,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p01250_2844968.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Green St\",\"direction\":\"S\",\"house_number\":\"5630\",\"permit_date\":\"1949-07-01\",\"permit_no\":\"A 28784\",\"notes\":\"Replace rear porch; Plan no. 379146; dark, high-contrast scan but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Green St",
+  "direction": "S",
+  "house_number": "5630",
+  "permit_date": "1949-07-01",
+  "permit_no": "A 28784",
+  "notes": "Replace rear porch; Plan no. 379146; dark, high-contrast scan but readable"
+ },
+ "in": 2270,
+ "out": 115
+}

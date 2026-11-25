@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 2250,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p02250_3767994.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Polk St\",\"direction\":\"W\",\"house_number\":\"10-12\",\"permit_date\":\"1945-12-10\",\"permit_no\":\"144996\",\"notes\":\"repair bulkhead of store front; Sundry; permit no. partly obscured (first digits smudged, reads 1?4996); file no. 333825\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Polk St",
+  "direction": "W",
+  "house_number": "10-12",
+  "permit_date": "1945-12-10",
+  "permit_no": "144996",
+  "notes": "repair bulkhead of store front; Sundry; permit no. partly obscured (first digits smudged, reads 1?4996); file no. 333825"
+ },
+ "in": 2276,
+ "out": 132
+}

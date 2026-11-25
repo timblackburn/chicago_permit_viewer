@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 2255,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p02255_3608301.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washington Blvd\",\"direction\":\"\",\"house_number\":\"4120\",\"permit_date\":\"1924-05-28\",\"permit_no\":\"\",\"notes\":\"Sundry; File No. 14287 (handwritten); water no. blank; stamped date May 28 1924; no direction written on card; low contrast microfilm\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washington Blvd",
+  "direction": "",
+  "house_number": "4120",
+  "permit_date": "1924-05-28",
+  "permit_no": "",
+  "notes": "Sundry; File No. 14287 (handwritten); water no. blank; stamped date May 28 1924; no direction written on card; low contrast microfilm"
+ },
+ "in": 2354,
+ "out": 134
+}

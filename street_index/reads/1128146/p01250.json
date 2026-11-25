@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 1250,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p01250_2863964.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fulton St\",\"direction\":\"W\",\"house_number\":\"3028-30\",\"permit_date\":\"1948-01-16\",\"permit_no\":\"B 8238\",\"notes\":\"Int alts, convert into 12 apts. & 3 bsmt apts. Later 15 apts; Plan no. 5765; File no. 358898; card is dark and noisy, handwriting hard to read\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fulton St",
+  "direction": "W",
+  "house_number": "3028-30",
+  "permit_date": "1948-01-16",
+  "permit_no": "B 8238",
+  "notes": "Int alts, convert into 12 apts. & 3 bsmt apts. Later 15 apts; Plan no. 5765; File no. 358898; card is dark and noisy, handwriting hard to read"
+ },
+ "in": 2276,
+ "out": 155
+}

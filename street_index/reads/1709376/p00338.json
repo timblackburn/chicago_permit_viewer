@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 338,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p00338_4029082.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Loomis Blvd\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1930-07-31\",\"permit_no\":\"\",\"notes\":\"Replace west front (handwriting faint); Sundry; house number appears to be 6550 but is faint, direction not clear; stamped Jul 31 1930; card overexposed and faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Loomis Blvd",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1930-07-31",
+  "permit_no": "",
+  "notes": "Replace west front (handwriting faint); Sundry; house number appears to be 6550 but is faint, direction not clear; stamped Jul 31 1930; card overexposed and faint"
+ },
+ "in": 2310,
+ "out": 142
+}

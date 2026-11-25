@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1744745",
+ "slide_index": 1750,
+ "image": "street_index/data/1744745/slides_pct_0-0-100-99_w1000/p01750_4097766.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Komensky Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Frame Garage; Sundry; house number handwritten and faint, looks like 4803 but uncertain; permit no. stamp smudged; file no. 25818 (approx); date of permit faint, possibly 'Jul 16 19..' year unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Komensky Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Frame Garage; Sundry; house number handwritten and faint, looks like 4803 but uncertain; permit no. stamp smudged; file no. 25818 (approx); date of permit faint, possibly 'Jul 16 19..' year unreadable"
+ },
+ "in": 2280,
+ "out": 160
+}

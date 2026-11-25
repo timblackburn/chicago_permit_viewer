@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 2750,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p02750_3486565.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wentworth Ave\",\"direction\":\"S\",\"house_number\":\"3157\",\"permit_date\":\"1950-05-24\",\"permit_no\":\"A 43315\",\"notes\":\"Alterations; Plan no. 7153; File no. 393464; no book/page given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wentworth Ave",
+  "direction": "S",
+  "house_number": "3157",
+  "permit_date": "1950-05-24",
+  "permit_no": "A 43315",
+  "notes": "Alterations; Plan no. 7153; File no. 393464; no book/page given"
+ },
+ "in": 2311,
+ "out": 116
+}

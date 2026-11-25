@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 1250,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p01250_3536149.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vincennes Ave\",\"direction\":\"S\",\"house_number\":\"11753\",\"permit_date\":\"1946-03-13\",\"permit_no\":\"145677\",\"notes\":\"Frame Garage; Sundry; plan no 335977; date year partly overprinted/dark\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vincennes Ave",
+  "direction": "S",
+  "house_number": "11753",
+  "permit_date": "1946-03-13",
+  "permit_no": "145677",
+  "notes": "Frame Garage; Sundry; plan no 335977; date year partly overprinted/dark"
+ },
+ "in": 2278,
+ "out": 118
+}

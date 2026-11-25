@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1235601",
+ "slide_index": 3750,
+ "image": "street_index/data/1235601/slides_pct_0-0-100-99_w1000/p03750_3074333.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Campbell Ave\",\"direction\":\"S\",\"house_number\":\"11119\",\"permit_date\":\"1950-10-31\",\"permit_no\":\"A 50372\",\"notes\":\"Frame Garage; permit no. partly blacked out; file no. 403204; no book/page; street type not written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Campbell Ave",
+  "direction": "S",
+  "house_number": "11119",
+  "permit_date": "1950-10-31",
+  "permit_no": "A 50372",
+  "notes": "Frame Garage; permit no. partly blacked out; file no. 403204; no book/page; street type not written on card"
+ },
+ "in": 2272,
+ "out": 125
+}

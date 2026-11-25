@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 2250,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p02250_4204363.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kilpatrick Ave\",\"direction\":\"S\",\"house_number\":\"5232\",\"permit_date\":\"1914-12-22\",\"permit_no\":\"A 27632\",\"notes\":\"Fr B.; Book S 14 Page 92; handwritten 1445 below permit no. (not an address); File No. 78052; noisy, speckled film, handwriting partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kilpatrick Ave",
+  "direction": "S",
+  "house_number": "5232",
+  "permit_date": "1914-12-22",
+  "permit_no": "A 27632",
+  "notes": "Fr B.; Book S 14 Page 92; handwritten 1445 below permit no. (not an address); File No. 78052; noisy, speckled film, handwriting partly uncertain"
+ },
+ "in": 2252,
+ "out": 153
+}

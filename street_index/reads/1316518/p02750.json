@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 2750,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p02750_3235796.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ainslie St\",\"direction\":\"\",\"house_number\":\"4952\",\"permit_date\":\"1924-09-03\",\"permit_no\":\"A 99942\",\"notes\":\"Fr. Res; Book N 79 Page 449; water no. 70038; file no. 84031; permit number and ledger reference faint, handwritten entries partly smudged; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ainslie St",
+  "direction": "",
+  "house_number": "4952",
+  "permit_date": "1924-09-03",
+  "permit_no": "A 99942",
+  "notes": "Fr. Res; Book N 79 Page 449; water no. 70038; file no. 84031; permit number and ledger reference faint, handwritten entries partly smudged; no direction written on card"
+ },
+ "in": 2270,
+ "out": 149
+}

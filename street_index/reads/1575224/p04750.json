@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 4750,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p04750_3753091.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prospect Ave\",\"direction\":\"\",\"house_number\":\"10524-26\",\"permit_date\":\"1924-11-06\",\"permit_no\":\"A 97178\",\"notes\":\"B: Pas (work type partly legible); Page 142 S 34; plan no. 11150; water no. 72770; file no. 904143; card slightly faint; filed out of expected position between Princeton and Prindiville, so street read from card; no direction written (Prospect Ave)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prospect Ave",
+  "direction": "",
+  "house_number": "10524-26",
+  "permit_date": "1924-11-06",
+  "permit_no": "A 97178",
+  "notes": "B: Pas (work type partly legible); Page 142 S 34; plan no. 11150; water no. 72770; file no. 904143; card slightly faint; filed out of expected position between Princeton and Prindiville, so street read from card; no direction written (Prospect Ave)"
+ },
+ "in": 2278,
+ "out": 179
+}

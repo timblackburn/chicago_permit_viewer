@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1636996",
+ "slide_index": 251,
+ "image": "street_index/data/1636996/slides_pct_0-0-100-99_w1000/p00251_3885082.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Montrose Blvd\",\"direction\":\"\",\"house_number\":\"2811\",\"permit_date\":\"1921-01-03\",\"permit_no\":\"A 64292\",\"notes\":\"Ice storage add; Book N 22 Page 462; water no. 39382; plan no. 11; file no. 4586; microfilm frame has damaged bottom edge; address handwritten, street type read as Blvd (could be Dr)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Montrose Blvd",
+  "direction": "",
+  "house_number": "2811",
+  "permit_date": "1921-01-03",
+  "permit_no": "A 64292",
+  "notes": "Ice storage add; Book N 22 Page 462; water no. 39382; plan no. 11; file no. 4586; microfilm frame has damaged bottom edge; address handwritten, street type read as Blvd (could be Dr)"
+ },
+ "in": 2274,
+ "out": 165
+}

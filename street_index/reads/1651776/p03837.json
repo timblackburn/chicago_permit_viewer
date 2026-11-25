@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 3837,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p03837_3907800.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; two address lines, first begins 126? Milwaukee Ave, second 91? Milwaukee Ave (probably old addr and new addr, digits cut off); date partly visible Oct. ?, 1909 (uncertain); direction not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; two address lines, first begins 126? Milwaukee Ave, second 91? Milwaukee Ave (probably old addr and new addr, digits cut off); date partly visible Oct. ?, 1909 (uncertain); direction not readable"
+ },
+ "in": 2319,
+ "out": 169
+}

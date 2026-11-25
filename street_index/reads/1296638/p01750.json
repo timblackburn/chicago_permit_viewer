@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 1750,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p01750_3200847.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Charles St\",\"direction\":\"S\",\"house_number\":\"9561-9603\",\"permit_date\":\"1945-11-07\",\"permit_no\":\"68597\",\"notes\":\"2 2 story Res; Book SS Page 280; plan no 6641; water no 55316; permit no faint; book entry partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Charles St",
+  "direction": "S",
+  "house_number": "9561-9603",
+  "permit_date": "1945-11-07",
+  "permit_no": "68597",
+  "notes": "2 2 story Res; Book SS Page 280; plan no 6641; water no 55316; permit no faint; book entry partly faint"
+ },
+ "in": 2275,
+ "out": 130
+}

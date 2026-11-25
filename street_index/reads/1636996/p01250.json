@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1636996",
+ "slide_index": 1250,
+ "image": "street_index/data/1636996/slides_pct_0-0-100-99_w1000/p01250_3883054.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Moody Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1915-09-25\",\"permit_no\":\"A 93584\",\"notes\":\"Fr B.; Book N 12 Page 105; handwritten house number faint, appears like 2112 or 3112 with N above it, not confident; file no. 96007; low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Moody Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1915-09-25",
+  "permit_no": "A 93584",
+  "notes": "Fr B.; Book N 12 Page 105; handwritten house number faint, appears like 2112 or 3112 with N above it, not confident; file no. 96007; low contrast"
+ },
+ "in": 2313,
+ "out": 144
+}

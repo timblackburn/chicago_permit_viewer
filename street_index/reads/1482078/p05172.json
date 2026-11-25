@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 5172,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p05172_3565881.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Tripp Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"card very faint and washed out; handwritten top line reads something like '5?25 S Tripp Av' but house number not reliable; permit no. faint, possibly B 7..; no date legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Tripp Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "card very faint and washed out; handwritten top line reads something like '5?25 S Tripp Av' but house number not reliable; permit no. faint, possibly B 7..; no date legible"
+ },
+ "in": 2313,
+ "out": 136
+}

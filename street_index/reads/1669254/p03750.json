@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1669254",
+ "slide_index": 3750,
+ "image": "street_index/data/1669254/slides_pct_0-0-100-99_w1000/p03750_3943066.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Michigan Ave\",\"direction\":\"S\",\"house_number\":\"3523\",\"permit_date\":\"1877-05-22\",\"permit_no\":\"772\",\"notes\":\"typed card, faint; cross street: Michigan nr. 33rd; year partly unclear (read as 1877)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Michigan Ave",
+  "direction": "S",
+  "house_number": "3523",
+  "permit_date": "1877-05-22",
+  "permit_no": "772",
+  "notes": "typed card, faint; cross street: Michigan nr. 33rd; year partly unclear (read as 1877)"
+ },
+ "in": 2322,
+ "out": 122
+}

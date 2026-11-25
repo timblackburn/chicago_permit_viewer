@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 668,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p00668_3266847.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1914-02-28\",\"permit_no\":\"\",\"notes\":\"Card very faint and overexposed; address line at top unreadable (possibly starts with a 3-digit number and 'N'... but not certain); permit no. begins with letter A but digits unreadable; file no. unreadable; date of permit reads Feb 28 1914\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1914-02-28",
+  "permit_no": "",
+  "notes": "Card very faint and overexposed; address line at top unreadable (possibly starts with a 3-digit number and 'N'... but not certain); permit no. begins with letter A but digits unreadable; file no. unreadable; date of permit reads Feb 28 1914"
+ },
+ "in": 2298,
+ "out": 160
+}

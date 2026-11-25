@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1048893",
+ "slide_index": 4750,
+ "image": "street_index/data/1048893/slides_pct_0-0-100-99_w1000/p04750_4179130.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kenneth Ave\",\"direction\":\"S\",\"house_number\":\"6036\",\"permit_date\":\"1954-12-17\",\"permit_no\":\"B 123306\",\"notes\":\"Erect 1 1/2 sty Brick Residence; Plan No. 5333; File No. 475190; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kenneth Ave",
+  "direction": "S",
+  "house_number": "6036",
+  "permit_date": "1954-12-17",
+  "permit_no": "B 123306",
+  "notes": "Erect 1 1/2 sty Brick Residence; Plan No. 5333; File No. 475190; Book and Page blank"
+ },
+ "in": 2282,
+ "out": 132
+}

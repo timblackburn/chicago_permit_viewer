@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 1750,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p01750_3715344.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeway Ave\",\"direction\":\"N\",\"house_number\":\"2901\",\"permit_date\":\"1925-07-14\",\"permit_no\":\"A 106707\",\"notes\":\"Apt; B. Add Story; Book W 5 Page 61; plan no. 8107; water no. 81776; file no. 112209; address handwritten as \\\"2901 No Ridgeway Ave\\\" (direction read as N); card slightly faint with dark edge damage\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeway Ave",
+  "direction": "N",
+  "house_number": "2901",
+  "permit_date": "1925-07-14",
+  "permit_no": "A 106707",
+  "notes": "Apt; B. Add Story; Book W 5 Page 61; plan no. 8107; water no. 81776; file no. 112209; address handwritten as \"2901 No Ridgeway Ave\" (direction read as N); card slightly faint with dark edge damage"
+ },
+ "in": 2322,
+ "out": 178
+}

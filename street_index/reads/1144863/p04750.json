@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 4750,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p04750_2890448.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fairfield Ave\",\"direction\":\"S\",\"house_number\":\"6420\",\"permit_date\":\"1928-05-07\",\"permit_no\":\"42168\",\"notes\":\"Brick Garage; Sundry; plan no. 188634; faint, low contrast stamp text\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fairfield Ave",
+  "direction": "S",
+  "house_number": "6420",
+  "permit_date": "1928-05-07",
+  "permit_no": "42168",
+  "notes": "Brick Garage; Sundry; plan no. 188634; faint, low contrast stamp text"
+ },
+ "in": 2281,
+ "out": 119
+}

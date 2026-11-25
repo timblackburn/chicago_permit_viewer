@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1510554",
+ "slide_index": 2750,
+ "image": "street_index/data/1510554/slides_pct_0-0-100-99_w1000/p02750_3626409.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"State St\",\"direction\":\"S\",\"house_number\":\"3778\",\"permit_date\":\"1947-02-06\",\"permit_no\":\"A 03276\",\"notes\":\"Ins. addn. plbg. fix only; Sundry; Plan no: in file; File no 345518; date partly faded (FEB 6-1947)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "State St",
+  "direction": "S",
+  "house_number": "3778",
+  "permit_date": "1947-02-06",
+  "permit_no": "A 03276",
+  "notes": "Ins. addn. plbg. fix only; Sundry; Plan no: in file; File no 345518; date partly faded (FEB 6-1947)"
+ },
+ "in": 2261,
+ "out": 133
+}

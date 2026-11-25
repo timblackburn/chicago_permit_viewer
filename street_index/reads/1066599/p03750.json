@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 3750,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p03750_4151231.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Jackson Blvd\",\"direction\":\"W\",\"house_number\":\"1136-38\",\"permit_date\":\"1885-03-03\",\"permit_no\":\"182\",\"notes\":\"old addr: 363 W. Jackson Blvd; typed card; date faint, day and year partly unclear (read as March 3, 1885)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Jackson Blvd",
+  "direction": "W",
+  "house_number": "1136-38",
+  "permit_date": "1885-03-03",
+  "permit_no": "182",
+  "notes": "old addr: 363 W. Jackson Blvd; typed card; date faint, day and year partly unclear (read as March 3, 1885)"
+ },
+ "in": 2315,
+ "out": 134
+}

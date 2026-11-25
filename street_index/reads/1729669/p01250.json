@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 1250,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p01250_4068366.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Larrabee St\",\"direction\":\"N\",\"house_number\":\"1849-51\",\"permit_date\":\"1946-04-08\",\"permit_no\":\"\",\"notes\":\"Alts to 1st, 2nd, 3rd & 4th flr; Book 56 Page 110; stamped Sundry; Plan No 9398; Water No 58308; Permit No field blank (71181 stamped above); date year overwritten, read as 1946 (uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Larrabee St",
+  "direction": "N",
+  "house_number": "1849-51",
+  "permit_date": "1946-04-08",
+  "permit_no": "",
+  "notes": "Alts to 1st, 2nd, 3rd & 4th flr; Book 56 Page 110; stamped Sundry; Plan No 9398; Water No 58308; Permit No field blank (71181 stamped above); date year overwritten, read as 1946 (uncertain)"
+ },
+ "in": 2274,
+ "out": 178
+}

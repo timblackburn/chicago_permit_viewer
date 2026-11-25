@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1113780",
+ "slide_index": 3750,
+ "image": "street_index/data/1113780/slides_pct_0-0-100-99_w1000/p03750_2829537.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"745\",\"permit_date\":\"1950-11\",\"permit_no\":\"A 50866\",\"notes\":\"direction partly read (handwritten mark before Halsted, taken as S, consistent with reel order); work line faint and illegible; file no. 103502 (uncertain); date partly obscured, Nov 1950; card faint and overexposed with damaged bottom edge\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "745",
+  "permit_date": "1950-11",
+  "permit_no": "A 50866",
+  "notes": "direction partly read (handwritten mark before Halsted, taken as S, consistent with reel order); work line faint and illegible; file no. 103502 (uncertain); date partly obscured, Nov 1950; card faint and overexposed with damaged bottom edge"
+ },
+ "in": 2275,
+ "out": 168
+}

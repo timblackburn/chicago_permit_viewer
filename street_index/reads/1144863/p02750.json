@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 2750,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p02750_2894498.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Exchange Ave\",\"direction\":\"\",\"house_number\":\"9924\",\"permit_date\":\"1923-02-03\",\"permit_no\":\"A 75294\",\"notes\":\"B. Fr. Apts; Book S 27 Page 140; no direction written on card; water no. 75294; file no. 32773; plan no. 7 (stamped 389); handwriting partly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Exchange Ave",
+  "direction": "",
+  "house_number": "9924",
+  "permit_date": "1923-02-03",
+  "permit_no": "A 75294",
+  "notes": "B. Fr. Apts; Book S 27 Page 140; no direction written on card; water no. 75294; file no. 32773; plan no. 7 (stamped 389); handwriting partly smudged"
+ },
+ "in": 2279,
+ "out": 153
+}

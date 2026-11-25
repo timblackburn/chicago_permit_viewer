@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 2750,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p02750_4132519.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leavitt St\",\"direction\":\"N\",\"house_number\":\"3300\",\"permit_date\":\"1909-03-25\",\"permit_no\":\"9157\",\"notes\":\"Cor. Bldg.; also listed at 2200-10 W. School St; old addr: 154 School St; card typed, some lines faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leavitt St",
+  "direction": "N",
+  "house_number": "3300",
+  "permit_date": "1909-03-25",
+  "permit_no": "9157",
+  "notes": "Cor. Bldg.; also listed at 2200-10 W. School St; old addr: 154 School St; card typed, some lines faint"
+ },
+ "in": 2353,
+ "out": 130
+}

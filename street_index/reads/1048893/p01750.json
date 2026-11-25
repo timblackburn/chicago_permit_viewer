@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1048893",
+ "slide_index": 1750,
+ "image": "street_index/data/1048893/slides_pct_0-0-100-99_w1000/p01750_4184784.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Keeler Ave\",\"direction\":\"S\",\"house_number\":\"6732\",\"permit_date\":\"1951-12-27\",\"permit_no\":\"B 68811\",\"notes\":\"1 1/2 sty B. Res.; Book 64 Page 476; Plan no. 585; File no. 421436\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Keeler Ave",
+  "direction": "S",
+  "house_number": "6732",
+  "permit_date": "1951-12-27",
+  "permit_no": "B 68811",
+  "notes": "1 1/2 sty B. Res.; Book 64 Page 476; Plan no. 585; File no. 421436"
+ },
+ "in": 2314,
+ "out": 127
+}

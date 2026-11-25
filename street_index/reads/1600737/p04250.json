@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 4250,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p04250_3804482.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Overhill Ave\",\"direction\":\"N\",\"house_number\":\"7331\",\"permit_date\":\"1940-08-01\",\"permit_no\":\"51367\",\"notes\":\"1 sty br Residence; Book 50 Page 381; plan no 3102; water no 37407; file no 292316\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Overhill Ave",
+  "direction": "N",
+  "house_number": "7331",
+  "permit_date": "1940-08-01",
+  "permit_no": "51367",
+  "notes": "1 sty br Residence; Book 50 Page 381; plan no 3102; water no 37407; file no 292316"
+ },
+ "in": 2281,
+ "out": 124
+}

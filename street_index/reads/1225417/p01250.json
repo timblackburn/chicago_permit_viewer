@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1225417",
+ "slide_index": 1250,
+ "image": "street_index/data/1225417/slides_pct_0-0-100-99_w1000/p01250_3058999.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Central Park Ave\",\"direction\":\"S\",\"house_number\":\"2104\",\"permit_date\":\"1911-11-22\",\"permit_no\":\"A 337\",\"notes\":\"B; S.W. Permit No. A 337 (as written, B above); File No. 4153; card is a bit speckled but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Central Park Ave",
+  "direction": "S",
+  "house_number": "2104",
+  "permit_date": "1911-11-22",
+  "permit_no": "A 337",
+  "notes": "B; S.W. Permit No. A 337 (as written, B above); File No. 4153; card is a bit speckled but readable"
+ },
+ "in": 2279,
+ "out": 128
+}

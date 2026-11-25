@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 251,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p00251_3679703.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sangamon St\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1926-06-08\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address faint, house number unreadable (looks like '73' or '23' preceded by 'N'); work line faint, possibly 'Paint'; permit number faint and unreadable; card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sangamon St",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1926-06-08",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address faint, house number unreadable (looks like '73' or '23' preceded by 'N'); work line faint, possibly 'Paint'; permit number faint and unreadable; card washed out"
+ },
+ "in": 2308,
+ "out": 151
+}

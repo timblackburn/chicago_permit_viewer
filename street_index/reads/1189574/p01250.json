@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 1250,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p01250_2987207.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Damen Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1912-09-05\",\"permit_no\":\"A 7281\",\"notes\":\"No house number; address given as handwritten location \\\"NW Cor Robey & W 43rd St\\\" (approx, 43rd/47th unclear); B. Bk; Book S A Page 498; File No. 22261; blurry card, header partly overprinted by handwriting\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Damen Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1912-09-05",
+  "permit_no": "A 7281",
+  "notes": "No house number; address given as handwritten location \"NW Cor Robey & W 43rd St\" (approx, 43rd/47th unclear); B. Bk; Book S A Page 498; File No. 22261; blurry card, header partly overprinted by handwriting"
+ },
+ "in": 2308,
+ "out": 171
+}

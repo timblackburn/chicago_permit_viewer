@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1048893",
+ "slide_index": 3250,
+ "image": "street_index/data/1048893/slides_pct_0-0-100-99_w1000/p03250_4181926.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kenmore Ave\",\"direction\":\"N\",\"house_number\":\"6112\",\"permit_date\":\"1901-09-23\",\"permit_no\":\"735\",\"notes\":\"old addr: 2895 Kenmore; typed card; 735 is at left below the addresses and is read as the permit number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kenmore Ave",
+  "direction": "N",
+  "house_number": "6112",
+  "permit_date": "1901-09-23",
+  "permit_no": "735",
+  "notes": "old addr: 2895 Kenmore; typed card; 735 is at left below the addresses and is read as the permit number"
+ },
+ "in": 2318,
+ "out": 124
+}

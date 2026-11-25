@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1445451",
+ "slide_index": 2250,
+ "image": "street_index/data/1445451/slides_pct_0-0-100-99_w1000/p02250_3496101.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wayne Ave\",\"direction\":\"\",\"house_number\":\"4188\",\"permit_date\":\"1904-05-10\",\"permit_no\":\"\",\"notes\":\"old addr: 6823 Wayne Ave (struck through); card is typed and very faint, lower lines mostly unreadable; date partly legible as May 10, 1904; no direction written on card (ledger neighbors suggest N)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wayne Ave",
+  "direction": "",
+  "house_number": "4188",
+  "permit_date": "1904-05-10",
+  "permit_no": "",
+  "notes": "old addr: 6823 Wayne Ave (struck through); card is typed and very faint, lower lines mostly unreadable; date partly legible as May 10, 1904; no direction written on card (ledger neighbors suggest N)"
+ },
+ "in": 2309,
+ "out": 158
+}

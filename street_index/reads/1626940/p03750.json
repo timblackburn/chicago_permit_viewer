@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 3750,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p03750_3857937.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"W\",\"house_number\":\"4851\",\"permit_date\":\"1925-02-02\",\"permit_no\":\"57256\",\"notes\":\"Sundry stamp; top line has crossed-out street name (Metropole St) with 'W Nela...' written beside it, likely a corrected street name that is not fully readable; File no. 9514.3; faint card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "W",
+  "house_number": "4851",
+  "permit_date": "1925-02-02",
+  "permit_no": "57256",
+  "notes": "Sundry stamp; top line has crossed-out street name (Metropole St) with 'W Nela...' written beside it, likely a corrected street name that is not fully readable; File no. 9514.3; faint card"
+ },
+ "in": 2325,
+ "out": 147
+}

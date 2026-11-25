@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 2750,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p02750_2861006.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"George St\",\"direction\":\"\",\"house_number\":\"1554-52\",\"permit_date\":\"1901-11-30\",\"permit_no\":\"913\",\"notes\":\"typed card; old addr: 804-06 George St; no direction written; number 913 at lower left read as permit no; house number may be 1554-62 or 1554-52 as typed, digits slightly smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "George St",
+  "direction": "",
+  "house_number": "1554-52",
+  "permit_date": "1901-11-30",
+  "permit_no": "913",
+  "notes": "typed card; old addr: 804-06 George St; no direction written; number 913 at lower left read as permit no; house number may be 1554-62 or 1554-52 as typed, digits slightly smudged"
+ },
+ "in": 2275,
+ "out": 146
+}

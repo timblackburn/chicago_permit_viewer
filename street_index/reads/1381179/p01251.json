@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 1251,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p01251_3370610.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"31st St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; top line appears to read '3?6 W. 31st St.' with a second line beneath it (possibly old address); house number not reliably readable; date partly visible ending 1909 but not readable; permit number faint (possibly 1?20?) not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "31st St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; top line appears to read '3?6 W. 31st St.' with a second line beneath it (possibly old address); house number not reliably readable; date partly visible ending 1909 but not readable; permit number faint (possibly 1?20?) not readable"
+ },
+ "in": 2263,
+ "out": 162
+}

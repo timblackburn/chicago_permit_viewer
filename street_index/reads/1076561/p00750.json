@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 750,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p00750_4120384.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hubbard St\",\"direction\":\"W\",\"house_number\":\"154\",\"permit_date\":\"1881-10-12\",\"permit_no\":\"3840\",\"notes\":\"typed card; two addresses given: 154 W. Hubbard St. and 107 E. Michigan St., filed under the Hubbard St address in sequence; old addr: 107 E Michigan St; faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hubbard St",
+  "direction": "W",
+  "house_number": "154",
+  "permit_date": "1881-10-12",
+  "permit_no": "3840",
+  "notes": "typed card; two addresses given: 154 W. Hubbard St. and 107 E. Michigan St., filed under the Hubbard St address in sequence; old addr: 107 E Michigan St; faint"
+ },
+ "in": 2279,
+ "out": 151
+}

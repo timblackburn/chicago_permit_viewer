@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 2750,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p02750_2822103.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"5603 1/2\",\"permit_date\":\"1946-08-22\",\"permit_no\":\"148147\",\"notes\":\"Repair fire damage about 15% loss; Sundry; stamped SUNDRY; File No. 340651; permit number faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "5603 1/2",
+  "permit_date": "1946-08-22",
+  "permit_no": "148147",
+  "notes": "Repair fire damage about 15% loss; Sundry; stamped SUNDRY; File No. 340651; permit number faint"
+ },
+ "in": 2240,
+ "out": 130
+}

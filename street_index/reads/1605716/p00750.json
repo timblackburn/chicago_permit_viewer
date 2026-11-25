@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 750,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p00750_3821802.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ogden Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1920-09-30\",\"permit_no\":\"34551\",\"notes\":\"Merry Go Round & Ferris Wheel; Sundry; address line reads \\\"N E Ogden & Hedzie Ave\\\" (corner, no house number); owner Robt Hughey; plan no. 176128; date stamp faint, year uncertain (1920?)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ogden Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1920-09-30",
+  "permit_no": "34551",
+  "notes": "Merry Go Round & Ferris Wheel; Sundry; address line reads \"N E Ogden & Hedzie Ave\" (corner, no house number); owner Robt Hughey; plan no. 176128; date stamp faint, year uncertain (1920?)"
+ },
+ "in": 2313,
+ "out": 173
+}

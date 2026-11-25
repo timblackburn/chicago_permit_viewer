@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 4250,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p04250_3577116.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Thomas St\",\"direction\":\"W\",\"house_number\":\"1939\",\"permit_date\":\"1894-04-16\",\"permit_no\":\"1413\",\"notes\":\"old addr: 89 Thomas; typed card, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Thomas St",
+  "direction": "W",
+  "house_number": "1939",
+  "permit_date": "1894-04-16",
+  "permit_no": "1413",
+  "notes": "old addr: 89 Thomas; typed card, slightly faint"
+ },
+ "in": 2274,
+ "out": 106
+}

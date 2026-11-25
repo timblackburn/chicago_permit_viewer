@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 1750,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p01750_3638503.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Springfield Ave\",\"direction\":\"N\",\"house_number\":\"933\",\"permit_date\":\"1912\",\"permit_no\":\"A 3112\",\"notes\":\"B (Brick); Book S 10 Page 158; File No 9991 faint; date of permit faint, year appears 1912; old addr: possibly 'BW' written below address, unclear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Springfield Ave",
+  "direction": "N",
+  "house_number": "933",
+  "permit_date": "1912",
+  "permit_no": "A 3112",
+  "notes": "B (Brick); Book S 10 Page 158; File No 9991 faint; date of permit faint, year appears 1912; old addr: possibly 'BW' written below address, unclear"
+ },
+ "in": 2312,
+ "out": 143
+}

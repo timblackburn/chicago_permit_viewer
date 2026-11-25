@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 2722,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p02722_3457703.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Winchester Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line reads like \\\"1023 S. Winchester Ave.\\\" but the digits are uncertain; second line looks like an old address \\\"4?? S. Winchester(?) Ave.\\\" and is mostly unreadable; permit no. looks like \\\"13?4\\\" and date ends in \\\"95\\\", both unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Winchester Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line reads like \"1023 S. Winchester Ave.\" but the digits are uncertain; second line looks like an old address \"4?? S. Winchester(?) Ave.\" and is mostly unreadable; permit no. looks like \"13?4\" and date ends in \"95\", both unreadable"
+ },
+ "in": 2317,
+ "out": 189
+}

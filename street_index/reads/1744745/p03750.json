@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1744745",
+ "slide_index": 3750,
+ "image": "street_index/data/1744745/slides_pct_0-0-100-99_w1000/p03750_4093734.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kostner Ave\",\"direction\":\"S\",\"house_number\":\"4805\",\"permit_date\":\"1954-05-06\",\"permit_no\":\"A 110322\",\"notes\":\"Frame Garage; File no 462386; Book and Page blank; handwritten address, date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kostner Ave",
+  "direction": "S",
+  "house_number": "4805",
+  "permit_date": "1954-05-06",
+  "permit_no": "A 110322",
+  "notes": "Frame Garage; File no 462386; Book and Page blank; handwritten address, date stamp faint"
+ },
+ "in": 2282,
+ "out": 122
+}

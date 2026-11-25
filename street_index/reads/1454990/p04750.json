@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 4750,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p04750_3512007.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washburne Ave\",\"direction\":\"W\",\"house_number\":\"1245\",\"permit_date\":\"1941\",\"permit_no\":\"129110\",\"notes\":\"Wreck 2 Bldg - 2 & 4 sty; Brick; owner possibly Federal Reserve Bank Co (handwriting uncertain); File No 306995; date of permit faint, appears 194x; microfilm image low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washburne Ave",
+  "direction": "W",
+  "house_number": "1245",
+  "permit_date": "1941",
+  "permit_no": "129110",
+  "notes": "Wreck 2 Bldg - 2 & 4 sty; Brick; owner possibly Federal Reserve Bank Co (handwriting uncertain); File No 306995; date of permit faint, appears 194x; microfilm image low contrast"
+ },
+ "in": 2284,
+ "out": 164
+}

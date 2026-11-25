@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 1250,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p01250_3119203.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Berwyn Ave\",\"direction\":\"W\",\"house_number\":\"2639\",\"permit_date\":\"1951-09-05\",\"permit_no\":\"B 63973\",\"notes\":\"1-2 sty four apt bldg; Book 64 Page 19; Plan No 8381; File No 416421; card faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Berwyn Ave",
+  "direction": "W",
+  "house_number": "2639",
+  "permit_date": "1951-09-05",
+  "permit_no": "B 63973",
+  "notes": "1-2 sty four apt bldg; Book 64 Page 19; Plan No 8381; File No 416421; card faint"
+ },
+ "in": 2277,
+ "out": 130
+}

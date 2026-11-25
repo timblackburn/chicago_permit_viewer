@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 1750,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p01750_3666509.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"School St\",\"direction\":\"\",\"house_number\":\"5458\",\"permit_date\":\"1927-04-13\",\"permit_no\":\"\",\"notes\":\"Stamped 'ENTERED W 3 7 PAGE 440' (book and page partly faint); file no. 162160 faint; direction not clearly written; permit no. not legible; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "School St",
+  "direction": "",
+  "house_number": "5458",
+  "permit_date": "1927-04-13",
+  "permit_no": "",
+  "notes": "Stamped 'ENTERED W 3 7 PAGE 440' (book and page partly faint); file no. 162160 faint; direction not clearly written; permit no. not legible; card faint and low contrast"
+ },
+ "in": 2267,
+ "out": 146
+}

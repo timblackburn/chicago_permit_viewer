@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 750,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p00750_3232370.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Albany Ave\",\"direction\":\"N\",\"house_number\":\"3849\",\"permit_date\":\"1928-04-01\",\"permit_no\":\"40411\",\"notes\":\"Frame Garage; Sundry; File no. 185799; dark, high-contrast image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Albany Ave",
+  "direction": "N",
+  "house_number": "3849",
+  "permit_date": "1928-04-01",
+  "permit_no": "40411",
+  "notes": "Frame Garage; Sundry; File no. 185799; dark, high-contrast image"
+ },
+ "in": 2272,
+ "out": 114
+}

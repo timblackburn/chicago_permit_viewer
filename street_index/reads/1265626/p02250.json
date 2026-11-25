@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 2250,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p02250_3137604.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Belden Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1925\",\"permit_no\":\"61804\",\"notes\":\"Fence; Sundry; address is a corner description 'NW Cor Belden & Racine Av' with no house number; date stamp faint, appears to be 1925; card faint and low contrast; plan no 5247, file no 216364\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Belden Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1925",
+  "permit_no": "61804",
+  "notes": "Fence; Sundry; address is a corner description 'NW Cor Belden & Racine Av' with no house number; date stamp faint, appears to be 1925; card faint and low contrast; plan no 5247, file no 216364"
+ },
+ "in": 2279,
+ "out": 152
+}

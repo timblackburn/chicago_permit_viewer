@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 251,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p00251_3660497.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Seeley Ave\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Handwritten address at top is faint, looks like \\\"6445 E. Seeley Ave\\\" but the number and direction are uncertain; \\\"B.\\\" on the work line; permit no. begins with \\\"A\\\" and the rest is faint; date shows \\\"24\\\" and little else; card is very faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Seeley Ave",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Handwritten address at top is faint, looks like \"6445 E. Seeley Ave\" but the number and direction are uncertain; \"B.\" on the work line; permit no. begins with \"A\" and the rest is faint; date shows \"24\" and little else; card is very faint and low contrast"
+ },
+ "in": 2270,
+ "out": 173
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 2250,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p02250_3067077.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Carpenter St\",\"direction\":\"S\",\"house_number\":\"8528\",\"permit_date\":\"1951-03-01\",\"permit_no\":\"A 54555\",\"notes\":\"Enclose rear porch; Plan no. 407289; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Carpenter St",
+  "direction": "S",
+  "house_number": "8528",
+  "permit_date": "1951-03-01",
+  "permit_no": "A 54555",
+  "notes": "Enclose rear porch; Plan no. 407289; Book and Page blank"
+ },
+ "in": 2275,
+ "out": 113
+}

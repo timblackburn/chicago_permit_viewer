@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 3837,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p03837_3615301.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Superior St\",\"direction\":\"E\",\"house_number\":\"46\",\"permit_date\":\"\",\"permit_no\":\"169\",\"notes\":\"old addr: 457 E. Superior St.; card very faint; date partly legible (June ..., 19..7), permit no. only partly legible; direction E partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Superior St",
+  "direction": "E",
+  "house_number": "46",
+  "permit_date": "",
+  "permit_no": "169",
+  "notes": "old addr: 457 E. Superior St.; card very faint; date partly legible (June ..., 19..7), permit no. only partly legible; direction E partly faded"
+ },
+ "in": 2269,
+ "out": 128
+}

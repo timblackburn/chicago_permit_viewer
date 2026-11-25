@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 4168,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p04168_3548447.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"University Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1947-05-26\",\"permit_no\":\"A 66996\",\"notes\":\"Sundry; house number faint, appears to begin 981 or 9817 but not reliable (neighbor frame suggests 9152 S); second line of work description faint and unreadable; permit no. faint, file no. 848966 approx; card faded and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "University Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1947-05-26",
+  "permit_no": "A 66996",
+  "notes": "Sundry; house number faint, appears to begin 981 or 9817 but not reliable (neighbor frame suggests 9152 S); second line of work description faint and unreadable; permit no. faint, file no. 848966 approx; card faded and low contrast"
+ },
+ "in": 2275,
+ "out": 166
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 750,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p00750_3760880.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prairie Ave\",\"direction\":\"\",\"house_number\":\"4511-13\",\"permit_date\":\"1902-10-20\",\"permit_no\":\"4303\",\"notes\":\"Same (refers to a prior card); no direction written; street name first letter faint; card faint overall\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prairie Ave",
+  "direction": "",
+  "house_number": "4511-13",
+  "permit_date": "1902-10-20",
+  "permit_no": "4303",
+  "notes": "Same (refers to a prior card); no direction written; street name first letter faint; card faint overall"
+ },
+ "in": 2278,
+ "out": 117
+}

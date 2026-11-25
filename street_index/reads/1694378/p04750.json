@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 4750,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p04750_3990898.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Markham Ave\",\"direction\":\"\",\"house_number\":\"5832\",\"permit_date\":\"1924-06-18\",\"permit_no\":\"15915\",\"notes\":\"Sundry; file no. 76576; permit no. faint; no direction written; street type not on card; address is handwritten and 'Markham' is partly overlapped by the Sundry stamp\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Markham Ave",
+  "direction": "",
+  "house_number": "5832",
+  "permit_date": "1924-06-18",
+  "permit_no": "15915",
+  "notes": "Sundry; file no. 76576; permit no. faint; no direction written; street type not on card; address is handwritten and 'Markham' is partly overlapped by the Sundry stamp"
+ },
+ "in": 2308,
+ "out": 144
+}

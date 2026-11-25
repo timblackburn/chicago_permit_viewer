@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 2250,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p02250_4035854.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lockwood Ave\",\"direction\":\"N\",\"house_number\":\"2332\",\"permit_date\":\"1910-09-02\",\"permit_no\":\"23800\",\"notes\":\"old addr: 2332 N. 53rd Ave.; typed card, faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lockwood Ave",
+  "direction": "N",
+  "house_number": "2332",
+  "permit_date": "1910-09-02",
+  "permit_no": "23800",
+  "notes": "old addr: 2332 N. 53rd Ave.; typed card, faint and low contrast"
+ },
+ "in": 2243,
+ "out": 118
+}

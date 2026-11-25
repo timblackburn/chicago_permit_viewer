@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 5168,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p05168_2990102.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Cullom Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1916-03-31\",\"permit_no\":\"A 38248\",\"notes\":\"Br B.; Book N 12 Page 387; handwritten top address reads like \\\"5251 Cullom Ave\\\" but the house number is unclear and could be read as a ledger or other number; water no. 52318; plan no. 2140; file no. 6460; direction not written\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Cullom Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1916-03-31",
+  "permit_no": "A 38248",
+  "notes": "Br B.; Book N 12 Page 387; handwritten top address reads like \"5251 Cullom Ave\" but the house number is unclear and could be read as a ledger or other number; water no. 52318; plan no. 2140; file no. 6460; direction not written"
+ },
+ "in": 2243,
+ "out": 172
+}

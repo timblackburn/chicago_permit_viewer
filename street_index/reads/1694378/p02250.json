@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 2250,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p02250_3995758.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maplewood Ave\",\"direction\":\"N\",\"house_number\":\"4108\",\"permit_date\":\"1913-07-10\",\"permit_no\":\"A 15146\",\"notes\":\"Br B.; Book N 5 Page 282; permit number and book/page handwriting faint; file no. 42351; water no. 88793\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maplewood Ave",
+  "direction": "N",
+  "house_number": "4108",
+  "permit_date": "1913-07-10",
+  "permit_no": "A 15146",
+  "notes": "Br B.; Book N 5 Page 282; permit number and book/page handwriting faint; file no. 42351; water no. 88793"
+ },
+ "in": 2316,
+ "out": 133
+}

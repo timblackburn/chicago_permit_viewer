@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 1250,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p01250_3201843.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Champlain Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1926-08-30\",\"permit_no\":\"16055\",\"notes\":\"Garage; Stephenson (written name); Sundry; house number handwritten ending in 17 (likely 114xx-17) but not clearly readable; file no. 146583; permit no. last digit overwritten; film dark with scratches\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Champlain Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1926-08-30",
+  "permit_no": "16055",
+  "notes": "Garage; Stephenson (written name); Sundry; house number handwritten ending in 17 (likely 114xx-17) but not clearly readable; file no. 146583; permit no. last digit overwritten; film dark with scratches"
+ },
+ "in": 2313,
+ "out": 159
+}

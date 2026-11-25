@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1515192",
+ "slide_index": 3250,
+ "image": "street_index/data/1515192/slides_pct_0-0-100-99_w1000/p03250_3635500.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Springfield Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-12-12\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address line at top is faint and the house number is unreadable (possibly starts 11..); street name appears to be Springfield, consistent with neighboring frames; file no. handwritten, unclear; permit no. blank; date stamped DEC 12 1924\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Springfield Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-12-12",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address line at top is faint and the house number is unreadable (possibly starts 11..); street name appears to be Springfield, consistent with neighboring frames; file no. handwritten, unclear; permit no. blank; date stamped DEC 12 1924"
+ },
+ "in": 2312,
+ "out": 170
+}

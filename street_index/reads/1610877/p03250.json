@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 3250,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p03250_3826668.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakley Ave\",\"direction\":\"S\",\"house_number\":\"11562\",\"permit_date\":\"1942-04-06\",\"permit_no\":\"59687\",\"notes\":\"2 sty br Residence; Book 52 Page 598; plan no 1439; water no 46107; file no 309232\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakley Ave",
+  "direction": "S",
+  "house_number": "11562",
+  "permit_date": "1942-04-06",
+  "permit_no": "59687",
+  "notes": "2 sty br Residence; Book 52 Page 598; plan no 1439; water no 46107; file no 309232"
+ },
+ "in": 2320,
+ "out": 124
+}

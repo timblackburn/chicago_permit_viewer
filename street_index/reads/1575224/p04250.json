@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 4250,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p04250_3754075.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Princeton Ave\",\"direction\":\"S\",\"house_number\":\"11429\",\"permit_date\":\"1922-06-06\",\"permit_no\":\"A 69007\",\"notes\":\"Br B. fr Cott (as read); Book S 26 Page 144; Plan no. 4457; Water no. 43493; File no. 15620; direction not written on card, S assumed from book; slightly blurry handwriting\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Princeton Ave",
+  "direction": "S",
+  "house_number": "11429",
+  "permit_date": "1922-06-06",
+  "permit_no": "A 69007",
+  "notes": "Br B. fr Cott (as read); Book S 26 Page 144; Plan no. 4457; Water no. 43493; File no. 15620; direction not written on card, S assumed from book; slightly blurry handwriting"
+ },
+ "in": 2279,
+ "out": 161
+}

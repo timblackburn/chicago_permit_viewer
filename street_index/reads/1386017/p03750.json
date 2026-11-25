@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 3750,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p03750_3375285.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"W\",\"house_number\":\"459\",\"permit_date\":\"1909\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; two address lines: 459 W. and 431 W. (second line number read as 431, street name unreadable); year possibly 1909; old addr: possibly 431; reel context suggests 25th/26th area but street name not visible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "W",
+  "house_number": "459",
+  "permit_date": "1909",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; two address lines: 459 W. and 431 W. (second line number read as 431, street name unreadable); year possibly 1909; old addr: possibly 431; reel context suggests 25th/26th area but street name not visible"
+ },
+ "in": 2303,
+ "out": 154
+}

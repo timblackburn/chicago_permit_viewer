@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1320230",
+ "slide_index": 251,
+ "image": "street_index/data/1320230/slides_pct_0-0-100-99_w1000/p00251_3251275.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Aberdeen St\",\"direction\":\"S\",\"house_number\":\"623\",\"permit_date\":\"1954-06-18\",\"permit_no\":\"A 112969\",\"notes\":\"Frame Garage; File no. 465010; handwritten address, card slightly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Aberdeen St",
+  "direction": "S",
+  "house_number": "623",
+  "permit_date": "1954-06-18",
+  "permit_no": "A 112969",
+  "notes": "Frame Garage; File no. 465010; handwritten address, card slightly faded"
+ },
+ "in": 2271,
+ "out": 114
+}

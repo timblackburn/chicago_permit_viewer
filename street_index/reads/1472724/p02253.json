@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 2253,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p02253_3552317.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Union Ave\",\"direction\":\"S\",\"house_number\":\"6422\",\"permit_date\":\"\",\"permit_no\":\"56781\",\"notes\":\"Garage; Sundry; File no. 210466; date of permit blank; permit no. is stamped beside the permit line; film is high-contrast and slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Union Ave",
+  "direction": "S",
+  "house_number": "6422",
+  "permit_date": "",
+  "permit_no": "56781",
+  "notes": "Garage; Sundry; File no. 210466; date of permit blank; permit no. is stamped beside the permit line; film is high-contrast and slightly faint"
+ },
+ "in": 2277,
+ "out": 130
+}

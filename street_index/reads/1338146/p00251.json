@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 251,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p00251_3286206.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"89th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1922-08-24\",\"permit_no\":\"\",\"notes\":\"Handwritten address at top, house number looks like 8?? or 892 but is unclear; street reads as 89th Pl or St, assumed St from reel position; stamp reads SUNDRY (partial); card overexposed and faint, most fields washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "89th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1922-08-24",
+  "permit_no": "",
+  "notes": "Handwritten address at top, house number looks like 8?? or 892 but is unclear; street reads as 89th Pl or St, assumed St from reel position; stamp reads SUNDRY (partial); card overexposed and faint, most fields washed out"
+ },
+ "in": 2296,
+ "out": 159
+}

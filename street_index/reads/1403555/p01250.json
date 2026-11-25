@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 1250,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p01250_3414648.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"18th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Handwritten address looks like '163? W 18th Pl' but is very faint and overexposed, house number not reliable; work line unclear (possibly 'Cost of building'); Sundry; file no. faintly 169251; card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "18th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Handwritten address looks like '163? W 18th Pl' but is very faint and overexposed, house number not reliable; work line unclear (possibly 'Cost of building'); Sundry; file no. faintly 169251; card washed out"
+ },
+ "in": 2304,
+ "out": 148
+}

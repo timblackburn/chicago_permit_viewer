@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 3250,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p03250_3964301.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"McVickers Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1926-09-08\",\"permit_no\":\"B 9784\",\"notes\":\"Top line handwritten address is faint and cropped (looks like 4529-... 4135 W McVickers Ave) and cannot be read with confidence; Book N 98 Page 134; plan no 9149; water no 24699; file no 147039; Tr Res; very dark, noisy film image. Date stamped SEP 8 1926.\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "McVickers Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1926-09-08",
+  "permit_no": "B 9784",
+  "notes": "Top line handwritten address is faint and cropped (looks like 4529-... 4135 W McVickers Ave) and cannot be read with confidence; Book N 98 Page 134; plan no 9149; water no 24699; file no 147039; Tr Res; very dark, noisy film image. Date stamped SEP 8 1926."
+ },
+ "in": 2237,
+ "out": 195
+}

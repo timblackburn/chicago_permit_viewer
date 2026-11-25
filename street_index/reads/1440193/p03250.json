@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 3250,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p03250_3485570.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wentworth Ave\",\"direction\":\"\",\"house_number\":\"4321-23-25\",\"permit_date\":\"1909-09-16\",\"permit_no\":\"15144\",\"notes\":\"Same (no building type given); typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wentworth Ave",
+  "direction": "",
+  "house_number": "4321-23-25",
+  "permit_date": "1909-09-16",
+  "permit_no": "15144",
+  "notes": "Same (no building type given); typed card"
+ },
+ "in": 2272,
+ "out": 102
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 4750,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p04750_3224374.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Archer Ave\",\"direction\":\"\",\"house_number\":\"3159\",\"permit_date\":\"1907-02-06\",\"permit_no\":\"3909\",\"notes\":\"Same; card is typed and very faint, permit number and date partly washed out; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Archer Ave",
+  "direction": "",
+  "house_number": "3159",
+  "permit_date": "1907-02-06",
+  "permit_no": "3909",
+  "notes": "Same; card is typed and very faint, permit number and date partly washed out; no direction written"
+ },
+ "in": 2274,
+ "out": 112
+}

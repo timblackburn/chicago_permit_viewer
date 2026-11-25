@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 750,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p00750_3770985.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pierce Ave\",\"direction\":\"W\",\"house_number\":\"3420\",\"permit_date\":\"1903-06\",\"permit_no\":\"N.W. 7156\",\"notes\":\"old addr: 149 Pierce Ave; date faint, day unreadable (June ?, 1903); permit no. prefix 'N.W.' faint; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pierce Ave",
+  "direction": "W",
+  "house_number": "3420",
+  "permit_date": "1903-06",
+  "permit_no": "N.W. 7156",
+  "notes": "old addr: 149 Pierce Ave; date faint, day unreadable (June ?, 1903); permit no. prefix 'N.W.' faint; no building type given"
+ },
+ "in": 2270,
+ "out": 144
+}

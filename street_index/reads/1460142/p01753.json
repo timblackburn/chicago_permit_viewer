@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 1753,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p01753_3524830.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"10542\",\"permit_date\":\"1915-01-13\",\"permit_no\":\"A 27818\",\"notes\":\"Fr B.; Book S 14 Page 106; file no. 78611; second number 1697 written below (possibly old addr: 1697); handwritten and stamped, slightly blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "10542",
+  "permit_date": "1915-01-13",
+  "permit_no": "A 27818",
+  "notes": "Fr B.; Book S 14 Page 106; file no. 78611; second number 1697 written below (possibly old addr: 1697); handwritten and stamped, slightly blurry"
+ },
+ "in": 2281,
+ "out": 148
+}

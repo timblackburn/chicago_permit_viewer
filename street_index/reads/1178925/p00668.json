@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 668,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p00668_2966953.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Devon Ct\",\"direction\":\"\",\"house_number\":\"3068\",\"permit_date\":\"1916-08-31\",\"permit_no\":\"A 42x60\",\"notes\":\"Br B.; Book N 15 Page 76; no direction written; street name handwritten and read as Devon Ct, which fits filing between Dante and Dayton only loosely; permit no. partly unclear (A 4260?); Plan 6844; Water 16364; File 18187; card slightly faint.\\\"}\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Devon Ct",
+  "direction": "",
+  "house_number": "3068",
+  "permit_date": "1916-08-31",
+  "permit_no": "A 42x60",
+  "notes": "Br B.; Book N 15 Page 76; no direction written; street name handwritten and read as Devon Ct, which fits filing between Dante and Dayton only loosely; permit no. partly unclear (A 4260?); Plan 6844; Water 16364; File 18187; card slightly faint.\"}"
+ },
+ "in": 2306,
+ "out": 188
+}

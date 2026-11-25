@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 2250,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p02250_2995885.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Crandon Ave\",\"direction\":\"S\",\"house_number\":\"8837\",\"permit_date\":\"1952-04-17\",\"permit_no\":\"B 72640\",\"notes\":\"1 sty brick res; Book 65 Page 137; Plan No 2528; File No 425191\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Crandon Ave",
+  "direction": "S",
+  "house_number": "8837",
+  "permit_date": "1952-04-17",
+  "permit_no": "B 72640",
+  "notes": "1 sty brick res; Book 65 Page 137; Plan No 2528; File No 425191"
+ },
+ "in": 2246,
+ "out": 120
+}

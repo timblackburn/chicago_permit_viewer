@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 2750,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p02750_3664501.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Scott St\",\"direction\":\"E\",\"house_number\":\"24\",\"permit_date\":\"1949-12-09\",\"permit_no\":\"A 36640\",\"notes\":\"Repair 1 pass. Elev. 4 floors; file no 386849; permit no faint, may be A 36640; microfilm image has noise\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Scott St",
+  "direction": "E",
+  "house_number": "24",
+  "permit_date": "1949-12-09",
+  "permit_no": "A 36640",
+  "notes": "Repair 1 pass. Elev. 4 floors; file no 386849; permit no faint, may be A 36640; microfilm image has noise"
+ },
+ "in": 2276,
+ "out": 131
+}

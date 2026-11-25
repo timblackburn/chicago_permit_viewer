@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 1253,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p01253_2965770.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Dean St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line appears to read '1358 Dean St.' and second line '2_ Dean St.' but the digits are uncertain; permit no. possibly 3055 (unclear); date line mostly unreadable; old addr: unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Dean St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line appears to read '1358 Dean St.' and second line '2_ Dean St.' but the digits are uncertain; permit no. possibly 3055 (unclear); date line mostly unreadable; old addr: unclear"
+ },
+ "in": 2307,
+ "out": 158
+}

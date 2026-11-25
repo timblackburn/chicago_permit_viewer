@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 2750,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p02750_3560021.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Troy St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"58280\",\"notes\":\"Sundry; handwriting very faint; address at top partly readable (house number unclear, possibly 6x7); permit no. uncertain; plan no. 202517; Garage written below address; card is faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Troy St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "58280",
+  "notes": "Sundry; handwriting very faint; address at top partly readable (house number unclear, possibly 6x7); permit no. uncertain; plan no. 202517; Garage written below address; card is faint and overexposed"
+ },
+ "in": 2313,
+ "out": 144
+}

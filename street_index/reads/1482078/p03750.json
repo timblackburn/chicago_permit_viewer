@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 3750,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p03750_3568769.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Touhy Ave\",\"direction\":\"\",\"house_number\":\"7227\",\"permit_date\":\"1928-05-17\",\"permit_no\":\"42765\",\"notes\":\"France Refreshment Booth; Sundry; plan no. 189645; no direction written; stamped date, card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Touhy Ave",
+  "direction": "",
+  "house_number": "7227",
+  "permit_date": "1928-05-17",
+  "permit_no": "42765",
+  "notes": "France Refreshment Booth; Sundry; plan no. 189645; no direction written; stamped date, card slightly faint"
+ },
+ "in": 2311,
+ "out": 125
+}

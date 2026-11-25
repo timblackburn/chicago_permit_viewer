@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 4250,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p04250_3764139.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Potomac Ave\",\"direction\":\"\",\"house_number\":\"3240\",\"permit_date\":\"1906\",\"permit_no\":\"28700\",\"notes\":\"typed card; old addr: 822 Potomac Ave; second line and permit number/date faint; date partly legible, looks like July 1906, day unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Potomac Ave",
+  "direction": "",
+  "house_number": "3240",
+  "permit_date": "1906",
+  "permit_no": "28700",
+  "notes": "typed card; old addr: 822 Potomac Ave; second line and permit number/date faint; date partly legible, looks like July 1906, day unreadable"
+ },
+ "in": 2277,
+ "out": 131
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 1250,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p01250_3740403.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"6836\",\"permit_date\":\"1924-06-22\",\"permit_no\":\"89237\",\"notes\":\"1 S Bd 5 x 8 (sign); Sundry; owner General Outdoor Adv. Co.; file no. 248036; date of permit faint, year read as 1924; low contrast, faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "6836",
+  "permit_date": "1924-06-22",
+  "permit_no": "89237",
+  "notes": "1 S Bd 5 x 8 (sign); Sundry; owner General Outdoor Adv. Co.; file no. 248036; date of permit faint, year read as 1924; low contrast, faded"
+ },
+ "in": 2313,
+ "out": 152
+}

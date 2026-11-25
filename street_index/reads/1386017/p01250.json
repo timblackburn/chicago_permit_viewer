@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 1250,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p01250_3380337.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"23rd Pl\",\"direction\":\"W\",\"house_number\":\"2214\",\"permit_date\":\"1887-03-16\",\"permit_no\":\"596\",\"notes\":\"70 Parmelee (owner/builder name); typed card, faint; street type Pl and 23rd read from partly faded text\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "23rd Pl",
+  "direction": "W",
+  "house_number": "2214",
+  "permit_date": "1887-03-16",
+  "permit_no": "596",
+  "notes": "70 Parmelee (owner/builder name); typed card, faint; street type Pl and 23rd read from partly faded text"
+ },
+ "in": 2301,
+ "out": 124
+}

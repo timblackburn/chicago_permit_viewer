@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1113780",
+ "slide_index": 251,
+ "image": "street_index/data/1113780/slides_pct_0-0-100-99_w1000/p00251_2836538.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Greenwood Ave\",\"direction\":\"S\",\"house_number\":\"9114\",\"permit_date\":\"1948-05-04\",\"permit_no\":\"A 11820\",\"notes\":\"Fra. Gar. 15x22; Plan no. 362433 (file no.); Book/Page blank; card photographed with some edge damage\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Greenwood Ave",
+  "direction": "S",
+  "house_number": "9114",
+  "permit_date": "1948-05-04",
+  "permit_no": "A 11820",
+  "notes": "Fra. Gar. 15x22; Plan no. 362433 (file no.); Book/Page blank; card photographed with some edge damage"
+ },
+ "in": 2272,
+ "out": 135
+}

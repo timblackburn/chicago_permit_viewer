@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1285785",
+ "slide_index": 4250,
+ "image": "street_index/data/1285785/slides_pct_0-0-100-99_w1000/p04250_3174114.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"1220\",\"permit_date\":\"1946-07-09\",\"permit_no\":\"72074\",\"notes\":\"Alts to Bldg; Book 56 Page 254; Sundry; Plan 942; Water 59356; File 339292; direction written as \\\"So.\\\" in handwriting, though the reel sequence suggests the card may belong near N Ashland\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "1220",
+  "permit_date": "1946-07-09",
+  "permit_no": "72074",
+  "notes": "Alts to Bldg; Book 56 Page 254; Sundry; Plan 942; Water 59356; File 339292; direction written as \"So.\" in handwriting, though the reel sequence suggests the card may belong near N Ashland"
+ },
+ "in": 2278,
+ "out": 165
+}

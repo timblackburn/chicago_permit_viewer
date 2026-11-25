@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 750,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p00750_2845958.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Granville Ave\",\"direction\":\"W\",\"house_number\":\"3759\",\"permit_date\":\"1953-06-08\",\"permit_no\":\"B 93148\",\"notes\":\"Erect 1 sty Brick Residence; Book 67 Page 188; Plan no. 1346; File no. 445416\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Granville Ave",
+  "direction": "W",
+  "house_number": "3759",
+  "permit_date": "1953-06-08",
+  "permit_no": "B 93148",
+  "notes": "Erect 1 sty Brick Residence; Book 67 Page 188; Plan no. 1346; File no. 445416"
+ },
+ "in": 2273,
+ "out": 128
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 251,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p00251_3426351.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Yates Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1916-06-23\",\"permit_no\":\"A 40935\",\"notes\":\"Br B.; Book S 16 Page 382; house number at top is crossed out and overwritten, not readable (looks like 7144-46 over a struck-through number); direction not written; Plan No. 5132; Water No. 14980; File No. 13680; stamp is faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Yates Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1916-06-23",
+  "permit_no": "A 40935",
+  "notes": "Br B.; Book S 16 Page 382; house number at top is crossed out and overwritten, not readable (looks like 7144-46 over a struck-through number); direction not written; Plan No. 5132; Water No. 14980; File No. 13680; stamp is faint"
+ },
+ "in": 2272,
+ "out": 172
+}

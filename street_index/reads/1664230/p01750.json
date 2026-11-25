@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 1750,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p01750_3937017.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Normal Ave\",\"direction\":\"S\",\"house_number\":\"10050\",\"permit_date\":\"1924-08-20\",\"permit_no\":\"A 94073\",\"notes\":\"Owner B. F. Cott; Book S 31 Page 520; plan no. 8334; water no. 69635; file no. 82728; direction read as S from a handwritten mark after the number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Normal Ave",
+  "direction": "S",
+  "house_number": "10050",
+  "permit_date": "1924-08-20",
+  "permit_no": "A 94073",
+  "notes": "Owner B. F. Cott; Book S 31 Page 520; plan no. 8334; water no. 69635; file no. 82728; direction read as S from a handwritten mark after the number"
+ },
+ "in": 2306,
+ "out": 148
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 1250,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p01250_3149662.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ave N\",\"direction\":\"S\",\"house_number\":\"10728\",\"permit_date\":\"1943-02-02\",\"permit_no\":\"61158\",\"notes\":\"2 story brick Res.; Book 53 Page 247; plan no 59; water no 47625; file no 313938; card is dark and slightly noisy, permit number partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ave N",
+  "direction": "S",
+  "house_number": "10728",
+  "permit_date": "1943-02-02",
+  "permit_no": "61158",
+  "notes": "2 story brick Res.; Book 53 Page 247; plan no 59; water no 47625; file no 313938; card is dark and slightly noisy, permit number partly faint"
+ },
+ "in": 2267,
+ "out": 140
+}

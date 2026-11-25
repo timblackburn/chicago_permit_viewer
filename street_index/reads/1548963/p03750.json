@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 3750,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p03750_3700102.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Roscoe St\",\"direction\":\"\",\"house_number\":\"2012\",\"permit_date\":\"1896-05-11\",\"permit_no\":\"N 531\",\"notes\":\"old addr: 346 Roscoe St; no direction written; typed card, very faint; permit no. read as N 531\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Roscoe St",
+  "direction": "",
+  "house_number": "2012",
+  "permit_date": "1896-05-11",
+  "permit_no": "N 531",
+  "notes": "old addr: 346 Roscoe St; no direction written; typed card, very faint; permit no. read as N 531"
+ },
+ "in": 2273,
+ "out": 122
+}

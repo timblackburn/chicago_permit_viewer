@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 3750,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p03750_3755056.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Princeton Ave\",\"direction\":\"\",\"house_number\":\"5238\",\"permit_date\":\"1934-03-23\",\"permit_no\":\"87374\",\"notes\":\"Concrete fd; Sundry; plan no 247395; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Princeton Ave",
+  "direction": "",
+  "house_number": "5238",
+  "permit_date": "1934-03-23",
+  "permit_no": "87374",
+  "notes": "Concrete fd; Sundry; plan no 247395; no direction written on card"
+ },
+ "in": 2280,
+ "out": 111
+}

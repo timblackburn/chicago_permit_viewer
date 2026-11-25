@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 3250,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p03250_2880417.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Foster Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1925-07-10\",\"permit_no\":\"66987\",\"notes\":\"Sundry; house number first digits look like 1739 but uncertain; file no. 111939; card dark, noisy and faint; no direction written visible; permit no. read as G6987/66987 handwritten, uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Foster Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1925-07-10",
+  "permit_no": "66987",
+  "notes": "Sundry; house number first digits look like 1739 but uncertain; file no. 111939; card dark, noisy and faint; no direction written visible; permit no. read as G6987/66987 handwritten, uncertain"
+ },
+ "in": 2250,
+ "out": 152
+}

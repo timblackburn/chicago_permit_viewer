@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 3750,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p03750_3745076.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Emmerson Ave\",\"direction\":\"\",\"house_number\":\"1946\",\"permit_date\":\"1928-04-09\",\"permit_no\":\"40839\",\"notes\":\"Alterations; Sundry; stamped RACE; no direction written; street spelled Emmerson/Emerson with handwriting uncertain, type likely Ave; file no. 186363 partly faint; date partly faint (APR 9, 1928)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Emmerson Ave",
+  "direction": "",
+  "house_number": "1946",
+  "permit_date": "1928-04-09",
+  "permit_no": "40839",
+  "notes": "Alterations; Sundry; stamped RACE; no direction written; street spelled Emmerson/Emerson with handwriting uncertain, type likely Ave; file no. 186363 partly faint; date partly faint (APR 9, 1928)"
+ },
+ "in": 2275,
+ "out": 167
+}

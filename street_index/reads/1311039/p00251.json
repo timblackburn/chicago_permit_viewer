@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1311039",
+ "slide_index": 251,
+ "image": "street_index/data/1311039/slides_pct_0-0-100-99_w1000/p00251_3233371.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Albany Ave\",\"direction\":\"N\",\"house_number\":\"1565\",\"permit_date\":\"1908-05-19\",\"permit_no\":\"5078\",\"notes\":\"typed card; two addresses, 2814 N. Albany Ave. struck through; old addr: 2814 N Albany Ave; faint, low contrast; year read as 1908 but partly struck; permit no. first digit faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Albany Ave",
+  "direction": "N",
+  "house_number": "1565",
+  "permit_date": "1908-05-19",
+  "permit_no": "5078",
+  "notes": "typed card; two addresses, 2814 N. Albany Ave. struck through; old addr: 2814 N Albany Ave; faint, low contrast; year read as 1908 but partly struck; permit no. first digit faint"
+ },
+ "in": 2271,
+ "out": 158
+}

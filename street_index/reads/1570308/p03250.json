@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 3250,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p03250_3746124.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pulaski Rd\",\"direction\":\"S\",\"house_number\":\"6934\",\"permit_date\":\"1949-04-22\",\"permit_no\":\"B 25623\",\"notes\":\"1-2 sty B. Sales & Office; Book 59 Page 554; Plan No. 7685; File No. 376015\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pulaski Rd",
+  "direction": "S",
+  "house_number": "6934",
+  "permit_date": "1949-04-22",
+  "permit_no": "B 25623",
+  "notes": "1-2 sty B. Sales & Office; Book 59 Page 554; Plan No. 7685; File No. 376015"
+ },
+ "in": 2312,
+ "out": 130
+}

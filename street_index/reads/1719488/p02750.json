@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 2750,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p02750_4044540.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lightfoot Ave\",\"direction\":\"W\",\"house_number\":\"6631\",\"permit_date\":\"\",\"permit_no\":\"B 7518\",\"notes\":\"work line faint, not readable; Book 58 Page 166; Plan no. 7651(?); File no. 358111; date of permit faint, appears to be Dec; card faint and overexposed; street direction uncertain, appears to be W; street name written as Lightfoot (does not match reel range, reading uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lightfoot Ave",
+  "direction": "W",
+  "house_number": "6631",
+  "permit_date": "",
+  "permit_no": "B 7518",
+  "notes": "work line faint, not readable; Book 58 Page 166; Plan no. 7651(?); File no. 358111; date of permit faint, appears to be Dec; card faint and overexposed; street direction uncertain, appears to be W; street name written as Lightfoot (does not match reel range, reading uncertain)"
+ },
+ "in": 2313,
+ "out": 185
+}

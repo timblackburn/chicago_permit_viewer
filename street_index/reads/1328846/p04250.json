@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 4250,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p04250_3259682.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"113th St\",\"direction\":\"W\",\"house_number\":\"206\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; card heavily overexposed and faded, printed fields illegible; handwritten address reads \\\"206 W 113th St\\\" with an uncertain suffix (possibly \\\"21\\\"); file no. faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "113th St",
+  "direction": "W",
+  "house_number": "206",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; card heavily overexposed and faded, printed fields illegible; handwritten address reads \"206 W 113th St\" with an uncertain suffix (possibly \"21\"); file no. faint"
+ },
+ "in": 2304,
+ "out": 141
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 750,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p00750_2898530.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Everell Ave\",\"direction\":\"W\",\"house_number\":\"7260\",\"permit_date\":\"1948-06-08\",\"permit_no\":\"B 13513\",\"notes\":\"1-1 1/2 sty Res.; Book 58 Page 497; Plan No. 2525; File No. 364100\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Everell Ave",
+  "direction": "W",
+  "house_number": "7260",
+  "permit_date": "1948-06-08",
+  "permit_no": "B 13513",
+  "notes": "1-1 1/2 sty Res.; Book 58 Page 497; Plan No. 2525; File No. 364100"
+ },
+ "in": 2313,
+ "out": 127
+}

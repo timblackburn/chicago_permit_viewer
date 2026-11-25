@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 249,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p00249_3698950.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Roscoe St\",\"direction\":\"\",\"house_number\":\"5236\",\"permit_date\":\"1925-08-22\",\"permit_no\":\"69909\",\"notes\":\"Shed; Sundry; file no. 116447 (handwritten, approximate); no direction written on card; card is faint with dark streaks at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Roscoe St",
+  "direction": "",
+  "house_number": "5236",
+  "permit_date": "1925-08-22",
+  "permit_no": "69909",
+  "notes": "Shed; Sundry; file no. 116447 (handwritten, approximate); no direction written on card; card is faint with dark streaks at bottom"
+ },
+ "in": 2273,
+ "out": 132
+}

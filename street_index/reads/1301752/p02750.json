@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 2750,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p02750_3209068.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Burnham Ave\",\"direction\":\"S\",\"house_number\":\"8522\",\"permit_date\":\"1925-05-08\",\"permit_no\":\"A 63506\",\"notes\":\"1 sty Bkt (kind of work faint; possibly 'S 1 1 Bkt'); Plan no. 5148; Water no. 79106; File no. 104176; age 65; direction not clearly written on card, inferred from filing order between 7750 S Burnham and Byron St; card faint with streaks across bottom; card shows 'Burnham art' (Ave)=read as Burnham Ave; '36' next to permit no.; ledger reference not shown\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Burnham Ave",
+  "direction": "S",
+  "house_number": "8522",
+  "permit_date": "1925-05-08",
+  "permit_no": "A 63506",
+  "notes": "1 sty Bkt (kind of work faint; possibly 'S 1 1 Bkt'); Plan no. 5148; Water no. 79106; File no. 104176; age 65; direction not clearly written on card, inferred from filing order between 7750 S Burnham and Byron St; card faint with streaks across bottom; card shows 'Burnham art' (Ave)=read as Burnham Ave; '36' next to permit no.; ledger reference not shown"
+ },
+ "in": 2268,
+ "out": 240
+}

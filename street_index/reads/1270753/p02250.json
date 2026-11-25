@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 2250,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p02250_3147666.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avers Ave\",\"direction\":\"N\",\"house_number\":\"1214\",\"permit_date\":\"1948-10-26\",\"permit_no\":\"A 19946\",\"notes\":\"Furnace; file no. 370479; card faint, work type handwriting light\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avers Ave",
+  "direction": "N",
+  "house_number": "1214",
+  "permit_date": "1948-10-26",
+  "permit_no": "A 19946",
+  "notes": "Furnace; file no. 370479; card faint, work type handwriting light"
+ },
+ "in": 2270,
+ "out": 111
+}

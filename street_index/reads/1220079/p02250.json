@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 2250,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p02250_3046280.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Christiana Ave\",\"direction\":\"N\",\"house_number\":\"3935-37-41\",\"permit_date\":\"1924-01-24\",\"permit_no\":\"A 86741\",\"notes\":\"B. Apts. (3); Book N 29 Page 152; plan no 490; water no 62027; file no 62537; typed card, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Christiana Ave",
+  "direction": "N",
+  "house_number": "3935-37-41",
+  "permit_date": "1924-01-24",
+  "permit_no": "A 86741",
+  "notes": "B. Apts. (3); Book N 29 Page 152; plan no 490; water no 62027; file no 62537; typed card, slightly faint"
+ },
+ "in": 2241,
+ "out": 140
+}

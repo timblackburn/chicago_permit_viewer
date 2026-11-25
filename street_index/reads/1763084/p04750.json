@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 4750,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p04750_4128515.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Legett Ave\",\"direction\":\"N\",\"house_number\":\"6257\",\"permit_date\":\"1952-05-13\",\"permit_no\":\"B 77210\",\"notes\":\"1 sty brick res; Book 65 Page 234; Plan No 3211; File No 426724; permit number partly faint; street name as written looks like Legett (likely Leggett)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Legett Ave",
+  "direction": "N",
+  "house_number": "6257",
+  "permit_date": "1952-05-13",
+  "permit_no": "B 77210",
+  "notes": "1 sty brick res; Book 65 Page 234; Plan No 3211; File No 426724; permit number partly faint; street name as written looks like Legett (likely Leggett)"
+ },
+ "in": 2318,
+ "out": 146
+}

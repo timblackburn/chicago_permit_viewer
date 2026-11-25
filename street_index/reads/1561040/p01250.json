@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 1250,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p01250_3729809.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rice St\",\"direction\":\"\",\"house_number\":\"4911\",\"permit_date\":\"1913-10-07\",\"permit_no\":\"A 19626\",\"notes\":\"Bw B.; Book W 2 Page 601; plan/water no. 91074; file no. 48973; no direction written on card; film edge damaged at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rice St",
+  "direction": "",
+  "house_number": "4911",
+  "permit_date": "1913-10-07",
+  "permit_no": "A 19626",
+  "notes": "Bw B.; Book W 2 Page 601; plan/water no. 91074; file no. 48973; no direction written on card; film edge damaged at bottom"
+ },
+ "in": 2317,
+ "out": 136
+}

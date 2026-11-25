@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 170,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p00170_3960751.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Medill Ave\",\"direction\":\"\",\"house_number\":\"5141\",\"permit_date\":\"1923-03-24\",\"permit_no\":\"76468\",\"notes\":\"Apts; Book S 37 Page 236; no direction written on card; permit no. handwritten and somewhat faint; water no. 61431; plan no. 2171; file no. 31869; bottom edge of film damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Medill Ave",
+  "direction": "",
+  "house_number": "5141",
+  "permit_date": "1923-03-24",
+  "permit_no": "76468",
+  "notes": "Apts; Book S 37 Page 236; no direction written on card; permit no. handwritten and somewhat faint; water no. 61431; plan no. 2171; file no. 31869; bottom edge of film damaged"
+ },
+ "in": 2311,
+ "out": 155
+}

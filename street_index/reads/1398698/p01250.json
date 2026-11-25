@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1398698",
+ "slide_index": 1250,
+ "image": "street_index/data/1398698/slides_pct_0-0-100-99_w1000/p01250_3406081.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"37th St\",\"direction\":\"E\",\"house_number\":\"70\",\"permit_date\":\"1897\",\"permit_no\":\"385\",\"notes\":\"old addr: 712 E. 37th St. (struck through); card is typed and very faint; permit no. partly legible (\\\"385\\\" with a possible leading character); date partly legible (month and day unclear, 1897)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "37th St",
+  "direction": "E",
+  "house_number": "70",
+  "permit_date": "1897",
+  "permit_no": "385",
+  "notes": "old addr: 712 E. 37th St. (struck through); card is typed and very faint; permit no. partly legible (\"385\" with a possible leading character); date partly legible (month and day unclear, 1897)"
+ },
+ "in": 2266,
+ "out": 144
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 251,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p00251_3333610.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Sundry; card heavily overexposed/washed out, address and permit details not visible; only stamp SUNDRY and year 1924 readable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Sundry; card heavily overexposed/washed out, address and permit details not visible; only stamp SUNDRY and year 1924 readable"
+ },
+ "in": 2265,
+ "out": 117
+}

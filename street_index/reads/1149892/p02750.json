@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1149892",
+ "slide_index": 2750,
+ "image": "street_index/data/1149892/slides_pct_0-0-100-99_w1000/p02750_2903972.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Escanaba Ave\",\"direction\":\"\",\"house_number\":\"8756\",\"permit_date\":\"1929-07-23\",\"permit_no\":\"B 33441\",\"notes\":\"3 Apts; Book 47 Page 128; plan no. 4113; water no. 18938; file no. 218074; ledger stamp faint, lower edge streaked\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Escanaba Ave",
+  "direction": "",
+  "house_number": "8756",
+  "permit_date": "1929-07-23",
+  "permit_no": "B 33441",
+  "notes": "3 Apts; Book 47 Page 128; plan no. 4113; water no. 18938; file no. 218074; ledger stamp faint, lower edge streaked"
+ },
+ "in": 2317,
+ "out": 143
+}

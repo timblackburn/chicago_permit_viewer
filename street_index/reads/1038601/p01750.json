@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 1750,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p01750_4205367.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kilpatrick Ave\",\"direction\":\"N\",\"house_number\":\"3011\",\"permit_date\":\"1923-05-02\",\"permit_no\":\"A 78013\",\"notes\":\"B. Apt; Book W 24 Page 532; water no 57863; file no 38922; card somewhat faint and speckled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kilpatrick Ave",
+  "direction": "N",
+  "house_number": "3011",
+  "permit_date": "1923-05-02",
+  "permit_no": "A 78013",
+  "notes": "B. Apt; Book W 24 Page 532; water no 57863; file no 38922; card somewhat faint and speckled"
+ },
+ "in": 2249,
+ "out": 132
+}

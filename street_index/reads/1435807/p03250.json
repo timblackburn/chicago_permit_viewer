@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 3250,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p03250_3475053.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"S\",\"house_number\":\"3453\",\"permit_date\":\"1930-10-22\",\"permit_no\":\"72089\",\"notes\":\"Wreck 2 sty Brick Bldg; Sundry; Plan no. 230019; card reads So. (South) though reel neighbors are North, so filing is unusual\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "S",
+  "house_number": "3453",
+  "permit_date": "1930-10-22",
+  "permit_no": "72089",
+  "notes": "Wreck 2 sty Brick Bldg; Sundry; Plan no. 230019; card reads So. (South) though reel neighbors are North, so filing is unusual"
+ },
+ "in": 2269,
+ "out": 141
+}

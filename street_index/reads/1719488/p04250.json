@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1719488",
+ "slide_index": 4250,
+ "image": "street_index/data/1719488/slides_pct_0-0-100-99_w1000/p04250_4041544.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lincoln Ave\",\"direction\":\"\",\"house_number\":\"3618\",\"permit_date\":\"1922-11-10\",\"permit_no\":\"A 73373\",\"notes\":\"add'l story; ledger ref W. ... Page 363 (book partly illegible); plan no. 9206; water no. 118799; file no. 28441; permit number partly faint; no direction written on card; spots and dark film edges at the bottom of the frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lincoln Ave",
+  "direction": "",
+  "house_number": "3618",
+  "permit_date": "1922-11-10",
+  "permit_no": "A 73373",
+  "notes": "add'l story; ledger ref W. ... Page 363 (book partly illegible); plan no. 9206; water no. 118799; file no. 28441; permit number partly faint; no direction written on card; spots and dark film edges at the bottom of the frame"
+ },
+ "in": 2316,
+ "out": 170
+}

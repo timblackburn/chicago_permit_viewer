@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1306797",
+ "slide_index": 2250,
+ "image": "street_index/data/1306797/slides_pct_0-0-100-99_w1000/p02250_3218413.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Armitage Ave\",\"direction\":\"\",\"house_number\":\"2906\",\"permit_date\":\"1907-03-27\",\"permit_no\":\"28931\",\"notes\":\"typed card; old addr: 797 Armitage Ave; no direction written; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Armitage Ave",
+  "direction": "",
+  "house_number": "2906",
+  "permit_date": "1907-03-27",
+  "permit_no": "28931",
+  "notes": "typed card; old addr: 797 Armitage Ave; no direction written; no building type given"
+ },
+ "in": 2319,
+ "out": 114
+}

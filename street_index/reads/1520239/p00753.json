@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 753,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p00753_3649183.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"S\",\"house_number\":\"7300\",\"permit_date\":\"1926-11-22\",\"permit_no\":\"20299\",\"notes\":\"Sundry; work line handwritten and hard to read (possibly \\\"Interior alts\\\"); plan no. and file no. 153588 faint; low-contrast frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "S",
+  "house_number": "7300",
+  "permit_date": "1926-11-22",
+  "permit_no": "20299",
+  "notes": "Sundry; work line handwritten and hard to read (possibly \"Interior alts\"); plan no. and file no. 153588 faint; low-contrast frame"
+ },
+ "in": 2314,
+ "out": 139
+}

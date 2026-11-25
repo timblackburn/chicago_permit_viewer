@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 1250,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p01250_3424361.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"13th St\",\"direction\":\"W\",\"house_number\":\"1127\",\"permit_date\":\"\",\"permit_no\":\"94685\",\"notes\":\"Wreck 2 sty br bldg; file no. 255746; date of permit partly obscured (Sep 2..., year blanked)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "13th St",
+  "direction": "W",
+  "house_number": "1127",
+  "permit_date": "",
+  "permit_no": "94685",
+  "notes": "Wreck 2 sty br bldg; file no. 255746; date of permit partly obscured (Sep 2..., year blanked)"
+ },
+ "in": 2266,
+ "out": 120
+}

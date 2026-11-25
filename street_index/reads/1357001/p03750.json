@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 3750,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p03750_3317091.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"66th St\",\"direction\":\"W\",\"house_number\":\"3636\",\"permit_date\":\"1920-06\",\"permit_no\":\"31368\",\"notes\":\"Br B.; Book S 20 Page 44 (ledger reference faint); card faint and low contrast, date stamp JUN 1920 partly legible, street suffix handwritten and uncertain, permit number uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "66th St",
+  "direction": "W",
+  "house_number": "3636",
+  "permit_date": "1920-06",
+  "permit_no": "31368",
+  "notes": "Br B.; Book S 20 Page 44 (ledger reference faint); card faint and low contrast, date stamp JUN 1920 partly legible, street suffix handwritten and uncertain, permit number uncertain"
+ },
+ "in": 2270,
+ "out": 152
+}

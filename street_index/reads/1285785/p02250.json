@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1285785",
+ "slide_index": 2250,
+ "image": "street_index/data/1285785/slides_pct_0-0-100-99_w1000/p02250_3178122.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Arthington St\",\"direction\":\"W\",\"house_number\":\"629\",\"permit_date\":\"1924-07-28\",\"permit_no\":\"18159\",\"notes\":\"Sundry; old addr: handwritten name crossed out (illegible, possibly Polk or Taylor St); permit no. faint; file no. 80 H W; low-contrast scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Arthington St",
+  "direction": "W",
+  "house_number": "629",
+  "permit_date": "1924-07-28",
+  "permit_no": "18159",
+  "notes": "Sundry; old addr: handwritten name crossed out (illegible, possibly Polk or Taylor St); permit no. faint; file no. 80 H W; low-contrast scan"
+ },
+ "in": 2274,
+ "out": 143
+}

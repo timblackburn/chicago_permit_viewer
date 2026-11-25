@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 251,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p00251_3864956.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Narragansett Ave\",\"direction\":\"S\",\"house_number\":\"5233\",\"permit_date\":\"1949-10-21\",\"permit_no\":\"B 34373\",\"notes\":\"1 sty B Res; Book 60 Page 418; plan no. 2323; file no. 384603; faint photocopy, lower part partly obscured\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Narragansett Ave",
+  "direction": "S",
+  "house_number": "5233",
+  "permit_date": "1949-10-21",
+  "permit_no": "B 34373",
+  "notes": "1 sty B Res; Book 60 Page 418; plan no. 2323; file no. 384603; faint photocopy, lower part partly obscured"
+ },
+ "in": 2293,
+ "out": 138
+}

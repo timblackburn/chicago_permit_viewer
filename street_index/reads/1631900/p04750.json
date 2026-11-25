@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 4750,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p04750_3866153.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Napier Ave\",\"direction\":\"N\",\"house_number\":\"6159-61\",\"permit_date\":\"1923-03-31\",\"permit_no\":\"A 76838\",\"notes\":\"Ct. (type of building written as \\\"B. Cott\\\", likely Br Cottage); Book N V5 Page 363; dark, high-contrast film image, handwriting slightly flourished\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Napier Ave",
+  "direction": "N",
+  "house_number": "6159-61",
+  "permit_date": "1923-03-31",
+  "permit_no": "A 76838",
+  "notes": "Ct. (type of building written as \"B. Cott\", likely Br Cottage); Book N V5 Page 363; dark, high-contrast film image, handwriting slightly flourished"
+ },
+ "in": 2324,
+ "out": 150
+}

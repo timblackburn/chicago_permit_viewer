@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 4416,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p04416_3296621.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"79th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; house number faint, looks like 1758 or 1750 but uncertain; second line of handwriting (possibly Sigurd/Sugarloaf ...) unclear; owner J. Doran; plan no. faint; very low contrast, faint card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "79th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; house number faint, looks like 1758 or 1750 but uncertain; second line of handwriting (possibly Sigurd/Sugarloaf ...) unclear; owner J. Doran; plan no. faint; very low contrast, faint card"
+ },
+ "in": 2270,
+ "out": 156
+}

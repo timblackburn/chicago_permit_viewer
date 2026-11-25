@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 4655,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p04655_2866871.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fullerton Ave\",\"direction\":\"W\",\"house_number\":\"5247\",\"permit_date\":\"\",\"permit_no\":\"B\",\"notes\":\"2 sty br addn to funeral parlor for apt; Book 66 Page 155; plan no 6532; file no 436220; date of permit partly legible (NOV), year unreadable; permit number mostly unreadable; card faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fullerton Ave",
+  "direction": "W",
+  "house_number": "5247",
+  "permit_date": "",
+  "permit_no": "B",
+  "notes": "2 sty br addn to funeral parlor for apt; Book 66 Page 155; plan no 6532; file no 436220; date of permit partly legible (NOV), year unreadable; permit number mostly unreadable; card faint"
+ },
+ "in": 2282,
+ "out": 155
+}

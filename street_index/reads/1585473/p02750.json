@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 2750,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p02750_3777209.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Perry Ave\",\"direction\":\"\",\"house_number\":\"7231 1/2\",\"permit_date\":\"1895-10-11\",\"permit_no\":\"S 2383\",\"notes\":\"Same; typed card; direction not written; permit number and date faint, first letter of Perry and Oct partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Perry Ave",
+  "direction": "",
+  "house_number": "7231 1/2",
+  "permit_date": "1895-10-11",
+  "permit_no": "S 2383",
+  "notes": "Same; typed card; direction not written; permit number and date faint, first letter of Perry and Oct partly faded"
+ },
+ "in": 2313,
+ "out": 126
+}

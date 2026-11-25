@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 4250,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p04250_3032035.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"129\",\"permit_date\":\"1889-10-17\",\"permit_no\":\"3378\",\"notes\":\"typed card; old addr: 604 N. Clark St; filed between 401-9 and 746 N Clark per reel order, but the new number 129 is as written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "129",
+  "permit_date": "1889-10-17",
+  "permit_no": "3378",
+  "notes": "typed card; old addr: 604 N. Clark St; filed between 401-9 and 746 N Clark per reel order, but the new number 129 is as written on card"
+ },
+ "in": 2308,
+ "out": 134
+}

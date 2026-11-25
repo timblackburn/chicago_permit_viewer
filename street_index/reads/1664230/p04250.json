@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 4250,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p04250_3931547.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"North Ave\",\"direction\":\"W\",\"house_number\":\"1754-58\",\"permit_date\":\"1888-05-14\",\"permit_no\":\"1477\",\"notes\":\"2 - 3 story stores & flats 48x58x40'; old addr: 349-51 W. North Ave; typed card with handwritten additions; dark edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "North Ave",
+  "direction": "W",
+  "house_number": "1754-58",
+  "permit_date": "1888-05-14",
+  "permit_no": "1477",
+  "notes": "2 - 3 story stores & flats 48x58x40'; old addr: 349-51 W. North Ave; typed card with handwritten additions; dark edges"
+ },
+ "in": 2310,
+ "out": 137
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1048893",
+ "slide_index": 3750,
+ "image": "street_index/data/1048893/slides_pct_0-0-100-99_w1000/p03750_4181003.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"44th Ct\",\"direction\":\"S\",\"house_number\":\"2852\",\"permit_date\":\"1910-09-12\",\"permit_no\":\"23390\",\"notes\":\"old addr: 2852 S. Kenneth Ave; typed card; filed under Kenneth Ave on reel but new address is 44th Ct\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "44th Ct",
+  "direction": "S",
+  "house_number": "2852",
+  "permit_date": "1910-09-12",
+  "permit_no": "23390",
+  "notes": "old addr: 2852 S. Kenneth Ave; typed card; filed under Kenneth Ave on reel but new address is 44th Ct"
+ },
+ "in": 2318,
+ "out": 132
+}

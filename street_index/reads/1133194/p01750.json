@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 1750,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p01750_2872618.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Franklin St\",\"direction\":\"N\",\"house_number\":\"291\",\"permit_date\":\"1892-07-01\",\"permit_no\":\"2671\",\"notes\":\"old addr: 937 N. Franklin St; card is typed and faint with a dark blot; date partly faded (July 1st, 1892)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Franklin St",
+  "direction": "N",
+  "house_number": "291",
+  "permit_date": "1892-07-01",
+  "permit_no": "2671",
+  "notes": "old addr: 937 N. Franklin St; card is typed and faint with a dark blot; date partly faded (July 1st, 1892)"
+ },
+ "in": 2347,
+ "out": 128
+}

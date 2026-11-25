@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1398698",
+ "slide_index": 251,
+ "image": "street_index/data/1398698/slides_pct_0-0-100-99_w1000/p00251_3408025.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"35th St\",\"direction\":\"W\",\"house_number\":\"2750\",\"permit_date\":\"1947-04-17\",\"permit_no\":\"A 04405\",\"notes\":\"1-10,000 gal. fuel oil tank; Sundry; File No. 347376; card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "35th St",
+  "direction": "W",
+  "house_number": "2750",
+  "permit_date": "1947-04-17",
+  "permit_no": "A 04405",
+  "notes": "1-10,000 gal. fuel oil tank; Sundry; File No. 347376; card slightly faint"
+ },
+ "in": 2264,
+ "out": 120
+}

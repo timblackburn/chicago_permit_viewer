@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 1250,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p01250_3658498.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Seminary Ave\",\"direction\":\"N\",\"house_number\":\"2656-58\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; second line appears to be old addr: 877-79 Seminary Ave; permit no. partly legible, possibly 337Z, not certain; date line mostly unreadable (June ..., 19..)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Seminary Ave",
+  "direction": "N",
+  "house_number": "2656-58",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; second line appears to be old addr: 877-79 Seminary Ave; permit no. partly legible, possibly 337Z, not certain; date line mostly unreadable (June ..., 19..)"
+ },
+ "in": 2279,
+ "out": 156
+}

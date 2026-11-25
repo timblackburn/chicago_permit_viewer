@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 3250,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p03250_2993885.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Crystal St\",\"direction\":\"\",\"house_number\":\"4022\",\"permit_date\":\"1926-10-30\",\"permit_no\":\"19628\",\"notes\":\"Garage; Sundry; Plan no. 152089; no direction written; house number 4022 read from handwriting, last digit slightly ambiguous\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Crystal St",
+  "direction": "",
+  "house_number": "4022",
+  "permit_date": "1926-10-30",
+  "permit_no": "19628",
+  "notes": "Garage; Sundry; Plan no. 152089; no direction written; house number 4022 read from handwriting, last digit slightly ambiguous"
+ },
+ "in": 2278,
+ "out": 131
+}

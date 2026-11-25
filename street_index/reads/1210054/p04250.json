@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 4250,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p04250_3022204.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clinton St\",\"direction\":\"N\",\"house_number\":\"1-183\",\"permit_date\":\"1909-06-20\",\"permit_no\":\"8645\",\"notes\":\"corner building card with multiple addresses: 2-182 N Canal St; 500-530 W Madison St (Cor. Bldg.); 17-47 W Madison St; typed, faint and speckled, Clinton St digits slightly blurred\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clinton St",
+  "direction": "N",
+  "house_number": "1-183",
+  "permit_date": "1909-06-20",
+  "permit_no": "8645",
+  "notes": "corner building card with multiple addresses: 2-182 N Canal St; 500-530 W Madison St (Cor. Bldg.); 17-47 W Madison St; typed, faint and speckled, Clinton St digits slightly blurred"
+ },
+ "in": 2280,
+ "out": 164
+}

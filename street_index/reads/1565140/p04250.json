@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 4250,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p04250_3734038.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ravenswood Ave\",\"direction\":\"\",\"house_number\":\"4137\",\"permit_date\":\"1948-10-21\",\"permit_no\":\"A 01135\",\"notes\":\"Overhaul Albg; Sundry stamp partly visible at top right; File no 342494; no direction written on card; date stamp faint; permit number prefix A with Albg annotation on card.\\\"\\n\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ravenswood Ave",
+  "direction": "",
+  "house_number": "4137",
+  "permit_date": "1948-10-21",
+  "permit_no": "A 01135",
+  "notes": "Overhaul Albg; Sundry stamp partly visible at top right; File no 342494; no direction written on card; date stamp faint; permit number prefix A with Albg annotation on card.\"\n"
+ },
+ "in": 2288,
+ "out": 155
+}

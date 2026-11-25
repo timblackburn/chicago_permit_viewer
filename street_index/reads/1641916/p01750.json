@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 1750,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p01750_3892209.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monroe St\",\"direction\":\"W\",\"house_number\":\"3545\",\"permit_date\":\"1894-11-02\",\"permit_no\":\"3838\",\"notes\":\"old addr: 1684 W Monroe St; lower lines faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monroe St",
+  "direction": "W",
+  "house_number": "3545",
+  "permit_date": "1894-11-02",
+  "permit_no": "3838",
+  "notes": "old addr: 1684 W Monroe St; lower lines faint"
+ },
+ "in": 2307,
+ "out": 106
+}

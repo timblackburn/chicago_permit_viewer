@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 4250,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p04250_3661565.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Seeley Ave\",\"direction\":\"S\",\"house_number\":\"4754-58\",\"permit_date\":\"1930-11-17\",\"permit_no\":\"B 37324\",\"notes\":\"Barn + 2 Steel Garages; Book S 47 Page 428; plan no 3626, water no 22768, file no 230614; microfilm image is low contrast, handwriting faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Seeley Ave",
+  "direction": "S",
+  "house_number": "4754-58",
+  "permit_date": "1930-11-17",
+  "permit_no": "B 37324",
+  "notes": "Barn + 2 Steel Garages; Book S 47 Page 428; plan no 3626, water no 22768, file no 230614; microfilm image is low contrast, handwriting faint"
+ },
+ "in": 2279,
+ "out": 152
+}

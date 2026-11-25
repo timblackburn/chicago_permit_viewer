@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 2945,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p02945_3457258.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; card heavily overexposed/washed out; handwritten address at top is faint, looks like '1730 S ...' but cannot be read with confidence; only a possible '423' near date line; neighbors suggest Winchester Ave but not confirmed on card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; card heavily overexposed/washed out; handwritten address at top is faint, looks like '1730 S ...' but cannot be read with confidence; only a possible '423' near date line; neighbors suggest Winchester Ave but not confirmed on card"
+ },
+ "in": 2281,
+ "out": 153
+}

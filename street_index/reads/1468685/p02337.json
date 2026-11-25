@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 2337,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p02337_3542063.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vernon Ave\",\"direction\":\"\",\"house_number\":\"3344\",\"permit_date\":\"1948-07-12\",\"permit_no\":\"A 15152\",\"notes\":\"Erect open frame porch; File No. 365716; no direction written; house number handwritten, could be 3344 (fits filing between 861 Vermont and 3750 Vernon)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vernon Ave",
+  "direction": "",
+  "house_number": "3344",
+  "permit_date": "1948-07-12",
+  "permit_no": "A 15152",
+  "notes": "Erect open frame porch; File No. 365716; no direction written; house number handwritten, could be 3344 (fits filing between 861 Vermont and 3750 Vernon)"
+ },
+ "in": 2274,
+ "out": 145
+}

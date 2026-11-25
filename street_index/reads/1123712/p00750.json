@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 750,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p00750_2854873.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Glenwood Ave\",\"direction\":\"\",\"house_number\":\"6606\",\"permit_date\":\"1909-07-22\",\"permit_no\":\"12777\",\"notes\":\"old addr: 4047 Southport Ave; typed card, faint; no direction written; year partly obscured, read as 1909\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Glenwood Ave",
+  "direction": "",
+  "house_number": "6606",
+  "permit_date": "1909-07-22",
+  "permit_no": "12777",
+  "notes": "old addr: 4047 Southport Ave; typed card, faint; no direction written; year partly obscured, read as 1909"
+ },
+ "in": 2311,
+ "out": 126
+}

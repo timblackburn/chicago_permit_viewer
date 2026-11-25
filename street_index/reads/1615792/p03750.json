@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 3750,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p03750_3835902.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nottingham Ave\",\"direction\":\"N\",\"house_number\":\"3508\",\"permit_date\":\"1949-07-18\",\"permit_no\":\"A 29392\",\"notes\":\"Frame Garage 20 x 20; file no. 379743; card is gray and low contrast but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nottingham Ave",
+  "direction": "N",
+  "house_number": "3508",
+  "permit_date": "1949-07-18",
+  "permit_no": "A 29392",
+  "notes": "Frame Garage 20 x 20; file no. 379743; card is gray and low contrast but readable"
+ },
+ "in": 2316,
+ "out": 122
+}

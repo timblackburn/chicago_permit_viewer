@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 1750,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p01750_3007145.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cornelia Ave\",\"direction\":\"\",\"house_number\":\"6546\",\"permit_date\":\"1927-09-30\",\"permit_no\":\"34446\",\"notes\":\"Sundry; file no. 176104; plan no. blank; kind of work line faint and unreadable; no direction visible; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cornelia Ave",
+  "direction": "",
+  "house_number": "6546",
+  "permit_date": "1927-09-30",
+  "permit_no": "34446",
+  "notes": "Sundry; file no. 176104; plan no. blank; kind of work line faint and unreadable; no direction visible; card faint and low contrast"
+ },
+ "in": 2311,
+ "out": 133
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 1750,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p01750_4107948.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Jr. Dr\",\"direction\":\"S\",\"house_number\":\"9304\",\"permit_date\":\"1909-03-17\",\"permit_no\":\"10118\",\"notes\":\"old addr: 9304 South Parkway; also 9304 South Park Ave; typed card, header reads So. Martin L. King Jr. Drive; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Jr. Dr",
+  "direction": "S",
+  "house_number": "9304",
+  "permit_date": "1909-03-17",
+  "permit_no": "10118",
+  "notes": "old addr: 9304 South Parkway; also 9304 South Park Ave; typed card, header reads So. Martin L. King Jr. Drive; no building type given"
+ },
+ "in": 2330,
+ "out": 146
+}

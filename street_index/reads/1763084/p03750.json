@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 3750,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p03750_4130515.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leavitt St\",\"direction\":\"S\",\"house_number\":\"10119\",\"permit_date\":\"1942-03-10\",\"permit_no\":\"59249\",\"notes\":\"2 Sty Br Residence; Book 52 Page 537; plan no 872; file no 308473; card faint in places, ledger page number uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leavitt St",
+  "direction": "S",
+  "house_number": "10119",
+  "permit_date": "1942-03-10",
+  "permit_no": "59249",
+  "notes": "2 Sty Br Residence; Book 52 Page 537; plan no 872; file no 308473; card faint in places, ledger page number uncertain"
+ },
+ "in": 2318,
+ "out": 134
+}

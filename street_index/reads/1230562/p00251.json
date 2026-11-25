@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 251,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p00251_3071078.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Carmen Ave\",\"direction\":\"\",\"house_number\":\"5300\",\"permit_date\":\"1920-11-04\",\"permit_no\":\"62690\",\"notes\":\"Garage; Sundry; no direction written (card reads \\\"5300 Carmen Ave\\\" with a faint mark after Ave); stamp text faint and card dark/noisy; plan/file no. 218396\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Carmen Ave",
+  "direction": "",
+  "house_number": "5300",
+  "permit_date": "1920-11-04",
+  "permit_no": "62690",
+  "notes": "Garage; Sundry; no direction written (card reads \"5300 Carmen Ave\" with a faint mark after Ave); stamp text faint and card dark/noisy; plan/file no. 218396"
+ },
+ "in": 2269,
+ "out": 152
+}

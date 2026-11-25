@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 3250,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p03250_3044278.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Christiana Ave\",\"direction\":\"S\",\"house_number\":\"10431\",\"permit_date\":\"1941-06-03\",\"permit_no\":\"55180\",\"notes\":\"1 sty frame Residence; Entered 51 Page 435; plan no 2824; water no 41504; file no 300375; address handwritten and faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Christiana Ave",
+  "direction": "S",
+  "house_number": "10431",
+  "permit_date": "1941-06-03",
+  "permit_no": "55180",
+  "notes": "1 sty frame Residence; Entered 51 Page 435; plan no 2824; water no 41504; file no 300375; address handwritten and faint"
+ },
+ "in": 2238,
+ "out": 135
+}

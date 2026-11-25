@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 1250,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p01250_3780209.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Peoria St\",\"direction\":\"S\",\"house_number\":\"6845\",\"permit_date\":\"1894-07-10\",\"permit_no\":\"942\",\"notes\":\"Same (work description reads 'Same'); typed card; high contrast scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Peoria St",
+  "direction": "S",
+  "house_number": "6845",
+  "permit_date": "1894-07-10",
+  "permit_no": "942",
+  "notes": "Same (work description reads 'Same'); typed card; high contrast scan"
+ },
+ "in": 2312,
+ "out": 107
+}

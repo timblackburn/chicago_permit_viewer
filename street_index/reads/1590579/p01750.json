@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1590579",
+ "slide_index": 1750,
+ "image": "street_index/data/1590579/slides_pct_0-0-100-99_w1000/p01750_3789243.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Paulina St\",\"direction\":\"N\",\"house_number\":\"4700\",\"permit_date\":\"1936-05-21\",\"permit_no\":\"98075\",\"notes\":\"Frame Garage; Sundry; the card sits out of expected order for this reel (N Paulina, not S); date stamp faint; file no. 259658\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Paulina St",
+  "direction": "N",
+  "house_number": "4700",
+  "permit_date": "1936-05-21",
+  "permit_no": "98075",
+  "notes": "Frame Garage; Sundry; the card sits out of expected order for this reel (N Paulina, not S); date stamp faint; file no. 259658"
+ },
+ "in": 2311,
+ "out": 133
+}

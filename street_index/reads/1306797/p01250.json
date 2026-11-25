@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1306797",
+ "slide_index": 1250,
+ "image": "street_index/data/1306797/slides_pct_0-0-100-99_w1000/p01250_3220417.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Argyle St\",\"direction\":\"\",\"house_number\":\"4138\",\"permit_date\":\"1927-09-09\",\"permit_no\":\"33300\",\"notes\":\"Alt; Sundry; file no. 174575; no direction written; permit no. faint; photocopy dark with noise\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Argyle St",
+  "direction": "",
+  "house_number": "4138",
+  "permit_date": "1927-09-09",
+  "permit_no": "33300",
+  "notes": "Alt; Sundry; file no. 174575; no direction written; permit no. faint; photocopy dark with noise"
+ },
+ "in": 2276,
+ "out": 121
+}

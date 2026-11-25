@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 4250,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p04250_4139622.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ingleside Ave\",\"direction\":\"\",\"house_number\":\"2443\",\"permit_date\":\"1926-05-07\",\"permit_no\":\"8580\",\"notes\":\"Alterations; Sundry; plan no. 4420; file no. 135115; no direction written (neighbors suggest S); handwriting slightly faint, date partly overstamped\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ingleside Ave",
+  "direction": "",
+  "house_number": "2443",
+  "permit_date": "1926-05-07",
+  "permit_no": "8580",
+  "notes": "Alterations; Sundry; plan no. 4420; file no. 135115; no direction written (neighbors suggest S); handwriting slightly faint, date partly overstamped"
+ },
+ "in": 2312,
+ "out": 143
+}

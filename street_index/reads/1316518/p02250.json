@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 2250,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p02250_3236788.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Agatite Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"A 104346\",\"notes\":\"Header handwritten: house number faint, looks like 2702, with crossed-out old street name in parentheses (Potwyn Pl?); B. Rio; Book N 90 Page 177; plan no 5600; water no 79538; file no 106189; date of permit faint and unreadable; card is faint and the bottom is damaged\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Agatite Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "A 104346",
+  "notes": "Header handwritten: house number faint, looks like 2702, with crossed-out old street name in parentheses (Potwyn Pl?); B. Rio; Book N 90 Page 177; plan no 5600; water no 79538; file no 106189; date of permit faint and unreadable; card is faint and the bottom is damaged"
+ },
+ "in": 2274,
+ "out": 185
+}

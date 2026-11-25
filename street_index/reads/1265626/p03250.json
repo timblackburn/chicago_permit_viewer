@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 3250,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p03250_3135567.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-07-08\",\"permit_no\":\"47133\",\"notes\":\"Stamped BELL SUNDRY; address line at top is faint handwriting, looks like \\\"... N Irving\\\" but not reliably readable; file no. 78506; faint card; permit no. partly faded (47133 or 47138)\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-07-08",
+  "permit_no": "47133",
+  "notes": "Stamped BELL SUNDRY; address line at top is faint handwriting, looks like \"... N Irving\" but not reliably readable; file no. 78506; faint card; permit no. partly faded (47133 or 47138)"
+ },
+ "in": 2280,
+ "out": 152
+}

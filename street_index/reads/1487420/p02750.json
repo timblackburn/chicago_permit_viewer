@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 2750,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p02750_3580138.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talman Ave\",\"direction\":\"S\",\"house_number\":\"11304\",\"permit_date\":\"\",\"permit_no\":\"B 35877\",\"notes\":\"1 sty B. Res; Book 60 Page 514; Plan no. 3031; File no. 286C90; date of permit faint, only possibly Nov. visible; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talman Ave",
+  "direction": "S",
+  "house_number": "11304",
+  "permit_date": "",
+  "permit_no": "B 35877",
+  "notes": "1 sty B. Res; Book 60 Page 514; Plan no. 3031; File no. 286C90; date of permit faint, only possibly Nov. visible; card faint and low contrast"
+ },
+ "in": 2274,
+ "out": 144
+}

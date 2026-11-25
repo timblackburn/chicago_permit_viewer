@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 1250,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p01250_3978313.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mason Ave\",\"direction\":\"N\",\"house_number\":\"1429\",\"permit_date\":\"1922-04-27\",\"permit_no\":\"A 67533\",\"notes\":\"B. Res; Book W 24 Page 20; plan no. 3088; water no. 42727; file no. 11577; film dark and slightly skewed\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mason Ave",
+  "direction": "N",
+  "house_number": "1429",
+  "permit_date": "1922-04-27",
+  "permit_no": "A 67533",
+  "notes": "B. Res; Book W 24 Page 20; plan no. 3088; water no. 42727; file no. 11577; film dark and slightly skewed"
+ },
+ "in": 2308,
+ "out": 136
+}

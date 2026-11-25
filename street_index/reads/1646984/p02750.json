@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 2750,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p02750_3899849.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mobile Ave\",\"direction\":\"N\",\"house_number\":\"5449\",\"permit_date\":\"1954-04-20\",\"permit_no\":\"B 109241\",\"notes\":\"Erect 1 sty Brick Residence; Book 69 Page 147; Plan no 89H1; File no 461294; date of permit partly faint, read as Apr 20 1954 (year uncertain)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mobile Ave",
+  "direction": "N",
+  "house_number": "5449",
+  "permit_date": "1954-04-20",
+  "permit_no": "B 109241",
+  "notes": "Erect 1 sty Brick Residence; Book 69 Page 147; Plan no 89H1; File no 461294; date of permit partly faint, read as Apr 20 1954 (year uncertain)"
+ },
+ "in": 2455,
+ "out": 156
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 2250,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p02250_3458643.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wilton Ave\",\"direction\":\"\",\"house_number\":\"3500-4\",\"permit_date\":\"1926-12-30\",\"permit_no\":\"B 12977\",\"notes\":\"Apts; Book N 38 Page 250; card faint and low contrast, direction not written, permit number and plan number partly faint; water no. 98571 (uncertain); wrong reel position for filing (Wilton is not between Wilson and Winchester? plausible after Wilson)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wilton Ave",
+  "direction": "",
+  "house_number": "3500-4",
+  "permit_date": "1926-12-30",
+  "permit_no": "B 12977",
+  "notes": "Apts; Book N 38 Page 250; card faint and low contrast, direction not written, permit number and plan number partly faint; water no. 98571 (uncertain); wrong reel position for filing (Wilton is not between Wilson and Winchester? plausible after Wilson)"
+ },
+ "in": 2315,
+ "out": 180
+}

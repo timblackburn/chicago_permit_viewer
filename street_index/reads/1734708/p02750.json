@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1734708",
+ "slide_index": 2750,
+ "image": "street_index/data/1734708/slides_pct_0-0-100-99_w1000/p02750_4075412.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lamon Ave\",\"direction\":\"N\",\"house_number\":\"173-175\",\"permit_date\":\"1912-03-04\",\"permit_no\":\"A 1802\",\"notes\":\"Brick; Page 58; old addr: N 49th Ave (written beside the number, 173-175 appears to be the new number); W. Permit No. A 1802; file no. 7486; B on card; photo is dark and low contrast, date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lamon Ave",
+  "direction": "N",
+  "house_number": "173-175",
+  "permit_date": "1912-03-04",
+  "permit_no": "A 1802",
+  "notes": "Brick; Page 58; old addr: N 49th Ave (written beside the number, 173-175 appears to be the new number); W. Permit No. A 1802; file no. 7486; B on card; photo is dark and low contrast, date stamp faint"
+ },
+ "in": 2308,
+ "out": 170
+}

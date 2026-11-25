@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 4750,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p04750_3833864.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakdale Ave\",\"direction\":\"W\",\"house_number\":\"532\",\"permit_date\":\"1901-10\",\"permit_no\":\"\",\"notes\":\"old addr: 1822 Oakdale Ave; direction W is handwritten over the old number and is ambiguous; permit no. and day of month faint and unreadable; card faint, typed; date appears as Oct. ?, 1901\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakdale Ave",
+  "direction": "W",
+  "house_number": "532",
+  "permit_date": "1901-10",
+  "permit_no": "",
+  "notes": "old addr: 1822 Oakdale Ave; direction W is handwritten over the old number and is ambiguous; permit no. and day of month faint and unreadable; card faint, typed; date appears as Oct. ?, 1901"
+ },
+ "in": 2279,
+ "out": 157
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1669254",
+ "slide_index": 1250,
+ "image": "street_index/data/1669254/slides_pct_0-0-100-99_w1000/p01250_3948509.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Michigan Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"35853\",\"notes\":\"Stamped Sundry; top handwriting very faint, reads something like \\\"435 N. Michigan Ave\\\" but number and direction uncertain, so not recorded; second line of work description illegible; file no. possibly 286C84; card faint and washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Michigan Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "35853",
+  "notes": "Stamped Sundry; top handwriting very faint, reads something like \"435 N. Michigan Ave\" but number and direction uncertain, so not recorded; second line of work description illegible; file no. possibly 286C84; card faint and washed out"
+ },
+ "in": 2324,
+ "out": 158
+}

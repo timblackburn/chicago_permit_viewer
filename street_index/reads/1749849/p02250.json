@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 2250,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p02250_4106918.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kingsbury St\",\"direction\":\"\",\"house_number\":\"1509-11\",\"permit_date\":\"1906-11-02\",\"permit_no\":\"1758\",\"notes\":\"second address on card: 416-18 Hawthorne St; no direction written; typed card, speckled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kingsbury St",
+  "direction": "",
+  "house_number": "1509-11",
+  "permit_date": "1906-11-02",
+  "permit_no": "1758",
+  "notes": "second address on card: 416-18 Hawthorne St; no direction written; typed card, speckled"
+ },
+ "in": 2323,
+ "out": 118
+}

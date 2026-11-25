@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 251,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p00251_3751741.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Crawford Ave\",\"direction\":\"N\",\"house_number\":\"751\",\"permit_date\":\"1927-07-27\",\"permit_no\":\"31209\",\"notes\":\"Rebuild front open porch; Sundry; stamped Pulaski Rd heading; address handwritten as 751 N Crawford Ave (Crawford Ave was later renamed Pulaski Rd); file no. 171229; card is noisy with speckling\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Crawford Ave",
+  "direction": "N",
+  "house_number": "751",
+  "permit_date": "1927-07-27",
+  "permit_no": "31209",
+  "notes": "Rebuild front open porch; Sundry; stamped Pulaski Rd heading; address handwritten as 751 N Crawford Ave (Crawford Ave was later renamed Pulaski Rd); file no. 171229; card is noisy with speckling"
+ },
+ "in": 2279,
+ "out": 170
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 2750,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p02750_3066073.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Carroll Ave\",\"direction\":\"W\",\"house_number\":\"1621-25\",\"permit_date\":\"1951-03-05\",\"permit_no\":\"B 54648\",\"notes\":\"1 sty whse addn; Book 63 Page 198; Plan No 4027; File No 407360; bottom edge of card damaged by dark smudges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Carroll Ave",
+  "direction": "W",
+  "house_number": "1621-25",
+  "permit_date": "1951-03-05",
+  "permit_no": "B 54648",
+  "notes": "1 sty whse addn; Book 63 Page 198; Plan No 4027; File No 407360; bottom edge of card damaged by dark smudges"
+ },
+ "in": 2275,
+ "out": 140
+}

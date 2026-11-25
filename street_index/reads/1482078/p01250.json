@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 1250,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p01250_3573790.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Throop St\",\"direction\":\"S\",\"house_number\":\"2815\",\"permit_date\":\"1924-12-02\",\"permit_no\":\"95800\",\"notes\":\"Frame Garage; Sundry; card faint, date year partly unclear (1924 guessed)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Throop St",
+  "direction": "S",
+  "house_number": "2815",
+  "permit_date": "1924-12-02",
+  "permit_no": "95800",
+  "notes": "Frame Garage; Sundry; card faint, date year partly unclear (1924 guessed)"
+ },
+ "in": 2273,
+ "out": 115
+}

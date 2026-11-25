@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 251,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p00251_2827096.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted Ave\",\"direction\":\"N\",\"house_number\":\"1963\",\"permit_date\":\"1880-07-06\",\"permit_no\":\"1959\",\"notes\":\"typed card, faint; Halsted S. S. nr. Centre; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted Ave",
+  "direction": "N",
+  "house_number": "1963",
+  "permit_date": "1880-07-06",
+  "permit_no": "1959",
+  "notes": "typed card, faint; Halsted S. S. nr. Centre; no building type given"
+ },
+ "in": 2308,
+ "out": 113
+}

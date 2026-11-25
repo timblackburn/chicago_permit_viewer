@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1636996",
+ "slide_index": 2750,
+ "image": "street_index/data/1636996/slides_pct_0-0-100-99_w1000/p02750_3880048.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Morgan St\",\"direction\":\"S\",\"house_number\":\"7039\",\"permit_date\":\"1917-05-15\",\"permit_no\":\"A 46434\",\"notes\":\"Br B.; Book W 10 Page 379; Plan no. 2348; Water no. None; File no. 32476; Remarks: No Application\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Morgan St",
+  "direction": "S",
+  "house_number": "7039",
+  "permit_date": "1917-05-15",
+  "permit_no": "A 46434",
+  "notes": "Br B.; Book W 10 Page 379; Plan no. 2348; Water no. None; File no. 32476; Remarks: No Application"
+ },
+ "in": 2312,
+ "out": 133
+}

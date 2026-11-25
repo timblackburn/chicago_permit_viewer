@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 3753,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p03753_2848821.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"3328\",\"permit_date\":\"1928-11-20\",\"permit_no\":\"29500\",\"notes\":\"Garage; B; plan no 8285; water no 15138; file no 201236; Entered W 1/2 Page 480; permit no. partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "3328",
+  "permit_date": "1928-11-20",
+  "permit_no": "29500",
+  "notes": "Garage; B; plan no 8285; water no 15138; file no 201236; Entered W 1/2 Page 480; permit no. partly faint"
+ },
+ "in": 2278,
+ "out": 133
+}

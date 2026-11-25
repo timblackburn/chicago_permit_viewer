@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 251,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p00251_3324057.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Very faint, overexposed card; top line looks like \\\"3751 ... 63rd St\\\" but not confident enough to transcribe; \\\"Apts\\\" written on kind-of-work line; stamp reads \\\"...AGE 195\\\" (possibly Garage); permit no. and dates unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Very faint, overexposed card; top line looks like \"3751 ... 63rd St\" but not confident enough to transcribe; \"Apts\" written on kind-of-work line; stamp reads \"...AGE 195\" (possibly Garage); permit no. and dates unreadable"
+ },
+ "in": 2303,
+ "out": 162
+}

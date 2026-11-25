@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1763084",
+ "slide_index": 3250,
+ "image": "street_index/data/1763084/slides_pct_0-0-100-99_w1000/p03250_4131515.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Leavitt St\",\"direction\":\"N\",\"house_number\":\"4322\",\"permit_date\":\"1952-07-31\",\"permit_no\":\"A 78378\",\"notes\":\"Move 1 sty br res from 3914 N Bell Ave to above address; Plan No. 4831; File No. 430841; permit number partly faint; bottom edge of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Leavitt St",
+  "direction": "N",
+  "house_number": "4322",
+  "permit_date": "1952-07-31",
+  "permit_no": "A 78378",
+  "notes": "Move 1 sty br res from 3914 N Bell Ave to above address; Plan No. 4831; File No. 430841; permit number partly faint; bottom edge of card damaged"
+ },
+ "in": 2281,
+ "out": 147
+}

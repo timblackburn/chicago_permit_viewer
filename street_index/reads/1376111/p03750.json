@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 3750,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p03750_3355418.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"47th St\",\"direction\":\"W\",\"house_number\":\"2100\",\"permit_date\":\"1948-06-30\",\"permit_no\":\"A 14669\",\"notes\":\"Erect 5 Riding Devices 7-7 to 7-16-48; Sundry (stamped Laundry/Sundry); file no. 365269\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "47th St",
+  "direction": "W",
+  "house_number": "2100",
+  "permit_date": "1948-06-30",
+  "permit_no": "A 14669",
+  "notes": "Erect 5 Riding Devices 7-7 to 7-16-48; Sundry (stamped Laundry/Sundry); file no. 365269"
+ },
+ "in": 2264,
+ "out": 134
+}

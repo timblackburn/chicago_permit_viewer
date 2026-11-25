@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 2250,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p02250_2871653.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fremont St\",\"direction\":\"\",\"house_number\":\"2242\",\"permit_date\":\"1907-03-01\",\"permit_no\":\"375\",\"notes\":\"typed card, faint; old addr: 277 Fremont; date read as Mar 1, 1907 (last digit uncertain); permit number 375 uncertain; no direction given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fremont St",
+  "direction": "",
+  "house_number": "2242",
+  "permit_date": "1907-03-01",
+  "permit_no": "375",
+  "notes": "typed card, faint; old addr: 277 Fremont; date read as Mar 1, 1907 (last digit uncertain); permit number 375 uncertain; no direction given"
+ },
+ "in": 2310,
+ "out": 139
+}

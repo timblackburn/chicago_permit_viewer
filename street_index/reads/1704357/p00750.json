@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 750,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p00750_4018639.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ludlam Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"30157\",\"notes\":\"Sundry; handwritten address faint, looks like 53?? Ludlam Ave (between Lowell and Luella); second line unreadable; plan/file no. 170541; low contrast, faint card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ludlam Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "30157",
+  "notes": "Sundry; handwritten address faint, looks like 53?? Ludlam Ave (between Lowell and Luella); second line unreadable; plan/file no. 170541; low contrast, faint card"
+ },
+ "in": 2272,
+ "out": 143
+}

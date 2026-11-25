@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 3250,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p03250_4033858.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Douglas\",\"direction\":\"W\",\"house_number\":\"1533\",\"permit_date\":\"\",\"permit_no\":\"A 65774\",\"notes\":\"flats; handwritten address reads '1533 W Douglas' (street type not given); Book 21 Page 168 (partly legible); date of permit partly legible, appears to be 'Mar 8 1899' but uncertain; card is noisy and faded; reel context suggests Long Ave but the card does not read that way; plan no. 1164, file no. 7124\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Douglas",
+  "direction": "W",
+  "house_number": "1533",
+  "permit_date": "",
+  "permit_no": "A 65774",
+  "notes": "flats; handwritten address reads '1533 W Douglas' (street type not given); Book 21 Page 168 (partly legible); date of permit partly legible, appears to be 'Mar 8 1899' but uncertain; card is noisy and faded; reel context suggests Long Ave but the card does not read that way; plan no. 1164, file no. 7124"
+ },
+ "in": 2237,
+ "out": 195
+}

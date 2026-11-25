@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 251,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p00251_4158224.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Iowa St\",\"direction\":\"W\",\"house_number\":\"5901\",\"permit_date\":\"1914-10-26\",\"permit_no\":\"A 76312\",\"notes\":\"Br B.; Book W 7 Page 272; file no. 74923; handwritten permit no. and book/page partly hard to read; mirrored/reversed date stamp; contrast poor; plan/water no. 135 not clearly labeled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Iowa St",
+  "direction": "W",
+  "house_number": "5901",
+  "permit_date": "1914-10-26",
+  "permit_no": "A 76312",
+  "notes": "Br B.; Book W 7 Page 272; file no. 74923; handwritten permit no. and book/page partly hard to read; mirrored/reversed date stamp; contrast poor; plan/water no. 135 not clearly labeled"
+ },
+ "in": 2312,
+ "out": 164
+}

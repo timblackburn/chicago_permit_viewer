@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 2250,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p02250_3778208.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Peoria St\",\"direction\":\"S\",\"house_number\":\"11011\",\"permit_date\":\"1951-10-05\",\"permit_no\":\"H 65739\",\"notes\":\"Frame Garage; plan no. 418451 (faint); card faint, permit number prefix handwritten and partly unclear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Peoria St",
+  "direction": "S",
+  "house_number": "11011",
+  "permit_date": "1951-10-05",
+  "permit_no": "H 65739",
+  "notes": "Frame Garage; plan no. 418451 (faint); card faint, permit number prefix handwritten and partly unclear"
+ },
+ "in": 2312,
+ "out": 126
+}

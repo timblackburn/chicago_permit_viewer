@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 251,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p00251_3546251.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Van Buren St\",\"direction\":\"W\",\"house_number\":\"1635-39\",\"permit_date\":\"1938-11-09\",\"permit_no\":\"112442\",\"notes\":\"Wreck 3 sty brick building (frame struck out); Sundry; plan no. 278360; faint, high-contrast frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Van Buren St",
+  "direction": "W",
+  "house_number": "1635-39",
+  "permit_date": "1938-11-09",
+  "permit_no": "112442",
+  "notes": "Wreck 3 sty brick building (frame struck out); Sundry; plan no. 278360; faint, high-contrast frame"
+ },
+ "in": 2309,
+ "out": 130
+}

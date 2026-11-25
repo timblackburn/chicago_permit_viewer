@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 251,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p00251_3761824.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prairie Ave\",\"direction\":\"\",\"house_number\":\"3210\",\"permit_date\":\"1883-07-19\",\"permit_no\":\"1605\",\"notes\":\"typed card; 'Same' written on kind-of-work line; permit no. partly faint (1605 read with one digit uncertain); date faint, July 19, 1883 partly obscured; no direction on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prairie Ave",
+  "direction": "",
+  "house_number": "3210",
+  "permit_date": "1883-07-19",
+  "permit_no": "1605",
+  "notes": "typed card; 'Same' written on kind-of-work line; permit no. partly faint (1605 read with one digit uncertain); date faint, July 19, 1883 partly obscured; no direction on card"
+ },
+ "in": 2282,
+ "out": 150
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 1837,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p01837_3027024.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"4836\",\"permit_date\":\"1925-12-04\",\"permit_no\":\"75277\",\"notes\":\"Metal sign board 16'x4'; Sundry; file no. 125502; owner R G Lydy; dark noisy scan but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "4836",
+  "permit_date": "1925-12-04",
+  "permit_no": "75277",
+  "notes": "Metal sign board 16'x4'; Sundry; file no. 125502; owner R G Lydy; dark noisy scan but readable"
+ },
+ "in": 2238,
+ "out": 128
+}

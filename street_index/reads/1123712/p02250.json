@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 2250,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p02250_2851850.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grand Ave\",\"direction\":\"E\",\"house_number\":\"121\",\"permit_date\":\"1927-09-22\",\"permit_no\":\"34106\",\"notes\":\"Repairs to doors & frames; Sundry; plan/file no. 175517; house number handwritten as 12 1/E, read as 121 E; date stamp partly overstruck\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grand Ave",
+  "direction": "E",
+  "house_number": "121",
+  "permit_date": "1927-09-22",
+  "permit_no": "34106",
+  "notes": "Repairs to doors & frames; Sundry; plan/file no. 175517; house number handwritten as 12 1/E, read as 121 E; date stamp partly overstruck"
+ },
+ "in": 2272,
+ "out": 142
+}

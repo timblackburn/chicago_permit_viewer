@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 1750,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p01750_3423360.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"13th St\",\"direction\":\"W\",\"house_number\":\"2120\",\"permit_date\":\"1883-11-30\",\"permit_no\":\"3088\",\"notes\":\"old addr: 556 13th; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "13th St",
+  "direction": "W",
+  "house_number": "2120",
+  "permit_date": "1883-11-30",
+  "permit_no": "3088",
+  "notes": "old addr: 556 13th; typed card"
+ },
+ "in": 2302,
+ "out": 96
+}

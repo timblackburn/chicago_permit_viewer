@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 2337,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p02337_3468111.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Typed card, very faint and washed out. Street appears to be Nebraska Ave, but this does not fit the reel range (Western to Wilcox), so not recorded. Two address lines, numbers unreadable. Permit no. partly visible '4975?' unclear. Date partly visible '...1, 190?' unclear.\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Typed card, very faint and washed out. Street appears to be Nebraska Ave, but this does not fit the reel range (Western to Wilcox), so not recorded. Two address lines, numbers unreadable. Permit no. partly visible '4975?' unclear. Date partly visible '...1, 190?' unclear."
+ },
+ "in": 2269,
+ "out": 172
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1285785",
+ "slide_index": 3250,
+ "image": "street_index/data/1285785/slides_pct_0-0-100-99_w1000/p03250_3176099.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Arthur Ave\",\"direction\":\"W\",\"house_number\":\"2535\",\"permit_date\":\"1953-10-09\",\"permit_no\":\"B 100873\",\"notes\":\"2 sty br 2-apt bldg; Book 68 Page 77; Plan no. 4781; File no. 453021\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Arthur Ave",
+  "direction": "W",
+  "house_number": "2535",
+  "permit_date": "1953-10-09",
+  "permit_no": "B 100873",
+  "notes": "2 sty br 2-apt bldg; Book 68 Page 77; Plan no. 4781; File no. 453021"
+ },
+ "in": 2275,
+ "out": 128
+}

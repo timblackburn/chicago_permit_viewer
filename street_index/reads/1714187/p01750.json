@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 1750,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p01750_4036856.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lockwood Ave\",\"direction\":\"N\",\"house_number\":\"5014\",\"permit_date\":\"1932-03-29\",\"permit_no\":\"79620\",\"notes\":\"Garage; Sundry; stamp Mar 29 1932; plan/file no. 28052 (faint); card speckled and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lockwood Ave",
+  "direction": "N",
+  "house_number": "5014",
+  "permit_date": "1932-03-29",
+  "permit_no": "79620",
+  "notes": "Garage; Sundry; stamp Mar 29 1932; plan/file no. 28052 (faint); card speckled and noisy"
+ },
+ "in": 2239,
+ "out": 131
+}

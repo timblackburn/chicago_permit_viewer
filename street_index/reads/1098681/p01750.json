@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 1750,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p01750_2803751.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harper Ave\",\"direction\":\"\",\"house_number\":\"8224\",\"permit_date\":\"1928-11-23\",\"permit_no\":\"B 29815\",\"notes\":\"Res; Book S 45 Page 445; plan no 8417; water no 15168; file no 201379; card faint and handwriting light; no direction written; address at top reads like 8224 Harper Av\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harper Ave",
+  "direction": "",
+  "house_number": "8224",
+  "permit_date": "1928-11-23",
+  "permit_no": "B 29815",
+  "notes": "Res; Book S 45 Page 445; plan no 8417; water no 15168; file no 201379; card faint and handwriting light; no direction written; address at top reads like 8224 Harper Av"
+ },
+ "in": 2273,
+ "out": 150
+}

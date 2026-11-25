@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 251,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p00251_3707015.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Roosevelt Rd\",\"direction\":\"W\",\"house_number\":\"601\",\"permit_date\":\"1941-01-21\",\"permit_no\":\"123518\",\"notes\":\"Repair fire damage; Sundry; plan no. 296522; low-contrast film image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Roosevelt Rd",
+  "direction": "W",
+  "house_number": "601",
+  "permit_date": "1941-01-21",
+  "permit_no": "123518",
+  "notes": "Repair fire damage; Sundry; plan no. 296522; low-contrast film image"
+ },
+ "in": 2279,
+ "out": 116
+}

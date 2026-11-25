@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 251,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p00251_3822790.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Octavia Ave\",\"direction\":\"N\",\"house_number\":\"7400\",\"permit_date\":\"1947-09-15\",\"permit_no\":\"B 04522\",\"notes\":\"1-2 sty Res; Book 57 Page 505; Plan no 7394; File no 354010\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Octavia Ave",
+  "direction": "N",
+  "house_number": "7400",
+  "permit_date": "1947-09-15",
+  "permit_no": "B 04522",
+  "notes": "1-2 sty Res; Book 57 Page 505; Plan no 7394; File no 354010"
+ },
+ "in": 2276,
+ "out": 121
+}

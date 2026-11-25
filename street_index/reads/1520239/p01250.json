@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 1250,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p01250_3648185.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"S\",\"house_number\":\"9256\",\"permit_date\":\"1941-02-03\",\"permit_no\":\"123617\",\"notes\":\"Add'l repairs to siding, windows etc; Sundry; plan no 296734; stamped text slightly faint, bottom edge of frame damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "S",
+  "house_number": "9256",
+  "permit_date": "1941-02-03",
+  "permit_no": "123617",
+  "notes": "Add'l repairs to siding, windows etc; Sundry; plan no 296734; stamped text slightly faint, bottom edge of frame damaged"
+ },
+ "in": 2311,
+ "out": 136
+}

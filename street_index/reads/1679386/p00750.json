@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1679386",
+ "slide_index": 750,
+ "image": "street_index/data/1679386/slides_pct_0-0-100-99_w1000/p00750_3969078.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mayfield Ave\",\"direction\":\"N\",\"house_number\":\"1353\",\"permit_date\":\"1922-06-23\",\"permit_no\":\"A 69576\",\"notes\":\"B. Res; Book W 7 Page 117; water no. 44346; file no. 17448; handwritten, photographed with dark edges and a crease line across the lower part\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mayfield Ave",
+  "direction": "N",
+  "house_number": "1353",
+  "permit_date": "1922-06-23",
+  "permit_no": "A 69576",
+  "notes": "B. Res; Book W 7 Page 117; water no. 44346; file no. 17448; handwritten, photographed with dark edges and a crease line across the lower part"
+ },
+ "in": 2277,
+ "out": 143
+}

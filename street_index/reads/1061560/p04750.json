@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1061560",
+ "slide_index": 4750,
+ "image": "street_index/data/1061560/slides_pct_0-0-100-99_w1000/p04750_4159296.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kamerling Ave\",\"direction\":\"W\",\"house_number\":\"5464\",\"permit_date\":\"\",\"permit_no\":\"A 62759\",\"notes\":\"Residence; B.; Book 23 Page 315; date stamp reads SEP 23 with year obscured; plan no. 5097; water no. 36506; file no. 99275; card is grainy with dark edges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kamerling Ave",
+  "direction": "W",
+  "house_number": "5464",
+  "permit_date": "",
+  "permit_no": "A 62759",
+  "notes": "Residence; B.; Book 23 Page 315; date stamp reads SEP 23 with year obscured; plan no. 5097; water no. 36506; file no. 99275; card is grainy with dark edges"
+ },
+ "in": 2313,
+ "out": 151
+}

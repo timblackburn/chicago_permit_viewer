@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 2750,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p02750_3551318.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Union Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1941-07-07\",\"permit_no\":\"55790\",\"notes\":\"Erect 1 sty Residence; Page 51 (book not legible); house number handwritten and unclear, looks like 95-11 or similar, but frame order suggests between 7412 and 11038; file no. 301576; card faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Union Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1941-07-07",
+  "permit_no": "55790",
+  "notes": "Erect 1 sty Residence; Page 51 (book not legible); house number handwritten and unclear, looks like 95-11 or similar, but frame order suggests between 7412 and 11038; file no. 301576; card faint and overexposed"
+ },
+ "in": 2313,
+ "out": 161
+}

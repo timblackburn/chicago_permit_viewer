@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 3750,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p03750_2892461.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fairfield Ave\",\"direction\":\"S\",\"house_number\":\"4219\",\"permit_date\":\"1943\",\"permit_no\":\"135953\",\"notes\":\"Alterations for flat 2nd fl; Sundry; Plan no. 1145; File no. 317754; date of permit faint, appears to be Oct 1943 (day unreadable)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fairfield Ave",
+  "direction": "S",
+  "house_number": "4219",
+  "permit_date": "1943",
+  "permit_no": "135953",
+  "notes": "Alterations for flat 2nd fl; Sundry; Plan no. 1145; File no. 317754; date of permit faint, appears to be Oct 1943 (day unreadable)"
+ },
+ "in": 2278,
+ "out": 144
+}

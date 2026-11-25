@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 1750,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p01750_3138618.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"1344-48\",\"permit_date\":\"\",\"permit_no\":\"14496\",\"notes\":\"very faint typed card; street name looks like Bauwans or Bauman St but not reliably readable; second line 57-61 same street, probably old addr; date line mostly unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "1344-48",
+  "permit_date": "",
+  "permit_no": "14496",
+  "notes": "very faint typed card; street name looks like Bauwans or Bauman St but not reliably readable; second line 57-61 same street, probably old addr; date line mostly unreadable"
+ },
+ "in": 2274,
+ "out": 131
+}

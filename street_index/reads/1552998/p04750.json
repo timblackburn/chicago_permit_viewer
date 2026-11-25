@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 4750,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p04750_3709305.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"6150\",\"permit_date\":\"1949-12-28\",\"permit_no\":\"A 37179\",\"notes\":\"Enclose rear porch; File no. 387374; dark borders, stamp slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "6150",
+  "permit_date": "1949-12-28",
+  "permit_no": "A 37179",
+  "notes": "Enclose rear porch; File no. 387374; dark borders, stamp slightly faint"
+ },
+ "in": 2280,
+ "out": 117
+}

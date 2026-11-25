@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 1750,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p01750_3582182.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talman Ave\",\"direction\":\"N\",\"house_number\":\"615\",\"permit_date\":\"1928-02-08\",\"permit_no\":\"38251\",\"notes\":\"Brick private garage (handwritten, partly hard to read); Sundry; plan no. 182615; card faint and low contrast; house number 615 is not consistent with the reel position (expected between 5740 and 6432), so the number may be misread (possibly 6415)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talman Ave",
+  "direction": "N",
+  "house_number": "615",
+  "permit_date": "1928-02-08",
+  "permit_no": "38251",
+  "notes": "Brick private garage (handwritten, partly hard to read); Sundry; plan no. 182615; card faint and low contrast; house number 615 is not consistent with the reel position (expected between 5740 and 6432), so the number may be misread (possibly 6415)"
+ },
+ "in": 2310,
+ "out": 169
+}

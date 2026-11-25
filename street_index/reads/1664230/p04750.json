@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 4750,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p04750_3930451.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"North Ave\",\"direction\":\"W\",\"house_number\":\"2544-46-48\",\"permit_date\":\"1913-11-03\",\"permit_no\":\"A 18239\",\"notes\":\"Bv. B. (brick building); Book N 5 Page 371; file no. 50779; plan/water no. 91726 written below permit no.; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "North Ave",
+  "direction": "W",
+  "house_number": "2544-46-48",
+  "permit_date": "1913-11-03",
+  "permit_no": "A 18239",
+  "notes": "Bv. B. (brick building); Book N 5 Page 371; file no. 50779; plan/water no. 91726 written below permit no.; date stamp faint"
+ },
+ "in": 2274,
+ "out": 142
+}

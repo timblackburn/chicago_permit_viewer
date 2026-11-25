@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 4832,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p04832_4010474.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"836\",\"permit_date\":\"1927-05-09\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address line faint, street name starts perhaps 'Madison' but not clearly readable; plan no 164618; very faint overexposed card; filed between 500 W and 1136-38 W Madison St\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "836",
+  "permit_date": "1927-05-09",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address line faint, street name starts perhaps 'Madison' but not clearly readable; plan no 164618; very faint overexposed card; filed between 500 W and 1136-38 W Madison St"
+ },
+ "in": 2271,
+ "out": 147
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 4250,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p04250_3710308.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Rockwell St\",\"direction\":\"S\",\"house_number\":\"5209\",\"permit_date\":\"1928\",\"permit_no\":\"41002\",\"notes\":\"Alterations; Sundry; house number 5209 is handwritten and faint, and the direction reads as S, which is odd for the position between 4638 N and 5811 N Rockwell; date stamp partly faint, reads ...13 1928; file no. 186711; permit no. may be 41002 (first digit unclear)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Rockwell St",
+  "direction": "S",
+  "house_number": "5209",
+  "permit_date": "1928",
+  "permit_no": "41002",
+  "notes": "Alterations; Sundry; house number 5209 is handwritten and faint, and the direction reads as S, which is odd for the position between 4638 N and 5811 N Rockwell; date stamp partly faint, reads ...13 1928; file no. 186711; permit no. may be 41002 (first digit unclear)"
+ },
+ "in": 2280,
+ "out": 184
+}

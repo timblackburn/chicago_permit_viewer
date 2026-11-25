@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1440193",
+ "slide_index": 750,
+ "image": "street_index/data/1440193/slides_pct_0-0-100-99_w1000/p00750_3490569.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wells St\",\"direction\":\"N\",\"house_number\":\"1200-6\",\"permit_date\":\"1877-10-02\",\"permit_no\":\"1855\",\"notes\":\"typed card; corner building at 200-4 W. Division St (Wells Nr. Division); faint typing, first digits of house number slightly smudged; year read as 1877 but partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wells St",
+  "direction": "N",
+  "house_number": "1200-6",
+  "permit_date": "1877-10-02",
+  "permit_no": "1855",
+  "notes": "typed card; corner building at 200-4 W. Division St (Wells Nr. Division); faint typing, first digits of house number slightly smudged; year read as 1877 but partly faded"
+ },
+ "in": 2266,
+ "out": 145
+}

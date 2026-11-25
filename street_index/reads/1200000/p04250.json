@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 4250,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p04250_3002193.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cottage Grove Ave\",\"direction\":\"S\",\"house_number\":\"3229\",\"permit_date\":\"1952-11-05\",\"permit_no\":\"4 83740\",\"notes\":\"Wreck 2 stor apt.; file no. 436131; card faint in places, work line partly illegible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cottage Grove Ave",
+  "direction": "S",
+  "house_number": "3229",
+  "permit_date": "1952-11-05",
+  "permit_no": "4 83740",
+  "notes": "Wreck 2 stor apt.; file no. 436131; card faint in places, work line partly illegible"
+ },
+ "in": 2278,
+ "out": 125
+}

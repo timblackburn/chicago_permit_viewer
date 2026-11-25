@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 4750,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p04750_3905965.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"2023\",\"permit_date\":\"1930-05-09\",\"permit_no\":\"66661\",\"notes\":\"2 Cloth Signs 12x48; Sundry; owner Burley & Co; file no. 223490; no direction written; image is somewhat blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "2023",
+  "permit_date": "1930-05-09",
+  "permit_no": "66661",
+  "notes": "2 Cloth Signs 12x48; Sundry; owner Burley & Co; file no. 223490; no direction written; image is somewhat blurry"
+ },
+ "in": 2318,
+ "out": 137
+}

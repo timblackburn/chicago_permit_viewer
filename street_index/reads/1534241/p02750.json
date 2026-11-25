@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 2750,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p02750_3674708.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sawyer Ave\",\"direction\":\"N\",\"house_number\":\"1820\",\"permit_date\":\"1913-04-05\",\"permit_no\":\"A 12163\",\"notes\":\"B.. B (kind of work faint); ledger ref N 5 36 faint, uncertain; file no 34191; second number 85055 uncertain; card faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sawyer Ave",
+  "direction": "N",
+  "house_number": "1820",
+  "permit_date": "1913-04-05",
+  "permit_no": "A 12163",
+  "notes": "B.. B (kind of work faint); ledger ref N 5 36 faint, uncertain; file no 34191; second number 85055 uncertain; card faint in places"
+ },
+ "in": 2318,
+ "out": 143
+}

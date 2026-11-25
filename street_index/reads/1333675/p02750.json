@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 2750,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p02750_3271628.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"104th Pl\",\"direction\":\"W\",\"house_number\":\"224\",\"permit_date\":\"1928-03\",\"permit_no\":\"13000\",\"notes\":\"Addition; Sundry; date partly faint (MAR ?8 1928), day unreadable; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "104th Pl",
+  "direction": "W",
+  "house_number": "224",
+  "permit_date": "1928-03",
+  "permit_no": "13000",
+  "notes": "Addition; Sundry; date partly faint (MAR ?8 1928), day unreadable; card faint and low contrast"
+ },
+ "in": 2263,
+ "out": 121
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 3750,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p03750_4103936.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Knox Ave\",\"direction\":\"N\",\"house_number\":\"3431\",\"permit_date\":\"1948-08-13\",\"permit_no\":\"B 16700\",\"notes\":\"1 sty. Office + storage; Book 59 Page 77; Plan no. 3928; File no. 367239; bottom of card partly obscured by film damage. Note: N Knox is filed here though neighbors are S Knox, card read as written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Knox Ave",
+  "direction": "N",
+  "house_number": "3431",
+  "permit_date": "1948-08-13",
+  "permit_no": "B 16700",
+  "notes": "1 sty. Office + storage; Book 59 Page 77; Plan no. 3928; File no. 367239; bottom of card partly obscured by film damage. Note: N Knox is filed here though neighbors are S Knox, card read as written"
+ },
+ "in": 2318,
+ "out": 166
+}

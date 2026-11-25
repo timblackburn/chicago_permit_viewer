@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 1250,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p01250_3470279.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Western Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"top line reads approx '7000 S Western Av' but the house number is partly faded and uncertain; overexposed, most printed fields blank or washed out; owner and permit details unreadable; the direction S looks inconsistent with the reel's N Western sequence\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Western Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "top line reads approx '7000 S Western Av' but the house number is partly faded and uncertain; overexposed, most printed fields blank or washed out; owner and permit details unreadable; the direction S looks inconsistent with the reel's N Western sequence"
+ },
+ "in": 2271,
+ "out": 156
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 2750,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p02750_4105923.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kingston Ave\",\"direction\":\"\",\"house_number\":\"9036\",\"permit_date\":\"1922-02-16\",\"permit_no\":\"A 65432\",\"notes\":\"B. fr Res (brick residence); Book S 23 Page 496; direction not written on card; plan no. 686; file no. 6135; water no. 40013; faint microfilm image, handwriting cursive, house number read as 9036 and street as Kingston by file order context.; the date year read as 22 from handwriting\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kingston Ave",
+  "direction": "",
+  "house_number": "9036",
+  "permit_date": "1922-02-16",
+  "permit_no": "A 65432",
+  "notes": "B. fr Res (brick residence); Book S 23 Page 496; direction not written on card; plan no. 686; file no. 6135; water no. 40013; faint microfilm image, handwriting cursive, house number read as 9036 and street as Kingston by file order context.; the date year read as 22 from handwriting"
+ },
+ "in": 2315,
+ "out": 189
+}

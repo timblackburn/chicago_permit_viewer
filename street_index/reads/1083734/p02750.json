@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 2750,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p02750_2772035.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedzie Ave\",\"direction\":\"S\",\"house_number\":\"4100\",\"permit_date\":\"1938-11-17\",\"permit_no\":\"45965\",\"notes\":\"1 sty brick storage addn; Book 8 Page 484 (book number partly crossed out, uncertain); plan no 4433; water no 31280; file no 278511\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedzie Ave",
+  "direction": "S",
+  "house_number": "4100",
+  "permit_date": "1938-11-17",
+  "permit_no": "45965",
+  "notes": "1 sty brick storage addn; Book 8 Page 484 (book number partly crossed out, uncertain); plan no 4433; water no 31280; file no 278511"
+ },
+ "in": 2320,
+ "out": 142
+}

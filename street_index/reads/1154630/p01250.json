@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 1250,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p01250_2916995.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Elm St\",\"direction\":\"W\",\"house_number\":\"152-162\",\"permit_date\":\"1928-08-06\",\"permit_no\":\"B 27473\",\"notes\":\"Apts; Book C 40 Page 119; water no. 1215 7; file no. 195164; remark: F.P. 6746 Plan 7550 Oct 16 1928 advance; card dark and noisy, house number partly uncertain; street read as Elm though handwriting is loose (Elm vs Elm St)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Elm St",
+  "direction": "W",
+  "house_number": "152-162",
+  "permit_date": "1928-08-06",
+  "permit_no": "B 27473",
+  "notes": "Apts; Book C 40 Page 119; water no. 1215 7; file no. 195164; remark: F.P. 6746 Plan 7550 Oct 16 1928 advance; card dark and noisy, house number partly uncertain; street read as Elm though handwriting is loose (Elm vs Elm St)"
+ },
+ "in": 2277,
+ "out": 190
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 1250,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p01250_4206369.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Kildare Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1944-04-14\",\"permit_no\":\"138467\",\"notes\":\"3 Bedrooms in attic; Sundry; file no. 322295; house number handwritten at top is unclear (appears to be 6xxx, likely between 5632 and 6xxx); handwriting faint and hard to read\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Kildare Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1944-04-14",
+  "permit_no": "138467",
+  "notes": "3 Bedrooms in attic; Sundry; file no. 322295; house number handwritten at top is unclear (appears to be 6xxx, likely between 5632 and 6xxx); handwriting faint and hard to read"
+ },
+ "in": 2285,
+ "out": 157
+}

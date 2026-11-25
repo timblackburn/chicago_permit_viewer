@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 251,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p00251_3875203.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Morse Ave\",\"direction\":\"W\",\"house_number\":\"2907\",\"permit_date\":\"1947-11-12\",\"permit_no\":\"B 6177\",\"notes\":\"1-1 sty Res; Book 58 Page 77; Plan no 8815; File no 356813; permit number partly overwritten, last digits read as 6177\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Morse Ave",
+  "direction": "W",
+  "house_number": "2907",
+  "permit_date": "1947-11-12",
+  "permit_no": "B 6177",
+  "notes": "1-1 sty Res; Book 58 Page 77; Plan no 8815; File no 356813; permit number partly overwritten, last digits read as 6177"
+ },
+ "in": 2280,
+ "out": 139
+}

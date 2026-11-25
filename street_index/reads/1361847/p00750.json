@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 750,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p00750_3332582.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"61st St\",\"direction\":\"N\",\"house_number\":\"1015\",\"permit_date\":\"\",\"permit_no\":\"18878\",\"notes\":\"Cement footing under post & repairs; Sundry; plan no 198615; permit no. faint; date of permit mostly illegible; low contrast card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "61st St",
+  "direction": "N",
+  "house_number": "1015",
+  "permit_date": "",
+  "permit_no": "18878",
+  "notes": "Cement footing under post & repairs; Sundry; plan no 198615; permit no. faint; date of permit mostly illegible; low contrast card"
+ },
+ "in": 2266,
+ "out": 124
+}

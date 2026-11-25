@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 1750,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p01750_3809473.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Orchard St\",\"direction\":\"\",\"house_number\":\"1208\",\"permit_date\":\"1892-10-11\",\"permit_no\":\"3896\",\"notes\":\"old addr: 7 Penn St; typed card, faint; no direction written; 'Orchard' partly obscured by a spot\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Orchard St",
+  "direction": "",
+  "house_number": "1208",
+  "permit_date": "1892-10-11",
+  "permit_no": "3896",
+  "notes": "old addr: 7 Penn St; typed card, faint; no direction written; 'Orchard' partly obscured by a spot"
+ },
+ "in": 2311,
+ "out": 124
+}

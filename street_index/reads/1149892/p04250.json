@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1149892",
+ "slide_index": 4250,
+ "image": "street_index/data/1149892/slides_pct_0-0-100-99_w1000/p04250_2900960.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Euclid Ave\",\"direction\":\"\",\"house_number\":\"7840\",\"permit_date\":\"1925-06-29\",\"permit_no\":\"66306\",\"notes\":\"Sundry; no direction written; file no. 110854; permit no. stamped faintly, read as 66306 with some uncertainty; card photographed with low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Euclid Ave",
+  "direction": "",
+  "house_number": "7840",
+  "permit_date": "1925-06-29",
+  "permit_no": "66306",
+  "notes": "Sundry; no direction written; file no. 110854; permit no. stamped faintly, read as 66306 with some uncertainty; card photographed with low contrast"
+ },
+ "in": 2278,
+ "out": 137
+}

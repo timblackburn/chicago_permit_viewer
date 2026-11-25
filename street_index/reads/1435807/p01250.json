@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 1250,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p01250_3479051.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"N\",\"house_number\":\"1011\",\"permit_date\":\"1930-07-02\",\"permit_no\":\"68679\",\"notes\":\"Con Fdn + Repairs; Sundry; file no. 225851; house number handwritten, read as 1011 (fits between 744 and 1300)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "N",
+  "house_number": "1011",
+  "permit_date": "1930-07-02",
+  "permit_no": "68679",
+  "notes": "Con Fdn + Repairs; Sundry; file no. 225851; house number handwritten, read as 1011 (fits between 744 and 1300)"
+ },
+ "in": 2265,
+ "out": 134
+}

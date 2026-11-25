@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 3750,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p03750_3104047.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Broadway\",\"direction\":\"\",\"house_number\":\"4621\",\"permit_date\":\"1901-12-27\",\"permit_no\":\"954\",\"notes\":\"typed card, faint; old addr: 1940 Evanston Ave (struck through); no direction written; number 954 may be the permit no\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Broadway",
+  "direction": "",
+  "house_number": "4621",
+  "permit_date": "1901-12-27",
+  "permit_no": "954",
+  "notes": "typed card, faint; old addr: 1940 Evanston Ave (struck through); no direction written; number 954 may be the permit no"
+ },
+ "in": 2274,
+ "out": 124
+}

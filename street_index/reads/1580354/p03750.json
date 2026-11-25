@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 3750,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p03750_3765094.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pontiac Ave\",\"direction\":\"N\",\"house_number\":\"4110\",\"permit_date\":\"1948-09-29\",\"permit_no\":\"A 13842\",\"notes\":\"tr Gas; File no. 369350; date stamp and permit number partly faint; book and page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pontiac Ave",
+  "direction": "N",
+  "house_number": "4110",
+  "permit_date": "1948-09-29",
+  "permit_no": "A 13842",
+  "notes": "tr Gas; File no. 369350; date stamp and permit number partly faint; book and page blank"
+ },
+ "in": 2275,
+ "out": 121
+}

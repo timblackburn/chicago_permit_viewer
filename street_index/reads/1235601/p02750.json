@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1235601",
+ "slide_index": 2750,
+ "image": "street_index/data/1235601/slides_pct_0-0-100-99_w1000/p02750_3076335.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Campbell Ave\",\"direction\":\"N\",\"house_number\":\"6442\",\"permit_date\":\"1951-06-01\",\"permit_no\":\"B 58737\",\"notes\":\"1 sty B Res; Book 63 Page 474; Plan No. 6134; File No. 411371; handwritten address, fairly clear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Campbell Ave",
+  "direction": "N",
+  "house_number": "6442",
+  "permit_date": "1951-06-01",
+  "permit_no": "B 58737",
+  "notes": "1 sty B Res; Book 63 Page 474; Plan No. 6134; File No. 411371; handwritten address, fairly clear"
+ },
+ "in": 2281,
+ "out": 134
+}

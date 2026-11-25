@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1149892",
+ "slide_index": 3750,
+ "image": "street_index/data/1149892/slides_pct_0-0-100-99_w1000/p03750_2901972.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Estes Ave\",\"direction\":\"\",\"house_number\":\"2144\",\"permit_date\":\"1923-05-14\",\"permit_no\":\"A 78769\",\"notes\":\"B. Apts; Book N 75 Page 435; no direction written; plan no. 4244; water no. 53361; file no. 40416; permit number partly handwritten, reading uncertain; card dark and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Estes Ave",
+  "direction": "",
+  "house_number": "2144",
+  "permit_date": "1923-05-14",
+  "permit_no": "A 78769",
+  "notes": "B. Apts; Book N 75 Page 435; no direction written; plan no. 4244; water no. 53361; file no. 40416; permit number partly handwritten, reading uncertain; card dark and low contrast"
+ },
+ "in": 2315,
+ "out": 156
+}

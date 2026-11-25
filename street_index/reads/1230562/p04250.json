@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1230562",
+ "slide_index": 4250,
+ "image": "street_index/data/1230562/slides_pct_0-0-100-99_w1000/p04250_3063070.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Central Ave\",\"direction\":\"N\",\"house_number\":\"501\",\"permit_date\":\"1950-12-05\",\"permit_no\":\"A 51884\",\"notes\":\"1-9600 gal tank; File No 404683; handwritten card, bottom edge damaged by dark smudges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Central Ave",
+  "direction": "N",
+  "house_number": "501",
+  "permit_date": "1950-12-05",
+  "permit_no": "A 51884",
+  "notes": "1-9600 gal tank; File No 404683; handwritten card, bottom edge damaged by dark smudges"
+ },
+ "in": 2271,
+ "out": 122
+}

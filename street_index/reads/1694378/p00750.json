@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 750,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p00750_3998748.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Mango Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1924-11-17\",\"permit_no\":\"\",\"notes\":\"Address line handwritten at top, reads roughly \\\"4118/20 N Mango Ave\\\" but house number is faint and uncertain; Page 318? (ledger book not clear); File No. 91335 approx; permit no. faint; card washed out and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Mango Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1924-11-17",
+  "permit_no": "",
+  "notes": "Address line handwritten at top, reads roughly \"4118/20 N Mango Ave\" but house number is faint and uncertain; Page 318? (ledger book not clear); File No. 91335 approx; permit no. faint; card washed out and low contrast"
+ },
+ "in": 2309,
+ "out": 165
+}

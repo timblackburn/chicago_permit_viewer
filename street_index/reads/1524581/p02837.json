@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 2837,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p02837_3655333.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sheridan Rd\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1928-02\",\"permit_no\":\"38342\",\"notes\":\"Repair Sign 75 ft; Sundry; address reads \\\"S E Cor Sheridan Rd & Ainslie\\\" (corner, no house number); owner G O A Co; file no. 182586; date partly faint (FEB ? 1928); card faint and blurry\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sheridan Rd",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1928-02",
+  "permit_no": "38342",
+  "notes": "Repair Sign 75 ft; Sundry; address reads \"S E Cor Sheridan Rd & Ainslie\" (corner, no house number); owner G O A Co; file no. 182586; date partly faint (FEB ? 1928); card faint and blurry"
+ },
+ "in": 2282,
+ "out": 171
+}

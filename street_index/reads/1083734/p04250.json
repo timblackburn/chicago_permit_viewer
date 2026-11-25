@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 4250,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p04250_2769037.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedzie Ave\",\"direction\":\"S\",\"house_number\":\"10653\",\"permit_date\":\"1941-02-11\",\"permit_no\":\"53561\",\"notes\":\"1 sty frame Residence; Book 51 Page 158; Sundry stamp at top; plan no. 538, water no. 39700, file no. 296906\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedzie Ave",
+  "direction": "S",
+  "house_number": "10653",
+  "permit_date": "1941-02-11",
+  "permit_no": "53561",
+  "notes": "1 sty frame Residence; Book 51 Page 158; Sundry stamp at top; plan no. 538, water no. 39700, file no. 296906"
+ },
+ "in": 2280,
+ "out": 138
+}

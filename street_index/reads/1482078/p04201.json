@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 4201,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p04201_3567832.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tripp Ave\",\"direction\":\"N\",\"house_number\":\"1850\",\"permit_date\":\"\",\"permit_no\":\"29080\",\"notes\":\"Rear open porch; Sundry; plan/file no. 168251 stamped faintly; date of permit blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tripp Ave",
+  "direction": "N",
+  "house_number": "1850",
+  "permit_date": "",
+  "permit_no": "29080",
+  "notes": "Rear open porch; Sundry; plan/file no. 168251 stamped faintly; date of permit blank"
+ },
+ "in": 2312,
+ "out": 116
+}

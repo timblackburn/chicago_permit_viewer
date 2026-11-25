@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 4250,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p04250_2068870.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Honore St\",\"direction\":\"N\",\"house_number\":\"1265\",\"permit_date\":\"1926-10-10\",\"permit_no\":\"49425\",\"notes\":\"Frame Garage; Sundry; street name Macedonia struck out and replaced with N Honore; file no. 199193; card is noisy and faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Honore St",
+  "direction": "N",
+  "house_number": "1265",
+  "permit_date": "1926-10-10",
+  "permit_no": "49425",
+  "notes": "Frame Garage; Sundry; street name Macedonia struck out and replaced with N Honore; file no. 199193; card is noisy and faint in places"
+ },
+ "in": 2272,
+ "out": 133
+}

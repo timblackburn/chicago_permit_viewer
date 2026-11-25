@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1366590",
+ "slide_index": 2837,
+ "image": "street_index/data/1366590/slides_pct_0-0-100-99_w1000/p02837_3338113.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"59th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-04-21\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten location only: \\\"S.E. Cor 59th & Sangamon\\\" (corner description, no house number); second line \\\"Store ...\\\" faint; card overexposed and washed out, fields mostly unreadable; stamp APR 21 1924\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "59th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-04-21",
+  "permit_no": "",
+  "notes": "Sundry; handwritten location only: \"S.E. Cor 59th & Sangamon\" (corner description, no house number); second line \"Store ...\" faint; card overexposed and washed out, fields mostly unreadable; stamp APR 21 1924"
+ },
+ "in": 2266,
+ "out": 162
+}

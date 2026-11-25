@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 4750,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p04750_3132547.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bell\",\"direction\":\"S\",\"house_number\":\"11230\",\"permit_date\":\"\",\"permit_no\":\"139933\",\"notes\":\"Erect Brick rear open Porch; Sundry; plan no. 2597; file no. 324385; date of permit blank; permit no. is stamped above the PERMIT NO. label; card is somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bell",
+  "direction": "S",
+  "house_number": "11230",
+  "permit_date": "",
+  "permit_no": "139933",
+  "notes": "Erect Brick rear open Porch; Sundry; plan no. 2597; file no. 324385; date of permit blank; permit no. is stamped above the PERMIT NO. label; card is somewhat faint"
+ },
+ "in": 2279,
+ "out": 145
+}

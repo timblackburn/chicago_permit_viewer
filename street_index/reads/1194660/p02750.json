@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 2750,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p02750_2994887.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cregier Ave\",\"direction\":\"S\",\"house_number\":\"890H\",\"permit_date\":\"1954-04-09\",\"permit_no\":\"B 108541\",\"notes\":\"Erect 1 sty Brick Residence; Book 69 Page 1; Plan no. 8648; File no. 460603; house number read as 890H, possibly 8904 (handwriting unclear)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cregier Ave",
+  "direction": "S",
+  "house_number": "890H",
+  "permit_date": "1954-04-09",
+  "permit_no": "B 108541",
+  "notes": "Erect 1 sty Brick Residence; Book 69 Page 1; Plan no. 8648; File no. 460603; house number read as 890H, possibly 8904 (handwriting unclear)"
+ },
+ "in": 2244,
+ "out": 154
+}

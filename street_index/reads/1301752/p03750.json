@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 3750,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p03750_3207074.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Byron St\",\"direction\":\"\",\"house_number\":\"6233\",\"permit_date\":\"1925-09-03\",\"permit_no\":\"70173\",\"notes\":\"Repairs; Sundry; file no. 117613; permit no. and date stamp are faint, year read as 1925 and permit no. possibly 70173 or 70178; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Byron St",
+  "direction": "",
+  "house_number": "6233",
+  "permit_date": "1925-09-03",
+  "permit_no": "70173",
+  "notes": "Repairs; Sundry; file no. 117613; permit no. and date stamp are faint, year read as 1925 and permit no. possibly 70173 or 70178; no direction written"
+ },
+ "in": 2271,
+ "out": 141
+}

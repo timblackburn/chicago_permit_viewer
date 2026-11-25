@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 750,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p00750_2805750.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harlem Ave\",\"direction\":\"N\",\"house_number\":\"1837\",\"permit_date\":\"1931-09-23\",\"permit_no\":\"77799\",\"notes\":\"1 sty Brick Office; Sundry; file no. 236379; permit no. handwritten/stamped faintly and may be misread; card is faint with bottom edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harlem Ave",
+  "direction": "N",
+  "house_number": "1837",
+  "permit_date": "1931-09-23",
+  "permit_no": "77799",
+  "notes": "1 sty Brick Office; Sundry; file no. 236379; permit no. handwritten/stamped faintly and may be misread; card is faint with bottom edge damaged"
+ },
+ "in": 2312,
+ "out": 143
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 251,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p00251_3213948.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bryant Ave\",\"direction\":\"\",\"house_number\":\"54\",\"permit_date\":\"1891-05-28\",\"permit_no\":\"\",\"notes\":\"old addr: 534 E. Browning Ave; typed card, faint; 1910 typed at lower left (renumbering year)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bryant Ave",
+  "direction": "",
+  "house_number": "54",
+  "permit_date": "1891-05-28",
+  "permit_no": "",
+  "notes": "old addr: 534 E. Browning Ave; typed card, faint; 1910 typed at lower left (renumbering year)"
+ },
+ "in": 2266,
+ "out": 123
+}

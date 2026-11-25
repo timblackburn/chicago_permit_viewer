@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 750,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p00750_3717348.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ridgeway Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1911-06-12\",\"permit_no\":\"\",\"notes\":\"house number faint, appears to be 1101 (uncertain); handwritten 'B' and 'N.W. 38200' beneath address (possibly a permit reference); stamped JUN 12 1911; card is high contrast with streaks and faint ghost text near inspection no.; fields mostly blank\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ridgeway Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1911-06-12",
+  "permit_no": "",
+  "notes": "house number faint, appears to be 1101 (uncertain); handwritten 'B' and 'N.W. 38200' beneath address (possibly a permit reference); stamped JUN 12 1911; card is high contrast with streaks and faint ghost text near inspection no.; fields mostly blank"
+ },
+ "in": 2320,
+ "out": 180
+}

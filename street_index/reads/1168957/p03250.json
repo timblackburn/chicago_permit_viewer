@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 3250,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p03250_2941739.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Douglas Blvd\",\"direction\":\"\",\"house_number\":\"3434\",\"permit_date\":\"1905-09-26\",\"permit_no\":\"21532\",\"notes\":\"typed card; old addr: 1054 Douglas Blvd; faint typing\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Douglas Blvd",
+  "direction": "",
+  "house_number": "3434",
+  "permit_date": "1905-09-26",
+  "permit_no": "21532",
+  "notes": "typed card; old addr: 1054 Douglas Blvd; faint typing"
+ },
+ "in": 2307,
+ "out": 112
+}

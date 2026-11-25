@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 2250,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p02250_3727656.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Richmond St\",\"direction\":\"N\",\"house_number\":\"3943\",\"permit_date\":\"1924-05-12\",\"permit_no\":\"42861\",\"notes\":\"Sundry; file no. 72078; street type not written on card, Richmond given as street name; handwritten address, card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Richmond St",
+  "direction": "N",
+  "house_number": "3943",
+  "permit_date": "1924-05-12",
+  "permit_no": "42861",
+  "notes": "Sundry; file no. 72078; street type not written on card, Richmond given as street name; handwritten address, card slightly faint"
+ },
+ "in": 2281,
+ "out": 125
+}

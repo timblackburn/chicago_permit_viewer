@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 251,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p00251_4060249.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Latrobe Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1953-06-08\",\"permit_no\":\"B 93185\",\"notes\":\"Erect 5/1 1/2 sty Brick Residence; Book 67 Page 191; Plan no 1364; File no 445434; top line reads 5325-29-33-35 S Latrobe, a multi-number range that is hard to read, so the house number is left blank; the card is on a south side Latrobe block, which is out of order with neighbors (the reel runs N Latrobe to N Lavergne), so confirm the direction\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Latrobe Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1953-06-08",
+  "permit_no": "B 93185",
+  "notes": "Erect 5/1 1/2 sty Brick Residence; Book 67 Page 191; Plan no 1364; File no 445434; top line reads 5325-29-33-35 S Latrobe, a multi-number range that is hard to read, so the house number is left blank; the card is on a south side Latrobe block, which is out of order with neighbors (the reel runs N Latrobe to N Lavergne), so confirm the direction"
+ },
+ "in": 2277,
+ "out": 227
+}

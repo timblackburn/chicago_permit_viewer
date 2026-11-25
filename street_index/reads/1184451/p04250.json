@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1184451",
+ "slide_index": 4250,
+ "image": "street_index/data/1184451/slides_pct_0-0-100-99_w1000/p04250_2970444.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fillmore St\",\"direction\":\"\",\"house_number\":\"3460-4\",\"permit_date\":\"1942-01-15\",\"permit_no\":\"58669\",\"notes\":\"1 sty Br Factory; Book 52 Page 424; direction not written on card; plan no 165, water no 43038, file no 307375; low contrast microfilm, stamp text partly overlaps\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fillmore St",
+  "direction": "",
+  "house_number": "3460-4",
+  "permit_date": "1942-01-15",
+  "permit_no": "58669",
+  "notes": "1 sty Br Factory; Book 52 Page 424; direction not written on card; plan no 165, water no 43038, file no 307375; low contrast microfilm, stamp text partly overlaps"
+ },
+ "in": 2278,
+ "out": 151
+}

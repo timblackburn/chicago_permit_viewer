@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 2750,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p02750_3262685.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926-09-15\",\"permit_no\":\"\",\"notes\":\"Card very faint and overexposed; top-line address looks like '1210 W ... St' but cannot be read with confidence, so not given; permit number and ledger reference illegible; date stamped SEP 15 1926; 'S' and 'Sundry'-like handwriting uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926-09-15",
+  "permit_no": "",
+  "notes": "Card very faint and overexposed; top-line address looks like '1210 W ... St' but cannot be read with confidence, so not given; permit number and ledger reference illegible; date stamped SEP 15 1926; 'S' and 'Sundry'-like handwriting uncertain"
+ },
+ "in": 2299,
+ "out": 165
+}

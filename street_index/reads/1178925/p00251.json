@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 251,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p00251_2967793.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dante Ave\",\"direction\":\"\",\"house_number\":\"7922\",\"permit_date\":\"1920-01-13\",\"permit_no\":\"A 55278\",\"notes\":\"Br B. Res; Book S 20 Page 360; direction not written on card; ledger book number partly faint; plan no 77; water no 29923; file no 66582; card photographed at an angle with faint stamps\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dante Ave",
+  "direction": "",
+  "house_number": "7922",
+  "permit_date": "1920-01-13",
+  "permit_no": "A 55278",
+  "notes": "Br B. Res; Book S 20 Page 360; direction not written on card; ledger book number partly faint; plan no 77; water no 29923; file no 66582; card photographed at an angle with faint stamps"
+ },
+ "in": 2307,
+ "out": 154
+}

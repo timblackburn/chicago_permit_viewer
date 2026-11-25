@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1173918",
+ "slide_index": 3250,
+ "image": "street_index/data/1173918/slides_pct_0-0-100-99_w1000/p03250_2951811.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Diversey Ave\",\"direction\":\"\",\"house_number\":\"2906\",\"permit_date\":\"1909-05-07\",\"permit_no\":\"11486\",\"notes\":\"old addr: 453 W. Diversey St; typed card; the new address 2906 Diversey Ave is listed first; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Diversey Ave",
+  "direction": "",
+  "house_number": "2906",
+  "permit_date": "1909-05-07",
+  "permit_no": "11486",
+  "notes": "old addr: 453 W. Diversey St; typed card; the new address 2906 Diversey Ave is listed first; no building type given"
+ },
+ "in": 2239,
+ "out": 128
+}

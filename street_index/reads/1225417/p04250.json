@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1225417",
+ "slide_index": 4250,
+ "image": "street_index/data/1225417/slides_pct_0-0-100-99_w1000/p04250_3053000.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cermak Rd\",\"direction\":\"W\",\"house_number\":\"2321-33\",\"permit_date\":\"1954-08-17\",\"permit_no\":\"A 116504\",\"notes\":\"1 - Addn Ride from 8-20 to 8-29, 1954; file no. 468400; date stamped AUG 17 1954; no book/page\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cermak Rd",
+  "direction": "W",
+  "house_number": "2321-33",
+  "permit_date": "1954-08-17",
+  "permit_no": "A 116504",
+  "notes": "1 - Addn Ride from 8-20 to 8-29, 1954; file no. 468400; date stamped AUG 17 1954; no book/page"
+ },
+ "in": 2277,
+ "out": 140
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1664230",
+ "slide_index": 1250,
+ "image": "street_index/data/1664230/slides_pct_0-0-100-99_w1000/p01250_3938108.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Normal Ave\",\"direction\":\"\",\"house_number\":\"5941\",\"permit_date\":\"1927-01-28\",\"permit_no\":\"21928\",\"notes\":\"Twelve front porches (handwritten, 'Twelve front pores'); Sundry; no direction written; file no. 156158; dark, grainy film with some noise\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Normal Ave",
+  "direction": "",
+  "house_number": "5941",
+  "permit_date": "1927-01-28",
+  "permit_no": "21928",
+  "notes": "Twelve front porches (handwritten, 'Twelve front pores'); Sundry; no direction written; file no. 156158; dark, grainy film with some noise"
+ },
+ "in": 2308,
+ "out": 137
+}

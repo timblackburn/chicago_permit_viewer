@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 4250,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p04250_4102937.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Knox Ave\",\"direction\":\"S\",\"house_number\":\"7839\",\"permit_date\":\"1952-06-23\",\"permit_no\":\"B 76407\",\"notes\":\"1-sty brick res; Book 65 Page 352; Plan No. 4063; File No. 428905; lower edge of card damaged by film artifact\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Knox Ave",
+  "direction": "S",
+  "house_number": "7839",
+  "permit_date": "1952-06-23",
+  "permit_no": "B 76407",
+  "notes": "1-sty brick res; Book 65 Page 352; Plan No. 4063; File No. 428905; lower edge of card damaged by film artifact"
+ },
+ "in": 2317,
+ "out": 136
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 1750,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p01750_2843974.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Green St\",\"direction\":\"S\",\"house_number\":\"7233\",\"permit_date\":\"1920-08-23\",\"permit_no\":\"A 61758\",\"notes\":\"Residences - 2; Book S 23 Page 246; water no. 37410; plan no. 4122; file no. 96129; date stamp faint, read as Aug 23 1920; handwritten address at top, stamps faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Green St",
+  "direction": "S",
+  "house_number": "7233",
+  "permit_date": "1920-08-23",
+  "permit_no": "A 61758",
+  "notes": "Residences - 2; Book S 23 Page 246; water no. 37410; plan no. 4122; file no. 96129; date stamp faint, read as Aug 23 1920; handwritten address at top, stamps faint"
+ },
+ "in": 2268,
+ "out": 156
+}

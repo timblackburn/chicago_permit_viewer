@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1454990",
+ "slide_index": 4250,
+ "image": "street_index/data/1454990/slides_pct_0-0-100-99_w1000/p04250_3513013.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Warwick Ave\",\"direction\":\"\",\"house_number\":\"5045\",\"permit_date\":\"\",\"permit_no\":\"A 72973\",\"notes\":\"B. Res (kind of work faint); Book N Page 210; plan no. 8828; file no. 77756; water no. 47839; no date of permit; no direction written; permit number partly faint; card dark and grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Warwick Ave",
+  "direction": "",
+  "house_number": "5045",
+  "permit_date": "",
+  "permit_no": "A 72973",
+  "notes": "B. Res (kind of work faint); Book N Page 210; plan no. 8828; file no. 77756; water no. 47839; no date of permit; no direction written; permit number partly faint; card dark and grainy"
+ },
+ "in": 2323,
+ "out": 150
+}

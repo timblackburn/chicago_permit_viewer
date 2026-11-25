@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1714187",
+ "slide_index": 3750,
+ "image": "street_index/data/1714187/slides_pct_0-0-100-99_w1000/p03750_4032857.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Long Ave\",\"direction\":\"N\",\"house_number\":\"5408-12\",\"permit_date\":\"1928-01-12\",\"permit_no\":\"B 27770\",\"notes\":\"Water no. 8269; file no. faint; card is faint, noisy and speckled; permit number partly uncertain; building type line hard to read\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Long Ave",
+  "direction": "N",
+  "house_number": "5408-12",
+  "permit_date": "1928-01-12",
+  "permit_no": "B 27770",
+  "notes": "Water no. 8269; file no. faint; card is faint, noisy and speckled; permit number partly uncertain; building type line hard to read"
+ },
+ "in": 2240,
+ "out": 133
+}

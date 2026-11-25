@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 3251,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p03251_3466278.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card is heavily overexposed and washed out; only faint typed marks at top visible (possibly a number followed by N. and a street name, two lines), not reliably readable. Whipple St expected from neighbors but not confirmed on card.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card is heavily overexposed and washed out; only faint typed marks at top visible (possibly a number followed by N. and a street name, two lines), not reliably readable. Whipple St expected from neighbors but not confirmed on card."
+ },
+ "in": 2272,
+ "out": 143
+}

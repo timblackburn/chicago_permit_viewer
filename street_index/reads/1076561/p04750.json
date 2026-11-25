@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 4750,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p04750_4112373.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Illinois St\",\"direction\":\"W\",\"house_number\":\"225\",\"permit_date\":\"1951-02-08\",\"permit_no\":\"A 53855\",\"notes\":\"3,000 gal tank; File no. 406613; card out of expected sequence for this reel (Ibsen to Imlay) but address clearly legible; bottom stamp line faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Illinois St",
+  "direction": "W",
+  "house_number": "225",
+  "permit_date": "1951-02-08",
+  "permit_no": "A 53855",
+  "notes": "3,000 gal tank; File no. 406613; card out of expected sequence for this reel (Ibsen to Imlay) but address clearly legible; bottom stamp line faint"
+ },
+ "in": 2275,
+ "out": 143
+}

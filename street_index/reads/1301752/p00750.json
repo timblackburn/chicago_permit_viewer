@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 750,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p00750_3212984.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bryn Mawr Ave\",\"direction\":\"W\",\"house_number\":\"6638\",\"permit_date\":\"1950-10-03\",\"permit_no\":\"B 48898\",\"notes\":\"1 sty B Res; Book 62 Page 414; Plan no 1241; File no 401697; bottom edge of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bryn Mawr Ave",
+  "direction": "W",
+  "house_number": "6638",
+  "permit_date": "1950-10-03",
+  "permit_no": "B 48898",
+  "notes": "1 sty B Res; Book 62 Page 414; Plan no 1241; File no 401697; bottom edge of card damaged"
+ },
+ "in": 2307,
+ "out": 135
+}

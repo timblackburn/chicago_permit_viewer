@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1631900",
+ "slide_index": 1250,
+ "image": "street_index/data/1631900/slides_pct_0-0-100-99_w1000/p01250_3873170.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mozart St\",\"direction\":\"S\",\"house_number\":\"4252\",\"permit_date\":\"1949-09-09\",\"permit_no\":\"A 32035\",\"notes\":\"Frame Garage; File No. 382312; Book and Page blank; microfilm image dark with high contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mozart St",
+  "direction": "S",
+  "house_number": "4252",
+  "permit_date": "1949-09-09",
+  "permit_no": "A 32035",
+  "notes": "Frame Garage; File No. 382312; Book and Page blank; microfilm image dark with high contrast"
+ },
+ "in": 2319,
+ "out": 121
+}

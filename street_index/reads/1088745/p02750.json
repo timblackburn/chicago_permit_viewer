@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 2750,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p02750_2782165.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1947-07\",\"permit_no\":\"07012\",\"notes\":\"Sundry; handwritten address at top very faint, first line looks like '10241 Howe Ave' but not reliable; permit no. faint, read as 07012 with # prefix; file no. faint (?1115); date of permit Jul 1? 1947 partly legible; overexposed card\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1947-07",
+  "permit_no": "07012",
+  "notes": "Sundry; handwritten address at top very faint, first line looks like '10241 Howe Ave' but not reliable; permit no. faint, read as 07012 with # prefix; file no. faint (?1115); date of permit Jul 1? 1947 partly legible; overexposed card"
+ },
+ "in": 2274,
+ "out": 166
+}

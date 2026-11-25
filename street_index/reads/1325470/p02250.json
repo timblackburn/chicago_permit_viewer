@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 2250,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p02250_3254023.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"120th St\",\"direction\":\"W\",\"house_number\":\"552\",\"permit_date\":\"\",\"permit_no\":\"110818\",\"notes\":\"repair store front; File no 462922; date of permit blank; card faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "120th St",
+  "direction": "W",
+  "house_number": "552",
+  "permit_date": "",
+  "permit_no": "110818",
+  "notes": "repair store front; File no 462922; date of permit blank; card faint"
+ },
+ "in": 2265,
+ "out": 97
+}

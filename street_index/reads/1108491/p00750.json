@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 750,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p00750_2826097.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"2821\",\"permit_date\":\"1902-06-24\",\"permit_no\":\"2477\",\"notes\":\"Same (owner/work line reads \\\"Same\\\"); typed card, faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "2821",
+  "permit_date": "1902-06-24",
+  "permit_no": "2477",
+  "notes": "Same (owner/work line reads \"Same\"); typed card, faint"
+ },
+ "in": 2238,
+ "out": 108
+}

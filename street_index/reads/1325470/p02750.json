@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 2750,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p02750_3253025.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1950-08\",\"permit_no\":\"12782\",\"notes\":\"top line handwriting very faint, reads roughly '5 ... 5th Place' (probably a W 125th Pl address) but not certain; 1 sty 3 rms(?); Book 62 Page 152; file no 297681; plan no 1414(?); card faint and blurred\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1950-08",
+  "permit_no": "12782",
+  "notes": "top line handwriting very faint, reads roughly '5 ... 5th Place' (probably a W 125th Pl address) but not certain; 1 sty 3 rms(?); Book 62 Page 152; file no 297681; plan no 1414(?); card faint and blurred"
+ },
+ "in": 2300,
+ "out": 164
+}

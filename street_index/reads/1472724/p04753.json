@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 4753,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p04753_3547274.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Van Buren St\",\"direction\":\"W\",\"house_number\":\"600\",\"permit_date\":\"1941-01-24\",\"permit_no\":\"123540\",\"notes\":\"Alterations on 5th floor; Sundry; plan no 296597 (306 written above)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Van Buren St",
+  "direction": "W",
+  "house_number": "600",
+  "permit_date": "1941-01-24",
+  "permit_no": "123540",
+  "notes": "Alterations on 5th floor; Sundry; plan no 296597 (306 written above)"
+ },
+ "in": 2352,
+ "out": 114
+}

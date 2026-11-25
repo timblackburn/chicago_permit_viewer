@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 1750,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p01750_3459642.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wilson Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; card heavily overexposed and faded; handwritten top line reads something like '3165 Wilson' but the number is uncertain; printed form labels barely visible; 'MA' partially visible; no permit number or date readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wilson Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; card heavily overexposed and faded; handwritten top line reads something like '3165 Wilson' but the number is uncertain; printed form labels barely visible; 'MA' partially visible; no permit number or date readable"
+ },
+ "in": 2314,
+ "out": 149
+}

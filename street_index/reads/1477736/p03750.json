@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 3750,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p03750_3558003.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Trumbull Ave\",\"direction\":\"N\",\"house_number\":\"942-46\",\"permit_date\":\"1911-08-09\",\"permit_no\":\"97314\",\"notes\":\"handwritten \\\"942-44-46 N Trumbull Av\\\"; \\\"B\\\" and \\\"N W 32112\\\" written below; PERMIT NO. line blank, 97314 appears at FILE NO.; date stamp partly faint (AUG 9, 191?), year read as 1911 with uncertainty; low-contrast film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Trumbull Ave",
+  "direction": "N",
+  "house_number": "942-46",
+  "permit_date": "1911-08-09",
+  "permit_no": "97314",
+  "notes": "handwritten \"942-44-46 N Trumbull Av\"; \"B\" and \"N W 32112\" written below; PERMIT NO. line blank, 97314 appears at FILE NO.; date stamp partly faint (AUG 9, 191?), year read as 1911 with uncertainty; low-contrast film"
+ },
+ "in": 2317,
+ "out": 195
+}

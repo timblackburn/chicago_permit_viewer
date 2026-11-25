@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 2750,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p02750_2962756.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dearborn St\",\"direction\":\"N\",\"house_number\":\"1261\",\"permit_date\":\"1948-02-17\",\"permit_no\":\"A 8953\",\"notes\":\"Install fire doors; Plan no. 437; File no. 350599; book/page blank; bottom edge of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dearborn St",
+  "direction": "N",
+  "house_number": "1261",
+  "permit_date": "1948-02-17",
+  "permit_no": "A 8953",
+  "notes": "Install fire doors; Plan no. 437; File no. 350599; book/page blank; bottom edge of card damaged"
+ },
+ "in": 2284,
+ "out": 126
+}

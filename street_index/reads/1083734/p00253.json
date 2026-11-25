@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1083734",
+ "slide_index": 253,
+ "image": "street_index/data/1083734/slides_pct_0-0-100-99_w1000/p00253_2777026.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedzie Ave\",\"direction\":\"S\",\"house_number\":\"329-59\",\"permit_date\":\"1952-06-26\",\"permit_no\":\"A 76047\",\"notes\":\"Erect & operate 3 riding devices from June 19 to 28, 1952; File No 428571; date of permit partly obscured by stamp (read as June 26, 1952)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedzie Ave",
+  "direction": "S",
+  "house_number": "329-59",
+  "permit_date": "1952-06-26",
+  "permit_no": "A 76047",
+  "notes": "Erect & operate 3 riding devices from June 19 to 28, 1952; File No 428571; date of permit partly obscured by stamp (read as June 26, 1952)"
+ },
+ "in": 2315,
+ "out": 147
+}

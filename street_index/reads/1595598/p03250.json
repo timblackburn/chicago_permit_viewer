@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1595598",
+ "slide_index": 3250,
+ "image": "street_index/data/1595598/slides_pct_0-0-100-99_w1000/p03250_3796526.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Parnell Ave\",\"direction\":\"\",\"house_number\":\"3806\",\"permit_date\":\"1924-08-05\",\"permit_no\":\"48947\",\"notes\":\"Sundry; File no. 81190; no direction written on card; street name handwritten and somewhat smudged, read as Parnell Ave from neighboring cards\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Parnell Ave",
+  "direction": "",
+  "house_number": "3806",
+  "permit_date": "1924-08-05",
+  "permit_no": "48947",
+  "notes": "Sundry; File no. 81190; no direction written on card; street name handwritten and somewhat smudged, read as Parnell Ave from neighboring cards"
+ },
+ "in": 2313,
+ "out": 136
+}

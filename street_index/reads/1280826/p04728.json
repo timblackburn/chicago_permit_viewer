@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1280826",
+ "slide_index": 4728,
+ "image": "street_index/data/1280826/slides_pct_0-0-100-99_w1000/p04728_3162816.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ashland Ave\",\"direction\":\"S\",\"house_number\":\"8154-6\",\"permit_date\":\"1929-10-15\",\"permit_no\":\"B 34483\",\"notes\":\"B Store + Apts; Plan no. 5380; Water no. 19900; File no. 217396; Entered Book 47 Page 218; card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ashland Ave",
+  "direction": "S",
+  "house_number": "8154-6",
+  "permit_date": "1929-10-15",
+  "permit_no": "B 34483",
+  "notes": "B Store + Apts; Plan no. 5380; Water no. 19900; File no. 217396; Entered Book 47 Page 218; card slightly faint"
+ },
+ "in": 2281,
+ "out": 142
+}

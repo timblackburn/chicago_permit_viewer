@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 3750,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p03750_3953679.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Mendell St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1915-03-31\",\"permit_no\":\"A 28796\",\"notes\":\"Br B.; Book N 9 Page 441; house number faint, looks like 7017 but unsure and does not fit between Menard and Merrill; street reads Mendell/Medill; file no. 32836; faint film\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Mendell St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1915-03-31",
+  "permit_no": "A 28796",
+  "notes": "Br B.; Book N 9 Page 441; house number faint, looks like 7017 but unsure and does not fit between Menard and Merrill; street reads Mendell/Medill; file no. 32836; faint film"
+ },
+ "in": 2315,
+ "out": 153
+}

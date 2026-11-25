@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 750,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p00750_2946777.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Division St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1913-10-09\",\"permit_no\":\"A 17647\",\"notes\":\"Br B.; Book W 7 Page 2; house number struck through and overwritten, not readable (crossed-out entry looks like 2509-51 or similar); file no. 49154; also handwritten 91149; card is faint and scribbled\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Division St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1913-10-09",
+  "permit_no": "A 17647",
+  "notes": "Br B.; Book W 7 Page 2; house number struck through and overwritten, not readable (crossed-out entry looks like 2509-51 or similar); file no. 49154; also handwritten 91149; card is faint and scribbled"
+ },
+ "in": 2301,
+ "out": 159
+}

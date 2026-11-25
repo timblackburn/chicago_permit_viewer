@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 2250,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p02250_3618480.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Stony Island Ave\",\"direction\":\"\",\"house_number\":\"9254-58\",\"permit_date\":\"1947-04-21\",\"permit_no\":\"A 04480\",\"notes\":\"2-1000 Gal. gasoline tanks; Sundry; file no 347502; date stamp faint, day partly obscured; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Stony Island Ave",
+  "direction": "",
+  "house_number": "9254-58",
+  "permit_date": "1947-04-21",
+  "permit_no": "A 04480",
+  "notes": "2-1000 Gal. gasoline tanks; Sundry; file no 347502; date stamp faint, day partly obscured; no direction written"
+ },
+ "in": 2308,
+ "out": 137
+}

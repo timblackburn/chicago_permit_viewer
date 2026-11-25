@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 3250,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p03250_3105048.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Broadway\",\"direction\":\"N\",\"house_number\":\"3257-59\",\"permit_date\":\"1947-10-30\",\"permit_no\":\"B 5667\",\"notes\":\"Convert 4 apts into 8; Book 58 Page 45; Plan No 8567; File No 356341\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Broadway",
+  "direction": "N",
+  "house_number": "3257-59",
+  "permit_date": "1947-10-30",
+  "permit_no": "B 5667",
+  "notes": "Convert 4 apts into 8; Book 58 Page 45; Plan No 8567; File No 356341"
+ },
+ "in": 2275,
+ "out": 123
+}

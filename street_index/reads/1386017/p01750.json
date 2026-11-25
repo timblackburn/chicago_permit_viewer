@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 1750,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p01750_3379308.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"24th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"handwritten top line reads approx '234 W 24th St' (first number unclear, 23? not certain); Apt; Page 556; card very faint and overexposed, permit number and date not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "24th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "handwritten top line reads approx '234 W 24th St' (first number unclear, 23? not certain); Apt; Page 556; card very faint and overexposed, permit number and date not readable"
+ },
+ "in": 2265,
+ "out": 133
+}

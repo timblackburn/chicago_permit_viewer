@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 2250,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p02250_3900817.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Mobile Ave\",\"direction\":\"N\",\"house_number\":\"9154\",\"permit_date\":\"1925-04-04\",\"permit_no\":\"54156\",\"notes\":\"Sundry; permit no. faint, partly legible (possibly 54156 or 51156); 3657 written beneath permit no.; file no. 100548\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Mobile Ave",
+  "direction": "N",
+  "house_number": "9154",
+  "permit_date": "1925-04-04",
+  "permit_no": "54156",
+  "notes": "Sundry; permit no. faint, partly legible (possibly 54156 or 51156); 3657 written beneath permit no.; file no. 100548"
+ },
+ "in": 2310,
+ "out": 135
+}

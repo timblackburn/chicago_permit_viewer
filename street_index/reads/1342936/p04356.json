@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1342936",
+ "slide_index": 4356,
+ "image": "street_index/data/1342936/slides_pct_0-0-100-99_w1000/p04356_3287057.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"87th Pl\",\"direction\":\"E\",\"house_number\":\"851\",\"permit_date\":\"1949-04-05\",\"permit_no\":\"A 24816\",\"notes\":\"Frame Garage; File no 375256; permit number partly faint; bottom of card smudged and damaged, book/page not readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "87th Pl",
+  "direction": "E",
+  "house_number": "851",
+  "permit_date": "1949-04-05",
+  "permit_no": "A 24816",
+  "notes": "Frame Garage; File no 375256; permit number partly faint; bottom of card smudged and damaged, book/page not readable"
+ },
+ "in": 2225,
+ "out": 126
+}

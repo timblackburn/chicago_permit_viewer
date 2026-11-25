@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 750,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p00750_3914017.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Michigan Ave\",\"direction\":\"S\",\"house_number\":\"10724\",\"permit_date\":\"1910-11-10\",\"permit_no\":\"83874\",\"notes\":\"handwritten address; Inspection No. 83874 (read as permit no.); date partly faded, day read as 10; faint handwritten note below address; low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Michigan Ave",
+  "direction": "S",
+  "house_number": "10724",
+  "permit_date": "1910-11-10",
+  "permit_no": "83874",
+  "notes": "handwritten address; Inspection No. 83874 (read as permit no.); date partly faded, day read as 10; faint handwritten note below address; low contrast"
+ },
+ "in": 2281,
+ "out": 137
+}

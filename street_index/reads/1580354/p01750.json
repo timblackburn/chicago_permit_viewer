@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1580354",
+ "slide_index": 1750,
+ "image": "street_index/data/1580354/slides_pct_0-0-100-99_w1000/p01750_3768989.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Plainfield Ave\",\"direction\":\"N\",\"house_number\":\"3524-28\",\"permit_date\":\"1951-03-07\",\"permit_no\":\"B 54749\",\"notes\":\"2-1sty B. Res.; Book 63 Page 206; Plan No. 4193; File No. 107468\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Plainfield Ave",
+  "direction": "N",
+  "house_number": "3524-28",
+  "permit_date": "1951-03-07",
+  "permit_no": "B 54749",
+  "notes": "2-1sty B. Res.; Book 63 Page 206; Plan No. 4193; File No. 107468"
+ },
+ "in": 2281,
+ "out": 128
+}

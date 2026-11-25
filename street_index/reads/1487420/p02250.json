@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1487420",
+ "slide_index": 2250,
+ "image": "street_index/data/1487420/slides_pct_0-0-100-99_w1000/p02250_3581160.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Talman Ave\",\"direction\":\"S\",\"house_number\":\"6823-25\",\"permit_date\":\"1921-11-09\",\"permit_no\":\"36547\",\"notes\":\"Sundry; work line reads roughly '2 sty Frame' (handwriting hard to read); file no. 179255; low contrast, date partly faint (Nov 9 1921)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Talman Ave",
+  "direction": "S",
+  "house_number": "6823-25",
+  "permit_date": "1921-11-09",
+  "permit_no": "36547",
+  "notes": "Sundry; work line reads roughly '2 sty Frame' (handwriting hard to read); file no. 179255; low contrast, date partly faint (Nov 9 1921)"
+ },
+ "in": 2311,
+ "out": 146
+}

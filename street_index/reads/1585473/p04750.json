@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 4750,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p04750_3773209.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Peterson Ave\",\"direction\":\"\",\"house_number\":\"751\",\"permit_date\":\"1927-01-26\",\"permit_no\":\"21811\",\"notes\":\"Signboard 6x5 (handwritten, 'a Signboard'); Sundry; file no. 156042; owner H. A. Maurer & Co.; direction not written on card, number 751 is out of filing sequence for W Peterson, so may be a different address than expected\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Peterson Ave",
+  "direction": "",
+  "house_number": "751",
+  "permit_date": "1927-01-26",
+  "permit_no": "21811",
+  "notes": "Signboard 6x5 (handwritten, 'a Signboard'); Sundry; file no. 156042; owner H. A. Maurer & Co.; direction not written on card, number 751 is out of filing sequence for W Peterson, so may be a different address than expected"
+ },
+ "in": 2318,
+ "out": 171
+}

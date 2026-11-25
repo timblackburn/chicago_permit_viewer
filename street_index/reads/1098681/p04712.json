@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 4712,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p04712_2797998.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harvard Ave\",\"direction\":\"\",\"house_number\":\"11415\",\"permit_date\":\"1928-05-10\",\"permit_no\":\"42609\",\"notes\":\"Replace fire loss 10%; Sundry; file no. 189039; no direction written; handwriting faint, number read as 11415 (could be 11415 or 11475)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harvard Ave",
+  "direction": "",
+  "house_number": "11415",
+  "permit_date": "1928-05-10",
+  "permit_no": "42609",
+  "notes": "Replace fire loss 10%; Sundry; file no. 189039; no direction written; handwriting faint, number read as 11415 (could be 11415 or 11475)"
+ },
+ "in": 2277,
+ "out": 140
+}

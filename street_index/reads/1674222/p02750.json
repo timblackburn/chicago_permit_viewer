@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 2750,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p02750_3955744.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Menard Ave\",\"direction\":\"N\",\"house_number\":\"1634\",\"permit_date\":\"1921-12-09\",\"permit_no\":\"37321\",\"notes\":\"Sundry; work line faint, reads like \\\"Shed\\\"; file no. 180767; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Menard Ave",
+  "direction": "N",
+  "house_number": "1634",
+  "permit_date": "1921-12-09",
+  "permit_no": "37321",
+  "notes": "Sundry; work line faint, reads like \"Shed\"; file no. 180767; card faint and low contrast"
+ },
+ "in": 2276,
+ "out": 122
+}

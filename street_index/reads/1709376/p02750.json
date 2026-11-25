@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 2750,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p02750_4024254.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Lowe Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1941-02-24\",\"permit_no\":\"123812\",\"notes\":\"handwritten address at top is faint; house number looks like 2722 or 5722 but is uncertain; direction looks like S; work line appears to read 'and partitions'; Sundry; plan no 297159; faint and low contrast, with streaks at bottom\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Lowe Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1941-02-24",
+  "permit_no": "123812",
+  "notes": "handwritten address at top is faint; house number looks like 2722 or 5722 but is uncertain; direction looks like S; work line appears to read 'and partitions'; Sundry; plan no 297159; faint and low contrast, with streaks at bottom"
+ },
+ "in": 2313,
+ "out": 166
+}

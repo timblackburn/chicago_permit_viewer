@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 2250,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p02250_3450973.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"1738\",\"permit_date\":\"1923\",\"permit_no\":\"\",\"notes\":\"Sundry; street name handwritten at top is faint and unclear (possibly Winnemac Ave, not confirmed); form fields very faint and overexposed; date appears to end in 1923; bottom of card damaged\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "1738",
+  "permit_date": "1923",
+  "permit_no": "",
+  "notes": "Sundry; street name handwritten at top is faint and unclear (possibly Winnemac Ave, not confirmed); form fields very faint and overexposed; date appears to end in 1923; bottom of card damaged"
+ },
+ "in": 2287,
+ "out": 142
+}

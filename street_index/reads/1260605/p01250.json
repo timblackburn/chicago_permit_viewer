@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 1250,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p01250_3129309.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Belmont Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1895-06\",\"permit_no\":\"\",\"notes\":\"typed card, very faint; two addresses, 2127 Belmont Ave and 235 Belmont Ave (can't tell which is old/new, 235 may be 2135 or 2335); permit no. looks like 'No. 73h' unreadable; date appears 'June 1h, 1895'; overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Belmont Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1895-06",
+  "permit_no": "",
+  "notes": "typed card, very faint; two addresses, 2127 Belmont Ave and 235 Belmont Ave (can't tell which is old/new, 235 may be 2135 or 2335); permit no. looks like 'No. 73h' unreadable; date appears 'June 1h, 1895'; overexposed"
+ },
+ "in": 2280,
+ "out": 179
+}

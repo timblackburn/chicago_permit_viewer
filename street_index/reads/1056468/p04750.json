@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 4750,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p04750_4169204.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedvale Ave\",\"direction\":\"S\",\"house_number\":\"6125-37\",\"permit_date\":\"1933-10-12\",\"permit_no\":\"86368\",\"notes\":\"2 Frame Garages; Sundry; file no. 246306; date partly faint (day read as 12)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedvale Ave",
+  "direction": "S",
+  "house_number": "6125-37",
+  "permit_date": "1933-10-12",
+  "permit_no": "86368",
+  "notes": "2 Frame Garages; Sundry; file no. 246306; date partly faint (day read as 12)"
+ },
+ "in": 2284,
+ "out": 123
+}

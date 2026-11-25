@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 750,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p00750_3110070.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Blue Island Ave\",\"direction\":\"\",\"house_number\":\"2103\",\"permit_date\":\"1939-07-26\",\"permit_no\":\"116024\",\"notes\":\"Steel cornice on roof; Sundry; plan no. 283810 (stamped); stamped date partly overprinted\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Blue Island Ave",
+  "direction": "",
+  "house_number": "2103",
+  "permit_date": "1939-07-26",
+  "permit_no": "116024",
+  "notes": "Steel cornice on roof; Sundry; plan no. 283810 (stamped); stamped date partly overprinted"
+ },
+ "in": 2278,
+ "out": 125
+}

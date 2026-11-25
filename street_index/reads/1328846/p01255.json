@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 1255,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p01255_3265668.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"110th Pl\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1914-04-23\",\"permit_no\":\"\",\"notes\":\"top line faint handwriting, reads roughly '5? W 110th Pl' (number unclear); Br B; Page 258; file no. 60660; permit no. faint and unreadable; card very faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "110th Pl",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1914-04-23",
+  "permit_no": "",
+  "notes": "top line faint handwriting, reads roughly '5? W 110th Pl' (number unclear); Br B; Page 258; file no. 60660; permit no. faint and unreadable; card very faint and overexposed"
+ },
+ "in": 2299,
+ "out": 149
+}

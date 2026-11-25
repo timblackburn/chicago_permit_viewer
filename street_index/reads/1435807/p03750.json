@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 3750,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p03750_3474054.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Western Ave\",\"direction\":\"N\",\"house_number\":\"4255\",\"permit_date\":\"1920-10-20\",\"permit_no\":\"19549\",\"notes\":\"Alt; Sundry; plan/file no. 15144 (faint); date stamp partly faint, day read as 20\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Western Ave",
+  "direction": "N",
+  "house_number": "4255",
+  "permit_date": "1920-10-20",
+  "permit_no": "19549",
+  "notes": "Alt; Sundry; plan/file no. 15144 (faint); date stamp partly faint, day read as 20"
+ },
+ "in": 2271,
+ "out": 122
+}

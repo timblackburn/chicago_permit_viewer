@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1565140",
+ "slide_index": 1750,
+ "image": "street_index/data/1565140/slides_pct_0-0-100-99_w1000/p01750_3739346.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1928-10-09\",\"permit_no\":\"B 28842\",\"notes\":\"house number partly legible, reads like 923? (last digit unclear); kind of work: B Res; Book S 45 Page 281; plan no 7206; faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1928-10-09",
+  "permit_no": "B 28842",
+  "notes": "house number partly legible, reads like 923? (last digit unclear); kind of work: B Res; Book S 45 Page 281; plan no 7206; faint and low contrast"
+ },
+ "in": 2275,
+ "out": 141
+}

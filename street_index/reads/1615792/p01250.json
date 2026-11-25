@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 1250,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p01250_3840885.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"North Ave\",\"direction\":\"W\",\"house_number\":\"5304\",\"permit_date\":\"1922-08-03\",\"permit_no\":\"A 70826\",\"notes\":\"B. Store; Book W 24 Page 175; water no. 45398; plan no. 6506; file no. 20793; date stamp partly unclear; film damaged with white streak across bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "North Ave",
+  "direction": "W",
+  "house_number": "5304",
+  "permit_date": "1922-08-03",
+  "permit_no": "A 70826",
+  "notes": "B. Store; Book W 24 Page 175; water no. 45398; plan no. 6506; file no. 20793; date stamp partly unclear; film damaged with white streak across bottom"
+ },
+ "in": 2308,
+ "out": 146
+}

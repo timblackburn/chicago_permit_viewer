@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1398698",
+ "slide_index": 4676,
+ "image": "street_index/data/1398698/slides_pct_0-0-100-99_w1000/p04676_3399121.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"43rd St\",\"direction\":\"E\",\"house_number\":\"419\",\"permit_date\":\"1948-06-21\",\"permit_no\":\"A 14172\",\"notes\":\"1-1,000 gal. tank; Sundry; File No. 364777\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "43rd St",
+  "direction": "E",
+  "house_number": "419",
+  "permit_date": "1948-06-21",
+  "permit_no": "A 14172",
+  "notes": "1-1,000 gal. tank; Sundry; File No. 364777"
+ },
+ "in": 2269,
+ "out": 108
+}

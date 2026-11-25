@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 2750,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p02750_3726564.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Richmond St\",\"direction\":\"S\",\"house_number\":\"5243\",\"permit_date\":\"1939\",\"permit_no\":\"114430\",\"notes\":\"Frame Garage; Sundry; file no. 281268; date partly cut off, only \\\"27 1939\\\" readable so month is missing\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Richmond St",
+  "direction": "S",
+  "house_number": "5243",
+  "permit_date": "1939",
+  "permit_no": "114430",
+  "notes": "Frame Garage; Sundry; file no. 281268; date partly cut off, only \"27 1939\" readable so month is missing"
+ },
+ "in": 2279,
+ "out": 123
+}

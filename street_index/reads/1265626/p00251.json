@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 251,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p00251_3141585.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Baltimore Ave\",\"direction\":\"\",\"house_number\":\"8742\",\"permit_date\":\"1908\",\"permit_no\":\"23420\",\"notes\":\"typed card, very faint and overexposed; second line appears to read '8742 Erie Ave' (old addr: 8742 Erie Ave); permit no. and year partly legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Baltimore Ave",
+  "direction": "",
+  "house_number": "8742",
+  "permit_date": "1908",
+  "permit_no": "23420",
+  "notes": "typed card, very faint and overexposed; second line appears to read '8742 Erie Ave' (old addr: 8742 Erie Ave); permit no. and year partly legible"
+ },
+ "in": 2275,
+ "out": 139
+}

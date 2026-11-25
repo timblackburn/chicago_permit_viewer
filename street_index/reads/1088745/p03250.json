@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 3250,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p03250_2781170.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoyne Ave\",\"direction\":\"N\",\"house_number\":\"1054-56\",\"permit_date\":\"1896-07\",\"permit_no\":\"\",\"notes\":\"old addr: 469-71 N. Hoyne Ave; lower line faint \\\"N.W. 907\\\" possibly a ledger/permit reference, uncertain; date reads July 2?, 1896 with day unclear; permit number not legible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoyne Ave",
+  "direction": "N",
+  "house_number": "1054-56",
+  "permit_date": "1896-07",
+  "permit_no": "",
+  "notes": "old addr: 469-71 N. Hoyne Ave; lower line faint \"N.W. 907\" possibly a ledger/permit reference, uncertain; date reads July 2?, 1896 with day unclear; permit number not legible"
+ },
+ "in": 2314,
+ "out": 163
+}

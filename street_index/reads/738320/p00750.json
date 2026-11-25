@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 750,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p00750_2075917.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hillock Ave\",\"direction\":\"S\",\"house_number\":\"2722\",\"permit_date\":\"1953-12-14\",\"permit_no\":\"B 104140\",\"notes\":\"1 sty Br Office Bldg Addn; Book 68 Page 269; Plan No 6126; File No 456241; street name handwritten, read as Hillock (could be Willock), bottom of card damaged by streaks\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hillock Ave",
+  "direction": "S",
+  "house_number": "2722",
+  "permit_date": "1953-12-14",
+  "permit_no": "B 104140",
+  "notes": "1 sty Br Office Bldg Addn; Book 68 Page 269; Plan No 6126; File No 456241; street name handwritten, read as Hillock (could be Willock), bottom of card damaged by streaks"
+ },
+ "in": 2310,
+ "out": 161
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 251,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p00251_3161873.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1947-10-27\",\"permit_no\":\"\",\"notes\":\"Sundry; card very faint and washed out; address handwriting at top not readable (possibly starts with 13..); permit no. partly visible (A 5...) but unreadable; file no. faint 386355?; date of permit appears OCT 27 1947\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1947-10-27",
+  "permit_no": "",
+  "notes": "Sundry; card very faint and washed out; address handwriting at top not readable (possibly starts with 13..); permit no. partly visible (A 5...) but unreadable; file no. faint 386355?; date of permit appears OCT 27 1947"
+ },
+ "in": 2237,
+ "out": 155
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1061560",
+ "slide_index": 2750,
+ "image": "street_index/data/1061560/slides_pct_0-0-100-99_w1000/p02750_4163222.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Jonquil Ter\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-03\",\"permit_no\":\"38526\",\"notes\":\"Signboard 15 ft; location written as 'bet Paulina and Hermitage' (no house number); stamped Sundry; File no. 649.93; owner W. J. Doyle; date of permit faint (MAR-1 1924); permit no. faint stamp, read as 38526; filmed poorly\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Jonquil Ter",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-03",
+  "permit_no": "38526",
+  "notes": "Signboard 15 ft; location written as 'bet Paulina and Hermitage' (no house number); stamped Sundry; File no. 649.93; owner W. J. Doyle; date of permit faint (MAR-1 1924); permit no. faint stamp, read as 38526; filmed poorly"
+ },
+ "in": 2316,
+ "out": 181
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 251,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p00251_4121397.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Hoyne Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1938-10-25\",\"permit_no\":\"45797\",\"notes\":\"1 sty brick residence (handwritten, partly unclear); Sundry; Entered DS #9 Page 557; house number begins 98 but remaining digits unclear (about 98__); plan no. 4188; water no. 3 1 7 6 (uncertain); file no. 278020; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Hoyne Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1938-10-25",
+  "permit_no": "45797",
+  "notes": "1 sty brick residence (handwritten, partly unclear); Sundry; Entered DS #9 Page 557; house number begins 98 but remaining digits unclear (about 98__); plan no. 4188; water no. 3 1 7 6 (uncertain); file no. 278020; card faint and low contrast"
+ },
+ "in": 2275,
+ "out": 187
+}

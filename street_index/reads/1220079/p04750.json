@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1220079",
+ "slide_index": 4750,
+ "image": "street_index/data/1220079/slides_pct_0-0-100-99_w1000/p04750_3041351.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cicero Ave\",\"direction\":\"N\",\"house_number\":\"2608\",\"permit_date\":\"1928-10-17\",\"permit_no\":\"49716\",\"notes\":\"Alterations & Repairs; Sundry; plan no 7367; file no 199620; card is high-contrast and speckled but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cicero Ave",
+  "direction": "N",
+  "house_number": "2608",
+  "permit_date": "1928-10-17",
+  "permit_no": "49716",
+  "notes": "Alterations & Repairs; Sundry; plan no 7367; file no 199620; card is high-contrast and speckled but readable"
+ },
+ "in": 2243,
+ "out": 129
+}

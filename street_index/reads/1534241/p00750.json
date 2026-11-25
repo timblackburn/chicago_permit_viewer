@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 750,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p00750_3678706.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1925-03-04\",\"permit_no\":\"\",\"notes\":\"Sundry; card is severely overexposed and washed out, address and permit number not readable; only stamp SUNDRY and handwritten date Mar 4 1925 visible\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1925-03-04",
+  "permit_no": "",
+  "notes": "Sundry; card is severely overexposed and washed out, address and permit number not readable; only stamp SUNDRY and handwritten date Mar 4 1925 visible"
+ },
+ "in": 2278,
+ "out": 130
+}

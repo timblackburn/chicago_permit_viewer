@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1641916",
+ "slide_index": 2750,
+ "image": "street_index/data/1641916/slides_pct_0-0-100-99_w1000/p02750_3890216.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Montana St\",\"direction\":\"\",\"house_number\":\"4641\",\"permit_date\":\"1940-11-04\",\"permit_no\":\"52621\",\"notes\":\"2 sty br Residence; Book 50 Page 591; no direction written on card; plan no. 4756 (faint); water no. 38669 (faint); file no. 295052; low contrast microfilm image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Montana St",
+  "direction": "",
+  "house_number": "4641",
+  "permit_date": "1940-11-04",
+  "permit_no": "52621",
+  "notes": "2 sty br Residence; Book 50 Page 591; no direction written on card; plan no. 4756 (faint); water no. 38669 (faint); file no. 295052; low contrast microfilm image"
+ },
+ "in": 2274,
+ "out": 148
+}

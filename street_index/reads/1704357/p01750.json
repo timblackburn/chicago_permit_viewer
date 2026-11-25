@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 1750,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p01750_4016630.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Luna Ave\",\"direction\":\"N\",\"house_number\":\"3011\",\"permit_date\":\"1927-03-01\",\"permit_no\":\"22813\",\"notes\":\"Sundry; work description faint handwriting, unclear; plan no. 15021 (faint); card faint and low contrast, house number read as 3011 with some uncertainty\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Luna Ave",
+  "direction": "N",
+  "house_number": "3011",
+  "permit_date": "1927-03-01",
+  "permit_no": "22813",
+  "notes": "Sundry; work description faint handwriting, unclear; plan no. 15021 (faint); card faint and low contrast, house number read as 3011 with some uncertainty"
+ },
+ "in": 2273,
+ "out": 140
+}

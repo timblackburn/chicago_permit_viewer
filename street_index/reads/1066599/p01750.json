@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1066599",
+ "slide_index": 1750,
+ "image": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p01750_4155268.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Irving Park Rd\",\"direction\":\"W\",\"house_number\":\"4120\",\"permit_date\":\"1950-01-31\",\"permit_no\":\"A 38043\",\"notes\":\"1-1,000 gal. tank; Remove 1,000 gal. tank; file no. 388223; no book/page given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Irving Park Rd",
+  "direction": "W",
+  "house_number": "4120",
+  "permit_date": "1950-01-31",
+  "permit_no": "A 38043",
+  "notes": "1-1,000 gal. tank; Remove 1,000 gal. tank; file no. 388223; no book/page given"
+ },
+ "in": 2282,
+ "out": 128
+}

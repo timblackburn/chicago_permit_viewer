@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1144863",
+ "slide_index": 2250,
+ "image": "street_index/data/1144863/slides_pct_0-0-100-99_w1000/p02250_2895478.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Exchange Ave\",\"direction\":\"\",\"house_number\":\"8057\",\"permit_date\":\"1901-05-03\",\"permit_no\":\"S 544\",\"notes\":\"Same (work description given as 'Same'); no direction written on card; typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Exchange Ave",
+  "direction": "",
+  "house_number": "8057",
+  "permit_date": "1901-05-03",
+  "permit_no": "S 544",
+  "notes": "Same (work description given as 'Same'); no direction written on card; typed card"
+ },
+ "in": 2317,
+ "out": 110
+}

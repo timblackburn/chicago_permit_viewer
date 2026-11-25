@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 4250,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p04250_3896813.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monitor Ave\",\"direction\":\"N\",\"house_number\":\"4442\",\"permit_date\":\"1927-02-14\",\"permit_no\":\"\",\"notes\":\"File no. 156946; kind of work faint, possibly 'Brick'; water no. faint; permit no. too faint to read; ledger ref faint, possibly 'Book 5 Page 282'; street typed over faint handwritten 'N. Mayfield Ave'; card faint in places and a bit skewed; old addr: none given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monitor Ave",
+  "direction": "N",
+  "house_number": "4442",
+  "permit_date": "1927-02-14",
+  "permit_no": "",
+  "notes": "File no. 156946; kind of work faint, possibly 'Brick'; water no. faint; permit no. too faint to read; ledger ref faint, possibly 'Book 5 Page 282'; street typed over faint handwritten 'N. Mayfield Ave'; card faint in places and a bit skewed; old addr: none given"
+ },
+ "in": 2314,
+ "out": 192
+}

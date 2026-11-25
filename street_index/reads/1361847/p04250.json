@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 4250,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p04250_3325550.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"63rd St\",\"direction\":\"E\",\"house_number\":\"1434-50\",\"permit_date\":\"1914-03\",\"permit_no\":\"93986\",\"notes\":\"13 (kind of work, partly legible: \\\"13t\\\"); B 20514 handwritten above Permit No; Book S Page 158; File No 56633; date partly faint \\\"MAR .. 1914\\\"; permit number faint handwriting, read as 93986; circled 1 on card; faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "63rd St",
+  "direction": "E",
+  "house_number": "1434-50",
+  "permit_date": "1914-03",
+  "permit_no": "93986",
+  "notes": "13 (kind of work, partly legible: \"13t\"); B 20514 handwritten above Permit No; Book S Page 158; File No 56633; date partly faint \"MAR .. 1914\"; permit number faint handwriting, read as 93986; circled 1 on card; faint and low contrast"
+ },
+ "in": 2268,
+ "out": 182
+}

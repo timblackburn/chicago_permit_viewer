@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 3750,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p03750_3805478.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ottawa Ave\",\"direction\":\"N\",\"house_number\":\"3755\",\"permit_date\":\"1952-06-12\",\"permit_no\":\"B 75921\",\"notes\":\"1 sty brick res & garage; Book 65 Page 324; plan no. 3865; file no. 428405; house number 3755 is out of the expected sequence for this reel's neighbors (7245 to 7556), possibly misread of 7755\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ottawa Ave",
+  "direction": "N",
+  "house_number": "3755",
+  "permit_date": "1952-06-12",
+  "permit_no": "B 75921",
+  "notes": "1 sty brick res & garage; Book 65 Page 324; plan no. 3865; file no. 428405; house number 3755 is out of the expected sequence for this reel's neighbors (7245 to 7556), possibly misread of 7755"
+ },
+ "in": 2316,
+ "out": 168
+}

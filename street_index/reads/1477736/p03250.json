@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 3250,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p03250_3559022.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Troy St\",\"direction\":\"S\",\"house_number\":\"10353\",\"permit_date\":\"1942-07-21\",\"permit_no\":\"60531\",\"notes\":\"1 sty frame Residence; Book 53 Page 140; plan no. 2869 (approx.), file no. 311643; handwriting and stamp somewhat faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Troy St",
+  "direction": "S",
+  "house_number": "10353",
+  "permit_date": "1942-07-21",
+  "permit_no": "60531",
+  "notes": "1 sty frame Residence; Book 53 Page 140; plan no. 2869 (approx.), file no. 311643; handwriting and stamp somewhat faint"
+ },
+ "in": 2279,
+ "out": 138
+}

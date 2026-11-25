@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1626940",
+ "slide_index": 1837,
+ "image": "street_index/data/1626940/slides_pct_0-0-100-99_w1000/p01837_3861769.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Natoma Ave\",\"direction\":\"N\",\"house_number\":\"2924\",\"permit_date\":\"1948-12-13\",\"permit_no\":\"B 21769\",\"notes\":\"1 sty res; Book 59 Page 336; Plan no. 6450; File no. 372250\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Natoma Ave",
+  "direction": "N",
+  "house_number": "2924",
+  "permit_date": "1948-12-13",
+  "permit_no": "B 21769",
+  "notes": "1 sty res; Book 59 Page 336; Plan no. 6450; File no. 372250"
+ },
+ "in": 2283,
+ "out": 120
+}

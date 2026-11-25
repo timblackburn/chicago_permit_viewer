@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1108491",
+ "slide_index": 4250,
+ "image": "street_index/data/1108491/slides_pct_0-0-100-99_w1000/p04250_2819102.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Halsted St\",\"direction\":\"S\",\"house_number\":\"7607-19\",\"permit_date\":\"1924-10-04\",\"permit_no\":\"B 96084\",\"notes\":\"B. Auto Sales; Book S 34 Page 53; house number partly cursive, read as 7607/19; water no. 71316; file no. 87319; card faint and stamped date partly faded; permit no. prefix and last digits uncertain.\\\"}\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Halsted St",
+  "direction": "S",
+  "house_number": "7607-19",
+  "permit_date": "1924-10-04",
+  "permit_no": "B 96084",
+  "notes": "B. Auto Sales; Book S 34 Page 53; house number partly cursive, read as 7607/19; water no. 71316; file no. 87319; card faint and stamped date partly faded; permit no. prefix and last digits uncertain.\"}"
+ },
+ "in": 2240,
+ "out": 171
+}

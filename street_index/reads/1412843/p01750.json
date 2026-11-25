@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 1750,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p01750_3432726.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Woodlawn Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1902-01-09\",\"permit_no\":\"A 1919\",\"notes\":\"Alterations; handwritten top line partly legible, house number looks like 4643/49 but unclear; ledger ref unclear (S 73 ... of 60); water no 39433; faint, low contrast scan; later notes on card: 24\\\" Airway FE, 2/6/02, Standard F E Co\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Woodlawn Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1902-01-09",
+  "permit_no": "A 1919",
+  "notes": "Alterations; handwritten top line partly legible, house number looks like 4643/49 but unclear; ledger ref unclear (S 73 ... of 60); water no 39433; faint, low contrast scan; later notes on card: 24\" Airway FE, 2/6/02, Standard F E Co"
+ },
+ "in": 2270,
+ "out": 186
+}

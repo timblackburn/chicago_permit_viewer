@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 750,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p00750_3526844.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"5533-35\",\"permit_date\":\"1916-05-12\",\"permit_no\":\"A 39546\",\"notes\":\"Br B.; Book S '16 Page 300; plan no. 3672; water no. 13631; file no. 10406; dark film damage along bottom of card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "5533-35",
+  "permit_date": "1916-05-12",
+  "permit_no": "A 39546",
+  "notes": "Br B.; Book S '16 Page 300; plan no. 3672; water no. 13631; file no. 10406; dark film damage along bottom of card"
+ },
+ "in": 2277,
+ "out": 140
+}

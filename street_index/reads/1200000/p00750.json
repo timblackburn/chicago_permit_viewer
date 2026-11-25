@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 750,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p00750_3009148.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Constance Ave\",\"direction\":\"\",\"house_number\":\"9323\",\"permit_date\":\"1906-06\",\"permit_no\":\"4250\",\"notes\":\"card very faint and overexposed; second line reads 'Same'; date appears to be June ?, 1906 (day unreadable); permit no. partly readable (4250?)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Constance Ave",
+  "direction": "",
+  "house_number": "9323",
+  "permit_date": "1906-06",
+  "permit_no": "4250",
+  "notes": "card very faint and overexposed; second line reads 'Same'; date appears to be June ?, 1906 (day unreadable); permit no. partly readable (4250?)"
+ },
+ "in": 2276,
+ "out": 136
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1154630",
+ "slide_index": 750,
+ "image": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p00750_2917975.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ellis Ave\",\"direction\":\"\",\"house_number\":\"6635-7\",\"permit_date\":\"1924-04-08\",\"permit_no\":\"39780\",\"notes\":\"Sundry; plan no. 2928; file no. 67581; no direction written; permit number faint; film image low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ellis Ave",
+  "direction": "",
+  "house_number": "6635-7",
+  "permit_date": "1924-04-08",
+  "permit_no": "39780",
+  "notes": "Sundry; plan no. 2928; file no. 67581; no direction written; permit number faint; film image low contrast"
+ },
+ "in": 2283,
+ "out": 125
+}

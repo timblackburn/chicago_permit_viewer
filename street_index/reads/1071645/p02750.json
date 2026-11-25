@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1071645",
+ "slide_index": 2750,
+ "image": "street_index/data/1071645/slides_pct_0-0-100-99_w1000/p02750_4142829.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Indiana Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address reads like '79th ... Indiana' but the house number and direction are not clearly legible (possibly 79th St at Indiana, not a house number); date stamp partly legible '...20 1924'; file no. possibly 38993 faint; card faint and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Indiana Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address reads like '79th ... Indiana' but the house number and direction are not clearly legible (possibly 79th St at Indiana, not a house number); date stamp partly legible '...20 1924'; file no. possibly 38993 faint; card faint and low contrast"
+ },
+ "in": 2276,
+ "out": 171
+}

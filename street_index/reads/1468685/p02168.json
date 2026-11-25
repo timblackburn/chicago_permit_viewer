@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 2168,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p02168_3542402.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vernon Ave\",\"direction\":\"\",\"house_number\":\"3145\",\"permit_date\":\"1929-10-18\",\"permit_no\":\"62308\",\"notes\":\"Garage; Sundry; File no. 217701; no direction written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vernon Ave",
+  "direction": "",
+  "house_number": "3145",
+  "permit_date": "1929-10-18",
+  "permit_no": "62308",
+  "notes": "Garage; Sundry; File no. 217701; no direction written"
+ },
+ "in": 2274,
+ "out": 106
+}

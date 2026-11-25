@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 2750,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p02750_4055257.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lawndale Ave\",\"direction\":\"S\",\"house_number\":\"2801\",\"permit_date\":\"1913-09-25\",\"permit_no\":\"A 17305\",\"notes\":\"Br B.; Book S 6 Page 519; second number 90439 written below permit no.; File No. 48041\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lawndale Ave",
+  "direction": "S",
+  "house_number": "2801",
+  "permit_date": "1913-09-25",
+  "permit_no": "A 17305",
+  "notes": "Br B.; Book S 6 Page 519; second number 90439 written below permit no.; File No. 48041"
+ },
+ "in": 2319,
+ "out": 125
+}

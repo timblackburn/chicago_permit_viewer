@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 1750,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p01750_3996751.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Maplewood Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, heavily overexposed and washed out; top line reads like '135? N Maplewood Av' with the last digit and parts of the street unclear; second line '708 Ludlow ... ' faint, possibly an old address or building description; date line faint, year possibly 1923 or 1928; card very faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Maplewood Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, heavily overexposed and washed out; top line reads like '135? N Maplewood Av' with the last digit and parts of the street unclear; second line '708 Ludlow ... ' faint, possibly an old address or building description; date line faint, year possibly 1923 or 1928; card very faint"
+ },
+ "in": 2309,
+ "out": 175
+}

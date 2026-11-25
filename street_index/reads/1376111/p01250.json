@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1376111",
+ "slide_index": 1250,
+ "image": "street_index/data/1376111/slides_pct_0-0-100-99_w1000/p01250_3360431.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"45th St\",\"direction\":\"W\",\"house_number\":\"1541\",\"permit_date\":\"1908-09-29\",\"permit_no\":\"6145\",\"notes\":\"typed card, faint; old addr: 1441 W. 45th St; number 6145 at left taken as permit no.; date reads Sept. 29, 1908\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "45th St",
+  "direction": "W",
+  "house_number": "1541",
+  "permit_date": "1908-09-29",
+  "permit_no": "6145",
+  "notes": "typed card, faint; old addr: 1441 W. 45th St; number 6145 at left taken as permit no.; date reads Sept. 29, 1908"
+ },
+ "in": 2267,
+ "out": 133
+}

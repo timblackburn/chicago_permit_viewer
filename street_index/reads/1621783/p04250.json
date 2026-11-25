@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 4250,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p04250_3847016.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nina Ave\",\"direction\":\"N\",\"house_number\":\"5769\",\"permit_date\":\"1928-03-30\",\"permit_no\":\"40283\",\"notes\":\"Alterations; Sundry; plan no. 2150; file no. 185709; dark, slightly faint film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nina Ave",
+  "direction": "N",
+  "house_number": "5769",
+  "permit_date": "1928-03-30",
+  "permit_no": "40283",
+  "notes": "Alterations; Sundry; plan no. 2150; file no. 185709; dark, slightly faint film"
+ },
+ "in": 2310,
+ "out": 120
+}

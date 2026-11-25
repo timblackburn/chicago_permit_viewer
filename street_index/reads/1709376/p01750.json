@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 1750,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p01750_4026256.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Lorel Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"24067\",\"notes\":\"Handwritten top reads approx 'Lorel Ave'; house number and direction not legible; plan no. 68583; stamped MAR 22 (year unreadable); card overexposed, faint and damaged along bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Lorel Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "24067",
+  "notes": "Handwritten top reads approx 'Lorel Ave'; house number and direction not legible; plan no. 68583; stamped MAR 22 (year unreadable); card overexposed, faint and damaged along bottom edge"
+ },
+ "in": 2314,
+ "out": 150
+}

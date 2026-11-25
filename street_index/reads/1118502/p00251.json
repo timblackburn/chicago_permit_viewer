@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 251,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p00251_2846967.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1927-04-22\",\"permit_no\":\"B 15443\",\"notes\":\"Cottage; Book W 39 Page 154 (entered); house number unclear, appears as something like 7122-24 but not confident; faint and low-contrast scan; plan no. 3770, water no. 1832, file no. 162955\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1927-04-22",
+  "permit_no": "B 15443",
+  "notes": "Cottage; Book W 39 Page 154 (entered); house number unclear, appears as something like 7122-24 but not confident; faint and low-contrast scan; plan no. 3770, water no. 1832, file no. 162955"
+ },
+ "in": 2274,
+ "out": 160
+}

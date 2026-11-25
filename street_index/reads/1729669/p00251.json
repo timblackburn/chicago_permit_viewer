@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 251,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p00251_4070353.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Laramie Ave\",\"direction\":\"N\",\"house_number\":\"1865\",\"permit_date\":\"1917-12-19\",\"permit_no\":\"A 48 18\",\"notes\":\"Br B.; Book N 15 Page 352; top line handwritten 'N St Clair Ave' with a house number starting 186 is unclear, and the stamped upper right gives '1865 N. Laramie'; Plan 5191; Water 22955; File 41199; card is faint and noisy; permit no. is hard to read; old addr: possibly 1864 N St Clair Ave (uncertain)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Laramie Ave",
+  "direction": "N",
+  "house_number": "1865",
+  "permit_date": "1917-12-19",
+  "permit_no": "A 48 18",
+  "notes": "Br B.; Book N 15 Page 352; top line handwritten 'N St Clair Ave' with a house number starting 186 is unclear, and the stamped upper right gives '1865 N. Laramie'; Plan 5191; Water 22955; File 41199; card is faint and noisy; permit no. is hard to read; old addr: possibly 1864 N St Clair Ave (uncertain)"
+ },
+ "in": 2276,
+ "out": 221
+}

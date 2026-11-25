@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 3251,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p03251_3346674.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"53rd St\",\"direction\":\"E\",\"house_number\":\"1453\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; stamped SUNDRY; card body very faint/overexposed, fields not readable; handwritten address '1453 E 53rd St'\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "53rd St",
+  "direction": "E",
+  "house_number": "1453",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; stamped SUNDRY; card body very faint/overexposed, fields not readable; handwritten address '1453 E 53rd St'"
+ },
+ "in": 2303,
+ "out": 124
+}

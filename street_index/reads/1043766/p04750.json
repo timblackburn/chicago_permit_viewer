@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1043766",
+ "slide_index": 4750,
+ "image": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p04750_4189358.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kildare Ave\",\"direction\":\"N\",\"house_number\":\"2062\",\"permit_date\":\"1903-06-08\",\"permit_no\":\"7153\",\"notes\":\"typed card; old addr: 1187 N. 43rd Ave; permit no. prefix appears as N° 7153\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kildare Ave",
+  "direction": "N",
+  "house_number": "2062",
+  "permit_date": "1903-06-08",
+  "permit_no": "7153",
+  "notes": "typed card; old addr: 1187 N. 43rd Ave; permit no. prefix appears as N° 7153"
+ },
+ "in": 2318,
+ "out": 124
+}

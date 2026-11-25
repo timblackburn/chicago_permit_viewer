@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1056468",
+ "slide_index": 3750,
+ "image": "street_index/data/1056468/slides_pct_0-0-100-99_w1000/p03750_4171135.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kedvale Ave\",\"direction\":\"S\",\"house_number\":\"4615\",\"permit_date\":\"1915-06-10\",\"permit_no\":\"A 31018\",\"notes\":\"Br B.; Book W 7 Page 417; old addr: 5045 (written below permit no.); house number first digits partly uncertain (4615 vs 1615), direction not clearly written on card; file no. 88276; faint, noisy film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kedvale Ave",
+  "direction": "S",
+  "house_number": "4615",
+  "permit_date": "1915-06-10",
+  "permit_no": "A 31018",
+  "notes": "Br B.; Book W 7 Page 417; old addr: 5045 (written below permit no.); house number first digits partly uncertain (4615 vs 1615), direction not clearly written on card; file no. 88276; faint, noisy film"
+ },
+ "in": 2320,
+ "out": 167
+}

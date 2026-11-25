@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 1250,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p01250_3696947.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Rush St\",\"direction\":\"\",\"house_number\":\"844\",\"permit_date\":\"1927-03-21\",\"permit_no\":\"\",\"notes\":\"Magnolite (?) heating/partitions, handwritten and faint; Sundry; file no. 159865; no direction written; permit no. blank; date stamp partly faded; lower part of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Rush St",
+  "direction": "",
+  "house_number": "844",
+  "permit_date": "1927-03-21",
+  "permit_no": "",
+  "notes": "Magnolite (?) heating/partitions, handwritten and faint; Sundry; file no. 159865; no direction written; permit no. blank; date stamp partly faded; lower part of card damaged"
+ },
+ "in": 2274,
+ "out": 144
+}

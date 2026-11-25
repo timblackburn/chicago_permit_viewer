@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 3250,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p03250_3013988.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Concord Pl\",\"direction\":\"W\",\"house_number\":\"1300-02\",\"permit_date\":\"1925-01-13\",\"permit_no\":\"A 99120\",\"notes\":\"B. Warehouse; Book 32 Page 286; old addr: Ravenswood St (written as Raven S't, uncertain); house number faint, partly read; water no. 14332; file no. 9-4288; faint handwriting\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Concord Pl",
+  "direction": "W",
+  "house_number": "1300-02",
+  "permit_date": "1925-01-13",
+  "permit_no": "A 99120",
+  "notes": "B. Warehouse; Book 32 Page 286; old addr: Ravenswood St (written as Raven S't, uncertain); house number faint, partly read; water no. 14332; file no. 9-4288; faint handwriting"
+ },
+ "in": 2272,
+ "out": 164
+}

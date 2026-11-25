@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 3250,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p03250_3125270.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bennett Ave\",\"direction\":\"S\",\"house_number\":\"8858\",\"permit_date\":\"\",\"permit_no\":\"B\",\"notes\":\"1 sty Rks; Bldg Loan Bldg; Book 56 Page 526; Plan no. 3016; card very faint and overexposed, permit number and date mostly unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bennett Ave",
+  "direction": "S",
+  "house_number": "8858",
+  "permit_date": "",
+  "permit_no": "B",
+  "notes": "1 sty Rks; Bldg Loan Bldg; Book 56 Page 526; Plan no. 3016; card very faint and overexposed, permit number and date mostly unreadable"
+ },
+ "in": 2278,
+ "out": 141
+}

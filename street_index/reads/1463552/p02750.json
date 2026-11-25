@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 2750,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p02750_3533126.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wabash Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"87601\",\"notes\":\"Alt; Book C 27 Page 18; house number first digit unclear, reads as ?00 (between 109 and 328); water no. 6xx70; plan no. A 13; file no. 63745; date of permit blank or too faint; card faint and noisy\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wabash Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "87601",
+  "notes": "Alt; Book C 27 Page 18; house number first digit unclear, reads as ?00 (between 109 and 328); water no. 6xx70; plan no. A 13; file no. 63745; date of permit blank or too faint; card faint and noisy"
+ },
+ "in": 2277,
+ "out": 161
+}

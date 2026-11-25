@@ -43,3 +43,10 @@ From UIC IIIF Collection `31` (`/iiif/collection/31`), we already discovered and
 - Accepts a user-supplied CSV of Far Southwest Side target streets (Beverly / Morgan Park / Washington Heights / Mt. Greenwood — street name, direction, min/max house number).
 - Cross-references those streets against `reels.json` (start/end reel bounds) and Pass 1/2 observed anchors to isolate **only** the narrow slide sub-windows containing those streets.
 - Generates a high-resolution Pass-3 queue (e.g., `--step 50` or `--step 100`) only inside those matched windows.
+
+### Pass 4 — Midpoints of the big gaps (2026-11-25, run from the economist_permits project)
+- Run with `scripts/uic_index/` in the economist_permits project (`plan.py`, `fetch.py`, `read.py`, `check_order.py`). They write into this project's files in the same format as the scripts here, so either set can carry on.
+- Every gap between legible cards longer than 250 frames got evenly spaced new frames (1,418 frames, mostly one midpoint per 500-frame gap). Downloaded one at a time, 7–8 s apart (204 min, no 429s). The script stops on 403 / 429 / 5xx / Cloudflare challenge instead of retrying.
+- Read by Claude Sonnet 5.5 (Message Batches API, $4.23); the raw read of each card is kept in `street_index/reads/<mid>/p<frame>.json`. Only legible cards (legibility `ok`) were kept as anchors; no recovery passes for illegible ones.
+- `check_order.py` set aside 31 cards whose street does not file between their neighbours (mostly cards that give a street's old name, e.g. 44th Ct under Kenneth): legibility `out_of_order`, reading moved into notes.
+- Result: 1,418 read: 1,045 new anchors, 205 partial, 123 illegible, 14 non-card, 31 out of order. Anchor cards: 1,569 → 2,614.

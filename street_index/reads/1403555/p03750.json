@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 3750,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p03750_3409705.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"21st Pl\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top is faint, reads roughly \\\"1711 W 21st Pl\\\" but house number is uncertain; file no. faint; date of permit partly illegible, year 1924; low contrast microfilm\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "21st Pl",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top is faint, reads roughly \"1711 W 21st Pl\" but house number is uncertain; file no. faint; date of permit partly illegible, year 1924; low contrast microfilm"
+ },
+ "in": 2270,
+ "out": 150
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 668,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p00668_3397475.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"61st St\",\"direction\":\"W\",\"house_number\":\"957-59\",\"permit_date\":\"1948-10-18\",\"permit_no\":\"A 19044\",\"notes\":\"2,000 gal tank; plan no. 370147; card very faint, permit number partly unclear; stamp \\\"Sundry\\\" at top right; filed out of sequence for reel range (61st St)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "61st St",
+  "direction": "W",
+  "house_number": "957-59",
+  "permit_date": "1948-10-18",
+  "permit_no": "A 19044",
+  "notes": "2,000 gal tank; plan no. 370147; card very faint, permit number partly unclear; stamp \"Sundry\" at top right; filed out of sequence for reel range (61st St)"
+ },
+ "in": 2300,
+ "out": 148
+}

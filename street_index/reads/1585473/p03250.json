@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1585473",
+ "slide_index": 3250,
+ "image": "street_index/data/1585473/slides_pct_0-0-100-99_w1000/p03250_3776202.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Perry Ave\",\"direction\":\"\",\"house_number\":\"10158\",\"permit_date\":\"1925-08-13\",\"permit_no\":\"A 107695\",\"notes\":\"Res.; Book S 36 Page 392; no direction written on card; plan no. 9357; water no. 82875; file no. 1154/20; handwriting faint, street name read as Perry from filing context\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Perry Ave",
+  "direction": "",
+  "house_number": "10158",
+  "permit_date": "1925-08-13",
+  "permit_no": "A 107695",
+  "notes": "Res.; Book S 36 Page 392; no direction written on card; plan no. 9357; water no. 82875; file no. 1154/20; handwriting faint, street name read as Perry from filing context"
+ },
+ "in": 2313,
+ "out": 151
+}

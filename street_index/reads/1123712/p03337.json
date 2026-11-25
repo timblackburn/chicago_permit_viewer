@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 3337,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p03337_2849655.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"card heavily overexposed and washed out; top line appears to read '21__ W. ... Ave.' but digits after 21 are unclear; rest of card unreadable; between 1508-18 and 2404 per neighbors\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "card heavily overexposed and washed out; top line appears to read '21__ W. ... Ave.' but digits after 21 are unclear; rest of card unreadable; between 1508-18 and 2404 per neighbors"
+ },
+ "in": 2315,
+ "out": 146
+}

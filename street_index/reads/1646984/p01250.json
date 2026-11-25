@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 1250,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p01250_3902823.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"4348-50\",\"permit_date\":\"1919-07-16\",\"permit_no\":\"A 53321\",\"notes\":\"B.B. stores; Book N 15 Page 491; Plan No 2608; Water No 27187; File No 59708; direction not written on card (\\\"So.\\\" is not shown, address reads 4348-50 Milwaukee Av)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "4348-50",
+  "permit_date": "1919-07-16",
+  "permit_no": "A 53321",
+  "notes": "B.B. stores; Book N 15 Page 491; Plan No 2608; Water No 27187; File No 59708; direction not written on card (\"So.\" is not shown, address reads 4348-50 Milwaukee Av)"
+ },
+ "in": 2352,
+ "out": 167
+}

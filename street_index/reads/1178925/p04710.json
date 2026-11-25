@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 4710,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p04710_2958783.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nevada Ave\",\"direction\":\"\",\"house_number\":\"4835\",\"permit_date\":\"1928-07-14\",\"permit_no\":\"45665\",\"notes\":\"Brick Garage; stamped DEMI[NG] SUNDRY (Sundry); file no. 193805; no direction written; filed under Deming; photographed slightly blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nevada Ave",
+  "direction": "",
+  "house_number": "4835",
+  "permit_date": "1928-07-14",
+  "permit_no": "45665",
+  "notes": "Brick Garage; stamped DEMI[NG] SUNDRY (Sundry); file no. 193805; no direction written; filed under Deming; photographed slightly blurry"
+ },
+ "in": 2273,
+ "out": 144
+}

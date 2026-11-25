@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 668,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p00668_3275787.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"101st Pl\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Top line handwritten \\\"H36-38 W 101st Pl\\\" (possibly a range 136-38, unclear); BRICK RESIDENCE typed line faint; plan no. maybe 6817; file no. 478011 (faint); card very faint and overexposed, date and permit no. not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "101st Pl",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Top line handwritten \"H36-38 W 101st Pl\" (possibly a range 136-38, unclear); BRICK RESIDENCE typed line faint; plan no. maybe 6817; file no. 478011 (faint); card very faint and overexposed, date and permit no. not readable"
+ },
+ "in": 2264,
+ "out": 171
+}

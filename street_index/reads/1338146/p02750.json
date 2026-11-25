@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 2750,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p02750_3281207.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1944-03-01\",\"permit_no\":\"\",\"notes\":\"top handwriting very faint, looks like '920 E 93rd St' but not confident; sty Br residence w/ ... (unclear); Entered 54 Page 93; water no. 5034? faint; file no. smudged; card overexposed and faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1944-03-01",
+  "permit_no": "",
+  "notes": "top handwriting very faint, looks like '920 E 93rd St' but not confident; sty Br residence w/ ... (unclear); Entered 54 Page 93; water no. 5034? faint; file no. smudged; card overexposed and faint"
+ },
+ "in": 2301,
+ "out": 155
+}

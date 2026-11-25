@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 4250,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p04250_2779277.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoyne Ave\",\"direction\":\"S\",\"house_number\":\"3632\",\"permit_date\":\"1902-04-03\",\"permit_no\":\"S 1221\",\"notes\":\"Typed card; work line reads \\\"Same\\\"; faint typing; permit no. read as S.1221, partly uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoyne Ave",
+  "direction": "S",
+  "house_number": "3632",
+  "permit_date": "1902-04-03",
+  "permit_no": "S 1221",
+  "notes": "Typed card; work line reads \"Same\"; faint typing; permit no. read as S.1221, partly uncertain"
+ },
+ "in": 2312,
+ "out": 128
+}

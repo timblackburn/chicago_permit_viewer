@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1342936",
+ "slide_index": 3789,
+ "image": "street_index/data/1342936/slides_pct_0-0-100-99_w1000/p03789_3288195.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Cottage Grove Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card heavily overexposed and washed out; top line struck through, reads like \\\"S Cottage Grove ave\\\" with a crossed-out number; rest of the card is blank or too faint to read; stray marks \\\"6 5\\\" and \\\"10\\\" unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Cottage Grove Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card heavily overexposed and washed out; top line struck through, reads like \"S Cottage Grove ave\" with a crossed-out number; rest of the card is blank or too faint to read; stray marks \"6 5\" and \"10\" unclear"
+ },
+ "in": 2266,
+ "out": 161
+}

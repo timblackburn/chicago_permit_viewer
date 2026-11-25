@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 750,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p00750_3202835.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Champlain Ave\",\"direction\":\"\",\"house_number\":\"7139\",\"permit_date\":\"1910-08-18\",\"permit_no\":\"23575\",\"notes\":\"\\\"Same\\\" written on the work line; typed card, faint; film edge damaged at bottom\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Champlain Ave",
+  "direction": "",
+  "house_number": "7139",
+  "permit_date": "1910-08-18",
+  "permit_no": "23575",
+  "notes": "\"Same\" written on the work line; typed card, faint; film edge damaged at bottom"
+ },
+ "in": 2278,
+ "out": 115
+}

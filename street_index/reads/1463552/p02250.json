@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1463552",
+ "slide_index": 2250,
+ "image": "street_index/data/1463552/slides_pct_0-0-100-99_w1000/p02250_3534131.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wabash Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1928-05-02\",\"permit_no\":\"41961\",\"notes\":\"address given as intersection \\\"14th & Wabash Ave\\\" with no house number; Interior Alteration Boat Show; Sundry; plan no 188284; stamped date faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wabash Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1928-05-02",
+  "permit_no": "41961",
+  "notes": "address given as intersection \"14th & Wabash Ave\" with no house number; Interior Alteration Boat Show; Sundry; plan no 188284; stamped date faint"
+ },
+ "in": 2277,
+ "out": 140
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1636996",
+ "slide_index": 1750,
+ "image": "street_index/data/1636996/slides_pct_0-0-100-99_w1000/p01750_3882082.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Moody Ave\",\"direction\":\"S\",\"house_number\":\"5340\",\"permit_date\":\"1948-04-12\",\"permit_no\":\"B 10659\",\"notes\":\"1 sty Res; Book 58 Page 345; Plan no 1276; File no 361277; card address reads S Moody Ave, though neighbors on reel are N\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Moody Ave",
+  "direction": "S",
+  "house_number": "5340",
+  "permit_date": "1948-04-12",
+  "permit_no": "B 10659",
+  "notes": "1 sty Res; Book 58 Page 345; Plan no 1276; File no 361277; card address reads S Moody Ave, though neighbors on reel are N"
+ },
+ "in": 2276,
+ "out": 141
+}

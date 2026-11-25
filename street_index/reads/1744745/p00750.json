@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1744745",
+ "slide_index": 750,
+ "image": "street_index/data/1744745/slides_pct_0-0-100-99_w1000/p00750_4099760.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Kolmar Ave\",\"direction\":\"N\",\"house_number\":\"4987-91\",\"permit_date\":\"1923-07-18\",\"permit_no\":\"A 80485\",\"notes\":\"B. Jr. Cott (owner/builder name); \\\"and\\\" written above 91; Book N 75 Page 514; water no. 55396; file no. 46865; stamped JUL 18 1923; plan no. 6438 faint; film edges damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Kolmar Ave",
+  "direction": "N",
+  "house_number": "4987-91",
+  "permit_date": "1923-07-18",
+  "permit_no": "A 80485",
+  "notes": "B. Jr. Cott (owner/builder name); \"and\" written above 91; Book N 75 Page 514; water no. 55396; file no. 46865; stamped JUL 18 1923; plan no. 6438 faint; film edges damaged"
+ },
+ "in": 2281,
+ "out": 173
+}

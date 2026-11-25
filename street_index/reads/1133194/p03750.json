@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 3750,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p03750_2868646.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fullerton Ave\",\"direction\":\"\",\"house_number\":\"3224\",\"permit_date\":\"1948-02-09\",\"permit_no\":\"A 8773\",\"notes\":\"Replace bldg (handwritten, 'Replace bldg'); File No. 359426; no direction written on card; Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fullerton Ave",
+  "direction": "",
+  "house_number": "3224",
+  "permit_date": "1948-02-09",
+  "permit_no": "A 8773",
+  "notes": "Replace bldg (handwritten, 'Replace bldg'); File No. 359426; no direction written on card; Book and Page blank"
+ },
+ "in": 2316,
+ "out": 132
+}

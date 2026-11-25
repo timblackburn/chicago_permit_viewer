@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 2750,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p02750_3035036.jpg",
+ "at": "2026-11-25T20:23:34.670868+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Claremont Ave\",\"direction\":\"S\",\"house_number\":\"9633\",\"permit_date\":\"1952-04-08\",\"permit_no\":\"A 72157\",\"notes\":\"Frame Garage; File no. 424737; handwritten address, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Claremont Ave",
+  "direction": "S",
+  "house_number": "9633",
+  "permit_date": "1952-04-08",
+  "permit_no": "A 72157",
+  "notes": "Frame Garage; File no. 424737; handwritten address, slightly faint"
+ },
+ "in": 2279,
+ "out": 114
+}
