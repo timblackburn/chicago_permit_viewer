@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 387,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p00387_4028980.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Loomis Blvd\",\"direction\":\"S\",\"house_number\":\"6800-04\",\"permit_date\":\"1894-08-23\",\"permit_no\":\"1375\",\"notes\":\"also 1401-11 W. 68th St; Loomis & 68th St; typed card; date partly faint (Aug. 23, 1894)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Loomis Blvd",
+  "direction": "S",
+  "house_number": "6800-04",
+  "permit_date": "1894-08-23",
+  "permit_no": "1375",
+  "notes": "also 1401-11 W. 68th St; Loomis & 68th St; typed card; date partly faint (Aug. 23, 1894)"
+ },
+ "in": 2310,
+ "out": 135
+}

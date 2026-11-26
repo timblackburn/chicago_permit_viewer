@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 3300,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p03300_3908878.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Milwaukee Ave\",\"direction\":\"\",\"house_number\":\"806\",\"permit_date\":\"1929-02-14\",\"permit_no\":\"51748\",\"notes\":\"store front & Int. Alt.; Sundry; Plan no. 440; File no. 20335; no direction written on card; permit no. stamp slightly overlaps handwriting, faint; card edge damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Milwaukee Ave",
+  "direction": "",
+  "house_number": "806",
+  "permit_date": "1929-02-14",
+  "permit_no": "51748",
+  "notes": "store front & Int. Alt.; Sundry; Plan no. 440; File no. 20335; no direction written on card; permit no. stamp slightly overlaps handwriting, faint; card edge damaged"
+ },
+ "in": 2319,
+ "out": 153
+}

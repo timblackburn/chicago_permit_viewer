@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 201,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p00201_3915105.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-12-12\",\"permit_no\":\"A 12438\",\"notes\":\"address line at top is faint, blurry handwriting (possibly starts 75.. and Michigan, not certain); permit no. read as A 12438 with low confidence; date Dec 12 1924; very low contrast, overexposed card; file no. unreadable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-12-12",
+  "permit_no": "A 12438",
+  "notes": "address line at top is faint, blurry handwriting (possibly starts 75.. and Michigan, not certain); permit no. read as A 12438 with low confidence; date Dec 12 1924; very low contrast, overexposed card; file no. unreadable"
+ },
+ "in": 2315,
+ "out": 161
+}

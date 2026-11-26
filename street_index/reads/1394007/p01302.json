@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 1302,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p01302_3396186.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"69th St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"1951-08-01\",\"permit_no\":\"61895\",\"notes\":\"Address line very faint handwriting, seems to read '...E 69th St' but house number not readable; File no. 414156 (partly faint); Book 64 Page 59; card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "69th St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "1951-08-01",
+  "permit_no": "61895",
+  "notes": "Address line very faint handwriting, seems to read '...E 69th St' but house number not readable; File no. 414156 (partly faint); Book 64 Page 59; card washed out"
+ },
+ "in": 2268,
+ "out": 138
+}

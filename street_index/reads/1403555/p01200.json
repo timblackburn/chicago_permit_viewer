@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 1200,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p01200_3414747.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1930-08-08\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top is very faint, possibly '1515 N ...th Pl' but not confidently readable; likely a 18th St card per neighbors; owner/name line also illegible; low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1930-08-08",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top is very faint, possibly '1515 N ...th Pl' but not confidently readable; likely a 18th St card per neighbors; owner/name line also illegible; low contrast"
+ },
+ "in": 2268,
+ "out": 143
+}

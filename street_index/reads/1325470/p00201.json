@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 201,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p00201_3258122.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"115th St\",\"direction\":\"E\",\"house_number\":\"215\",\"permit_date\":\"1912-12-19\",\"permit_no\":\"A 4\",\"notes\":\"File No 29342; permit number faint and only partly legible (A, with 4 above); other handwritten lines faint (\\\"134\\\", \\\"83\\\"); card overexposed and low contrast; street name read as 15th likely 115th (the leading 1 is faint)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "115th St",
+  "direction": "E",
+  "house_number": "215",
+  "permit_date": "1912-12-19",
+  "permit_no": "A 4",
+  "notes": "File No 29342; permit number faint and only partly legible (A, with 4 above); other handwritten lines faint (\"134\", \"83\"); card overexposed and low contrast; street name read as 15th likely 115th (the leading 1 is faint)"
+ },
+ "in": 2299,
+ "out": 164
+}

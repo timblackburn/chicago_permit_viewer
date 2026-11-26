@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 1300,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p01300_3470175.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Western Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Typed card, heavily overexposed and faint; top line appears to read '7059 S. Western Ave.' but the number is uncertain (first digits faded), and this S direction conflicts with the expected N Western position on the reel; remaining fields unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Western Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Typed card, heavily overexposed and faint; top line appears to read '7059 S. Western Ave.' but the number is uncertain (first digits faded), and this S direction conflicts with the expected N Western position on the reel; remaining fields unreadable"
+ },
+ "in": 2271,
+ "out": 156
+}

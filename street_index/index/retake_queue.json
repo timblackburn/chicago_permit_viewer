@@ -1,0 +1,950 @@
+[
+ {
+  "reel_number": 5,
+  "manifest_id": "1285785",
+  "slide_index": 5117,
+  "anchor_slide": 5117,
+  "gap": [
+   5116,
+   5118
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 7,
+  "manifest_id": "1275771",
+  "slide_index": 5052,
+  "anchor_slide": 5052,
+  "gap": [
+   5051,
+   5053
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 7,
+  "manifest_id": "1275771",
+  "slide_index": 5048,
+  "anchor_slide": 5048,
+  "gap": [
+   5047,
+   5049
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 10,
+  "manifest_id": "1260605",
+  "slide_index": 5015,
+  "anchor_slide": 5015,
+  "gap": [
+   5014,
+   5016
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 11,
+  "manifest_id": "1255549",
+  "slide_index": 5050,
+  "anchor_slide": 5050,
+  "gap": [
+   5049,
+   5051
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 12,
+  "manifest_id": "1250776",
+  "slide_index": 4770,
+  "anchor_slide": 4770,
+  "gap": [
+   4769,
+   4771
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 12,
+  "manifest_id": "1250776",
+  "slide_index": 4766,
+  "anchor_slide": 4766,
+  "gap": [
+   4765,
+   4767
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 13,
+  "manifest_id": "1301752",
+  "slide_index": 5039,
+  "anchor_slide": 5039,
+  "gap": [
+   5038,
+   5040
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 14,
+  "manifest_id": "1240728",
+  "slide_index": 4996,
+  "anchor_slide": 4996,
+  "gap": [
+   4995,
+   4997
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 15,
+  "manifest_id": "1235601",
+  "slide_index": 5123,
+  "anchor_slide": 5123,
+  "gap": [
+   5122,
+   5124
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 15,
+  "manifest_id": "1235601",
+  "slide_index": 5124,
+  "anchor_slide": 5124,
+  "gap": [
+   5123,
+   5125
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 15,
+  "manifest_id": "1235601",
+  "slide_index": 5119,
+  "anchor_slide": 5119,
+  "gap": [
+   5118,
+   5120
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 18,
+  "manifest_id": "1296638",
+  "slide_index": 5108,
+  "anchor_slide": 5108,
+  "gap": [
+   5107,
+   5109
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 22,
+  "manifest_id": "1205132",
+  "slide_index": 4918,
+  "anchor_slide": 4918,
+  "gap": [
+   4917,
+   4919
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 22,
+  "manifest_id": "1205132",
+  "slide_index": 4919,
+  "anchor_slide": 4919,
+  "gap": [
+   4918,
+   4920
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 22,
+  "manifest_id": "1205132",
+  "slide_index": 4920,
+  "anchor_slide": 4920,
+  "gap": [
+   4919,
+   4921
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 22,
+  "manifest_id": "1205132",
+  "slide_index": 4915,
+  "anchor_slide": 4915,
+  "gap": [
+   4914,
+   4916
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 23,
+  "manifest_id": "1200000",
+  "slide_index": 5129,
+  "anchor_slide": 5129,
+  "gap": [
+   5128,
+   5130
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 23,
+  "manifest_id": "1200000",
+  "slide_index": 5124,
+  "anchor_slide": 5124,
+  "gap": [
+   5123,
+   5125
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 25,
+  "manifest_id": "1189574",
+  "slide_index": 5083,
+  "anchor_slide": 5083,
+  "gap": [
+   5082,
+   5084
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 25,
+  "manifest_id": "1189574",
+  "slide_index": 5084,
+  "anchor_slide": 5084,
+  "gap": [
+   5083,
+   5085
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 26,
+  "manifest_id": "1178925",
+  "slide_index": 4915,
+  "anchor_slide": 4915,
+  "gap": [
+   4914,
+   4916
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 28,
+  "manifest_id": "1168957",
+  "slide_index": 4958,
+  "anchor_slide": 4958,
+  "gap": [
+   4957,
+   4959
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 28,
+  "manifest_id": "1168957",
+  "slide_index": 4954,
+  "anchor_slide": 4954,
+  "gap": [
+   4953,
+   4955
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 31,
+  "manifest_id": "1154630",
+  "slide_index": 4966,
+  "anchor_slide": 4966,
+  "gap": [
+   4965,
+   4967
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 35,
+  "manifest_id": "1138010",
+  "slide_index": 5374,
+  "anchor_slide": 5374,
+  "gap": [
+   5373,
+   5375
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 37,
+  "manifest_id": "1128146",
+  "slide_index": 5043,
+  "anchor_slide": 5043,
+  "gap": [
+   5042,
+   5044
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 37,
+  "manifest_id": "1128146",
+  "slide_index": 5044,
+  "anchor_slide": 5044,
+  "gap": [
+   5043,
+   5045
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 37,
+  "manifest_id": "1128146",
+  "slide_index": 5045,
+  "anchor_slide": 5045,
+  "gap": [
+   5044,
+   5046
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 37,
+  "manifest_id": "1128146",
+  "slide_index": 5039,
+  "anchor_slide": 5039,
+  "gap": [
+   5038,
+   5040
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 43,
+  "manifest_id": "1098681",
+  "slide_index": 4919,
+  "anchor_slide": 4919,
+  "gap": [
+   4918,
+   4920
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 44,
+  "manifest_id": "1093813",
+  "slide_index": 4865,
+  "anchor_slide": 4865,
+  "gap": [
+   4864,
+   4866
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 44,
+  "manifest_id": "1093813",
+  "slide_index": 4861,
+  "anchor_slide": 4861,
+  "gap": [
+   4860,
+   4862
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 45,
+  "manifest_id": "738320",
+  "slide_index": 5163,
+  "anchor_slide": 5163,
+  "gap": [
+   5162,
+   5164
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 47,
+  "manifest_id": "1076561",
+  "slide_index": 5200,
+  "anchor_slide": 5200,
+  "gap": [
+   5199,
+   5201
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 49,
+  "manifest_id": "1066599",
+  "slide_index": 5040,
+  "anchor_slide": 5040,
+  "gap": [
+   5039,
+   5041
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 54,
+  "manifest_id": "1043766",
+  "slide_index": 5121,
+  "anchor_slide": 5121,
+  "gap": [
+   5120,
+   5122
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 55,
+  "manifest_id": "1038601",
+  "slide_index": 5159,
+  "anchor_slide": 5159,
+  "gap": [
+   5158,
+   5160
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 56,
+  "manifest_id": "1749849",
+  "slide_index": 5069,
+  "anchor_slide": 5069,
+  "gap": [
+   5068,
+   5070
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 56,
+  "manifest_id": "1749849",
+  "slide_index": 5065,
+  "anchor_slide": 5065,
+  "gap": [
+   5064,
+   5066
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 57,
+  "manifest_id": "1744745",
+  "slide_index": 5101,
+  "anchor_slide": 5101,
+  "gap": [
+   5100,
+   5102
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 57,
+  "manifest_id": "1744745",
+  "slide_index": 5097,
+  "anchor_slide": 5097,
+  "gap": [
+   5096,
+   5098
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 61,
+  "manifest_id": "1724893",
+  "slide_index": 4770,
+  "anchor_slide": 4770,
+  "gap": [
+   4769,
+   4771
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 62,
+  "manifest_id": "1763084",
+  "slide_index": 5083,
+  "anchor_slide": 5083,
+  "gap": [
+   5082,
+   5084
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 62,
+  "manifest_id": "1763084",
+  "slide_index": 5079,
+  "anchor_slide": 5079,
+  "gap": [
+   5078,
+   5080
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 65,
+  "manifest_id": "1709376",
+  "slide_index": 4805,
+  "anchor_slide": 4805,
+  "gap": [
+   4804,
+   4806
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 66,
+  "manifest_id": "1704357",
+  "slide_index": 5016,
+  "anchor_slide": 5016,
+  "gap": [
+   5015,
+   5017
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 67,
+  "manifest_id": "1699432",
+  "slide_index": 4920,
+  "anchor_slide": 4920,
+  "gap": [
+   4919,
+   4921
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 67,
+  "manifest_id": "1699432",
+  "slide_index": 4921,
+  "anchor_slide": 4921,
+  "gap": [
+   4920,
+   4922
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 67,
+  "manifest_id": "1699432",
+  "slide_index": 4922,
+  "anchor_slide": 4922,
+  "gap": [
+   4921,
+   4923
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 67,
+  "manifest_id": "1699432",
+  "slide_index": 4923,
+  "anchor_slide": 4923,
+  "gap": [
+   4922,
+   4924
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 67,
+  "manifest_id": "1699432",
+  "slide_index": 4917,
+  "anchor_slide": 4917,
+  "gap": [
+   4916,
+   4918
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 71,
+  "manifest_id": "1679386",
+  "slide_index": 4829,
+  "anchor_slide": 4829,
+  "gap": [
+   4828,
+   4830
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 71,
+  "manifest_id": "1679386",
+  "slide_index": 4830,
+  "anchor_slide": 4830,
+  "gap": [
+   4829,
+   4831
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 71,
+  "manifest_id": "1679386",
+  "slide_index": 4831,
+  "anchor_slide": 4831,
+  "gap": [
+   4830,
+   4832
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 71,
+  "manifest_id": "1679386",
+  "slide_index": 4825,
+  "anchor_slide": 4825,
+  "gap": [
+   4824,
+   4826
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 73,
+  "manifest_id": "1669254",
+  "slide_index": 4961,
+  "anchor_slide": 4961,
+  "gap": [
+   4960,
+   4962
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 83,
+  "manifest_id": "1610877",
+  "slide_index": 4909,
+  "anchor_slide": 4909,
+  "gap": [
+   4908,
+   4910
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 90,
+  "manifest_id": "1575224",
+  "slide_index": 5127,
+  "anchor_slide": 5127,
+  "gap": [
+   5126,
+   5128
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 90,
+  "manifest_id": "1575224",
+  "slide_index": 5123,
+  "anchor_slide": 5123,
+  "gap": [
+   5122,
+   5124
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 93,
+  "manifest_id": "1561040",
+  "slide_index": 4097,
+  "anchor_slide": 4097,
+  "gap": [
+   4096,
+   4098
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 93,
+  "manifest_id": "1561040",
+  "slide_index": 4093,
+  "anchor_slide": 4093,
+  "gap": [
+   4092,
+   4094
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 99,
+  "manifest_id": "1529739",
+  "slide_index": 4496,
+  "anchor_slide": 4496,
+  "gap": [
+   4495,
+   4497
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 103,
+  "manifest_id": "1510554",
+  "slide_index": 4632,
+  "anchor_slide": 4632,
+  "gap": [
+   4631,
+   4633
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 107,
+  "manifest_id": "1477736",
+  "slide_index": 4338,
+  "anchor_slide": 4338,
+  "gap": [
+   4337,
+   4339
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 107,
+  "manifest_id": "1477736",
+  "slide_index": 4339,
+  "anchor_slide": 4339,
+  "gap": [
+   4338,
+   4340
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 107,
+  "manifest_id": "1477736",
+  "slide_index": 4332,
+  "anchor_slide": 4332,
+  "gap": [
+   4331,
+   4333
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 122,
+  "manifest_id": "1407991",
+  "slide_index": 4846,
+  "anchor_slide": 4846,
+  "gap": [
+   4845,
+   4847
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 124,
+  "manifest_id": "1386017",
+  "slide_index": 4835,
+  "anchor_slide": 4835,
+  "gap": [
+   4834,
+   4836
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 124,
+  "manifest_id": "1386017",
+  "slide_index": 4836,
+  "anchor_slide": 4836,
+  "gap": [
+   4835,
+   4837
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 125,
+  "manifest_id": "1381179",
+  "slide_index": 4835,
+  "anchor_slide": 4835,
+  "gap": [
+   4834,
+   4836
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 125,
+  "manifest_id": "1381179",
+  "slide_index": 4836,
+  "anchor_slide": 4836,
+  "gap": [
+   4835,
+   4837
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 130,
+  "manifest_id": "1361847",
+  "slide_index": 4739,
+  "anchor_slide": 4739,
+  "gap": [
+   4738,
+   4740
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 130,
+  "manifest_id": "1361847",
+  "slide_index": 4740,
+  "anchor_slide": 4740,
+  "gap": [
+   4739,
+   4741
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 130,
+  "manifest_id": "1361847",
+  "slide_index": 4741,
+  "anchor_slide": 4741,
+  "gap": [
+   4740,
+   4742
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 130,
+  "manifest_id": "1361847",
+  "slide_index": 4736,
+  "anchor_slide": 4736,
+  "gap": [
+   4735,
+   4737
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 131,
+  "manifest_id": "1357001",
+  "slide_index": 4840,
+  "anchor_slide": 4840,
+  "gap": [
+   4839,
+   4841
+  ],
+  "pass_name": "reel_end",
+  "alts": []
+ },
+ {
+  "reel_number": 137,
+  "manifest_id": "1328846",
+  "slide_index": 4826,
+  "anchor_slide": 4826,
+  "gap": [
+   4825,
+   4827
+  ],
+  "pass_name": "retake",
+  "alts": []
+ },
+ {
+  "reel_number": 137,
+  "manifest_id": "1328846",
+  "slide_index": 4827,
+  "anchor_slide": 4827,
+  "gap": [
+   4826,
+   4828
+  ],
+  "pass_name": "retake",
+  "alts": []
+ }
+]

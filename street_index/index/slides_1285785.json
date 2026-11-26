@@ -569,6 +569,33 @@
   {
     "reel_number": "5",
     "manifest_id": "1285785",
+    "slide_index": "5117",
+    "canvas_index": "5116",
+    "iiif_image_id": "3172436",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/3172436/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1285785&cv=5116",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1285785",
+    "width": "1010",
+    "height": "670",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1285785/slides_pct_0-0-100-99_w1000/p05117_3172436.jpg",
+    "bytes": "102007",
+    "pass_name": "reel_end",
+    "anchor_slide": "5117",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Ashland Ave",
+    "direction": "N",
+    "house_number": "2449",
+    "permit_date": "1925-08-01",
+    "permit_no": "68508",
+    "notes": "Sundry; File no. 114231; dark, noisy scan; no building type given"
+  },
+  {
+    "reel_number": "5",
+    "manifest_id": "1285785",
     "slide_index": "5121",
     "canvas_index": "5120",
     "iiif_image_id": "3172435",
@@ -583,7 +610,7 @@
     "bytes": "38844",
     "pass_name": "pass1",
     "anchor_slide": "5121",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Artesian",
@@ -591,6 +618,6 @@
     "house_number": "8123",
     "permit_date": "1950-11-02",
     "permit_no": "A 50534",
-    "notes": "Frame Garage; misfiled at end of reel"
+    "notes": "read: ok; Frame Garage; misfiled at end of reel"
   }
 ]

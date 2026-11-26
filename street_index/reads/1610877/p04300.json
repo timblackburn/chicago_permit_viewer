@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 4300,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p04300_3824526.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Oakwood Blvd\",\"direction\":\"\",\"house_number\":\"727-35\",\"permit_date\":\"1899-09-08\",\"permit_no\":\"S 906\",\"notes\":\"Church; card headed 'To'; second line reads 'old addr: 178-96 Oakwood Blvd'; faint typed card, no direction given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Oakwood Blvd",
+  "direction": "",
+  "house_number": "727-35",
+  "permit_date": "1899-09-08",
+  "permit_no": "S 906",
+  "notes": "Church; card headed 'To'; second line reads 'old addr: 178-96 Oakwood Blvd'; faint typed card, no direction given"
+ },
+ "in": 2282,
+ "out": 137
+}

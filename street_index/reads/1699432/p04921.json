@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 4921,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p04921_4000467.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Madison St\",\"direction\":\"W\",\"house_number\":\"5219\",\"permit_date\":\"1926-04-28\",\"permit_no\":\"79668\",\"notes\":\"Shed; Sundry; plan no. 133874 (stamped, partly unclear); permit number faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Madison St",
+  "direction": "W",
+  "house_number": "5219",
+  "permit_date": "1926-04-28",
+  "permit_no": "79668",
+  "notes": "Shed; Sundry; plan no. 133874 (stamped, partly unclear); permit number faint"
+ },
+ "in": 2232,
+ "out": 117
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 2305,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p02305_3910881.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Millard Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1912-11-18\",\"permit_no\":\"27611\",\"notes\":\"handwritten address faint and overexposed; house number looks like 3701 or 3701 but not confident; permit book A, page 208 (faint); file no 27611; second line of handwriting unclear (possibly old addr)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Millard Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1912-11-18",
+  "permit_no": "27611",
+  "notes": "handwritten address faint and overexposed; house number looks like 3701 or 3701 but not confident; permit book A, page 208 (faint); file no 27611; second line of handwriting unclear (possibly old addr)"
+ },
+ "in": 2315,
+ "out": 153
+}

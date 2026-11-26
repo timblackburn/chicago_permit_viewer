@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 1302,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p01302_3433626.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wood St\",\"direction\":\"S\",\"house_number\":\"8553\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"card very faint and washed out; work line and permit no. unreadable; plan no. 368; water no. 28772; handwritten 49 and 322 at bottom (possibly book/page)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wood St",
+  "direction": "S",
+  "house_number": "8553",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "card very faint and washed out; work line and permit no. unreadable; plan no. 368; water no. 28772; handwritten 49 and 322 at bottom (possibly book/page)"
+ },
+ "in": 2271,
+ "out": 134
+}

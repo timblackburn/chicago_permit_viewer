@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 2300,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p02300_3450868.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1941-10-08\",\"permit_no\":\"128202\",\"notes\":\"Sundry; address line at top is faint handwriting, overexposed and unreadable (possibly starts with 'Wil...'/'Winona'? not certain); permit no. read as 128202, file no. 395101; heavy overexposure and damaged bottom edge\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1941-10-08",
+  "permit_no": "128202",
+  "notes": "Sundry; address line at top is faint handwriting, overexposed and unreadable (possibly starts with 'Wil...'/'Winona'? not certain); permit no. read as 128202, file no. 395101; heavy overexposure and damaged bottom edge"
+ },
+ "in": 2323,
+ "out": 162
+}

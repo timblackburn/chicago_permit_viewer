@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1270753",
+ "slide_index": 3800,
+ "image": "street_index/data/1270753/slides_pct_0-0-100-99_w1000/p03800_3144568.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Avers Ave\",\"direction\":\"S\",\"house_number\":\"4500\",\"permit_date\":\"1953-11-04\",\"permit_no\":\"A 102313\",\"notes\":\"Frame Garage; file no. 454487; bottom edge of card damaged, dark smudges\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Avers Ave",
+  "direction": "S",
+  "house_number": "4500",
+  "permit_date": "1953-11-04",
+  "permit_no": "A 102313",
+  "notes": "Frame Garage; file no. 454487; bottom edge of card damaged, dark smudges"
+ },
+ "in": 2271,
+ "out": 118
+}

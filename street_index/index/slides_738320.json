@@ -569,6 +569,33 @@
   {
     "reel_number": "45",
     "manifest_id": "738320",
+    "slide_index": "5163",
+    "canvas_index": "5162",
+    "iiif_image_id": "2067272",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/2067272/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/738320&cv=5162",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/738320",
+    "width": "1050",
+    "height": "635",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p05163_2067272.jpg",
+    "bytes": "55474",
+    "pass_name": "reel_end",
+    "anchor_slide": "5163",
+    "legibility": "out_of_order",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "",
+    "direction": "",
+    "house_number": "",
+    "permit_date": "",
+    "permit_no": "",
+    "notes": "read as: 4221 Hirsch St (1910-04-19; B 20073); out of filing order; Inspection No. 70411; remarks handwritten \"4221 Hirsch St B. 20073\"; direction not written on card; dark, faint microfilm frame, top of card obscured; street name may be Hirsch (handwriting reads like Hirsch/Hersch)"
+  },
+  {
+    "reel_number": "45",
+    "manifest_id": "738320",
     "slide_index": "5166",
     "canvas_index": "5165",
     "iiif_image_id": "2067268",
@@ -583,7 +610,7 @@
     "bytes": "41700",
     "pass_name": "pass1",
     "anchor_slide": "5166",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Homer St",
@@ -591,6 +618,6 @@
     "house_number": "2028",
     "permit_date": "1912-03-20",
     "permit_no": "A 1896",
-    "notes": "Br B.; N 1 PAGE 88"
+    "notes": "read: ok; Br B.; N 1 PAGE 88"
   }
 ]

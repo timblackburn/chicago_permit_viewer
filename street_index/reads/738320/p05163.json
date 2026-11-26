@@ -1,0 +1,22 @@
+{
+ "manifest_id": "738320",
+ "slide_index": 5163,
+ "image": "street_index/data/738320/slides_pct_0-0-100-99_w1000/p05163_2067272.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hirsch St\",\"direction\":\"\",\"house_number\":\"4221\",\"permit_date\":\"1910-04-19\",\"permit_no\":\"B 20073\",\"notes\":\"Inspection No. 70411; remarks handwritten \\\"4221 Hirsch St B. 20073\\\"; direction not written on card; dark, faint microfilm frame, top of card obscured; street name may be Hirsch (handwriting reads like Hirsch/Hersch)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hirsch St",
+  "direction": "",
+  "house_number": "4221",
+  "permit_date": "1910-04-19",
+  "permit_no": "B 20073",
+  "notes": "Inspection No. 70411; remarks handwritten \"4221 Hirsch St B. 20073\"; direction not written on card; dark, faint microfilm frame, top of card obscured; street name may be Hirsch (handwriting reads like Hirsch/Hersch)"
+ },
+ "in": 2199,
+ "out": 177
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 1800,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p01800_3379212.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"2607\",\"permit_date\":\"1928-05-23\",\"permit_no\":\"\",\"notes\":\"Concrete construction & Repairs; Sundry; card very faint, street name unreadable (possibly 24th St, 'W 24th St' fits reel position but not clearly legible); permit no. faint; file no. faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "2607",
+  "permit_date": "1928-05-23",
+  "permit_no": "",
+  "notes": "Concrete construction & Repairs; Sundry; card very faint, street name unreadable (possibly 24th St, 'W 24th St' fits reel position but not clearly legible); permit no. faint; file no. faint"
+ },
+ "in": 2265,
+ "out": 147
+}

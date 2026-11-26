@@ -650,6 +650,33 @@
   {
     "reel_number": "55",
     "manifest_id": "1038601",
+    "slide_index": "5159",
+    "canvas_index": "5158",
+    "iiif_image_id": "4198920",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/4198920/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1038601&cv=5158",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1038601",
+    "width": "1630",
+    "height": "1070",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p05159_4198920.jpg",
+    "bytes": "46814",
+    "pass_name": "reel_end",
+    "anchor_slide": "5159",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Martin L. King Dr",
+    "direction": "S",
+    "house_number": "3356",
+    "permit_date": "1890-05-27",
+    "permit_no": "1852",
+    "notes": "typed card, faint; old addr: 3356 South Parkway; 'Same.' written on second line; date partly faded (\"ay 27, 1890\")"
+  },
+  {
+    "reel_number": "55",
+    "manifest_id": "1038601",
     "slide_index": "5163",
     "canvas_index": "5162",
     "iiif_image_id": "4198917",
@@ -664,7 +691,7 @@
     "bytes": "91120",
     "pass_name": "pass1",
     "anchor_slide": "5163",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Martin L. King Jr. Dr",
@@ -672,6 +699,6 @@
     "house_number": "2347-49",
     "permit_date": "1912-12-17",
     "permit_no": "A 10255",
-    "notes": "old addr: S. Calumet / SO. PARKWAY stamped SO. MARTIN L. KING JR. DRIVE; Br B; C 4 Page 511"
+    "notes": "read: ok; old addr: S. Calumet / SO. PARKWAY stamped SO. MARTIN L. KING JR. DRIVE; Br B; C 4 Page 511"
   }
 ]

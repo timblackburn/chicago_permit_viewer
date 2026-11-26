@@ -43,15 +43,15 @@
     "bytes": "79279",
     "pass_name": "pass4",
     "anchor_slide": "251",
-    "legibility": "out_of_order",
+    "legibility": "ok",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
-    "street_name": "",
+    "street_name": "Belle Plain Ave",
     "direction": "",
-    "house_number": "",
-    "permit_date": "",
-    "permit_no": "",
-    "notes": "read as: 5225-27 Belle Plain Ave (1914-07-30; A 24526); out of filing order; 2 sty B; Book N 9 Page 133; File No. 68949; permit number and book/page partly faint; no direction written; microfilm image is low contrast"
+    "house_number": "5225-27",
+    "permit_date": "1914-07-30",
+    "permit_no": "A 24526",
+    "notes": "2 sty B; Book N 9 Page 133; File No. 68949; permit number and book/page partly faint; no direction written; microfilm image is low contrast"
   },
   {
     "reel_number": "10",
@@ -650,6 +650,33 @@
   {
     "reel_number": "10",
     "manifest_id": "1260605",
+    "slide_index": "5015",
+    "canvas_index": "5014",
+    "iiif_image_id": "3121723",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/3121723/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1260605&cv=5014",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1260605",
+    "width": "1005",
+    "height": "690",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p05015_3121723.jpg",
+    "bytes": "53445",
+    "pass_name": "reel_end",
+    "anchor_slide": "5015",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Bernard St",
+    "direction": "",
+    "house_number": "5329",
+    "permit_date": "1921-09-27",
+    "permit_no": "A 62592",
+    "notes": "Residence; Book 22 Page 376; plan no 5215; water no 36565; file no 99475; no direction written on card (filed as N per reel range); permit number stamped faintly"
+  },
+  {
+    "reel_number": "10",
+    "manifest_id": "1260605",
     "slide_index": "5019",
     "canvas_index": "5018",
     "iiif_image_id": "3121722",
@@ -664,7 +691,7 @@
     "bytes": "34935",
     "pass_name": "pass1",
     "anchor_slide": "5019",
-    "legibility": "partial",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "no",
     "street_name": "Bernard",
@@ -672,6 +699,6 @@
     "house_number": "",
     "permit_date": "",
     "permit_no": "",
-    "notes": "very faint/washed out card at end of reel"
+    "notes": "read: partial; very faint/washed out card at end of reel"
   }
 ]

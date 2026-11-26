@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 2800,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p02800_3252929.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"125th Pl\",\"direction\":\"W\",\"house_number\":\"526\",\"permit_date\":\"1953-10-01\",\"permit_no\":\"D 100293\",\"notes\":\"Book 68 Page 43; Plumbing and Vent printed on card; type of work line faint; Plan no. 453H; File no. 452157\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "125th Pl",
+  "direction": "W",
+  "house_number": "526",
+  "permit_date": "1953-10-01",
+  "permit_no": "D 100293",
+  "notes": "Book 68 Page 43; Plumbing and Vent printed on card; type of work line faint; Plan no. 453H; File no. 452157"
+ },
+ "in": 2264,
+ "out": 132
+}

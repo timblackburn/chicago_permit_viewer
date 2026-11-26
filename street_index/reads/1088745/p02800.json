@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1088745",
+ "slide_index": 2800,
+ "image": "street_index/data/1088745/slides_pct_0-0-100-99_w1000/p02800_2782068.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoxie St\",\"direction\":\"\",\"house_number\":\"10431\",\"permit_date\":\"1902-09-10\",\"permit_no\":\"3662\",\"notes\":\"Same; house number has a handwritten letter (looks like S) overwritten, so direction is uncertain; card is typed and faint, and the number could be 10431 or 10432\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoxie St",
+  "direction": "",
+  "house_number": "10431",
+  "permit_date": "1902-09-10",
+  "permit_no": "3662",
+  "notes": "Same; house number has a handwritten letter (looks like S) overwritten, so direction is uncertain; card is typed and faint, and the number could be 10431 or 10432"
+ },
+ "in": 2310,
+ "out": 139
+}

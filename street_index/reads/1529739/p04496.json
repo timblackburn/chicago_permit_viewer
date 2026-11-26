@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1529739",
+ "slide_index": 4496,
+ "image": "street_index/data/1529739/slides_pct_0-0-100-99_w1000/p04496_3661121.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Seeley Ave\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; house number begins 5035? but last digit unclear (reads 503_); kind of work reads 'Sale'?; permit details unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Seeley Ave",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; house number begins 5035? but last digit unclear (reads 503_); kind of work reads 'Sale'?; permit details unreadable"
+ },
+ "in": 2317,
+ "out": 132
+}

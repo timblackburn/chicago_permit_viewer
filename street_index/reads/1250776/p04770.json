@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 4770,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p04770_3102264.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bosworth Ave\",\"direction\":\"\",\"house_number\":\"6551\",\"permit_date\":\"1911-03-16\",\"permit_no\":\"N 78071\",\"notes\":\"File No. 38256 (faint); card dark and spotted; permit no. prefix read as N, uncertain; B written below address (possibly building type)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bosworth Ave",
+  "direction": "",
+  "house_number": "6551",
+  "permit_date": "1911-03-16",
+  "permit_no": "N 78071",
+  "notes": "File No. 38256 (faint); card dark and spotted; permit no. prefix read as N, uncertain; B written below address (possibly building type)"
+ },
+ "in": 2238,
+ "out": 135
+}

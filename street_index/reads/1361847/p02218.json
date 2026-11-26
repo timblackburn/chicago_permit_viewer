@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 2218,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p02218_3329639.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"62nd St\",\"direction\":\"W\",\"house_number\":\"3914\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"card is faint and overexposed; permit no. mostly unreadable; plan no. and file no. faint; date of permit blank; house number read as 3914 (sits between 3253 and 3420 W 62nd Pl context); handwritten 'S' near middle of card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "62nd St",
+  "direction": "W",
+  "house_number": "3914",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "card is faint and overexposed; permit no. mostly unreadable; plan no. and file no. faint; date of permit blank; house number read as 3914 (sits between 3253 and 3420 W 62nd Pl context); handwritten 'S' near middle of card"
+ },
+ "in": 2306,
+ "out": 160
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1093813",
+ "slide_index": 4861,
+ "image": "street_index/data/1093813/slides_pct_0-0-100-99_w1000/p04861_2787735.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hermosa Ave\",\"direction\":\"\",\"house_number\":\"11336\",\"permit_date\":\"1925-06-08\",\"permit_no\":\"10943\",\"notes\":\"Shed; Sundry; File no. 138694; no direction written; date stamp faint, day read as 8; low contrast scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hermosa Ave",
+  "direction": "",
+  "house_number": "11336",
+  "permit_date": "1925-06-08",
+  "permit_no": "10943",
+  "notes": "Shed; Sundry; File no. 138694; no direction written; date stamp faint, day read as 8; low contrast scan"
+ },
+ "in": 2286,
+ "out": 127
+}

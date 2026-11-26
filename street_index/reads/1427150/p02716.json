@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 2716,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p02716_3457716.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Winchester Ave\",\"direction\":\"N\",\"house_number\":\"7022\",\"permit_date\":\"\",\"permit_no\":\"B 21,096\",\"notes\":\"Kind of building: B; permit number partly faint, the last digits are uncertain; date of permit is blank; overexposed card, faint print.\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Winchester Ave",
+  "direction": "N",
+  "house_number": "7022",
+  "permit_date": "",
+  "permit_no": "B 21,096",
+  "notes": "Kind of building: B; permit number partly faint, the last digits are uncertain; date of permit is blank; overexposed card, faint print."
+ },
+ "in": 2281,
+ "out": 127
+}

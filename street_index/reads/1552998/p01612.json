@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 1612,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p01612_3715592.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Ridgeway Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line reads approx '2753 ... Ridgeway Ave.' with second line '1340 ... Ridgeway' (possible old addr); house number partly washed out; direction not readable; date faint, appears to be 1906 ('A.. .., 1906'); permit no. possibly 2002 but unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Ridgeway Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line reads approx '2753 ... Ridgeway Ave.' with second line '1340 ... Ridgeway' (possible old addr); house number partly washed out; direction not readable; date faint, appears to be 1906 ('A.. .., 1906'); permit no. possibly 2002 but unclear"
+ },
+ "in": 2322,
+ "out": 190
+}

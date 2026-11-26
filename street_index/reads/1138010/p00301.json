@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 301,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p00301_2886325.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Fletcher St\",\"direction\":\"\",\"house_number\":\"2151\",\"permit_date\":\"1926-09-15\",\"permit_no\":\"17049\",\"notes\":\"Replace post foundation; Sundry; no direction written; date partly faint (Sep 15 1926); plan/file no. 147985; low-contrast film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Fletcher St",
+  "direction": "",
+  "house_number": "2151",
+  "permit_date": "1926-09-15",
+  "permit_no": "17049",
+  "notes": "Replace post foundation; Sundry; no direction written; date partly faint (Sep 15 1926); plan/file no. 147985; low-contrast film"
+ },
+ "in": 2271,
+ "out": 134
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1749849",
+ "slide_index": 5069,
+ "image": "street_index/data/1749849/slides_pct_0-0-100-99_w1000/p05069_4101312.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Knox Ave\",\"direction\":\"S\",\"house_number\":\"6427-29-31\",\"permit_date\":\"1929-05-14\",\"permit_no\":\"B 32353\",\"notes\":\"Res; Book 47 Page 46 (entered line partly faint); plan no 270; water no 17844; file no 208933; card creased and darkened, date faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Knox Ave",
+  "direction": "S",
+  "house_number": "6427-29-31",
+  "permit_date": "1929-05-14",
+  "permit_no": "B 32353",
+  "notes": "Res; Book 47 Page 46 (entered line partly faint); plan no 270; water no 17844; file no 208933; card creased and darkened, date faint"
+ },
+ "in": 2276,
+ "out": 143
+}

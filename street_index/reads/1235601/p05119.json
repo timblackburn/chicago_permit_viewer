@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1235601",
+ "slide_index": 5119,
+ "image": "street_index/data/1235601/slides_pct_0-0-100-99_w1000/p05119_3071587.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Carmen Ave\",\"direction\":\"\",\"house_number\":\"1625\",\"permit_date\":\"1897-10-21\",\"permit_no\":\"N 790\",\"notes\":\"old addr: 733 Carmen Ave; typed card, faint; no direction given; permit number appears as N.790\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Carmen Ave",
+  "direction": "",
+  "house_number": "1625",
+  "permit_date": "1897-10-21",
+  "permit_no": "N 790",
+  "notes": "old addr: 733 Carmen Ave; typed card, faint; no direction given; permit number appears as N.790"
+ },
+ "in": 2276,
+ "out": 123
+}

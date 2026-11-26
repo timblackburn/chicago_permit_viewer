@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1098681",
+ "slide_index": 4919,
+ "image": "street_index/data/1098681/slides_pct_0-0-100-99_w1000/p04919_2797638.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Harvard Ave\",\"direction\":\"S\",\"house_number\":\"12456\",\"permit_date\":\"1941-07-14\",\"permit_no\":\"55986\",\"notes\":\"Residence, 1 sty frame (handwritten, partly faint); Book 51 Page 572; plan no 3823; water no 42278; file no 301974\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Harvard Ave",
+  "direction": "S",
+  "house_number": "12456",
+  "permit_date": "1941-07-14",
+  "permit_no": "55986",
+  "notes": "Residence, 1 sty frame (handwritten, partly faint); Book 51 Page 572; plan no 3823; water no 42278; file no 301974"
+ },
+ "in": 2313,
+ "out": 137
+}

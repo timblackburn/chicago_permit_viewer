@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1123712",
+ "slide_index": 3386,
+ "image": "street_index/data/1123712/slides_pct_0-0-100-99_w1000/p03386_2849561.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grand Ave\",\"direction\":\"W\",\"house_number\":\"2204\",\"permit_date\":\"1928-06-20\",\"permit_no\":\"326748\",\"notes\":\"Addition; Book W Page 353 (stamped 'Entered W 92 Page 353', faint); card faint and low contrast; water no. 12058; plan no. 4399; file no. 192380 (approx.)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grand Ave",
+  "direction": "W",
+  "house_number": "2204",
+  "permit_date": "1928-06-20",
+  "permit_no": "326748",
+  "notes": "Addition; Book W Page 353 (stamped 'Entered W 92 Page 353', faint); card faint and low contrast; water no. 12058; plan no. 4399; file no. 192380 (approx.)"
+ },
+ "in": 2279,
+ "out": 155
+}

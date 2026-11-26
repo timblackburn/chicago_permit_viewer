@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 1886,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p01886_3646911.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Southport Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1913-05-16\",\"permit_no\":\"A\",\"notes\":\"Br B; Book N Page 3 (faint); house number faint, appears to be 352 or 35_2 but not reliable; permit number prefix A only, number not readable; File No. 38355; card faint and damaged at bottom edge\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Southport Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1913-05-16",
+  "permit_no": "A",
+  "notes": "Br B; Book N Page 3 (faint); house number faint, appears to be 352 or 35_2 but not reliable; permit number prefix A only, number not readable; File No. 38355; card faint and damaged at bottom edge"
+ },
+ "in": 2311,
+ "out": 157
+}

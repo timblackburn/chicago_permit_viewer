@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 2300,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p02300_4015534.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lunt Ave\",\"direction\":\"\",\"house_number\":\"2111\",\"permit_date\":\"1923-09-19\",\"permit_no\":\"A 823644\",\"notes\":\"Flats; Book N 25 Page 592; direction not written on card; permit no. partly faint, last digits uncertain; B written beside house number; card faint and overexposed; handwriting mostly clear for address; file no. 52989; RP stamp top right; water no. faint and unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lunt Ave",
+  "direction": "",
+  "house_number": "2111",
+  "permit_date": "1923-09-19",
+  "permit_no": "A 823644",
+  "notes": "Flats; Book N 25 Page 592; direction not written on card; permit no. partly faint, last digits uncertain; B written beside house number; card faint and overexposed; handwriting mostly clear for address; file no. 52989; RP stamp top right; water no. faint and unreadable"
+ },
+ "in": 2310,
+ "out": 180
+}

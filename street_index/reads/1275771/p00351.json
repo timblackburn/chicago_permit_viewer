@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 351,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p00351_3161640.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Astor St\",\"direction\":\"\",\"house_number\":\"1507\",\"permit_date\":\"1911-03-08\",\"permit_no\":\"B 28022\",\"notes\":\"Permit number handwritten and faint, read as B 28022 (uncertain); file no. stamped faintly (97390?); card is low contrast and noisy; no direction written; no kind of work given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Astor St",
+  "direction": "",
+  "house_number": "1507",
+  "permit_date": "1911-03-08",
+  "permit_no": "B 28022",
+  "notes": "Permit number handwritten and faint, read as B 28022 (uncertain); file no. stamped faintly (97390?); card is low contrast and noisy; no direction written; no kind of work given"
+ },
+ "in": 2273,
+ "out": 146
+}

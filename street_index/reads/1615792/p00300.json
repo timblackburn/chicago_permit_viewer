@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1615792",
+ "slide_index": 300,
+ "image": "street_index/data/1615792/slides_pct_0-0-100-99_w1000/p00300_3842821.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"North Ave\",\"direction\":\"W\",\"house_number\":\"3527-31\",\"permit_date\":\"1907-10-28\",\"permit_no\":\"10573\",\"notes\":\"old addr: 1340-44 W North Ave; typed card, no building type or ledger reference; some speckling and streaks along the bottom edge\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "North Ave",
+  "direction": "W",
+  "house_number": "3527-31",
+  "permit_date": "1907-10-28",
+  "permit_no": "10573",
+  "notes": "old addr: 1340-44 W North Ave; typed card, no building type or ledger reference; some speckling and streaks along the bottom edge"
+ },
+ "in": 2307,
+ "out": 131
+}

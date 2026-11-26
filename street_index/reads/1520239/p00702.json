@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 702,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p00702_3649286.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"S\",\"house_number\":\"7132-34\",\"permit_date\":\"1917-03-20\",\"permit_no\":\"A 45701\",\"notes\":\"Br B.; Book S 79 Page 123; Plan 1005; Water No. 19814; File No. 28857; date of permit partly faint (Mar 20 1917)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "S",
+  "house_number": "7132-34",
+  "permit_date": "1917-03-20",
+  "permit_no": "A 45701",
+  "notes": "Br B.; Book S 79 Page 123; Plan 1005; Water No. 19814; File No. 28857; date of permit partly faint (Mar 20 1917)"
+ },
+ "in": 2314,
+ "out": 147
+}

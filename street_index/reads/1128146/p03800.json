@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 3800,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p03800_2858905.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Giddings St\",\"direction\":\"\",\"house_number\":\"5746\",\"permit_date\":\"1916-04-26\",\"permit_no\":\"A 29957\",\"notes\":\"Br B.; Book N 9 Page 475; old addr: 3972; direction not written on card; house number and street handwritten at top, first digits slightly blurred; file no. 84738; permit no. partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Giddings St",
+  "direction": "",
+  "house_number": "5746",
+  "permit_date": "1916-04-26",
+  "permit_no": "A 29957",
+  "notes": "Br B.; Book N 9 Page 475; old addr: 3972; direction not written on card; house number and street handwritten at top, first digits slightly blurred; file no. 84738; permit no. partly faint"
+ },
+ "in": 2271,
+ "out": 153
+}

@@ -92,6 +92,7 @@ def main() -> int:
         s_st, s_num, s_dir = parse_endpoint(r.get("start_address_raw", ""))
         e_st, e_num, e_dir = parse_endpoint(r.get("end_address_raw", ""))
         anchors = []
+        retakes = []   # cards photographed again at the end of the reel: not in filing order, so never anchors
         scsv = SI_INDEX_DIR / f"slides_{mid}.csv"
         if scsv.exists():
             with scsv.open("r", encoding="utf-8", newline="") as f:
@@ -100,7 +101,7 @@ def main() -> int:
                         raw_num = (row.get("house_number") or "").strip()
                         m_num = re.match(r"^(\d+)", raw_num)
                         num_val = int(m_num.group(1)) if m_num else None
-                        anchors.append(
+                        (retakes if (row.get("legibility") or "") == "retake" else anchors).append(
                             {
                                 "s": int(row["slide_index"]),
                                 "id": row["iiif_image_id"],
@@ -112,7 +113,7 @@ def main() -> int:
                                 "dt": row.get("permit_date", ""),
                             }
                         )
-                        si_anchors_count += 1
+                        si_anchors_count += (row.get("legibility") or "") != "retake"
         reels_out.append(
             {
                 "n": r.get("reel_number"),
@@ -129,6 +130,7 @@ def main() -> int:
                 "e_num": e_num,
                 "e_dir": e_dir,
                 "anchors": anchors,
+                "retakes": retakes,
             }
         )
 

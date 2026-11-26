@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 4718,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p04718_3613415.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card is severely overexposed/washed out; only faint traces of text at top (possibly starting '5085' or '5086') and a faint mark near right ('1946'?) that cannot be read reliably. Expected near Superior St but not visible.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card is severely overexposed/washed out; only faint traces of text at top (possibly starting '5085' or '5086') and a faint mark near right ('1946'?) that cannot be read reliably. Expected near Superior St but not visible."
+ },
+ "in": 2268,
+ "out": 145
+}

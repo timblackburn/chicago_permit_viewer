@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1215162",
+ "slide_index": 3300,
+ "image": "street_index/data/1215162/slides_pct_0-0-100-99_w1000/p03300_3033939.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"S\",\"house_number\":\"2\",\"permit_date\":\"1926-05-27\",\"permit_no\":\"10405\",\"notes\":\"Sign on Bldg 6x1.6; Sundry; owner T. R. McMahon; permit no. faint, last digits uncertain; plan no. 137603\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "S",
+  "house_number": "2",
+  "permit_date": "1926-05-27",
+  "permit_no": "10405",
+  "notes": "Sign on Bldg 6x1.6; Sundry; owner T. R. McMahon; permit no. faint, last digits uncertain; plan no. 137603"
+ },
+ "in": 2276,
+ "out": 136
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 4300,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p04300_3315930.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"very faint, overexposed typed card; two addresses appear to be lines ending 'E. 77th St.' and 'E. 7?th St.' but not reliably readable and inconsistent with reel position; date partly visible '..., 1895?' unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "very faint, overexposed typed card; two addresses appear to be lines ending 'E. 77th St.' and 'E. 7?th St.' but not reliably readable and inconsistent with reel position; date partly visible '..., 1895?' unclear"
+ },
+ "in": 2269,
+ "out": 150
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 4917,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p04917_4000472.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Major Ave\",\"direction\":\"N\",\"house_number\":\"5728\",\"permit_date\":\"1953-06-12\",\"permit_no\":\"A 93542\",\"notes\":\"Frame Garage; File No. 445823; Book and Page blank; handwritten address, otherwise clear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Major Ave",
+  "direction": "N",
+  "house_number": "5728",
+  "permit_date": "1953-06-12",
+  "permit_no": "A 93542",
+  "notes": "Frame Garage; File No. 445823; Book and Page blank; handwritten address, otherwise clear"
+ },
+ "in": 2302,
+ "out": 121
+}

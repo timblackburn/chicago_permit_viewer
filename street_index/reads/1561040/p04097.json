@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 4097,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p04097_3723645.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridge Blvd\",\"direction\":\"\",\"house_number\":\"6756\",\"permit_date\":\"1922-09-08\",\"permit_no\":\"A 71801\",\"notes\":\"Br B.; fr stores; Book N 25 Page 156; water no. 46498; file no. 23603; plan no. 7434; card photographed at an angle, direction not written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridge Blvd",
+  "direction": "",
+  "house_number": "6756",
+  "permit_date": "1922-09-08",
+  "permit_no": "A 71801",
+  "notes": "Br B.; fr stores; Book N 25 Page 156; water no. 46498; file no. 23603; plan no. 7434; card photographed at an angle, direction not written"
+ },
+ "in": 2349,
+ "out": 145
+}

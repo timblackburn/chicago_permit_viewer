@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 2300,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p02300_3272521.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"104th St\",\"direction\":\"W\",\"house_number\":\"137\",\"permit_date\":\"1931-04-14\",\"permit_no\":\"\",\"notes\":\"Fr Garage; Sundry; file no. 233064; permit no. handwritten but too faint to read; card is faint, low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "104th St",
+  "direction": "W",
+  "house_number": "137",
+  "permit_date": "1931-04-14",
+  "permit_no": "",
+  "notes": "Fr Garage; Sundry; file no. 233064; permit no. handwritten but too faint to read; card is faint, low contrast"
+ },
+ "in": 2265,
+ "out": 123
+}

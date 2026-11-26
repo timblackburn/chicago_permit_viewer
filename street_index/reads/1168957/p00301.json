@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 301,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p00301_2947687.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Division St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1907\",\"permit_no\":\"\",\"notes\":\"typed card, very faint; two address lines: top line reads like old addr: 1914-16 ... Division St, second line 368-70 W. Division St (shown filed between 1500 W and 2159 W, so the 368-70 likely is the old number and 1914-16 the new, but uncertain); number 0169 possibly permit/ledger ref; date partly legible \\\"... 17, 1907\\\"; faint and overexposed\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Division St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1907",
+  "permit_no": "",
+  "notes": "typed card, very faint; two address lines: top line reads like old addr: 1914-16 ... Division St, second line 368-70 W. Division St (shown filed between 1500 W and 2159 W, so the 368-70 likely is the old number and 1914-16 the new, but uncertain); number 0169 possibly permit/ledger ref; date partly legible \"... 17, 1907\"; faint and overexposed"
+ },
+ "in": 2264,
+ "out": 209
+}

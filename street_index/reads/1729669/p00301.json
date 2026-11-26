@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1729669",
+ "slide_index": 301,
+ "image": "street_index/data/1729669/slides_pct_0-0-100-99_w1000/p00301_4070257.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Laramie Ave\",\"direction\":\"N\",\"house_number\":\"2128\",\"permit_date\":\"1948-07-30\",\"permit_no\":\"A 16023\",\"notes\":\"Repair rear porch; File no. 366589\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Laramie Ave",
+  "direction": "N",
+  "house_number": "2128",
+  "permit_date": "1948-07-30",
+  "permit_no": "A 16023",
+  "notes": "Repair rear porch; File no. 366589"
+ },
+ "in": 2276,
+ "out": 103
+}

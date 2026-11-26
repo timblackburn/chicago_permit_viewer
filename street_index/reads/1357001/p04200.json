@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 4200,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p04200_3316152.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"67th St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1951-11-06\",\"permit_no\":\"A 67221\",\"notes\":\"Level Bldg + install conc fdn; house number faint, appears to be 196? with a possible direction mark, not confidently readable; permit no. and file no. (12 6301?) faint; card faded and low contrast; stamp NOV 6 1951 partly legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "67th St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1951-11-06",
+  "permit_no": "A 67221",
+  "notes": "Level Bldg + install conc fdn; house number faint, appears to be 196? with a possible direction mark, not confidently readable; permit no. and file no. (12 6301?) faint; card faded and low contrast; stamp NOV 6 1951 partly legible"
+ },
+ "in": 2269,
+ "out": 167
+}

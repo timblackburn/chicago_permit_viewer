@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 4846,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p04846_3417310.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"17th St\",\"direction\":\"W\",\"house_number\":\"2033\",\"permit_date\":\"1949-05-27\",\"permit_no\":\"A 27190\",\"notes\":\"Frame Garage; file no. 377609; house number first digit slightly ambiguous, read as 2033 from reel range; low contrast film\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "17th St",
+  "direction": "W",
+  "house_number": "2033",
+  "permit_date": "1949-05-27",
+  "permit_no": "A 27190",
+  "notes": "Frame Garage; file no. 377609; house number first digit slightly ambiguous, read as 2033 from reel range; low contrast film"
+ },
+ "in": 2265,
+ "out": 129
+}

@@ -623,6 +623,33 @@
   {
     "reel_number": "18",
     "manifest_id": "1296638",
+    "slide_index": "5108",
+    "canvas_index": "5107",
+    "iiif_image_id": "3194121",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/3194121/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1296638&cv=5107",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1296638",
+    "width": "1040",
+    "height": "700",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p05108_3194121.jpg",
+    "bytes": "75613",
+    "pass_name": "reel_end",
+    "anchor_slide": "5108",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Chicago Ave",
+    "direction": "W",
+    "house_number": "3634-6",
+    "permit_date": "1923-03-29",
+    "permit_no": "A 76819",
+    "notes": "Stores & Apts; Book W 24 Page 473; Plan no. 2385; Water no. 51589; File no. 36737"
+  },
+  {
+    "reel_number": "18",
+    "manifest_id": "1296638",
     "slide_index": "5112",
     "canvas_index": "5111",
     "iiif_image_id": "3194123",
@@ -637,7 +664,7 @@
     "bytes": "86071",
     "pass_name": "pass1",
     "anchor_slide": "5112",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Chestnut St",
@@ -645,6 +672,6 @@
     "house_number": "180-198",
     "permit_date": "1911-04-12",
     "permit_no": "N 28170",
-    "notes": "rewritten in remarks: 180-198 E Chestnut St; misfiled at end of reel"
+    "notes": "read: ok; rewritten in remarks: 180-198 E Chestnut St; misfiled at end of reel"
   }
 ]

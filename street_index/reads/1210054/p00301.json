@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1210054",
+ "slide_index": 301,
+ "image": "street_index/data/1210054/slides_pct_0-0-100-99_w1000/p00301_3030106.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Clark St\",\"direction\":\"N\",\"house_number\":\"1449\",\"permit_date\":\"1891-12-11\",\"permit_no\":\"4311\",\"notes\":\"old addr: 598 N. Clark St (partly faded, first letter of Clark missing); typed card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Clark St",
+  "direction": "N",
+  "house_number": "1449",
+  "permit_date": "1891-12-11",
+  "permit_no": "4311",
+  "notes": "old addr: 598 N. Clark St (partly faded, first letter of Clark missing); typed card"
+ },
+ "in": 2275,
+ "out": 116
+}

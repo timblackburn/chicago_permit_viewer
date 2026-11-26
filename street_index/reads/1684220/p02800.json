@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1684220",
+ "slide_index": 2800,
+ "image": "street_index/data/1684220/slides_pct_0-0-100-99_w1000/p02800_3975271.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Massasoot Ave\",\"direction\":\"S\",\"house_number\":\"6023\",\"permit_date\":\"1944-03-16\",\"permit_no\":\"\",\"notes\":\"1 sty Br Res; file no 321619; permit no stamped but too faint to read; plan no and water no faint; ledger reference partly legible (Page ...) but unclear; card overexposed and stained; spelling Massasoot per handwriting looks like Massasoit/Massasoot\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Massasoot Ave",
+  "direction": "S",
+  "house_number": "6023",
+  "permit_date": "1944-03-16",
+  "permit_no": "",
+  "notes": "1 sty Br Res; file no 321619; permit no stamped but too faint to read; plan no and water no faint; ledger reference partly legible (Page ...) but unclear; card overexposed and stained; spelling Massasoot per handwriting looks like Massasoit/Massasoot"
+ },
+ "in": 2236,
+ "out": 179
+}

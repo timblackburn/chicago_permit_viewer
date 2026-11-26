@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 702,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p00702_3564157.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Troy St\",\"direction\":\"S\",\"house_number\":\"1113\",\"permit_date\":\"1911-11-14\",\"permit_no\":\"A 317\",\"notes\":\"S.W. permit (sidewalk); marked B; date stamped NOV 14 1911; file no. and remarks faint/blank; high-contrast frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Troy St",
+  "direction": "S",
+  "house_number": "1113",
+  "permit_date": "1911-11-14",
+  "permit_no": "A 317",
+  "notes": "S.W. permit (sidewalk); marked B; date stamped NOV 14 1911; file no. and remarks faint/blank; high-contrast frame"
+ },
+ "in": 2276,
+ "out": 135
+}

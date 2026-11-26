@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1600737",
+ "slide_index": 4788,
+ "image": "street_index/data/1600737/slides_pct_0-0-100-99_w1000/p04788_3803488.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ozark Ave\",\"direction\":\"\",\"house_number\":\"6149\",\"permit_date\":\"1945-09-17\",\"permit_no\":\"144057\",\"notes\":\"Frame Garage; Sundry; file no 331537; no direction written on card; card has no street type, Ave assumed from reel position\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ozark Ave",
+  "direction": "",
+  "house_number": "6149",
+  "permit_date": "1945-09-17",
+  "permit_no": "144057",
+  "notes": "Frame Garage; Sundry; file no 331537; no direction written on card; card has no street type, Ave assumed from reel position"
+ },
+ "in": 2316,
+ "out": 127
+}

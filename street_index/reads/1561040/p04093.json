@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1561040",
+ "slide_index": 4093,
+ "image": "street_index/data/1561040/slides_pct_0-0-100-99_w1000/p04093_3723646.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridge Ave\",\"direction\":\"N\",\"house_number\":\"7121-29\",\"permit_date\":\"\",\"permit_no\":\"A 62519\",\"notes\":\"Stores; Book 22 Page 361; address top line reads 7121/29 Ridge Avenue 83rd (partly struck through); water no. 36138; plan no. 4909; file no. 98469; date of permit stamped Sep 14, year not legible; direction not written on card, supplied from reel range; card dark and smudged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridge Ave",
+  "direction": "N",
+  "house_number": "7121-29",
+  "permit_date": "",
+  "permit_no": "A 62519",
+  "notes": "Stores; Book 22 Page 361; address top line reads 7121/29 Ridge Avenue 83rd (partly struck through); water no. 36138; plan no. 4909; file no. 98469; date of permit stamped Sep 14, year not legible; direction not written on card, supplied from reel range; card dark and smudged"
+ },
+ "in": 2283,
+ "out": 191
+}

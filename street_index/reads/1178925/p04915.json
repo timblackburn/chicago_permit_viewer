@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 4915,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p04915_2958421.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Nevada Ave\",\"direction\":\"S\",\"house_number\":\"6649\",\"permit_date\":\"1927-03-22\",\"permit_no\":\"23856\",\"notes\":\"Garage; Deming Sundry stamp; Plan no. 159994; date stamped MAR 22 1927; card slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Nevada Ave",
+  "direction": "S",
+  "house_number": "6649",
+  "permit_date": "1927-03-22",
+  "permit_no": "23856",
+  "notes": "Garage; Deming Sundry stamp; Plan no. 159994; date stamped MAR 22 1927; card slightly faint"
+ },
+ "in": 2310,
+ "out": 130
+}

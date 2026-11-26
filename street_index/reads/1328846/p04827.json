@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 4827,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p04827_3258638.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"112th St\",\"direction\":\"E\",\"house_number\":\"7\",\"permit_date\":\"1911\",\"permit_no\":\"\",\"notes\":\"handwritten card; inspection no. faint (about 9241?); owner/agent line unclear; date of permit faint, reads like Mar. 1911; photographed copy faded, with ink blot\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "112th St",
+  "direction": "E",
+  "house_number": "7",
+  "permit_date": "1911",
+  "permit_no": "",
+  "notes": "handwritten card; inspection no. faint (about 9241?); owner/agent line unclear; date of permit faint, reads like Mar. 1911; photographed copy faded, with ink blot"
+ },
+ "in": 2264,
+ "out": 137
+}

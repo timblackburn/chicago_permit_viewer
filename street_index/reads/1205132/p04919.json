@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4919,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04919_3010833.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Colfax Ave\",\"direction\":\"\",\"house_number\":\"7938\",\"permit_date\":\"1911-04-07\",\"permit_no\":\"S 28957\",\"notes\":\"B written below address; File No. faint; no direction written; card is low-contrast and speckled\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Colfax Ave",
+  "direction": "",
+  "house_number": "7938",
+  "permit_date": "1911-04-07",
+  "permit_no": "S 28957",
+  "notes": "B written below address; File No. faint; no direction written; card is low-contrast and speckled"
+ },
+ "in": 2197,
+ "out": 115
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 706,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p00706_3461722.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Willard Ct\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Card heavily overexposed/washed out; header \\\"N. WILLARD CT.\\\" readable at top right; left-side address lines (possibly a house number and \\\"Aggr.\\\" lines) too faint to read; no permit details legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Willard Ct",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Card heavily overexposed/washed out; header \"N. WILLARD CT.\" readable at top right; left-side address lines (possibly a house number and \"Aggr.\" lines) too faint to read; no permit details legible"
+ },
+ "in": 2277,
+ "out": 149
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 802,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p00802_3959357.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Melrose St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1920-10-21\",\"permit_no\":\"62730\",\"notes\":\"Furnish flat in Attic; Sundry; File no. 218222; handwriting faint, house number begins 2 and may be 274 or 2741 but is not certain; date year read as 1920 with the day partly blurred\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Melrose St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1920-10-21",
+  "permit_no": "62730",
+  "notes": "Furnish flat in Attic; Sundry; File no. 218222; handwriting faint, house number begins 2 and may be 274 or 2741 but is not certain; date year read as 1920 with the day partly blurred"
+ },
+ "in": 2274,
+ "out": 152
+}

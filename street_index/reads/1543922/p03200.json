@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 3200,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p03200_3693041.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sacramento Ave\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faded/overexposed; first line appears \\\"3118 N. Sacramento Ave.,\\\" but last digit unclear; second line \\\"1943 L. ...\\\" unreadable; date possibly ends 19..; old addr unknown\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sacramento Ave",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faded/overexposed; first line appears \"3118 N. Sacramento Ave.,\" but last digit unclear; second line \"1943 L. ...\" unreadable; date possibly ends 19..; old addr unknown"
+ },
+ "in": 2281,
+ "out": 156
+}

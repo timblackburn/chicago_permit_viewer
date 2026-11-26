@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1250776",
+ "slide_index": 4766,
+ "image": "street_index/data/1250776/slides_pct_0-0-100-99_w1000/p04766_3102266.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Broadway\",\"direction\":\"\",\"house_number\":\"6138-40\",\"permit_date\":\"1921-12-14\",\"permit_no\":\"\",\"notes\":\"work line faint, possibly \\\"service station\\\"; permit no. faint and unreadable; File no. 180905; ledger entry \\\"Entered in Book 58 Page 578\\\" faint; no direction written; card faint and blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Broadway",
+  "direction": "",
+  "house_number": "6138-40",
+  "permit_date": "1921-12-14",
+  "permit_no": "",
+  "notes": "work line faint, possibly \"service station\"; permit no. faint and unreadable; File no. 180905; ledger entry \"Entered in Book 58 Page 578\" faint; no direction written; card faint and blurry"
+ },
+ "in": 2274,
+ "out": 154
+}

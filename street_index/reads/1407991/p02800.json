@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1407991",
+ "slide_index": 2800,
+ "image": "street_index/data/1407991/slides_pct_0-0-100-99_w1000/p02800_3421256.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"14th Pl\",\"direction\":\"W\",\"house_number\":\"928-36\",\"permit_date\":\"1947-07-14\",\"permit_no\":\"B 03275\",\"notes\":\"1-1 sty garage; Book 57 Page 298; Sundry; Plan no 6100; File no 351018\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "14th Pl",
+  "direction": "W",
+  "house_number": "928-36",
+  "permit_date": "1947-07-14",
+  "permit_no": "B 03275",
+  "notes": "1-1 sty garage; Book 57 Page 298; Sundry; Plan no 6100; File no 351018"
+ },
+ "in": 2304,
+ "out": 125
+}

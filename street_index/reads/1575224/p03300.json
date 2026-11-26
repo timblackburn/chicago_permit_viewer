@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 3300,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p03300_3755935.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Princeton Ave\",\"direction\":\"\",\"house_number\":\"3221\",\"permit_date\":\"1927-05-27\",\"permit_no\":\"28123\",\"notes\":\"Brick Garage; Sundry; no direction written; permit no. 28123 stamped below the address line; file no. 166529; card is blurry and faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Princeton Ave",
+  "direction": "",
+  "house_number": "3221",
+  "permit_date": "1927-05-27",
+  "permit_no": "28123",
+  "notes": "Brick Garage; Sundry; no direction written; permit no. 28123 stamped below the address line; file no. 166529; card is blurry and faint in places"
+ },
+ "in": 2283,
+ "out": 136
+}

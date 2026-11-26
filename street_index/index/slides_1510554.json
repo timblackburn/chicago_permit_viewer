@@ -542,6 +542,33 @@
   {
     "reel_number": "103",
     "manifest_id": "1510554",
+    "slide_index": "4632",
+    "canvas_index": "4631",
+    "iiif_image_id": "3622662",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/3622662/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1510554&cv=4631",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1510554",
+    "width": "1005",
+    "height": "675",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1510554/slides_pct_0-0-100-99_w1000/p04632_3622662.jpg",
+    "bytes": "47911",
+    "pass_name": "reel_end",
+    "anchor_slide": "4632",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "State St",
+    "direction": "S",
+    "house_number": "10503",
+    "permit_date": "1922-07-28",
+    "permit_no": "A 70622",
+    "notes": "Cott (kind of building, handwritten, partly overwritten); Book S 76 Page 288; water no. 45325; file no. 20355; house number has overwriting/corrections, scan is grainy"
+  },
+  {
+    "reel_number": "103",
+    "manifest_id": "1510554",
     "slide_index": "4636",
     "canvas_index": "4635",
     "iiif_image_id": "3622660",
@@ -556,7 +583,7 @@
     "bytes": "36389",
     "pass_name": "pass1",
     "anchor_slide": "4636",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "State St",
@@ -564,6 +591,6 @@
     "house_number": "10136/56",
     "permit_date": "",
     "permit_no": "74931",
-    "notes": "fr Cott, Book S 24 Page 119"
+    "notes": "read: ok; fr Cott, Book S 24 Page 119"
   }
 ]

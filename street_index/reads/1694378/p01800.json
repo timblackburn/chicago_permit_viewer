@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1694378",
+ "slide_index": 1800,
+ "image": "street_index/data/1694378/slides_pct_0-0-100-99_w1000/p01800_3996651.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Maplewood Ave\",\"direction\":\"N\",\"house_number\":\"1441\",\"permit_date\":\"1953-10-19\",\"permit_no\":\"H 101264\",\"notes\":\"Frame Garage; file no 453471; house number handwritten, read as 1441 (first digits slightly ambiguous); bottom edge has smudges and stains\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Maplewood Ave",
+  "direction": "N",
+  "house_number": "1441",
+  "permit_date": "1953-10-19",
+  "permit_no": "H 101264",
+  "notes": "Frame Garage; file no 453471; house number handwritten, read as 1441 (first digits slightly ambiguous); bottom edge has smudges and stains"
+ },
+ "in": 2309,
+ "out": 141
+}

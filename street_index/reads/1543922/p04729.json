@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 4729,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p04729_3689995.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Sacramento Ave\",\"direction\":\"S\",\"house_number\":\"7128-30\",\"permit_date\":\"1928\",\"permit_no\":\"\",\"notes\":\"work: Flats (\\\"Akts\\\" faint, uncertain); permit no. faint/unreadable; file no. 194453; card faint and washed out in the lower portion\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Sacramento Ave",
+  "direction": "S",
+  "house_number": "7128-30",
+  "permit_date": "1928",
+  "permit_no": "",
+  "notes": "work: Flats (\"Akts\" faint, uncertain); permit no. faint/unreadable; file no. 194453; card faint and washed out in the lower portion"
+ },
+ "in": 2257,
+ "out": 137
+}

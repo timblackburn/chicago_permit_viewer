@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1605716",
+ "slide_index": 800,
+ "image": "street_index/data/1605716/slides_pct_0-0-100-99_w1000/p00800_3821695.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ogden Ave\",\"direction\":\"N\",\"house_number\":\"113\",\"permit_date\":\"1927-04-18\",\"permit_no\":\"104784\",\"notes\":\"1 Sign Board 25x10; Sundry; owner General Outdoor Adv. Co.; plan no. 267054; date stamp faint, day and year partly unclear; low contrast; address likely 113 N Ogden Ave though out of expected filing order\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ogden Ave",
+  "direction": "N",
+  "house_number": "113",
+  "permit_date": "1927-04-18",
+  "permit_no": "104784",
+  "notes": "1 Sign Board 25x10; Sundry; owner General Outdoor Adv. Co.; plan no. 267054; date stamp faint, day and year partly unclear; low contrast; address likely 113 N Ogden Ave though out of expected filing order"
+ },
+ "in": 2313,
+ "out": 170
+}

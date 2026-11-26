@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 1302,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p01302_2965661.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dearborn St\",\"direction\":\"N\",\"house_number\":\"2\",\"permit_date\":\"1940-10-09\",\"permit_no\":\"7967\",\"notes\":\"1-44\\\" stairway Fire Escape; Sundry; Plan 4293; File 294336; permit number handwritten and slightly faint, could be 1967\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dearborn St",
+  "direction": "N",
+  "house_number": "2",
+  "permit_date": "1940-10-09",
+  "permit_no": "7967",
+  "notes": "1-44\" stairway Fire Escape; Sundry; Plan 4293; File 294336; permit number handwritten and slightly faint, could be 1967"
+ },
+ "in": 2271,
+ "out": 136
+}

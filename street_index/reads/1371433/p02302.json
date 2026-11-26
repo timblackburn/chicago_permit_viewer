@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 2302,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p02302_3348613.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"51st St\",\"direction\":\"W\",\"house_number\":\"2057\",\"permit_date\":\"1934-04-24\",\"permit_no\":\"87680\",\"notes\":\"Alterations to store front; Sundry; file no. 247775; date stamp faint, day read as 24 with some uncertainty\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "51st St",
+  "direction": "W",
+  "house_number": "2057",
+  "permit_date": "1934-04-24",
+  "permit_no": "87680",
+  "notes": "Alterations to store front; Sundry; file no. 247775; date stamp faint, day read as 24 with some uncertainty"
+ },
+ "in": 2300,
+ "out": 123
+}

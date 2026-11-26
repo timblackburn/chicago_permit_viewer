@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 1300,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p01300_3414558.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1893-06-14\",\"permit_no\":\"1294\",\"notes\":\"typed card, very faint; top line partly read as '1747 ... 1 st ...'; second line '767 Van Horn' (likely owner/other info, not the address); date read as June 14, 1893; address not reliably readable\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1893-06-14",
+  "permit_no": "1294",
+  "notes": "typed card, very faint; top line partly read as '1747 ... 1 st ...'; second line '767 Van Horn' (likely owner/other info, not the address); date read as June 14, 1893; address not reliably readable"
+ },
+ "in": 2304,
+ "out": 148
+}

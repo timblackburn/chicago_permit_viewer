@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1265626",
+ "slide_index": 1800,
+ "image": "street_index/data/1265626/slides_pct_0-0-100-99_w1000/p01800_3138479.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Beach Ave\",\"direction\":\"W\",\"house_number\":\"1628\",\"permit_date\":\"1928-04-27\",\"permit_no\":\"41688\",\"notes\":\"Foundation & Porch; Sundry; struck-through line above work (illegible, crossed out); file no. 187948; faint stamped date, year partly legible\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Beach Ave",
+  "direction": "W",
+  "house_number": "1628",
+  "permit_date": "1928-04-27",
+  "permit_no": "41688",
+  "notes": "Foundation & Porch; Sundry; struck-through line above work (illegible, crossed out); file no. 187948; faint stamped date, year partly legible"
+ },
+ "in": 2274,
+ "out": 136
+}

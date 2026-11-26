@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 4702,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p04702_3446063.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wolcott Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1902-03-14\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; header reads WOLCOTT AVE; address lines look like 1036 N. Lincoln St. and 465 N. Lincoln St. (apparently a different street, so not used as house number); date appears to be Mar 14, 1902; faint '1-26' below; no permit number readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wolcott Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1902-03-14",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; header reads WOLCOTT AVE; address lines look like 1036 N. Lincoln St. and 465 N. Lincoln St. (apparently a different street, so not used as house number); date appears to be Mar 14, 1902; faint '1-26' below; no permit number readable"
+ },
+ "in": 2321,
+ "out": 186
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1325470",
+ "slide_index": 1300,
+ "image": "street_index/data/1325470/slides_pct_0-0-100-99_w1000/p01300_3255925.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1953-07-30\",\"permit_no\":\"96557\",\"notes\":\"Erect Brick Residence; Book 67 Page HC2; handwritten address line at top is faint and unreadable, ends in \\\"St\\\"; plan no. handwritten; file no. 448741\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1953-07-30",
+  "permit_no": "96557",
+  "notes": "Erect Brick Residence; Book 67 Page HC2; handwritten address line at top is faint and unreadable, ends in \"St\"; plan no. handwritten; file no. 448741"
+ },
+ "in": 2299,
+ "out": 139
+}

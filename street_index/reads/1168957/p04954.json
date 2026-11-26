@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 4954,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p04954_2938322.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Drake Ave\",\"direction\":\"N\",\"house_number\":\"3915\",\"permit_date\":\"1906-01-15\",\"permit_no\":\"22881\",\"notes\":\"old addr: 2342 Drake Ave; typed card, faint; N handwritten beside number\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Drake Ave",
+  "direction": "N",
+  "house_number": "3915",
+  "permit_date": "1906-01-15",
+  "permit_no": "22881",
+  "notes": "old addr: 2342 Drake Ave; typed card, faint; N handwritten beside number"
+ },
+ "in": 2309,
+ "out": 116
+}

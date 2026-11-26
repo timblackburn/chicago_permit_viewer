@@ -569,6 +569,33 @@
   {
     "reel_number": "31",
     "manifest_id": "1154630",
+    "slide_index": "4966",
+    "canvas_index": "4965",
+    "iiif_image_id": "2909569",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/2909569/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1154630&cv=4965",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1154630",
+    "width": "1050",
+    "height": "705",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1154630/slides_pct_0-0-100-99_w1000/p04966_2909569.jpg",
+    "bytes": "53382",
+    "pass_name": "reel_end",
+    "anchor_slide": "4966",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Emerald Ave",
+    "direction": "",
+    "house_number": "7754-6",
+    "permit_date": "1905-08-11",
+    "permit_no": "20821",
+    "notes": "Same (building type given as 'Same'); no direction written on card; permit number faint, read as 20821; typed card"
+  },
+  {
+    "reel_number": "31",
+    "manifest_id": "1154630",
     "slide_index": "4970",
     "canvas_index": "4969",
     "iiif_image_id": "2909567",
@@ -583,7 +610,7 @@
     "bytes": "23787",
     "pass_name": "pass1",
     "anchor_slide": "4970",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Elston Ave",
@@ -591,6 +618,6 @@
     "house_number": "1649",
     "permit_date": "1891-07-22",
     "permit_no": "2650",
-    "notes": "Typed card; old address 542 Elston Ave."
+    "notes": "read: ok; Typed card; old address 542 Elston Ave."
   }
 ]

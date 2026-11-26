@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 301,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p00301_3575668.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Thome Ave\",\"direction\":\"\",\"house_number\":\"1421-23\",\"permit_date\":\"\",\"permit_no\":\"B 34893\",\"notes\":\"Apts; Plan no 6401; Water no 20713; File no 219612a; no direction written; date of permit blank; card faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Thome Ave",
+  "direction": "",
+  "house_number": "1421-23",
+  "permit_date": "",
+  "permit_no": "B 34893",
+  "notes": "Apts; Plan no 6401; Water no 20713; File no 219612a; no direction written; date of permit blank; card faint"
+ },
+ "in": 2270,
+ "out": 124
+}

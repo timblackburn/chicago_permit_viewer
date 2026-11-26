@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1168957",
+ "slide_index": 4958,
+ "image": "street_index/data/1168957/slides_pct_0-0-100-99_w1000/p04958_2938321.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dorchester Ave\",\"direction\":\"\",\"house_number\":\"6456\",\"permit_date\":\"1928-09-01\",\"permit_no\":\"\",\"notes\":\"Concrete foundation & repairs Bldg moved; Sundry; permit no. faint and overwritten (appears to be 4768?); plan no. 6433; file no. 196834; card stained and faint; old addr: 645? overwritten at top-left\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dorchester Ave",
+  "direction": "",
+  "house_number": "6456",
+  "permit_date": "1928-09-01",
+  "permit_no": "",
+  "notes": "Concrete foundation & repairs Bldg moved; Sundry; permit no. faint and overwritten (appears to be 4768?); plan no. 6433; file no. 196834; card stained and faint; old addr: 645? overwritten at top-left"
+ },
+ "in": 2268,
+ "out": 166
+}

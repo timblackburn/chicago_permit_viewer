@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1386017",
+ "slide_index": 4836,
+ "image": "street_index/data/1386017/slides_pct_0-0-100-99_w1000/p04836_3373169.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"23rd St\",\"direction\":\"W\",\"house_number\":\"855-59\",\"permit_date\":\"1944-09-14\",\"permit_no\":\"65449\",\"notes\":\"Sty office addn (handwritten, partly faint); Book 54 Page 34?; plan no 2834; file no 325312; low contrast film, handwriting at top is faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "23rd St",
+  "direction": "W",
+  "house_number": "855-59",
+  "permit_date": "1944-09-14",
+  "permit_no": "65449",
+  "notes": "Sty office addn (handwritten, partly faint); Book 54 Page 34?; plan no 2834; file no 325312; low contrast film, handwriting at top is faint"
+ },
+ "in": 2193,
+ "out": 141
+}

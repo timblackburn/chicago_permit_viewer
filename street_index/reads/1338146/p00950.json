@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 950,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p00950_3284801.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1945-08\",\"permit_no\":\"\",\"notes\":\"Very faint overexposed card; address line handwriting is too faint to read with confidence (appears to begin '206 to 2..' and mention a sty building); date appears to be AUG 1945; Book 55 Page 119; plan no. faint; work description unclear\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1945-08",
+  "permit_no": "",
+  "notes": "Very faint overexposed card; address line handwriting is too faint to read with confidence (appears to begin '206 to 2..' and mention a sty building); date appears to be AUG 1945; Book 55 Page 119; plan no. faint; work description unclear"
+ },
+ "in": 2299,
+ "out": 155
+}

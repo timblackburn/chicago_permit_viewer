@@ -569,6 +569,33 @@
   {
     "reel_number": "49",
     "manifest_id": "1066599",
+    "slide_index": "5040",
+    "canvas_index": "5039",
+    "iiif_image_id": "4148586",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/4148586/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1066599&cv=5039",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1066599",
+    "width": "1040",
+    "height": "720",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1066599/slides_pct_0-0-100-99_w1000/p05040_4148586.jpg",
+    "bytes": "49566",
+    "pass_name": "reel_end",
+    "anchor_slide": "5040",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Jackson Blvd",
+    "direction": "W",
+    "house_number": "4230",
+    "permit_date": "1925-05-11",
+    "permit_no": "63773",
+    "notes": "Sundry; File No. 105299; permit no. faint/light print"
+  },
+  {
+    "reel_number": "49",
+    "manifest_id": "1066599",
     "slide_index": "5044",
     "canvas_index": "5043",
     "iiif_image_id": "4148570",
@@ -583,7 +610,7 @@
     "bytes": "50550",
     "pass_name": "pass1",
     "anchor_slide": "5044",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Jackson Blvd",
@@ -591,6 +618,6 @@
     "house_number": "175",
     "permit_date": "1953-11-17",
     "permit_no": "B 102930",
-    "notes": "Int. Alt. to 4th flr. Offices; Book 68 Page 190"
+    "notes": "read: ok; Int. Alt. to 4th flr. Offices; Book 68 Page 190"
   }
 ]

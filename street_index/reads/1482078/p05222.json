@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 5222,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p05222_3565777.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tripp Ave\",\"direction\":\"S\",\"house_number\":\"5119\",\"permit_date\":\"1950-05-02\",\"permit_no\":\"B 41861\",\"notes\":\"Frame Garage; Plan no. 392028 (faint); permit number faint; book and page blank; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tripp Ave",
+  "direction": "S",
+  "house_number": "5119",
+  "permit_date": "1950-05-02",
+  "permit_no": "B 41861",
+  "notes": "Frame Garage; Plan no. 392028 (faint); permit number faint; book and page blank; card faint and low contrast"
+ },
+ "in": 2277,
+ "out": 129
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1316518",
+ "slide_index": 2300,
+ "image": "street_index/data/1316518/slides_pct_0-0-100-99_w1000/p02300_3236698.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Agatite Ave\",\"direction\":\"\",\"house_number\":\"3750\",\"permit_date\":\"1900-06-21\",\"permit_no\":\"N.W. 299\",\"notes\":\"old addr: 915 Agatite; typed card, faint print; no building type given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Agatite Ave",
+  "direction": "",
+  "house_number": "3750",
+  "permit_date": "1900-06-21",
+  "permit_no": "N.W. 299",
+  "notes": "old addr: 915 Agatite; typed card, faint print; no building type given"
+ },
+ "in": 2274,
+ "out": 114
+}

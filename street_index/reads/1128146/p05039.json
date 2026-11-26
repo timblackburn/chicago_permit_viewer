@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 5039,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p05039_2856388.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Gladys Ave\",\"direction\":\"\",\"house_number\":\"5261\",\"permit_date\":\"1906-08-17\",\"permit_no\":\"48\",\"notes\":\"old addr: 2834 Gladys; typed card; number 48 below addresses may be permit no; checkmark over house number; no direction written; date partly faint (Aug 17, 1906)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Gladys Ave",
+  "direction": "",
+  "house_number": "5261",
+  "permit_date": "1906-08-17",
+  "permit_no": "48",
+  "notes": "old addr: 2834 Gladys; typed card; number 48 below addresses may be permit no; checkmark over house number; no direction written; date partly faint (Aug 17, 1906)"
+ },
+ "in": 2274,
+ "out": 145
+}

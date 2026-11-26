@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1357001",
+ "slide_index": 301,
+ "image": "street_index/data/1357001/slides_pct_0-0-100-99_w1000/p00301_3323955.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"63rd St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Header reads something like '310? W 63rd St' but the house number digits are unclear (between 2415 and 3423 by filing order); card very faint; kind of work possibly 'Stores'; permit number and date not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "63rd St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Header reads something like '310? W 63rd St' but the house number digits are unclear (between 2415 and 3423 by filing order); card very faint; kind of work possibly 'Stores'; permit number and date not readable"
+ },
+ "in": 2267,
+ "out": 143
+}

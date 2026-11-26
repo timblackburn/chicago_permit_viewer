@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1138010",
+ "slide_index": 5374,
+ "image": "street_index/data/1138010/slides_pct_0-0-100-99_w1000/p05374_2876287.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Francisco Ave\",\"direction\":\"S\",\"house_number\":\"4329\",\"permit_date\":\"1912-08-28\",\"permit_no\":\"A 7396\",\"notes\":\"Book S Page 483; File No. 21697; stamped date faint; \\\"B\\\" faintly marked on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Francisco Ave",
+  "direction": "S",
+  "house_number": "4329",
+  "permit_date": "1912-08-28",
+  "permit_no": "A 7396",
+  "notes": "Book S Page 483; File No. 21697; stamped date faint; \"B\" faintly marked on card"
+ },
+ "in": 2278,
+ "out": 123
+}

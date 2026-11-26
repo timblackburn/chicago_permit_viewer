@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1460142",
+ "slide_index": 3253,
+ "image": "street_index/data/1460142/slides_pct_0-0-100-99_w1000/p03253_3521818.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wallace St\",\"direction\":\"S\",\"house_number\":\"4821-R\",\"permit_date\":\"\",\"permit_no\":\"95838\",\"notes\":\"Frame shed; Sundry; plan no 92, file no 256882 (faint); date of permit faint/unreadable; house number suffix possibly R or rear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wallace St",
+  "direction": "S",
+  "house_number": "4821-R",
+  "permit_date": "",
+  "permit_no": "95838",
+  "notes": "Frame shed; Sundry; plan no 92, file no 256882 (faint); date of permit faint/unreadable; house number suffix possibly R or rear"
+ },
+ "in": 2275,
+ "out": 132
+}

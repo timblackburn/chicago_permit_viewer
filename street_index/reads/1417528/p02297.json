@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1417528",
+ "slide_index": 2297,
+ "image": "street_index/data/1417528/slides_pct_0-0-100-99_w1000/p02297_3440851.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wolcott Ave\",\"direction\":\"S\",\"house_number\":\"8450\",\"permit_date\":\"1950-06\",\"permit_no\":\"A 43875\",\"notes\":\"Work description faint and unreadable; Plan no. 1931; File no. 293976; card overexposed and faint, bottom edge damaged; day of month obscured; direction S inferred from reel position, not clearly written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wolcott Ave",
+  "direction": "S",
+  "house_number": "8450",
+  "permit_date": "1950-06",
+  "permit_no": "A 43875",
+  "notes": "Work description faint and unreadable; Plan no. 1931; File no. 293976; card overexposed and faint, bottom edge damaged; day of month obscured; direction S inferred from reel position, not clearly written"
+ },
+ "in": 2276,
+ "out": 156
+}

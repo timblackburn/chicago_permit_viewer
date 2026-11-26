@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 2800,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p02800_3645082.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"South Water St\",\"direction\":\"W\",\"house_number\":\"231\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; stamped SUNDRY; File No. faint (possibly 13184); card mostly blank, faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "South Water St",
+  "direction": "W",
+  "house_number": "231",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; stamped SUNDRY; File No. faint (possibly 13184); card mostly blank, faint and low contrast"
+ },
+ "in": 2319,
+ "out": 117
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 4300,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p04300_4089561.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Lafayette Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1926-04-27\",\"permit_no\":\"A 5369\",\"notes\":\"Br Res (work line barely legible, possibly \\\"Fr Res\\\"); Book S 97 Page 179; house number at top of card is faint and unreadable, possibly 10031 or 10831; direction not clear; plan no. 9777, water no. 70811, file no. 137694; card is dark and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Lafayette Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1926-04-27",
+  "permit_no": "A 5369",
+  "notes": "Br Res (work line barely legible, possibly \"Fr Res\"); Book S 97 Page 179; house number at top of card is faint and unreadable, possibly 10031 or 10831; direction not clear; plan no. 9777, water no. 70811, file no. 137694; card is dark and low contrast"
+ },
+ "in": 2280,
+ "out": 187
+}

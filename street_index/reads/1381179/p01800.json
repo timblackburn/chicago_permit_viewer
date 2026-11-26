@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 1800,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p01800_3369499.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"W\",\"house_number\":\"2600\",\"permit_date\":\"1929-01-29\",\"permit_no\":\"51498\",\"notes\":\"Sundry; street name line faint and unreadable (appears to be '31st Pl' or similar, uncertain); file no. 203118; card faded and low contrast; date year partly overwritten, read as 1929\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "W",
+  "house_number": "2600",
+  "permit_date": "1929-01-29",
+  "permit_no": "51498",
+  "notes": "Sundry; street name line faint and unreadable (appears to be '31st Pl' or similar, uncertain); file no. 203118; card faded and low contrast; date year partly overwritten, read as 1929"
+ },
+ "in": 2264,
+ "out": 146
+}

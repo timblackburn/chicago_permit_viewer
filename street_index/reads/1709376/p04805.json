@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1709376",
+ "slide_index": 4805,
+ "image": "street_index/data/1709376/slides_pct_0-0-100-99_w1000/p04805_4020319.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lowell Ave\",\"direction\":\"N\",\"house_number\":\"2832\",\"permit_date\":\"1927-06-16\",\"permit_no\":\"28953\",\"notes\":\"Sundry; work line reads roughly \\\"Brick Garage\\\" (faint); plan no. 168092 (faint); card is low contrast and partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lowell Ave",
+  "direction": "N",
+  "house_number": "2832",
+  "permit_date": "1927-06-16",
+  "permit_no": "28953",
+  "notes": "Sundry; work line reads roughly \"Brick Garage\" (faint); plan no. 168092 (faint); card is low contrast and partly faded"
+ },
+ "in": 2316,
+ "out": 136
+}

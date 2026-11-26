@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1194660",
+ "slide_index": 5218,
+ "image": "street_index/data/1194660/slides_pct_0-0-100-99_w1000/p05218_2990011.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cullom Ave\",\"direction\":\"W\",\"house_number\":\"5359\",\"permit_date\":\"1941-07-11\",\"permit_no\":\"55960\",\"notes\":\"1 sty Br Residence; Book 51 Page 561; plan no 3754, water no 42239, file no 301875; handwritten address, slightly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cullom Ave",
+  "direction": "W",
+  "house_number": "5359",
+  "permit_date": "1941-07-11",
+  "permit_no": "55960",
+  "notes": "1 sty Br Residence; Book 51 Page 561; plan no 3754, water no 42239, file no 301875; handwritten address, slightly faint"
+ },
+ "in": 2243,
+ "out": 137
+}

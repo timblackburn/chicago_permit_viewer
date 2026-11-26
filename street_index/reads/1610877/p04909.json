@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1610877",
+ "slide_index": 4909,
+ "image": "street_index/data/1610877/slides_pct_0-0-100-99_w1000/p04909_3823491.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Octavia Ave\",\"direction\":\"N\",\"house_number\":\"3456\",\"permit_date\":\"1949-02-09\",\"permit_no\":\"A 23195\",\"notes\":\"Furnace; File no. 373659; Book and Page blank; filmed dark with noise but readable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Octavia Ave",
+  "direction": "N",
+  "house_number": "3456",
+  "permit_date": "1949-02-09",
+  "permit_no": "A 23195",
+  "notes": "Furnace; File no. 373659; Book and Page blank; filmed dark with noise but readable"
+ },
+ "in": 2316,
+ "out": 120
+}

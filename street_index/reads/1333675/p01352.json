@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1333675",
+ "slide_index": 1352,
+ "image": "street_index/data/1333675/slides_pct_0-0-100-99_w1000/p01352_3274415.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1930-08-18\",\"permit_no\":\"\",\"notes\":\"top line handwritten and very faint, looks like \\\"531 W ...rd St\\\" but not confident (likely 103rd St by reel order); kind of work faint, perhaps \\\"Store\\\"; Entered S 77 Page 387 (faint); water no. faint; card faded and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1930-08-18",
+  "permit_no": "",
+  "notes": "top line handwritten and very faint, looks like \"531 W ...rd St\" but not confident (likely 103rd St by reel order); kind of work faint, perhaps \"Store\"; Entered S 77 Page 387 (faint); water no. faint; card faded and low contrast"
+ },
+ "in": 2267,
+ "out": 167
+}

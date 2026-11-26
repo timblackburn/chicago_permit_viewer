@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 201,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p00201_3161941.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Astor St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; two address lines appear to read \\\"130? Astor St.\\\" and \\\"50 Astor St.\\\" (possibly old and new addresses, number uncertain); permit no. possibly 11663 (unclear); date possibly Aug. 26, 19?? (year unreadable)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Astor St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; two address lines appear to read \"130? Astor St.\" and \"50 Astor St.\" (possibly old and new addresses, number uncertain); permit no. possibly 11663 (unclear); date possibly Aug. 26, 19?? (year unreadable)"
+ },
+ "in": 2273,
+ "out": 171
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 5129,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p05129_3000572.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cornell Ave\",\"direction\":\"\",\"house_number\":\"6742-44\",\"permit_date\":\"1915-06-03\",\"permit_no\":\"A 30971\",\"notes\":\"2 B; Book S 14 Page 319; no direction written on card; permit number handwritten and partly unclear; taped label on left with overwritten text; file no. 87782\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cornell Ave",
+  "direction": "",
+  "house_number": "6742-44",
+  "permit_date": "1915-06-03",
+  "permit_no": "A 30971",
+  "notes": "2 B; Book S 14 Page 319; no direction written on card; permit number handwritten and partly unclear; taped label on left with overwritten text; file no. 87782"
+ },
+ "in": 2235,
+ "out": 144
+}

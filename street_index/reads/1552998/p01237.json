@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1552998",
+ "slide_index": 1237,
+ "image": "street_index/data/1552998/slides_pct_0-0-100-99_w1000/p01237_3716340.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ridgeway Ave\",\"direction\":\"S\",\"house_number\":\"2315\",\"permit_date\":\"1906\",\"permit_no\":\"1481\",\"notes\":\"old addr: 1000 So. Ridgeway Ave; date partly faded, reads \\\"...30, 190?\\\" so only year 1906 is a guess; card is faint and typed, street name partly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ridgeway Ave",
+  "direction": "S",
+  "house_number": "2315",
+  "permit_date": "1906",
+  "permit_no": "1481",
+  "notes": "old addr: 1000 So. Ridgeway Ave; date partly faded, reads \"...30, 190?\" so only year 1906 is a guess; card is faint and typed, street name partly faded"
+ },
+ "in": 2322,
+ "out": 149
+}

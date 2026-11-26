@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1296638",
+ "slide_index": 5108,
+ "image": "street_index/data/1296638/slides_pct_0-0-100-99_w1000/p05108_3194121.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Chicago Ave\",\"direction\":\"W\",\"house_number\":\"3634-6\",\"permit_date\":\"1923-03-29\",\"permit_no\":\"A 76819\",\"notes\":\"Stores & Apts; Book W 24 Page 473; Plan no. 2385; Water no. 51589; File no. 36737\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Chicago Ave",
+  "direction": "W",
+  "house_number": "3634-6",
+  "permit_date": "1923-03-29",
+  "permit_no": "A 76819",
+  "notes": "Stores & Apts; Book W 24 Page 473; Plan no. 2385; Water no. 51589; File no. 36737"
+ },
+ "in": 2279,
+ "out": 133
+}

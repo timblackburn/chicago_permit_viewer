@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 5016,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p05016_4010111.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Madison St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1895-01-23\",\"permit_no\":\"\",\"notes\":\"Card cut off at left; house numbers partly visible (\\\"031\\\" and \\\"02\\\" on two lines, so two addresses, both W. Madison St.); permit number mostly cut off (ends in \\\"6\\\"); typed, faint, skewed frame\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Madison St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1895-01-23",
+  "permit_no": "",
+  "notes": "Card cut off at left; house numbers partly visible (\"031\" and \"02\" on two lines, so two addresses, both W. Madison St.); permit number mostly cut off (ends in \"6\"); typed, faint, skewed frame"
+ },
+ "in": 2234,
+ "out": 158
+}

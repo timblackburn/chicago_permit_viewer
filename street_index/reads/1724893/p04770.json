@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 4770,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p04770_4051206.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Lawrence Ave\",\"direction\":\"W\",\"house_number\":\"3315\",\"permit_date\":\"1948-11-19\",\"permit_no\":\"A 01916\",\"notes\":\"Installation of new main floor seats; Sundry; Bldg; Plan no: In file; File no: 343556; card slightly blurred\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Lawrence Ave",
+  "direction": "W",
+  "house_number": "3315",
+  "permit_date": "1948-11-19",
+  "permit_no": "A 01916",
+  "notes": "Installation of new main floor seats; Sundry; Bldg; Plan no: In file; File no: 343556; card slightly blurred"
+ },
+ "in": 2278,
+ "out": 133
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 4300,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p04300_3344566.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"55th St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1922-06-06\",\"permit_no\":\"\",\"notes\":\"Sundry; handwritten address at top is faint, reads something like '612 W 55th St' but the house number is uncertain; permit no. too faint to read; card overexposed and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "55th St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1922-06-06",
+  "permit_no": "",
+  "notes": "Sundry; handwritten address at top is faint, reads something like '612 W 55th St' but the house number is uncertain; permit no. too faint to read; card overexposed and low contrast"
+ },
+ "in": 2266,
+ "out": 138
+}

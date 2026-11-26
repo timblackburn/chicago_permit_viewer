@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 301,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p00301_4121290.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Hoyne Ave\",\"direction\":\"S\",\"house_number\":\"9953\",\"permit_date\":\"1920-03-18\",\"permit_no\":\"A 40125\",\"notes\":\"Reo; Book B 37 Page 272; plan no. 2087; water no. 89367; file no. 13012; faint, low contrast photo, handwriting partly unclear\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Hoyne Ave",
+  "direction": "S",
+  "house_number": "9953",
+  "permit_date": "1920-03-18",
+  "permit_no": "A 40125",
+  "notes": "Reo; Book B 37 Page 272; plan no. 2087; water no. 89367; file no. 13012; faint, low contrast photo, handwriting partly unclear"
+ },
+ "in": 2275,
+ "out": 146
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1744745",
+ "slide_index": 1800,
+ "image": "street_index/data/1744745/slides_pct_0-0-100-99_w1000/p01800_4097632.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Komensky Ave\",\"direction\":\"\",\"house_number\":\"4937\",\"permit_date\":\"1927-06-15\",\"permit_no\":\"E 18155\",\"notes\":\"Apts; Book S 43 Page 174; direction not written on card; plan no. 5882; water no. 3668; file no. 167984; owner, mason, architect blank; photographed card is slightly faint and blurry\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Komensky Ave",
+  "direction": "",
+  "house_number": "4937",
+  "permit_date": "1927-06-15",
+  "permit_no": "E 18155",
+  "notes": "Apts; Book S 43 Page 174; direction not written on card; plan no. 5882; water no. 3668; file no. 167984; owner, mason, architect blank; photographed card is slightly faint and blurry"
+ },
+ "in": 2316,
+ "out": 157
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 4338,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p04338_3556937.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Troy St\",\"direction\":\"N\",\"house_number\":\"\",\"permit_date\":\"1911-03-07\",\"permit_no\":\"N 27765\",\"notes\":\"House number is covered by a dark smudge or stain at top left; address line reads \\\"N. Troy St\\\" with \\\"Br\\\" below it; permit number handwritten, possibly \\\"4 N 27765\\\"; File No. 87611; Remarks: 3939/41 N. Troy St; card is dark and damaged at top left\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Troy St",
+  "direction": "N",
+  "house_number": "",
+  "permit_date": "1911-03-07",
+  "permit_no": "N 27765",
+  "notes": "House number is covered by a dark smudge or stain at top left; address line reads \"N. Troy St\" with \"Br\" below it; permit number handwritten, possibly \"4 N 27765\"; File No. 87611; Remarks: 3939/41 N. Troy St; card is dark and damaged at top left"
+ },
+ "in": 2239,
+ "out": 185
+}

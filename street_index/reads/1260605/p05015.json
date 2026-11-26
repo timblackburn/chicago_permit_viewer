@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1260605",
+ "slide_index": 5015,
+ "image": "street_index/data/1260605/slides_pct_0-0-100-99_w1000/p05015_3121723.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bernard St\",\"direction\":\"\",\"house_number\":\"5329\",\"permit_date\":\"1921-09-27\",\"permit_no\":\"A 62592\",\"notes\":\"Residence; Book 22 Page 376; plan no 5215; water no 36565; file no 99475; no direction written on card (filed as N per reel range); permit number stamped faintly\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bernard St",
+  "direction": "",
+  "house_number": "5329",
+  "permit_date": "1921-09-27",
+  "permit_no": "A 62592",
+  "notes": "Residence; Book 22 Page 376; plan no 5215; water no 36565; file no 99475; no direction written on card (filed as N per reel range); permit number stamped faintly"
+ },
+ "in": 2307,
+ "out": 144
+}

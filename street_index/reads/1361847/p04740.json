@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 4740,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p04740_3324644.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"61st St\",\"direction\":\"W\",\"house_number\":\"3442\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"B; file no 21472; permit no and date very faint (date appears Aug 2, 1912?); card photographed faint and washed out; permit no ends in 33 possibly\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "61st St",
+  "direction": "W",
+  "house_number": "3442",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "B; file no 21472; permit no and date very faint (date appears Aug 2, 1912?); card photographed faint and washed out; permit no ends in 33 possibly"
+ },
+ "in": 2266,
+ "out": 129
+}

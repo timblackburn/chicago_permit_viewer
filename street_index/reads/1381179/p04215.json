@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 4215,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p04215_3364638.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"35th St\",\"direction\":\"E\",\"house_number\":\"561-69\",\"permit_date\":\"1944-11-06\",\"permit_no\":\"65676\",\"notes\":\"3 sty Br School; Book 54 Page 400; plan no 3124; water no 52165; file no 326207; card blurry, house number partly uncertain (second number read as 69 or 68)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "35th St",
+  "direction": "E",
+  "house_number": "561-69",
+  "permit_date": "1944-11-06",
+  "permit_no": "65676",
+  "notes": "3 sty Br School; Book 54 Page 400; plan no 3124; water no 52165; file no 326207; card blurry, house number partly uncertain (second number read as 69 or 68)"
+ },
+ "in": 2301,
+ "out": 146
+}

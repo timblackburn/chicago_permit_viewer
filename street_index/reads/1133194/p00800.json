@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1133194",
+ "slide_index": 800,
+ "image": "street_index/data/1133194/slides_pct_0-0-100-99_w1000/p00800_2874547.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Francisco Ave\",\"direction\":\"N\",\"house_number\":\"6318\",\"permit_date\":\"1927-11-21\",\"permit_no\":\"\",\"notes\":\"work type line faint, possibly \\\"2 ABC\\\"; permit number faint and unreadable; Plan No. 10497; File No. 179816; Water No. faint; handwritten 38 - 5/8 near owner line; owner line smeared; card faint and noisy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Francisco Ave",
+  "direction": "N",
+  "house_number": "6318",
+  "permit_date": "1927-11-21",
+  "permit_no": "",
+  "notes": "work type line faint, possibly \"2 ABC\"; permit number faint and unreadable; Plan No. 10497; File No. 179816; Water No. faint; handwritten 38 - 5/8 near owner line; owner line smeared; card faint and noisy"
+ },
+ "in": 2283,
+ "out": 170
+}

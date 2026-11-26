@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 2802,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p02802_3328465.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"63rd St\",\"direction\":\"E\",\"house_number\":\"432\",\"permit_date\":\"1947-01-17\",\"permit_no\":\"\",\"notes\":\"Remodeling store into tavern; Sundry; A Bldg Kent Albg (owner/contractor note); plan no. 3410; file no. 345264; date of permit faint, partly legible; permit no. blank (A written)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "63rd St",
+  "direction": "E",
+  "house_number": "432",
+  "permit_date": "1947-01-17",
+  "permit_no": "",
+  "notes": "Remodeling store into tavern; Sundry; A Bldg Kent Albg (owner/contractor note); plan no. 3410; file no. 345264; date of permit faint, partly legible; permit no. blank (A written)"
+ },
+ "in": 2278,
+ "out": 154
+}

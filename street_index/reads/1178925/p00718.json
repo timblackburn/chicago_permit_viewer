@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1178925",
+ "slide_index": 718,
+ "image": "street_index/data/1178925/slides_pct_0-0-100-99_w1000/p00718_2966849.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Dawson Ave\",\"direction\":\"\",\"house_number\":\"7818-30\",\"permit_date\":\"1913-08-30\",\"permit_no\":\"A 16615\",\"notes\":\"fr B.; Book N 5 Page 281; file no. 46122; also 89841 written below permit no.; handwritten, faint in places; direction not written\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Dawson Ave",
+  "direction": "",
+  "house_number": "7818-30",
+  "permit_date": "1913-08-30",
+  "permit_no": "A 16615",
+  "notes": "fr B.; Book N 5 Page 281; file no. 46122; also 89841 written below permit no.; handwritten, faint in places; direction not written"
+ },
+ "in": 2270,
+ "out": 139
+}

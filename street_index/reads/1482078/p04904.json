@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1482078",
+ "slide_index": 4904,
+ "image": "street_index/data/1482078/slides_pct_0-0-100-99_w1000/p04904_3566418.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"N\",\"house_number\":\"4256\",\"permit_date\":\"1952\",\"permit_no\":\"A 69154\",\"notes\":\"Handwritten address at top very faint and washed out; street name looks like \\\"Tripp Ave\\\" but cannot be read with confidence; owner name below also unclear; Plan No. and File No. 421795 faint; date of permit appears to be 1952; card overexposed and faint overall; book/page not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "N",
+  "house_number": "4256",
+  "permit_date": "1952",
+  "permit_no": "A 69154",
+  "notes": "Handwritten address at top very faint and washed out; street name looks like \"Tripp Ave\" but cannot be read with confidence; owner name below also unclear; Plan No. and File No. 421795 faint; date of permit appears to be 1952; card overexposed and faint overall; book/page not readable"
+ },
+ "in": 2279,
+ "out": 175
+}

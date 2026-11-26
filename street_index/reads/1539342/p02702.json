@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 2702,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p02702_3683964.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"St. Louis Ave\",\"direction\":\"S\",\"house_number\":\"2322\",\"permit_date\":\"1924\",\"permit_no\":\"\",\"notes\":\"Stamped SUNDRY; date partly legible, 1924 (month/day unclear); card faint and overexposed, fields mostly blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "St. Louis Ave",
+  "direction": "S",
+  "house_number": "2322",
+  "permit_date": "1924",
+  "permit_no": "",
+  "notes": "Stamped SUNDRY; date partly legible, 1924 (month/day unclear); card faint and overexposed, fields mostly blank"
+ },
+ "in": 2317,
+ "out": 127
+}

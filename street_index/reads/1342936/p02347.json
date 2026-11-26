@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1342936",
+ "slide_index": 2347,
+ "image": "street_index/data/1342936/slides_pct_0-0-100-99_w1000/p02347_3291079.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1953-06-08\",\"permit_no\":\"\",\"notes\":\"Erect Brick Residence (Frame struck out); address, permit number and ledger reference washed out/too faint to read; date JUN 8 1953; overexposed card\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1953-06-08",
+  "permit_no": "",
+  "notes": "Erect Brick Residence (Frame struck out); address, permit number and ledger reference washed out/too faint to read; date JUN 8 1953; overexposed card"
+ },
+ "in": 2231,
+ "out": 129
+}

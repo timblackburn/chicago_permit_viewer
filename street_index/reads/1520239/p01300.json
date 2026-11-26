@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1520239",
+ "slide_index": 1300,
+ "image": "street_index/data/1520239/slides_pct_0-0-100-99_w1000/p01300_3648087.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Southport Ave\",\"direction\":\"\",\"house_number\":\"1357\",\"permit_date\":\"1929-07-31\",\"permit_no\":\"59157\",\"notes\":\"Fdn; Sundry; no direction written; file no 213532; handwritten address, stamped date partly faint; street type appears as 'Ave' after Southport, possibly 'A'\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Southport Ave",
+  "direction": "",
+  "house_number": "1357",
+  "permit_date": "1929-07-31",
+  "permit_no": "59157",
+  "notes": "Fdn; Sundry; no direction written; file no 213532; handwritten address, stamped date partly faint; street type appears as 'Ave' after Southport, possibly 'A'"
+ },
+ "in": 2311,
+ "out": 144
+}

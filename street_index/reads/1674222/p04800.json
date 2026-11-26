@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 4800,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p04800_3951488.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Merrimac Ave\",\"direction\":\"N\",\"house_number\":\"4501-27\",\"permit_date\":\"1927-03-23\",\"permit_no\":\"B 15161\",\"notes\":\"9 tier (kind of work faint); Book 38 Page 328; plan no. 2573; water no. 684; file no. 160148; card faint and low contrast, permit number last digit uncertain\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Merrimac Ave",
+  "direction": "N",
+  "house_number": "4501-27",
+  "permit_date": "1927-03-23",
+  "permit_no": "B 15161",
+  "notes": "9 tier (kind of work faint); Book 38 Page 328; plan no. 2573; water no. 684; file no. 160148; card faint and low contrast, permit number last digit uncertain"
+ },
+ "in": 2316,
+ "out": 154
+}

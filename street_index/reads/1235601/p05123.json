@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1235601",
+ "slide_index": 5123,
+ "image": "street_index/data/1235601/slides_pct_0-0-100-99_w1000/p05123_3071584.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"316\",\"permit_date\":\"1922-04-27\",\"permit_no\":\"A 6186\",\"notes\":\"B. Apts; street name handwritten at top, looks like Cambridge or similar but unclear; card very faint, overexposed, stamp APR 27 1922; permit no. partly faint\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "316",
+  "permit_date": "1922-04-27",
+  "permit_no": "A 6186",
+  "notes": "B. Apts; street name handwritten at top, looks like Cambridge or similar but unclear; card very faint, overexposed, stamp APR 27 1922; permit no. partly faint"
+ },
+ "in": 2237,
+ "out": 140
+}

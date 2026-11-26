@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1570308",
+ "slide_index": 4756,
+ "image": "street_index/data/1570308/slides_pct_0-0-100-99_w1000/p04756_3743016.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Racine Ave\",\"direction\":\"S\",\"house_number\":\"2006-10\",\"permit_date\":\"1920-03-11\",\"permit_no\":\"A 55469\",\"notes\":\"Br B Storage; Book W 21 Page 32; plan no. 762; water no. 30330; file no. 68155\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Racine Ave",
+  "direction": "S",
+  "house_number": "2006-10",
+  "permit_date": "1920-03-11",
+  "permit_no": "A 55469",
+  "notes": "Br B Storage; Book W 21 Page 32; plan no. 762; water no. 30330; file no. 68155"
+ },
+ "in": 2276,
+ "out": 128
+}

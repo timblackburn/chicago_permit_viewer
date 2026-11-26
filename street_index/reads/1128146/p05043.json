@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 5043,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p05043_2856378.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Garfield Blvd\",\"direction\":\"E\",\"house_number\":\"1205\",\"permit_date\":\"1898-10-11\",\"permit_no\":\"S 1017\",\"notes\":\"old addr: 4 E. Garfield Blvd; typed card; 1205 partly faint; permit no. read as S.1017\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Garfield Blvd",
+  "direction": "E",
+  "house_number": "1205",
+  "permit_date": "1898-10-11",
+  "permit_no": "S 1017",
+  "notes": "old addr: 4 E. Garfield Blvd; typed card; 1205 partly faint; permit no. read as S.1017"
+ },
+ "in": 2238,
+ "out": 131
+}

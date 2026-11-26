@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1539342",
+ "slide_index": 301,
+ "image": "street_index/data/1539342/slides_pct_0-0-100-99_w1000/p00301_3688765.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Saginaw Ave\",\"direction\":\"\",\"house_number\":\"8744\",\"permit_date\":\"1929-11-14\",\"permit_no\":\"62851\",\"notes\":\"Add & Alt; Sundry; direction not written on card; plan no. 5875, file no. 218750; house number slightly faint, read as 8744\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Saginaw Ave",
+  "direction": "",
+  "house_number": "8744",
+  "permit_date": "1929-11-14",
+  "permit_no": "62851",
+  "notes": "Add & Alt; Sundry; direction not written on card; plan no. 5875, file no. 218750; house number slightly faint, read as 8744"
+ },
+ "in": 2280,
+ "out": 134
+}

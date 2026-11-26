@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 1781,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p01781_3561959.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Troy St\",\"direction\":\"N\",\"house_number\":\"3655/7\",\"permit_date\":\"\",\"permit_no\":\"85411\",\"notes\":\"Apts; permit no. read as 85411 but faint; file no. 59560; additional number 60514 written at right; overexposed, washed out card, form fields mostly blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Troy St",
+  "direction": "N",
+  "house_number": "3655/7",
+  "permit_date": "",
+  "permit_no": "85411",
+  "notes": "Apts; permit no. read as 85411 but faint; file no. 59560; additional number 60514 written at right; overexposed, washed out card, form fields mostly blank"
+ },
+ "in": 2313,
+ "out": 134
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1621783",
+ "slide_index": 301,
+ "image": "street_index/data/1621783/slides_pct_0-0-100-99_w1000/p00301_3854904.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Newberry Ave\",\"direction\":\"S\",\"house_number\":\"1201-41\",\"permit_date\":\"1947-09-12\",\"permit_no\":\"A 08691\",\"notes\":\"3 Riding Devices, 9-13 to 9-22-47; Sundry; File No 353975; dark, slightly faint stamped date\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Newberry Ave",
+  "direction": "S",
+  "house_number": "1201-41",
+  "permit_date": "1947-09-12",
+  "permit_no": "A 08691",
+  "notes": "3 Riding Devices, 9-13 to 9-22-47; Sundry; File No 353975; dark, slightly faint stamped date"
+ },
+ "in": 2273,
+ "out": 136
+}

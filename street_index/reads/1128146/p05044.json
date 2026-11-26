@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 5044,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p05044_2856379.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Garfield Blvd\",\"direction\":\"E\",\"house_number\":\"5\",\"permit_date\":\"1924-01-17\",\"permit_no\":\"37164\",\"notes\":\"Sundry; permit no. stamp faint; plan no. 372; file no. handwritten 6VV77 (approx.)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Garfield Blvd",
+  "direction": "E",
+  "house_number": "5",
+  "permit_date": "1924-01-17",
+  "permit_no": "37164",
+  "notes": "Sundry; permit no. stamp faint; plan no. 372; file no. handwritten 6VV77 (approx.)"
+ },
+ "in": 2238,
+ "out": 127
+}

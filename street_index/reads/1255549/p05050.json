@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1255549",
+ "slide_index": 5050,
+ "image": "street_index/data/1255549/slides_pct_0-0-100-99_w1000/p05050_3111670.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Bloomingdale Ave\",\"direction\":\"W\",\"house_number\":\"5731\",\"permit_date\":\"1915-10-08\",\"permit_no\":\"A 31221\",\"notes\":\"Br B.; Book N 12 Page 130; file no. 97066; house number and permit number handwritten and somewhat hard to read; direction W not clearly written, inferred from reel range (Bloomingdale Ave 5231 West)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Bloomingdale Ave",
+  "direction": "W",
+  "house_number": "5731",
+  "permit_date": "1915-10-08",
+  "permit_no": "A 31221",
+  "notes": "Br B.; Book N 12 Page 130; file no. 97066; house number and permit number handwritten and somewhat hard to read; direction W not clearly written, inferred from reel range (Bloomingdale Ave 5231 West)"
+ },
+ "in": 2318,
+ "out": 168
+}

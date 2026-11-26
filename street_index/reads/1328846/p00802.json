@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1328846",
+ "slide_index": 802,
+ "image": "street_index/data/1328846/slides_pct_0-0-100-99_w1000/p00802_3266579.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"108th Pl\",\"direction\":\"W\",\"house_number\":\"2260\",\"permit_date\":\"1915-02-09\",\"permit_no\":\"A 28???\",\"notes\":\"Book S 14 Page 129; kind of building given as B; permit number partly illegible; file no. 79141 faint; card faded and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "108th Pl",
+  "direction": "W",
+  "house_number": "2260",
+  "permit_date": "1915-02-09",
+  "permit_no": "A 28???",
+  "notes": "Book S 14 Page 129; kind of building given as B; permit number partly illegible; file no. 79141 faint; card faded and low contrast"
+ },
+ "in": 2262,
+ "out": 133
+}

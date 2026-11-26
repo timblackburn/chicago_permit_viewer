@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1200000",
+ "slide_index": 5124,
+ "image": "street_index/data/1200000/slides_pct_0-0-100-99_w1000/p05124_3000574.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Cottage Grove Ave\",\"direction\":\"\",\"house_number\":\"5549\",\"permit_date\":\"\",\"permit_no\":\"72110\",\"notes\":\"alt; Sundry; file no. 119901; date stamp faint (Sep 2? ), year not readable; direction not written on card; permit no. faint; card slightly faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Cottage Grove Ave",
+  "direction": "",
+  "house_number": "5549",
+  "permit_date": "",
+  "permit_no": "72110",
+  "notes": "alt; Sundry; file no. 119901; date stamp faint (Sep 2? ), year not readable; direction not written on card; permit no. faint; card slightly faded"
+ },
+ "in": 2317,
+ "out": 138
+}

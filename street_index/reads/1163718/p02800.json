@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1163718",
+ "slide_index": 2800,
+ "image": "street_index/data/1163718/slides_pct_0-0-100-99_w1000/p02800_2932700.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"East Circle Ave\",\"direction\":\"N\",\"house_number\":\"5937\",\"permit_date\":\"1941-08-01\",\"permit_no\":\"56322\",\"notes\":\"2 Sty Brick Res.; Book 52 Page 35; plan no 4300; water no 42666; file no 302692\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "East Circle Ave",
+  "direction": "N",
+  "house_number": "5937",
+  "permit_date": "1941-08-01",
+  "permit_no": "56322",
+  "notes": "2 Sty Brick Res.; Book 52 Page 35; plan no 4300; water no 42666; file no 302692"
+ },
+ "in": 2273,
+ "out": 127
+}

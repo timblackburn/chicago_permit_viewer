@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1394007",
+ "slide_index": 301,
+ "image": "street_index/data/1394007/slides_pct_0-0-100-99_w1000/p00301_3398224.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"68th Pl\",\"direction\":\"W\",\"house_number\":\"3755\",\"permit_date\":\"\",\"permit_no\":\"B 101771\",\"notes\":\"1 1/2 (sty); Plan No. 5098; File No. 4?8915 faint; Book 68 Page 127; date of permit not filled in; card partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "68th Pl",
+  "direction": "W",
+  "house_number": "3755",
+  "permit_date": "",
+  "permit_no": "B 101771",
+  "notes": "1 1/2 (sty); Plan No. 5098; File No. 4?8915 faint; Book 68 Page 127; date of permit not filled in; card partly faint"
+ },
+ "in": 2263,
+ "out": 136
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1128146",
+ "slide_index": 5045,
+ "image": "street_index/data/1128146/slides_pct_0-0-100-99_w1000/p05045_2856377.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"George St\",\"direction\":\"\",\"house_number\":\"2025\",\"permit_date\":\"1926-05-13\",\"permit_no\":\"9252\",\"notes\":\"Foundation; Sundry; file no. 135876; no direction written; permit no. partly smudged/double-struck, read as 9252; dark, low-contrast card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "George St",
+  "direction": "",
+  "house_number": "2025",
+  "permit_date": "1926-05-13",
+  "permit_no": "9252",
+  "notes": "Foundation; Sundry; file no. 135876; no direction written; permit no. partly smudged/double-struck, read as 9252; dark, low-contrast card"
+ },
+ "in": 2202,
+ "out": 133
+}

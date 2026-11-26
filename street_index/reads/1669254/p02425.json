@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1669254",
+ "slide_index": 2425,
+ "image": "street_index/data/1669254/slides_pct_0-0-100-99_w1000/p02425_3945959.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Michigan Ave\",\"direction\":\"S\",\"house_number\":\"1426\",\"permit_date\":\"1934-06-26\",\"permit_no\":\"\",\"notes\":\"Repair fire damage; Sundry; file no. 243691 (stamped, faint); permit no. blank; low contrast scan\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Michigan Ave",
+  "direction": "S",
+  "house_number": "1426",
+  "permit_date": "1934-06-26",
+  "permit_no": "",
+  "notes": "Repair fire damage; Sundry; file no. 243691 (stamped, faint); permit no. blank; low contrast scan"
+ },
+ "in": 2323,
+ "out": 126
+}

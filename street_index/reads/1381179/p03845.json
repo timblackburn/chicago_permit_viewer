@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1381179",
+ "slide_index": 3845,
+ "image": "street_index/data/1381179/slides_pct_0-0-100-99_w1000/p03845_3365378.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"35th St\",\"direction\":\"W\",\"house_number\":\"116-30\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"second line faint, appears to be 3456-58 So. Indiana Ave.; rest of card washed out and faint; permit details unreadable\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "35th St",
+  "direction": "W",
+  "house_number": "116-30",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "second line faint, appears to be 3456-58 So. Indiana Ave.; rest of card washed out and faint; permit details unreadable"
+ },
+ "in": 2302,
+ "out": 120
+}

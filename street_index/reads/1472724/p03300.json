@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 3300,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p03300_3550192.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Union Ave\",\"direction\":\"S\",\"house_number\":\"12605\",\"permit_date\":\"1928-11\",\"permit_no\":\"B 1165\",\"notes\":\"1 sty Fr Res; Book S 37 Page 57; plan no. 13100; water no. 86446; file no. 124526; date of permit faint, month and year partly legible; permit prefix letter and number partly unclear (read as B 1165)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Union Ave",
+  "direction": "S",
+  "house_number": "12605",
+  "permit_date": "1928-11",
+  "permit_no": "B 1165",
+  "notes": "1 sty Fr Res; Book S 37 Page 57; plan no. 13100; water no. 86446; file no. 124526; date of permit faint, month and year partly legible; permit prefix letter and number partly unclear (read as B 1165)"
+ },
+ "in": 2311,
+ "out": 165
+}

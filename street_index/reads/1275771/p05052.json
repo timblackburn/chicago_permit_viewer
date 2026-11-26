@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1275771",
+ "slide_index": 5052,
+ "image": "street_index/data/1275771/slides_pct_0-0-100-99_w1000/p05052_3152266.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Austin Ave\",\"direction\":\"N\",\"house_number\":\"29-31\",\"permit_date\":\"1911-04-27\",\"permit_no\":\"B 24218\",\"notes\":\"Name of Building line blank; card very faint and overexposed with torn dark strip at top; handwritten address at top reads 29-31 N Austin Av; year read as 1911 and permit number as B 24218 with some uncertainty; remarks line has faint writing 'Name of Building 29-31'\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Austin Ave",
+  "direction": "N",
+  "house_number": "29-31",
+  "permit_date": "1911-04-27",
+  "permit_no": "B 24218",
+  "notes": "Name of Building line blank; card very faint and overexposed with torn dark strip at top; handwritten address at top reads 29-31 N Austin Av; year read as 1911 and permit number as B 24218 with some uncertainty; remarks line has faint writing 'Name of Building 29-31'"
+ },
+ "in": 2236,
+ "out": 184
+}

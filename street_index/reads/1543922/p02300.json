@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1543922",
+ "slide_index": 2300,
+ "image": "street_index/data/1543922/slides_pct_0-0-100-99_w1000/p02300_3694846.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sacramento Blvd\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1955\",\"permit_no\":\"A 41893\",\"notes\":\"Frame Garage; address line faint handwriting, probably 2/1 or 221 W Sacramento Blvd, number not confident; permit no. partly faint; file no. 100183 (faint); date mostly obscured by ink blotches, year looks like 1955; card has heavy spotting and damage\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sacramento Blvd",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1955",
+  "permit_no": "A 41893",
+  "notes": "Frame Garage; address line faint handwriting, probably 2/1 or 221 W Sacramento Blvd, number not confident; permit no. partly faint; file no. 100183 (faint); date mostly obscured by ink blotches, year looks like 1955; card has heavy spotting and damage"
+ },
+ "in": 2280,
+ "out": 181
+}

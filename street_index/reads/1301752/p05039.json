@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1301752",
+ "slide_index": 5039,
+ "image": "street_index/data/1301752/slides_pct_0-0-100-99_w1000/p05039_3204529.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"California Ave\",\"direction\":\"S\",\"house_number\":\"1323\",\"permit_date\":\"1902-05-14\",\"permit_no\":\"S.W. 1683\",\"notes\":\"typed card; old addr: 656 California Ave; permit number prefixed S.W.; card is faint, date partly faded (May 14, 1902)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "California Ave",
+  "direction": "S",
+  "house_number": "1323",
+  "permit_date": "1902-05-14",
+  "permit_no": "S.W. 1683",
+  "notes": "typed card; old addr: 656 California Ave; permit number prefixed S.W.; card is faint, date partly faded (May 14, 1902)"
+ },
+ "in": 2262,
+ "out": 136
+}

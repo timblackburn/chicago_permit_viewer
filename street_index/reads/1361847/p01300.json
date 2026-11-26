@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 1300,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p01300_3331481.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"61st St\",\"direction\":\"W\",\"house_number\":\"6139\",\"permit_date\":\"\",\"permit_no\":\"111931\",\"notes\":\"Freezeway & Garage; Book 69 Page 235; plan no. 229 (approx); file no. 463955 (approx); date of permit blank; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "61st St",
+  "direction": "W",
+  "house_number": "6139",
+  "permit_date": "",
+  "permit_no": "111931",
+  "notes": "Freezeway & Garage; Book 69 Page 235; plan no. 229 (approx); file no. 463955 (approx); date of permit blank; card faint and low contrast"
+ },
+ "in": 2267,
+ "out": 134
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 4800,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p04800_3752981.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Prospect Ave\",\"direction\":\"S\",\"house_number\":\"10847\",\"permit_date\":\"1941-04-22\",\"permit_no\":\"54427\",\"notes\":\"2 sty br. Residence; Book 51 Page 302; plan no. 1773; water no. 40595; file no. 298771\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Prospect Ave",
+  "direction": "S",
+  "house_number": "10847",
+  "permit_date": "1941-04-22",
+  "permit_no": "54427",
+  "notes": "2 sty br. Residence; Book 51 Page 302; plan no. 1773; water no. 40595; file no. 298771"
+ },
+ "in": 2278,
+ "out": 128
+}

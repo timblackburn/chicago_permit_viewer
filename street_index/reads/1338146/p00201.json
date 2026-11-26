@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1338146",
+ "slide_index": 201,
+ "image": "street_index/data/1338146/slides_pct_0-0-100-99_w1000/p00201_3286300.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"89th Pl\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"handwritten address at top looks like '63? E 89th Pl' but the house number is unclear; direction E is inferred from reel position; card is mostly blank and very faint; no permit data legible\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "89th Pl",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "handwritten address at top looks like '63? E 89th Pl' but the house number is unclear; direction E is inferred from reel position; card is mostly blank and very faint; no permit data legible"
+ },
+ "in": 2296,
+ "out": 135
+}

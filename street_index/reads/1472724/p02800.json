@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 2800,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p02800_3551240.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"58881\",\"notes\":\"Residence; very faint, overexposed card; address line at top is unreadable handwriting; number 58881 (possibly permit no) and 307765 (possibly plan or file no); stamp at bottom appears to read 52 Race; not filed reliably\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "58881",
+  "notes": "Residence; very faint, overexposed card; address line at top is unreadable handwriting; number 58881 (possibly permit no) and 307765 (possibly plan or file no); stamp at bottom appears to read 52 Race; not filed reliably"
+ },
+ "in": 2277,
+ "out": 151
+}

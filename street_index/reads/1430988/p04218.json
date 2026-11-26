@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 4218,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p04218_3464345.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Whipple St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"1952-04-17\",\"permit_no\":\"B 72657\",\"notes\":\"Top line handwritten and faint, house number not clearly readable (looks like 63?1, between 6119 and 7140 in filing order); second line handwritten work description illegible; Book 65 Page 134; plumbing/vent permit; file no. partly legible 42-?9; card faded and speckled\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Whipple St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "1952-04-17",
+  "permit_no": "B 72657",
+  "notes": "Top line handwritten and faint, house number not clearly readable (looks like 63?1, between 6119 and 7140 in filing order); second line handwritten work description illegible; Book 65 Page 134; plumbing/vent permit; file no. partly legible 42-?9; card faded and speckled"
+ },
+ "in": 2272,
+ "out": 180
+}

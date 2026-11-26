@@ -596,6 +596,33 @@
   {
     "reel_number": "54",
     "manifest_id": "1043766",
+    "slide_index": "5121",
+    "canvas_index": "5120",
+    "iiif_image_id": "4188658",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/4188658/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1043766&cv=5120",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1043766",
+    "width": "1050",
+    "height": "715",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1043766/slides_pct_0-0-100-99_w1000/p05121_4188658.jpg",
+    "bytes": "79722",
+    "pass_name": "reel_end",
+    "anchor_slide": "5121",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Kildare Ave",
+    "direction": "S",
+    "house_number": "2805",
+    "permit_date": "1931-06-15",
+    "permit_no": "75969",
+    "notes": "Wooden fence; Sundry; File no. 234772; handwriting somewhat faint"
+  },
+  {
+    "reel_number": "54",
+    "manifest_id": "1043766",
     "slide_index": "5125",
     "canvas_index": "5124",
     "iiif_image_id": "4188656",
@@ -610,7 +637,7 @@
     "bytes": "81207",
     "pass_name": "pass1",
     "anchor_slide": "5125",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "Kentucky",
@@ -618,6 +645,6 @@
     "house_number": "4933-39",
     "permit_date": "1926-11-06",
     "permit_no": "B 11961",
-    "notes": "4933-5-9 Kentucky; B flat; N 38 Page 197"
+    "notes": "read: ok; 4933-5-9 Kentucky; B flat; N 38 Page 197"
   }
 ]

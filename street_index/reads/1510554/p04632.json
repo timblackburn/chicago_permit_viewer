@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1510554",
+ "slide_index": 4632,
+ "image": "street_index/data/1510554/slides_pct_0-0-100-99_w1000/p04632_3622662.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"State St\",\"direction\":\"S\",\"house_number\":\"10503\",\"permit_date\":\"1922-07-28\",\"permit_no\":\"A 70622\",\"notes\":\"Cott (kind of building, handwritten, partly overwritten); Book S 76 Page 288; water no. 45325; file no. 20355; house number has overwriting/corrections, scan is grainy\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "State St",
+  "direction": "S",
+  "house_number": "10503",
+  "permit_date": "1922-07-28",
+  "permit_no": "A 70622",
+  "notes": "Cott (kind of building, handwritten, partly overwritten); Book S 76 Page 288; water no. 45325; file no. 20355; house number has overwriting/corrections, scan is grainy"
+ },
+ "in": 2260,
+ "out": 148
+}

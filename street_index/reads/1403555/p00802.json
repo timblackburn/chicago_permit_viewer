@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 802,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p00802_3415549.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"18th St\",\"direction\":\"W\",\"house_number\":\"2105\",\"permit_date\":\"1950-08-28\",\"permit_no\":\"A 46650\",\"notes\":\"Frame Garage; File no. 399540; card slightly faint, direction written as W (looks like V)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "18th St",
+  "direction": "W",
+  "house_number": "2105",
+  "permit_date": "1950-08-28",
+  "permit_no": "A 46650",
+  "notes": "Frame Garage; File no. 399540; card slightly faint, direction written as W (looks like V)"
+ },
+ "in": 2266,
+ "out": 117
+}

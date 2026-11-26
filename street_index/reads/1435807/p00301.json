@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1435807",
+ "slide_index": 301,
+ "image": "street_index/data/1435807/slides_pct_0-0-100-99_w1000/p00301_3480954.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Western Ave\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1928-11-22\",\"permit_no\":\"63348\",\"notes\":\"Address given as \\\"N.W. Cor. Western & Berwyn Ave\\\" (no house number); 3 Signs (4x44, 4x50, 10x25); Sundry; owner Sinclair Oil Co; File No. 219130; date stamp faint, reads NOV 2? 1928; permit no. overprinted/faint; card filed under Western Ave per reel context, direction W is the corner reference, not a house direction\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Western Ave",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1928-11-22",
+  "permit_no": "63348",
+  "notes": "Address given as \"N.W. Cor. Western & Berwyn Ave\" (no house number); 3 Signs (4x44, 4x50, 10x25); Sundry; owner Sinclair Oil Co; File No. 219130; date stamp faint, reads NOV 2? 1928; permit no. overprinted/faint; card filed under Western Ave per reel context, direction W is the corner reference, not a house direction"
+ },
+ "in": 2303,
+ "out": 221
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1704357",
+ "slide_index": 800,
+ "image": "street_index/data/1704357/slides_pct_0-0-100-99_w1000/p00800_4018535.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Ludlam Ave\",\"direction\":\"\",\"house_number\":\"5415-47\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Handwritten address reads \\\"5415-47 Ludlam Ave\\\"; no direction written; card very faint and washed out, permit number, date and building type not readable; plan no. appears to be 182182 (uncertain); stamped \\\"ENTERED NEXT PAGE\\\"\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Ludlam Ave",
+  "direction": "",
+  "house_number": "5415-47",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Handwritten address reads \"5415-47 Ludlam Ave\"; no direction written; card very faint and washed out, permit number, date and building type not readable; plan no. appears to be 182182 (uncertain); stamped \"ENTERED NEXT PAGE\""
+ },
+ "in": 2272,
+ "out": 170
+}

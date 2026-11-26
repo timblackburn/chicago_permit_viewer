@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1412843",
+ "slide_index": 3800,
+ "image": "street_index/data/1412843/slides_pct_0-0-100-99_w1000/p03800_3428633.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Wrightwood Ave\",\"direction\":\"\",\"house_number\":\"4911\",\"permit_date\":\"1928-10-16\",\"permit_no\":\"73289\",\"notes\":\"Shed; Sundry; file no. 1-21828; no direction written; card is faint and low contrast; date year read as 1928\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Wrightwood Ave",
+  "direction": "",
+  "house_number": "4911",
+  "permit_date": "1928-10-16",
+  "permit_no": "73289",
+  "notes": "Shed; Sundry; file no. 1-21828; no direction written; card is faint and low contrast; date year read as 1928"
+ },
+ "in": 2278,
+ "out": 128
+}

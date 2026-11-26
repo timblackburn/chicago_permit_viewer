@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1371433",
+ "slide_index": 309,
+ "image": "street_index/data/1371433/slides_pct_0-0-100-99_w1000/p00309_3352580.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Severely overexposed frame; handwriting at top is washed out and unreadable; only printed labels PERMIT, OWNER faintly visible; bottom damaged by film scratches\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Severely overexposed frame; handwriting at top is washed out and unreadable; only printed labels PERMIT, OWNER faintly visible; bottom damaged by film scratches"
+ },
+ "in": 2297,
+ "out": 128
+}

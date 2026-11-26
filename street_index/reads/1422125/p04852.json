@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 4852,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p04852_3445769.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Wolcott Ave\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1882-07-11\",\"permit_no\":\"1582\",\"notes\":\"typed card, faint; header reads Wolcott Ave; the lines \\\"1266 N. Lincoln St.\\\" and \\\"61? N. Lincoln St.\\\" are other addresses and not the filed address; date approx July 11, 1882; card is faint and overexposed, so the number is uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Wolcott Ave",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1882-07-11",
+  "permit_no": "1582",
+  "notes": "typed card, faint; header reads Wolcott Ave; the lines \"1266 N. Lincoln St.\" and \"61? N. Lincoln St.\" are other addresses and not the filed address; date approx July 11, 1882; card is faint and overexposed, so the number is uncertain"
+ },
+ "in": 2357,
+ "out": 180
+}

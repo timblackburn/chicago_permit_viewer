@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1240728",
+ "slide_index": 4996,
+ "image": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p04996_3081940.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Calumet Ave\",\"direction\":\"\",\"house_number\":\"9725\",\"permit_date\":\"1950-09-28\",\"permit_no\":\"A 48622\",\"notes\":\"Frame Garage; File No. 401468; no direction written on card\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Calumet Ave",
+  "direction": "",
+  "house_number": "9725",
+  "permit_date": "1950-09-28",
+  "permit_no": "A 48622",
+  "notes": "Frame Garage; File No. 401468; no direction written on card"
+ },
+ "in": 2274,
+ "out": 108
+}

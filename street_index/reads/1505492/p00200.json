@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1505492",
+ "slide_index": 200,
+ "image": "street_index/data/1505492/slides_pct_0-0-100-99_w1000/p00200_3622429.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"State St\",\"direction\":\"S\",\"house_number\":\"11546\",\"permit_date\":\"1950-03-20\",\"permit_no\":\"A 39475\",\"notes\":\"Frame Garage; Plan No. 889662 (faint); book and page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "State St",
+  "direction": "S",
+  "house_number": "11546",
+  "permit_date": "1950-03-20",
+  "permit_no": "A 39475",
+  "notes": "Frame Garage; Plan No. 889662 (faint); book and page blank"
+ },
+ "in": 2297,
+ "out": 109
+}

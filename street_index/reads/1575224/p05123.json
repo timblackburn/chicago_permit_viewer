@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1575224",
+ "slide_index": 5123,
+ "image": "street_index/data/1575224/slides_pct_0-0-100-99_w1000/p05123_3752346.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Pulaski Rd\",\"direction\":\"N\",\"house_number\":\"281\",\"permit_date\":\"1902-08-01\",\"permit_no\":\"3132\",\"notes\":\"old addr: 6 S. 40th Ave; typed card; last digit of permit no. partly unclear (3132 or 3133)\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Pulaski Rd",
+  "direction": "N",
+  "house_number": "281",
+  "permit_date": "1902-08-01",
+  "permit_no": "3132",
+  "notes": "old addr: 6 S. 40th Ave; typed card; last digit of permit no. partly unclear (3132 or 3133)"
+ },
+ "in": 2315,
+ "out": 129
+}

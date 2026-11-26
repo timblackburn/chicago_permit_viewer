@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1189574",
+ "slide_index": 1300,
+ "image": "street_index/data/1189574/slides_pct_0-0-100-99_w1000/p01300_2987106.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Damen Ave\",\"direction\":\"S\",\"house_number\":\"214-16\",\"permit_date\":\"1940-10-24\",\"permit_no\":\"122696\",\"notes\":\"Wreck 2 sty brick (frame struck out) building; Sundry; Federal W. C.; File no. 294767; date stamp faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Damen Ave",
+  "direction": "S",
+  "house_number": "214-16",
+  "permit_date": "1940-10-24",
+  "permit_no": "122696",
+  "notes": "Wreck 2 sty brick (frame struck out) building; Sundry; Federal W. C.; File no. 294767; date stamp faint"
+ },
+ "in": 2308,
+ "out": 133
+}

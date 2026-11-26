@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1739726",
+ "slide_index": 3300,
+ "image": "street_index/data/1739726/slides_pct_0-0-100-99_w1000/p03300_4087547.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Laflin St\",\"direction\":\"S\",\"house_number\":\"5020\",\"permit_date\":\"1912-04-24\",\"permit_no\":\"A 3331\",\"notes\":\"Fr B.; Book S Page 181; File No 10808; handwriting faint, top line struck through with ruled lines; direction S read from the lower left margin, not the address line; permit number A 3331 followed by a scrawl, possibly book abbreviation; dark, low-contrast frame.\\\"}\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Laflin St",
+  "direction": "S",
+  "house_number": "5020",
+  "permit_date": "1912-04-24",
+  "permit_no": "A 3331",
+  "notes": "Fr B.; Book S Page 181; File No 10808; handwriting faint, top line struck through with ruled lines; direction S read from the lower left margin, not the address line; permit number A 3331 followed by a scrawl, possibly book abbreviation; dark, low-contrast frame.\"}"
+ },
+ "in": 2309,
+ "out": 184
+}

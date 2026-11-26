@@ -569,6 +569,33 @@
   {
     "reel_number": "14",
     "manifest_id": "1240728",
+    "slide_index": "4996",
+    "canvas_index": "4995",
+    "iiif_image_id": "3081940",
+    "iiif_crop_url": "https://digital.library.uic.edu/iiif/3/3081940/pct:0,0,100,99/1000,/0/default.jpg",
+    "iiif_viewer_link": "https://uv-v4.netlify.app/#?manifest=https://digital.library.uic.edu/iiif/manifest/1240728&cv=4995",
+    "uic_viewer_url": "https://digital.library.uic.edu/view/1240728",
+    "width": "1015",
+    "height": "675",
+    "region": "pct:0,0,100,99",
+    "requested_width": "1000",
+    "local_path": "street_index/data/1240728/slides_pct_0-0-100-99_w1000/p04996_3081940.jpg",
+    "bytes": "50739",
+    "pass_name": "reel_end",
+    "anchor_slide": "4996",
+    "legibility": "ok",
+    "street_name_legible": "yes",
+    "house_num_legible": "yes",
+    "street_name": "Calumet Ave",
+    "direction": "",
+    "house_number": "9725",
+    "permit_date": "1950-09-28",
+    "permit_no": "A 48622",
+    "notes": "Frame Garage; File No. 401468; no direction written on card"
+  },
+  {
+    "reel_number": "14",
+    "manifest_id": "1240728",
     "slide_index": "5000",
     "canvas_index": "4999",
     "iiif_image_id": "3081943",
@@ -583,7 +610,7 @@
     "bytes": "63273",
     "pass_name": "pass1",
     "anchor_slide": "5000",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "California Ave",
@@ -591,7 +618,7 @@
     "house_number": "4358",
     "permit_date": "1914-11-17",
     "permit_no": "A 26943",
-    "notes": "Fr B.; Book S 14 Page 41; misfiled at end of reel"
+    "notes": "read: ok; Fr B.; Book S 14 Page 41; misfiled at end of reel"
   },
   {
     "reel_number": "14",
@@ -610,7 +637,7 @@
     "bytes": "64983",
     "pass_name": "pass1",
     "anchor_slide": "5001",
-    "legibility": "ok",
+    "legibility": "retake",
     "street_name_legible": "yes",
     "house_num_legible": "yes",
     "street_name": "California Ave",
@@ -618,6 +645,6 @@
     "house_number": "4445",
     "permit_date": "1915-08-27",
     "permit_no": "A 33051",
-    "notes": "Br B.; Book N 12 Page 59; misfiled at end of reel"
+    "notes": "read: ok; Br B.; Book N 12 Page 59; misfiled at end of reel"
   }
 ]

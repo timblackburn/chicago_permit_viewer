@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1093813",
+ "slide_index": 4865,
+ "image": "street_index/data/1093813/slides_pct_0-0-100-99_w1000/p04865_2787733.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Hutchinson St\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1939-03\",\"permit_no\":\"\",\"notes\":\"Typed card, very faint; first line appears as '4213-2? N. Hazel Ave.' with '817-41 W. (Keneean Terr.) (Cor. Bldg.)' and 'Keneean Terr.'; 'HUTCHINSON ST.' handwritten in the top right, apparently the street the card is refiled under; house number unclear; date reads 'Mar 2?, 1939' (day unclear); permit number illegible; card badly faded and low contrast\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Hutchinson St",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1939-03",
+  "permit_no": "",
+  "notes": "Typed card, very faint; first line appears as '4213-2? N. Hazel Ave.' with '817-41 W. (Keneean Terr.) (Cor. Bldg.)' and 'Keneean Terr.'; 'HUTCHINSON ST.' handwritten in the top right, apparently the street the card is refiled under; house number unclear; date reads 'Mar 2?, 1939' (day unclear); permit number illegible; card badly faded and low contrast"
+ },
+ "in": 2240,
+ "out": 235
+}

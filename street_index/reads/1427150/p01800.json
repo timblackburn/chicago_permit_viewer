@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 1800,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p01800_3459546.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Very faint, washed-out card; handwritten address line at top mostly unreadable (looks like possibly '...Wilson Ave' but house number not readable). Permit No. line partly legible 'B A ... N.g PAGE'; File No. 69799 faint; date of permit illegible.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Very faint, washed-out card; handwritten address line at top mostly unreadable (looks like possibly '...Wilson Ave' but house number not readable). Permit No. line partly legible 'B A ... N.g PAGE'; File No. 69799 faint; date of permit illegible."
+ },
+ "in": 2314,
+ "out": 162
+}

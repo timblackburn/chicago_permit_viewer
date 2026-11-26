@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1724893",
+ "slide_index": 301,
+ "image": "street_index/data/1724893/slides_pct_0-0-100-99_w1000/p00301_4060159.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Latrobe Ave\",\"direction\":\"S\",\"house_number\":\"7803\",\"permit_date\":\"1952-11-10\",\"permit_no\":\"A 83982\",\"notes\":\"Furnace; plan/file no. 436886; permit no. appears struck through; address direction S read from handwriting, somewhat unclear; card photographed with noise and faint areas\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Latrobe Ave",
+  "direction": "S",
+  "house_number": "7803",
+  "permit_date": "1952-11-10",
+  "permit_no": "A 83982",
+  "notes": "Furnace; plan/file no. 436886; permit no. appears struck through; address direction S read from handwriting, somewhat unclear; card photographed with noise and faint areas"
+ },
+ "in": 2313,
+ "out": 146
+}

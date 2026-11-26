@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1118502",
+ "slide_index": 301,
+ "image": "street_index/data/1118502/slides_pct_0-0-100-99_w1000/p00301_2846859.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Grand Ave\",\"direction\":\"\",\"house_number\":\"7166\",\"permit_date\":\"1935-05-06\",\"permit_no\":\"92941\",\"notes\":\"Alterations to store front; Sundry; file no. 253514; date of permit faint, read as 5-6-35; stamp 'Sundry' faint at top right\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Grand Ave",
+  "direction": "",
+  "house_number": "7166",
+  "permit_date": "1935-05-06",
+  "permit_no": "92941",
+  "notes": "Alterations to store front; Sundry; file no. 253514; date of permit faint, read as 5-6-35; stamp 'Sundry' faint at top right"
+ },
+ "in": 2274,
+ "out": 136
+}

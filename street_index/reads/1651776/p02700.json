@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1651776",
+ "slide_index": 2700,
+ "image": "street_index/data/1651776/slides_pct_0-0-100-99_w1000/p02700_3910108.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1924-12-04\",\"permit_no\":\"\",\"notes\":\"Sundry; address at top is faint handwriting, possibly '7?? Mich... St' but not readable with confidence; card is washed out and faint; date Dec 4 1924\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1924-12-04",
+  "permit_no": "",
+  "notes": "Sundry; address at top is faint handwriting, possibly '7?? Mich... St' but not readable with confidence; card is washed out and faint; date Dec 4 1924"
+ },
+ "in": 2316,
+ "out": 132
+}

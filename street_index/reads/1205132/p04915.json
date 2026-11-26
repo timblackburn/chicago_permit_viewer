@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1205132",
+ "slide_index": 4915,
+ "image": "street_index/data/1205132/slides_pct_0-0-100-99_w1000/p04915_3010832.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Congress St\",\"direction\":\"\",\"house_number\":\"4733\",\"permit_date\":\"1924-04-08\",\"permit_no\":\"\",\"notes\":\"Sundry; File No. 67581; no direction written on card; faint ghost number below the heading, possibly 4733; card is somewhat faded\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Congress St",
+  "direction": "",
+  "house_number": "4733",
+  "permit_date": "1924-04-08",
+  "permit_no": "",
+  "notes": "Sundry; File No. 67581; no direction written on card; faint ghost number below the heading, possibly 4733; card is somewhat faded"
+ },
+ "in": 2280,
+ "out": 126
+}

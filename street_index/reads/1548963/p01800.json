@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1548963",
+ "slide_index": 1800,
+ "image": "street_index/data/1548963/slides_pct_0-0-100-99_w1000/p01800_3703959.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Roosevelt Rd\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and washed out; house number partly legible (301_), direction W only partly visible; old addr: 151_ W 12th St; date appears to be Apr 1_, 192_ but not readable; permit no. maybe 322_ not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Roosevelt Rd",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and washed out; house number partly legible (301_), direction W only partly visible; old addr: 151_ W 12th St; date appears to be Apr 1_, 192_ but not readable; permit no. maybe 322_ not readable"
+ },
+ "in": 2318,
+ "out": 160
+}

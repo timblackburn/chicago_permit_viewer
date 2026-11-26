@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1468685",
+ "slide_index": 2802,
+ "image": "street_index/data/1468685/slides_pct_0-0-100-99_w1000/p02802_3541130.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Vernon Ave\",\"direction\":\"S\",\"house_number\":\"6627\",\"permit_date\":\"1953-02\",\"permit_no\":\"4 86723\",\"notes\":\"Frame Garage; file no. 439657; date stamp faint and partly unreadable (looks like FEB 6 1953); Book and Page blank\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Vernon Ave",
+  "direction": "S",
+  "house_number": "6627",
+  "permit_date": "1953-02",
+  "permit_no": "4 86723",
+  "notes": "Frame Garage; file no. 439657; date stamp faint and partly unreadable (looks like FEB 6 1953); Book and Page blank"
+ },
+ "in": 2276,
+ "out": 134
+}

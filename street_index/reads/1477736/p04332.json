@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 4332,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p04332_3556952.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Trumbull Ave\",\"direction\":\"S\",\"house_number\":\"2730\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faded and overexposed; street name only partly legible (\\\"..rumbull Ave\\\"), inferred from reel range; second line \\\"1361 ...\\\" unreadable (possibly old addr); date and permit number not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Trumbull Ave",
+  "direction": "S",
+  "house_number": "2730",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faded and overexposed; street name only partly legible (\"..rumbull Ave\"), inferred from reel range; second line \"1361 ...\" unreadable (possibly old addr); date and permit number not readable"
+ },
+ "in": 2315,
+ "out": 153
+}

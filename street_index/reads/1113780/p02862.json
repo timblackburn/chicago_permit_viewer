@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1113780",
+ "slide_index": 2862,
+ "image": "street_index/data/1113780/slides_pct_0-0-100-99_w1000/p02862_2831313.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Haddon Ave\",\"direction\":\"W\",\"house_number\":\"4435-37\",\"permit_date\":\"1912-06-19\",\"permit_no\":\"A 5115\",\"notes\":\"Frame \\\"B\\\" (class letter); ledger W2 Page 191; File No 16136; date stamp faint; bottom edge of card damaged\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Haddon Ave",
+  "direction": "W",
+  "house_number": "4435-37",
+  "permit_date": "1912-06-19",
+  "permit_no": "A 5115",
+  "notes": "Frame \"B\" (class letter); ledger W2 Page 191; File No 16136; date stamp faint; bottom edge of card damaged"
+ },
+ "in": 2277,
+ "out": 138
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1038601",
+ "slide_index": 5159,
+ "image": "street_index/data/1038601/slides_pct_0-0-100-99_w1000/p05159_4198920.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Martin L. King Dr\",\"direction\":\"S\",\"house_number\":\"3356\",\"permit_date\":\"1890-05-27\",\"permit_no\":\"1852\",\"notes\":\"typed card, faint; old addr: 3356 South Parkway; 'Same.' written on second line; date partly faded (\\\"ay 27, 1890\\\")\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Martin L. King Dr",
+  "direction": "S",
+  "house_number": "3356",
+  "permit_date": "1890-05-27",
+  "permit_no": "1852",
+  "notes": "typed card, faint; old addr: 3356 South Parkway; 'Same.' written on second line; date partly faded (\"ay 27, 1890\")"
+ },
+ "in": 2297,
+ "out": 139
+}

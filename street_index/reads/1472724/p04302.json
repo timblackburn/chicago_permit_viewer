@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1472724",
+ "slide_index": 4302,
+ "image": "street_index/data/1472724/slides_pct_0-0-100-99_w1000/p04302_3548182.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Van Buren St\",\"direction\":\"E\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Sundry; card very faint and overexposed; top line appears to read \\\"18- E Van Buren St\\\" but number is unclear; plan no. possibly 188929; owner line unreadable; skewed frame with film damage at bottom\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Van Buren St",
+  "direction": "E",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Sundry; card very faint and overexposed; top line appears to read \"18- E Van Buren St\" but number is unclear; plan no. possibly 188929; owner line unreadable; skewed frame with film damage at bottom"
+ },
+ "in": 2347,
+ "out": 149
+}

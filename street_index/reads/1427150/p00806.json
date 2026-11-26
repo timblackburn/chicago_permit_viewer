@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1427150",
+ "slide_index": 806,
+ "image": "street_index/data/1427150/slides_pct_0-0-100-99_w1000/p00806_3461531.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Willow St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; top line appears to read '...? W. Willow St.' with the house number unreadable; second line also Willow St; date line partly visible, possibly 'May ..., 19..' but not legible; card washed out\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Willow St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; top line appears to read '...? W. Willow St.' with the house number unreadable; second line also Willow St; date line partly visible, possibly 'May ..., 19..' but not legible; card washed out"
+ },
+ "in": 2313,
+ "out": 150
+}

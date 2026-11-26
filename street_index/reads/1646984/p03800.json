@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1646984",
+ "slide_index": 3800,
+ "image": "street_index/data/1646984/slides_pct_0-0-100-99_w1000/p03800_3897709.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Monitor Ave\",\"direction\":\"N\",\"house_number\":\"2326\",\"permit_date\":\"1918-07-10\",\"permit_no\":\"A 9684\",\"notes\":\"Br B.; owner T. Mansfield (written beside address); Book W 10 Page 457; water no. 24406; plan no. 1669; file no. 47402; permit number handwritten and partly unclear; date stamp partly faint\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Monitor Ave",
+  "direction": "N",
+  "house_number": "2326",
+  "permit_date": "1918-07-10",
+  "permit_no": "A 9684",
+  "notes": "Br B.; owner T. Mansfield (written beside address); Book W 10 Page 457; water no. 24406; plan no. 1669; file no. 47402; permit number handwritten and partly unclear; date stamp partly faint"
+ },
+ "in": 2314,
+ "out": 164
+}

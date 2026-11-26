@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 3800,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p03800_3409607.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"21st Pl\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"1979\",\"permit_no\":\"\",\"notes\":\"Card very faint and washed out; top line reads \\\"181? W. 21st Pl.\\\" with the house number's last digit and direction partly missing; second line \\\"767 Hanmen St.,\\\" (probably an owner address) is partly legible; number line \\\"1055\\\" unclear; date reads \\\"May 2?, 1979\\\" (year likely misread, probably 1879 or similar)\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "21st Pl",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "1979",
+  "permit_no": "",
+  "notes": "Card very faint and washed out; top line reads \"181? W. 21st Pl.\" with the house number's last digit and direction partly missing; second line \"767 Hanmen St.,\" (probably an owner address) is partly legible; number line \"1055\" unclear; date reads \"May 2?, 1979\" (year likely misread, probably 1879 or similar)"
+ },
+ "in": 2270,
+ "out": 196
+}

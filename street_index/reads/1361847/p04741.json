@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 4741,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p04741_3324645.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"61st St\",\"direction\":\"W\",\"house_number\":\"3428\",\"permit_date\":\"1930-04-24\",\"permit_no\":\"66069\",\"notes\":\"1 Garage; Sundry; permit no. and file no. faint, permit no. read as 66069 with low confidence; low-contrast image\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "61st St",
+  "direction": "W",
+  "house_number": "3428",
+  "permit_date": "1930-04-24",
+  "permit_no": "66069",
+  "notes": "1 Garage; Sundry; permit no. and file no. faint, permit no. read as 66069 with low confidence; low-contrast image"
+ },
+ "in": 2266,
+ "out": 127
+}

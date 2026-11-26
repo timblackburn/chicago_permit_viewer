@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1674222",
+ "slide_index": 387,
+ "image": "street_index/data/1674222/slides_pct_0-0-100-99_w1000/p00387_3960346.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Melrose St\",\"direction\":\"\",\"house_number\":\"1322\",\"permit_date\":\"1934-04-18\",\"permit_no\":\"87615\",\"notes\":\"Replace posts with brick & concrete; Sundry; plan no 247690; no direction written; card faint and low contrast\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Melrose St",
+  "direction": "",
+  "house_number": "1322",
+  "permit_date": "1934-04-18",
+  "permit_no": "87615",
+  "notes": "Replace posts with brick & concrete; Sundry; plan no 247690; no direction written; card faint and low contrast"
+ },
+ "in": 2310,
+ "out": 122
+}

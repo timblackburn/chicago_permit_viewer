@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 304,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p00304_3564969.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Tripp Ave\",\"direction\":\"S\",\"house_number\":\"6204\",\"permit_date\":\"1951\",\"permit_no\":\"B 56293\",\"notes\":\"1 sty B. Res; Plan no. 4746; File no. 468994; date of permit faint, year appears to be 195_; book and page blank; handwriting faint, card partly washed out\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Tripp Ave",
+  "direction": "S",
+  "house_number": "6204",
+  "permit_date": "1951",
+  "permit_no": "B 56293",
+  "notes": "1 sty B. Res; Plan no. 4746; File no. 468994; date of permit faint, year appears to be 195_; book and page blank; handwriting faint, card partly washed out"
+ },
+ "in": 2279,
+ "out": 145
+}

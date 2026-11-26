@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1430988",
+ "slide_index": 1697,
+ "image": "street_index/data/1430988/slides_pct_0-0-100-99_w1000/p01697_3469385.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Severely overexposed and washed out card; address line not readable. Faint fragments only (a 'B' at left, possibly 'Garage' in the work-type line); printed labels PERMIT, PLAN, OWNER, MASON, ARCHITECT visible. No date or permit number readable.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Severely overexposed and washed out card; address line not readable. Faint fragments only (a 'B' at left, possibly 'Garage' in the work-type line); printed labels PERMIT, PLAN, OWNER, MASON, ARCHITECT visible. No date or permit number readable."
+ },
+ "in": 2271,
+ "out": 163
+}

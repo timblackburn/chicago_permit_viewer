@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1477736",
+ "slide_index": 1197,
+ "image": "street_index/data/1477736/slides_pct_0-0-100-99_w1000/p01197_3563136.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Troy St\",\"direction\":\"S\",\"house_number\":\"2514\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"typed card, very faint and overexposed; second line appears to be another address '11? S ... St.' (unreadable); rest of card washed out; 'Troy' partly faded; house number 2514 read with moderate confidence\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Troy St",
+  "direction": "S",
+  "house_number": "2514",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "typed card, very faint and overexposed; second line appears to be another address '11? S ... St.' (unreadable); rest of card washed out; 'Troy' partly faded; house number 2514 read with moderate confidence"
+ },
+ "in": 2309,
+ "out": 145
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 4923,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p04923_4000468.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Major Ave\",\"direction\":\"N\",\"house_number\":\"1207\",\"permit_date\":\"1905-07-27\",\"permit_no\":\"20264\",\"notes\":\"old addr: 2200 N. Major Ave; typed card; no kind of work given\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Major Ave",
+  "direction": "N",
+  "house_number": "1207",
+  "permit_date": "1905-07-27",
+  "permit_no": "20264",
+  "notes": "old addr: 2200 N. Major Ave; typed card; no kind of work given"
+ },
+ "in": 2232,
+ "out": 111
+}

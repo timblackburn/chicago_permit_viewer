@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1524581",
+ "slide_index": 3800,
+ "image": "street_index/data/1524581/slides_pct_0-0-100-99_w1000/p03800_3653403.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"1943\",\"permit_no\":\"136336\",\"notes\":\"Sundry; top address line struck through and unreadable; faint handwriting; owner address appears to read \\\"5_5 So. Loomis St.\\\" but is washed out, not the card's filing address; overexposed card\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "1943",
+  "permit_no": "136336",
+  "notes": "Sundry; top address line struck through and unreadable; faint handwriting; owner address appears to read \"5_5 So. Loomis St.\" but is washed out, not the card's filing address; overexposed card"
+ },
+ "in": 2317,
+ "out": 140
+}

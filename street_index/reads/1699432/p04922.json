@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1699432",
+ "slide_index": 4922,
+ "image": "street_index/data/1699432/slides_pct_0-0-100-99_w1000/p04922_4000466.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Major Ave\",\"direction\":\"N\",\"house_number\":\"1203\",\"permit_date\":\"1908-05-23\",\"permit_no\":\"3482\",\"notes\":\"old addr: 2180 N. Major Ave; typed card; new address 1203 N. 57th Ave listed on second line but card filed under Major Ave per reel range; hair/thread across top of frame\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Major Ave",
+  "direction": "N",
+  "house_number": "1203",
+  "permit_date": "1908-05-23",
+  "permit_no": "3482",
+  "notes": "old addr: 2180 N. Major Ave; typed card; new address 1203 N. 57th Ave listed on second line but card filed under Major Ave per reel range; hair/thread across top of frame"
+ },
+ "in": 2268,
+ "out": 149
+}

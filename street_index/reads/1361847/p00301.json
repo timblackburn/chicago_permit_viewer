@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1361847",
+ "slide_index": 301,
+ "image": "street_index/data/1361847/slides_pct_0-0-100-99_w1000/p00301_3333480.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":false,\"house_num_legible\":true,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"3859\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"handwritten top line reads roughly '3859 E 6?th Place' but street name and direction are uncertain; 1 sty Br (brick) residence; washed out, overexposed, rest of card faint and unreadable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": false,
+  "house_num_legible": true,
+  "street_name": "",
+  "direction": "",
+  "house_number": "3859",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "handwritten top line reads roughly '3859 E 6?th Place' but street name and direction are uncertain; 1 sty Br (brick) residence; washed out, overexposed, rest of card faint and unreadable"
+ },
+ "in": 2265,
+ "out": 140
+}

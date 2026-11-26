@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1347469",
+ "slide_index": 3386,
+ "image": "street_index/data/1347469/slides_pct_0-0-100-99_w1000/p03386_3298678.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"illegible\",\"street_name_legible\":false,\"house_num_legible\":false,\"street_name\":\"\",\"direction\":\"\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"Badly overexposed and washed out card; top line appears to start with 'FREST...' and end with '...ENCE', likely a type like Residence, but street name and house number are not readable. Possible permit no. '113 11' and date '1-1-1?' not reliable. Date of permit shows 'JUN'. Book and page unreadable.\"}",
+ "read": {
+  "legibility": "illegible",
+  "street_name_legible": false,
+  "house_num_legible": false,
+  "street_name": "",
+  "direction": "",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "Badly overexposed and washed out card; top line appears to start with 'FREST...' and end with '...ENCE', likely a type like Residence, but street name and house number are not readable. Possible permit no. '113 11' and date '1-1-1?' not reliable. Date of permit shows 'JUN'. Book and page unreadable."
+ },
+ "in": 2271,
+ "out": 176
+}

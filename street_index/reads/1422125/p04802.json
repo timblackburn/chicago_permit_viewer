@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1422125",
+ "slide_index": 4802,
+ "image": "street_index/data/1422125/slides_pct_0-0-100-99_w1000/p04802_3445863.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Lincoln St\",\"direction\":\"W\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"\",\"notes\":\"card very faint and overexposed; two addresses typed, lines read roughly '1138 W. Lincoln St.' and '523 W. Lincoln St.' but digits uncertain; date appears Feb 1891 (uncertain); card is out of expected Wolcott Ave range, so possibly a street renamed to Wolcott Ave; permit number not readable; 'W' at top; old addr uncertain\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Lincoln St",
+  "direction": "W",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "",
+  "notes": "card very faint and overexposed; two addresses typed, lines read roughly '1138 W. Lincoln St.' and '523 W. Lincoln St.' but digits uncertain; date appears Feb 1891 (uncertain); card is out of expected Wolcott Ave range, so possibly a street renamed to Wolcott Ave; permit number not readable; 'W' at top; old addr uncertain"
+ },
+ "in": 2321,
+ "out": 207
+}

@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1500219",
+ "slide_index": 3800,
+ "image": "street_index/data/1500219/slides_pct_0-0-100-99_w1000/p03800_3605060.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Washtenaw Ave\",\"direction\":\"N\",\"house_number\":\"2932-34\",\"permit_date\":\"1916-06-24\",\"permit_no\":\"A 41011\",\"notes\":\"Br B.; Book N 12 Page 539; Plan No. 5125; Water No. 15012; File No. 13742; house number handwritten and slightly uncertain on last digits\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Washtenaw Ave",
+  "direction": "N",
+  "house_number": "2932-34",
+  "permit_date": "1916-06-24",
+  "permit_no": "A 41011",
+  "notes": "Br B.; Book N 12 Page 539; Plan No. 5125; Water No. 15012; File No. 13742; house number handwritten and slightly uncertain on last digits"
+ },
+ "in": 2318,
+ "out": 151
+}

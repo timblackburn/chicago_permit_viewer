@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1403555",
+ "slide_index": 3700,
+ "image": "street_index/data/1403555/slides_pct_0-0-100-99_w1000/p03700_3409801.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"21st Pl\",\"direction\":\"W\",\"house_number\":\"1400-10\",\"permit_date\":\"1886-01-06\",\"permit_no\":\"30\",\"notes\":\"Corner Bldg; typed card; also listed as 2114-26 S. Loomis St and 792-802 Loomis St; permit number 30 read from the line below the addresses\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "21st Pl",
+  "direction": "W",
+  "house_number": "1400-10",
+  "permit_date": "1886-01-06",
+  "permit_no": "30",
+  "notes": "Corner Bldg; typed card; also listed as 2114-26 S. Loomis St and 792-802 Loomis St; permit number 30 read from the line below the addresses"
+ },
+ "in": 2306,
+ "out": 142
+}

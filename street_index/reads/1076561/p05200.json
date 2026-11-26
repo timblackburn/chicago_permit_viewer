@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1076561",
+ "slide_index": 5200,
+ "image": "street_index/data/1076561/slides_pct_0-0-100-99_w1000/p05200_4111665.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"ok\",\"street_name_legible\":true,\"house_num_legible\":true,\"street_name\":\"Independence Blvd\",\"direction\":\"\",\"house_number\":\"1208\",\"permit_date\":\"1909-11-16\",\"permit_no\":\"16557\",\"notes\":\"old addr: 1208 Douglas Blvd; card says \\\"Same\\\"; typed, faint in places\"}",
+ "read": {
+  "legibility": "ok",
+  "street_name_legible": true,
+  "house_num_legible": true,
+  "street_name": "Independence Blvd",
+  "direction": "",
+  "house_number": "1208",
+  "permit_date": "1909-11-16",
+  "permit_no": "16557",
+  "notes": "old addr: 1208 Douglas Blvd; card says \"Same\"; typed, faint in places"
+ },
+ "in": 2316,
+ "out": 119
+}

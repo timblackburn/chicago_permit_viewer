@@ -1,0 +1,22 @@
+{
+ "manifest_id": "1534241",
+ "slide_index": 1850,
+ "image": "street_index/data/1534241/slides_pct_0-0-100-99_w1000/p01850_3676511.jpg",
+ "at": "2026-11-25T23:57:53.142865+00:00",
+ "model": "claude-sonnet-5-5",
+ "stop": "end_turn",
+ "raw": "{\"legibility\":\"partial\",\"street_name_legible\":true,\"house_num_legible\":false,\"street_name\":\"Sangamon St\",\"direction\":\"S\",\"house_number\":\"\",\"permit_date\":\"\",\"permit_no\":\"125819\",\"notes\":\"Card heavily overexposed and faint; handwritten street name appears to be Sangamon, house number illegible (possibly 'H' or '11'); file no. 177531 (uncertain); date of permit not readable\"}",
+ "read": {
+  "legibility": "partial",
+  "street_name_legible": true,
+  "house_num_legible": false,
+  "street_name": "Sangamon St",
+  "direction": "S",
+  "house_number": "",
+  "permit_date": "",
+  "permit_no": "125819",
+  "notes": "Card heavily overexposed and faint; handwritten street name appears to be Sangamon, house number illegible (possibly 'H' or '11'); file no. 177531 (uncertain); date of permit not readable"
+ },
+ "in": 2278,
+ "out": 145
+}
